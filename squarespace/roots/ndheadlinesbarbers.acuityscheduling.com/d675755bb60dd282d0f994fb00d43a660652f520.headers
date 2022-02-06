@@ -1,0 +1,17 @@
+GET https://ndheadlinesbarbers.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:36:56 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=q7v2apsj3cjphgu4p1p54j6907; expires=Fri, 04-Mar-2022 00:36:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=061af8e5-cc6d-4a7b-885f-04605df0870a; expires=Fri, 02-Feb-2024 00:36:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

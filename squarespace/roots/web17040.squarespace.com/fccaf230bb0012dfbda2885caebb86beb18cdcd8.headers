@@ -1,0 +1,12 @@
+GET http://web17040.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< X-Contextid: a4Mdrxob/gqk1NuC0
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:02:05 UTC
+< Cache-Control: no-cache, must-revalidate
+< Server: Squarespace

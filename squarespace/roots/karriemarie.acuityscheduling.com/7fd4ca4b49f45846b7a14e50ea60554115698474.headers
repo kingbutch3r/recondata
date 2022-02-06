@@ -1,0 +1,17 @@
+GET https://karriemarie.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:03:52 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=s1q7psa05inibn9sujdf4p0bdj; expires=Fri, 04-Mar-2022 00:03:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0b099557-83a6-46d3-9106-9cf8b0953435; expires=Fri, 02-Feb-2024 00:03:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,17 @@
+GET https://courrielleur.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=afa2c8mcrpsubkc0kgp7v4i1lg; expires=Fri, 04-Mar-2022 00:30:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2ef677cb-7d6c-44f6-804f-b781f9d67717; expires=Fri, 02-Feb-2024 00:31:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Length: 0
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:31:00 GMT

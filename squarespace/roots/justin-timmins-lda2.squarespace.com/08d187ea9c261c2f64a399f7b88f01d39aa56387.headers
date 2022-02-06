@@ -1,0 +1,16 @@
+GET http://justin-timmins-lda2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Age: 0
+< Set-Cookie: crumb=BRHYzVFFRpS/YmMzNTUxNjJlOGM3OTViMGY5MmE5ZGZiMDkxMmM1;Path=/
+< Date: Wed, 02 Feb 2022 01:18:53 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:18:53 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: V6HfII2n/9HbtXhRG
+< Etag: W/"a182b7923466321a2f9f3448624352d6"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

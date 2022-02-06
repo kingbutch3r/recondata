@@ -1,0 +1,25 @@
+GET https://it.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Etag: W/"fc3ceaf3f6fcfb6f5ec9236f068ec4fa"
+< Last-Modified: Tue, 01 Feb 2022 01:59:02 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:54:54 GMT
+< Content-Type: text/html; charset=utf-8
+< Expires: 
+< X-Contextid: w5t5Q06R/mHkvQlpn
+< X-Sl-Norewrite: 1
+< X-Sl-Norewrite: 1
+< Content-Language: it-IT
+< X-Server: Smartling
+< Cache-Control: no-cache
+< X-Sl-Notranslate: 1
+< X-Sl-Notranslate: 1
+< Server: nginx
+< Age: 0
+< Strict-Transport-Security: max-age=43200
+< X-Sl-Cached: 1

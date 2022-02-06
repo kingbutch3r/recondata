@@ -1,0 +1,16 @@
+GET https://conch-alpaca-rg23.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Age: 387586
+< Etag: W/"6e00fc7c774fc70f8ccce9c2eacad8f9--gzip"
+< Strict-Transport-Security: max-age=0
+< Date: Fri, 28 Jan 2022 13:17:09 GMT
+< Set-Cookie: crumb=BUsuUrPsLM84Nzc5NTE5OTMwMDg0YzIxYzZhMDRmNWE1OWE5ZDYx;Path=/
+< X-Contextid: 7uFDuzIZ/McJ0vAU5
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding

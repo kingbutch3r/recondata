@@ -1,0 +1,15 @@
+GET https://seriouslashlab.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:56:32 GMT
+< Set-Cookie: PHPSESSID=q68788jeim7176k73chk94fdlj; expires=Thu, 03-Mar-2022 23:56:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0c547b4a-9143-4642-b27a-af52d238c438; expires=Thu, 01-Feb-2024 23:56:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate

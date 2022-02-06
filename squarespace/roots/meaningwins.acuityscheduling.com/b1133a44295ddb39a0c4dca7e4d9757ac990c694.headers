@@ -1,0 +1,15 @@
+GET https://meaningwins.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=5hi7te9pemt4arr3aqd5ljov0q; expires=Fri, 04-Mar-2022 01:10:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=64473f6a-86ad-48ca-8430-2acf59fca6e2; expires=Fri, 02-Feb-2024 01:10:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 01:10:35 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

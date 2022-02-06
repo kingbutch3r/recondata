@@ -1,0 +1,32 @@
+GET https://help.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=UTF-8
+< Content-Security-Policy: frame-ancestors 'self' help.krisp.ai;
+< Zendesk-Ep: 10
+< Cf-Cache-Status: DYNAMIC
+< Strict-Transport-Security: max-age=259200;
+< Cache-Control: no-cache
+< X-Request-Id: 6d6ef69f3c7284e9-BOM
+< X-Request-Id: 6d6ef69f3c7284e9-BOM
+< Date: Tue, 01 Feb 2022 23:29:42 GMT
+< Content-Length: 90
+< Location: https://help.krisp.ai/hc
+< X-Xss-Protection: 1; mode=block
+< X-Content-Type-Options: nosniff
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Server: cloudflare
+< X-Zendesk-Origin-Server: classic-app-server-7d54cf9cfb-g6lb7
+< X-Runtime: 0.072532
+< X-Zendesk-Zorg: yes
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Zendesk-Api-Version: 2022-01-01
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< Vary: Accept
+< Set-Cookie: _zendesk_shared_session=-d1E4KzNkLzhyNW0wWjBLNWN6OVpVSHVsRERqRXRCb1VnTVVuTEkyS2dHdG43Sjl6V1JCSkRVL1RjYVBWbHRrU0huZkpGSmgzNmZYbnczSHpETTlVMVZhVVRSTCtQTXVZb1Jsa3g4WVJoTTRCZ2x4VzNpOC95ZzlZVnowZ3IySGI0aGFaTGVkb21SRG9UYkhGNVNXN3pnPT0tLWpId2tkRVlwTVRnZXdsWFYzRnNGb1E9PQ%3D%3D--e3ab7f039ecefebb463f5067ef23c89783937463; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_authenticated=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJWU3OTZiMTZmNTZlMTQ3YjA0MzJlMjQ3MTI3YjU0YWE5BjsAVEkiDGFjY291bnQGOwBGaQNUEpRJIgpyb3V0ZQY7AEZpA5%2BeMUkiDmlzX21vYmlsZQY7AFRGSSITd2FyZGVuLm1lc3NhZ2UGOwBUewA%3D--4bbc0418c33d82a317e8998491aea66b57b36cd4; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: __cfruid=96f2ec740b5e9fb1edf83f32dea0f45382f45569-1643758182; path=/; domain=.help.krisp.ai; HttpOnly; Secure; SameSite=None
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=zIjh4BUWR0NBZrVEONYScy%2Bo%2Bv4EwywTH4FXJqwr7vW2S5nwDaOkkQEp4bZZ%2F4JIt3cKED3iYIYGTG6km7BOWW9iYVfwmoZ15FnalaRp90KH0bLVpAOW2FuOi4Uu7DY%3D"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 6d6ef69f3c7284e9-BOM

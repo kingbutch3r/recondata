@@ -1,0 +1,3 @@
+https://www.floatplane.com/api/connect/ltt?redirect=/connect/login/callback&create=true&login=true
+https://www.floatplane.com/api/creator/discover?&page=0&limit=200
+https://www.floatplane.com/api/v3/creator/discover?page=0&limit=200

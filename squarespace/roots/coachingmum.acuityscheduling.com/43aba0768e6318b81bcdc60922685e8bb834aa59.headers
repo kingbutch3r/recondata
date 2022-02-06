@@ -1,0 +1,17 @@
+GET https://coachingmum.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=89cdtu24m8f2d280knr678cvok; expires=Fri, 04-Mar-2022 00:19:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=789c0262-501c-45d7-a2f0-ab6e37897376; expires=Fri, 02-Feb-2024 00:19:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:19:49 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

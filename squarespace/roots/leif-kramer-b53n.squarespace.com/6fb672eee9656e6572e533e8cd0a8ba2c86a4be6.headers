@@ -1,0 +1,11 @@
+GET http://leif-kramer-b53n.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: tW5Cttj7/YaeJRl7t
+< Age: 245331
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 04:50:54 GMT
+< Location: https://leif-kramer-b53n.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXHUVwZodPzuZTY5MzdjMjEzMmFkOGJlNThmZmEzMjgwMzY4ZTRj;Path=/

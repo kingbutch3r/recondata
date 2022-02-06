@@ -1,0 +1,15 @@
+GET https://authenticlivingbreakthroughsession.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=r5o729hr61r2kir05s1d8ikkmd; expires=Fri, 04-Mar-2022 00:22:25 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=101b85bb-3e1c-493b-a3ae-17222ff81cb6; expires=Fri, 02-Feb-2024 00:22:26 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:22:26 GMT

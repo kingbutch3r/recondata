@@ -1,0 +1,16 @@
+GET https://mark-lewis-prelaunch-website.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: Rk559BNS/oMfmpnRS
+< Date: Mon, 31 Jan 2022 10:37:17 GMT
+< Etag: W/"c4fbbcfee1f3e6fc0bd3679d772f4658--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=BbAAm1G0CxAiN2FiZjhjNWQ3MjQyNmJjMzMxM2ExYzM5NTU2ZmMx;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Age: 137949

@@ -1,0 +1,11 @@
+GET http://the12.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://the12.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfSSYFl6mosXNzgxNTk2NjdlOTM1MTllOTUyMThiYjA5YjRiZWZi;Path=/
+< X-Contextid: JwMud5Nz/pIgvyXPk
+< Age: 182599
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 22:33:03 GMT

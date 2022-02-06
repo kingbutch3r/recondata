@@ -1,0 +1,11 @@
+GET http://hiennguyen.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 16:21:22 GMT
+< Location: https://hiennguyen.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWWrtPEYWTGhNGZhZWE2MzMwYjNlMGJiZWZlNTU4ZDNiZGI4MzEz;Path=/
+< X-Contextid: MxbRLYZV/L8hegtcl
+< Age: 462838

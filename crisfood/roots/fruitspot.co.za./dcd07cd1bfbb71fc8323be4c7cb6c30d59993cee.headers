@@ -1,0 +1,8 @@
+GET http://fruitspot.co.za.
+
+
+< HTTP/1.1 400 Bad Request
+< Date: Sat, 29 Jan 2022 17:30:22 GMT
+< Content-Length: 334
+< Content-Type: text/html; charset=us-ascii
+< Server: Microsoft-HTTPAPI/2.0

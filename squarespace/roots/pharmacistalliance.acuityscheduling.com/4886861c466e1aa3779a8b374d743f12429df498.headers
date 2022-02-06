@@ -1,0 +1,15 @@
+GET https://pharmacistalliance.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=h7tes06msmobeamm02esf95ep1; expires=Fri, 04-Mar-2022 01:09:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bab402dc-d791-4b41-b455-415b3a01c132; expires=Fri, 02-Feb-2024 01:09:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 01:09:01 GMT

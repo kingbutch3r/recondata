@@ -1,0 +1,17 @@
+GET https://capturelifellc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:57:51 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=l5une3okhngfft1a0g3sk6g5n0; expires=Thu, 03-Mar-2022 23:57:49 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=332243e6-5b0b-4d0c-9d00-072bf9655bf6; expires=Thu, 01-Feb-2024 23:57:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php

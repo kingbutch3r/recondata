@@ -1,0 +1,17 @@
+GET https://alignwithlove.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=amper8g793fp900q9u10c4bikt; expires=Fri, 04-Mar-2022 00:08:25 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=64a3b939-450b-4085-8b25-c51ce0f5b192; expires=Fri, 02-Feb-2024 00:08:26 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:08:26 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache

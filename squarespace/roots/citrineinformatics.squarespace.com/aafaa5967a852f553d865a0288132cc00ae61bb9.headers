@@ -1,0 +1,11 @@
+GET http://citrineinformatics.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BfPXiu80hcNfNzVkM2NlOWZiYmQ5Y2FkOWJkYzRkYTQ5NDIyNmVk;Path=/
+< X-Contextid: JyUHZ6f8/eRBRUGPM
+< Age: 428377
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 00:51:02 GMT
+< Location: https://citrineinformatics.squarespace.com/

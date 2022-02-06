@@ -1,0 +1,11 @@
+GET http://nicole-may-tl6c.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 03:27:34 GMT
+< Location: https://nicole-may-tl6c.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXtTDkrxM4YmODA4Nzk4YmY3Mjk4MTliOTAzZWJhMGQwY2NjMmJj;Path=/
+< X-Contextid: QhCA5zhy/XbJdTAGP
+< Age: 336472

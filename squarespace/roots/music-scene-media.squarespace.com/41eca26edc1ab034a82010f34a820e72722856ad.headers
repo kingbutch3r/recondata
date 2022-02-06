@@ -1,0 +1,11 @@
+GET http://music-scene-media.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:48:49 GMT
+< Location: https://music-scene-media.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BR5jh79RmpXkZDBjMWQyYjA1MWIyYmJkNTIyNjQ3NGRhYWY4YTVj;Path=/
+< X-Contextid: 0ttNuf8Y/LHk6ZCS1
+< Age: 3998

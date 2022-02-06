@@ -1,0 +1,10 @@
+GET http://labelle-production77700.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BbqcM2p0KRgoNzhmNjk5MWU0MzdkYzU4MTI5YTIzZDZlNGU4Nzdj;Path=/
+< X-Contextid: I8jZbBzX/ZESTitAb
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:32 GMT
+< Server: Squarespace

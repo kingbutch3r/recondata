@@ -1,0 +1,11 @@
+GET http://orange-apricots-6lkg.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 14:16:16 GMT
+< Location: https://orange-apricots-6lkg.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWF4z2CsfCvBZDE4NzBmNzg0ZmEzNTlhMDczZTg0NmY5M2JiOTNl;Path=/
+< X-Contextid: mnDEusSj/PpZ7RYkP
+< Age: 385737

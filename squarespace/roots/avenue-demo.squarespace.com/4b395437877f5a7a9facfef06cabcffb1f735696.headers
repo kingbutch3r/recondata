@@ -1,0 +1,11 @@
+GET http://avenue-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 196062
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 18:55:08 GMT
+< Location: https://avenue-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BchTFVfLHESuNjIyMDRhYWU4NTQzNDNmYjIyMDc4YzQyNTcyZTI1;Path=/
+< X-Contextid: bLmdSY1R/ViYXMnvl

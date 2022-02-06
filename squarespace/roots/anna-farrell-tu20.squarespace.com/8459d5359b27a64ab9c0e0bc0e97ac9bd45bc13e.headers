@@ -1,0 +1,11 @@
+GET https://anna-farrell-tu20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Cache-Control: max-age=300, s-maxage=300
+< Date: Wed, 02 Feb 2022 01:00:19 GMT
+< Set-Cookie: crumb=BQaUgVsFkR39NWFlYTQ2ZTljYmEwMTcxMmFmMWM2OWRiYjMzYmVl;Path=/
+< X-Contextid: jOOypEBc/TjWrHwXn
+< Age: 0
+< Content-Type: text/html;charset=utf-8

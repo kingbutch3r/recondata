@@ -1,0 +1,17 @@
+GET https://cahillkicking.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=5f7fv19gg4s5fel4ahqvun6e54; expires=Fri, 04-Mar-2022 00:10:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=94f0fdd4-b980-4825-bcfb-0ae6f7cd8639; expires=Fri, 02-Feb-2024 00:10:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:10:21 GMT
+< Content-Length: 0

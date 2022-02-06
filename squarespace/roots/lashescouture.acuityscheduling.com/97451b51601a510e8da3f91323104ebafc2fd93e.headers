@@ -1,0 +1,15 @@
+GET https://lashescouture.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:07:03 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=1jduot12938thk73lm77n5slno; expires=Fri, 04-Mar-2022 00:07:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=91c9a5ce-1804-4ddc-a888-4340b8a3abe1; expires=Fri, 02-Feb-2024 00:07:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache

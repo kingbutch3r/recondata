@@ -1,0 +1,15 @@
+GET https://heritagecapitalllc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=9qkbsjtfjpbhk3in64nsgunreg; expires=Thu, 03-Mar-2022 23:57:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=044c8d85-63c0-4c0e-bbfc-13c079ca888a; expires=Thu, 01-Feb-2024 23:57:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:59 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

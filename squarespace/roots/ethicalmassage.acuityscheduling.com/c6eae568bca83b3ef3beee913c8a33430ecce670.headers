@@ -1,0 +1,15 @@
+GET https://ethicalmassage.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:03:06 GMT
+< Set-Cookie: PHPSESSID=ke8kpunkle05p5q248jb2ogm39; expires=Fri, 04-Mar-2022 00:03:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8216c49f-330b-478b-91a2-07c5e9200f9d; expires=Fri, 02-Feb-2024 00:03:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent

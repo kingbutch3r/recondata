@@ -1,0 +1,15 @@
+GET https://o2haus.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=5eclim4k13vap0qgl9jiov928e; expires=Fri, 04-Mar-2022 00:39:49 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=caa532a1-cd24-46cc-b2a1-e743480c82bb; expires=Fri, 02-Feb-2024 00:39:50 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:39:50 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

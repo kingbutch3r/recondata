@@ -1,0 +1,17 @@
+GET https://terrychia90.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Etag: W/"97f299e619bbfd4ac9f81de354e3709f--gzip"
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: NvwdFMTz/2ESMuP1Q
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:59 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTkAiHTVM/yHZGRhMzNkZTMzODAwZTViNjY4Y2EyZjBiYmY1YzVm;Path=/
+< Vary: Accept-Encoding
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

@@ -1,0 +1,16 @@
+GET https://matsuya-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Contextid: 36Q6Q4Kk/di6AEzJf
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BUgIoH9xXatYY2JmODE3Njk3MDY3ZWRlNTBkNWJmYjNmYTg0NDZm;Path=/
+< Accept-Ranges: bytes
+< Age: 128742
+< Vary: Accept-Encoding
+< Date: Mon, 31 Jan 2022 13:39:39 GMT
+< Etag: W/"b4542f6b80e64ac527b11469f1cc9b1e--gzip"

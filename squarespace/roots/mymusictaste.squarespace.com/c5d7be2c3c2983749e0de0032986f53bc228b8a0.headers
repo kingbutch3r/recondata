@@ -1,0 +1,11 @@
+GET http://mymusictaste.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 448632
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 19:12:53 GMT
+< Location: https://mymusictaste.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbCrUtLF+FsEMTEyZTU5OGJjM2RkOWNhODE1YTY4NjdmZjMwNjQ5;Path=/
+< X-Contextid: FITc6AM7/2takt3UH

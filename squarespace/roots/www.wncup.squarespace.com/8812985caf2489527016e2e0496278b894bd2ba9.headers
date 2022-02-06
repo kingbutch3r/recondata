@@ -1,0 +1,11 @@
+GET https://www.wncup.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BY/vUMKWVPrYN2E5ZTE1YTE0YWI2NjE0NzhmOTUzOTI3MzRiMDY3;Path=/
+< X-Contextid: e4ioEp24/VjUYrA9B
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:07:22 GMT
+< Location: https://wncup.squarespace.com/

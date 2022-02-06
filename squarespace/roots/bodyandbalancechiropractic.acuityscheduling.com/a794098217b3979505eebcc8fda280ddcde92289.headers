@@ -1,0 +1,17 @@
+GET https://bodyandbalancechiropractic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=urunq64putk9mjnj0s6o9rd4ij; expires=Thu, 03-Mar-2022 23:57:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a9295ddc-58d1-42bb-a696-3cef1a604082; expires=Thu, 01-Feb-2024 23:57:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:57:31 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

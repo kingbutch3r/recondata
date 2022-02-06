@@ -1,0 +1,12 @@
+GET http://councilforlifesite1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:47 GMT
+< Set-Cookie: crumb=BQt+0NV9E3TxMWFiYmE3MTNjMmJjNzRlMDI4MzQ4YjM4ODJlOGI3;Path=/
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: dy0tItHF/6S2vmzgc

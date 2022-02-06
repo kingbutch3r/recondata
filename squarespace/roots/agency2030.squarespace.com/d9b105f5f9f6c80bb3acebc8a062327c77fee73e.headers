@@ -1,0 +1,13 @@
+GET http://agency2030.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXIM1cBNbP15YWY0NjVmNGIyN2VjYjM1OGI5MTY3MmM1NGZkYmEx;Path=/
+< X-Content-Type-Options: nosniff
+< Content-Length: 3208
+< Date: Wed, 02 Feb 2022 01:04:04 GMT
+< X-Contextid: xoKhaU76/LK64mJ2X
+< Age: 0
+< Content-Type: text/html;charset=utf-8

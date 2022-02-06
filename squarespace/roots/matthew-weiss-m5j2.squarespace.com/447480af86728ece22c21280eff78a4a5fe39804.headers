@@ -1,0 +1,16 @@
+GET https://matthew-weiss-m5j2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 01:20:58 GMT
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Age: 0
+< Set-Cookie: crumb=BWXJ4UBIH5/xYjcyNDEzYzEyYTFlZWFjNmY4MTU0ODQzZjYyYThm;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: wzNnlY62/tCPhrC64
+< Etag: W/"08792b159a0d3f9b4020cee63cd1c3d4--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

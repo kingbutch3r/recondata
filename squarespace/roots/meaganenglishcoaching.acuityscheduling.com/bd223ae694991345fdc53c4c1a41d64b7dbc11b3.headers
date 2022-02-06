@@ -1,0 +1,17 @@
+GET https://meaganenglishcoaching.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:09:43 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=f3lvh5bq9nlrn04b9lsfefdgka; expires=Fri, 04-Mar-2022 00:09:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c953e736-11b1-4ca5-813e-3aca37682e4a; expires=Fri, 02-Feb-2024 00:09:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

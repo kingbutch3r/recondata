@@ -1,0 +1,11 @@
+GET https://www.kapsi.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BdXV6TcuYrNVOWZlZDg3ZTk1NzQxOWM5NGU4MGVlZmYxNGM3ZmRl;Path=/
+< X-Contextid: dGqvFx7J/rdNNmhc2
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:22:13 GMT
+< Location: https://kapsi.squarespace.com/

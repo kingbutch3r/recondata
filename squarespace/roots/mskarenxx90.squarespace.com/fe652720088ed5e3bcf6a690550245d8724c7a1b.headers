@@ -1,0 +1,11 @@
+GET http://mskarenxx90.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: L90bEzOm/hwVRxvFv
+< Age: 244615
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 04:53:04 GMT
+< Location: https://mskarenxx90.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQfUhaU30z9DZWUxNjY5YjNlZTIwMjNjNTgzMWY2NDY2ZDA4YzI4;Path=/

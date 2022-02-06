@@ -1,0 +1,10 @@
+GET http://rnr100.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:05 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWnv3Msg89MNYTVjZjJkYzUzODJiOGZiNWU2MzkxNDU1MDU3MGVj;Path=/
+< X-Contextid: TVo9JZ39/UwlhL3hp

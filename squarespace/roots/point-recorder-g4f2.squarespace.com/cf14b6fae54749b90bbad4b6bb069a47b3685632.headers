@@ -1,0 +1,11 @@
+GET http://point-recorder-g4f2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://point-recorder-g4f2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTnWUVh0PiqnNWRlNmVhMjE5NjQ5MGQzYjQ4YWVjNmExMzMxZmFh;Path=/
+< X-Contextid: BLGH6hcP/AuL1ZrxW
+< Age: 59821
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 08:43:11 GMT

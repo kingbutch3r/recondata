@@ -1,0 +1,11 @@
+GET http://susanne-lfgren-pii0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 49026
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 11:34:58 GMT
+< Location: https://susanne-lfgren-pii0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSYjOQ1lMzakZTljOGQwNTIwNmJjMDFhOTYzYzU3OWZhYjU3Mjg0;Path=/
+< X-Contextid: 8dq9BzyI/xOhgkUTg

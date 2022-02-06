@@ -1,0 +1,11 @@
+GET http://www.dave-taylor-ujm0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:12:11 GMT
+< Location: http://dave-taylor-ujm0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BddMnjJrRy5tM2M2N2Q1NGU3Y2I5MTMwNzU1MGY0MDhiMWVkOGI2;Path=/
+< X-Contextid: Pcx585La/cTjTdaBL
+< Age: 0

@@ -1,0 +1,12 @@
+GET http://landmanagement20.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Mon, 31 Jan 2022 05:32:05 GMT
+< Location: https://landmanagement20.squarespace.com/
+< Server: Squarespace
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Length: 0
+< X-Contextid: sZeh3OTl/SM5g8dDt
+< Age: 157154
+< Set-Cookie: crumb=Bd3Bp6Hr5ZxdNjc3ZTdiNjBkOTBiYzg1N2NlNzZmNWE3MDcwMDIz;Path=/

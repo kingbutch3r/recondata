@@ -1,0 +1,15 @@
+GET http://juleskim.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BfrPzOf+ecIcZjQ4NjExNmE0MmQ5NmYzODY1MzNlMzY2NmQ0Njgx;Path=/
+< Accept-Ranges: bytes
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:51:48 GMT
+< Etag: W/"00e6475610ac5f37acab285e81f8ea31--gzip"
+< Vary: Accept-Encoding
+< X-Contextid: KfV2tMxL/b9oW5h3G
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

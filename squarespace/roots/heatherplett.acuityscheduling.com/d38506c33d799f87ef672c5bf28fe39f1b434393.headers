@@ -1,0 +1,17 @@
+GET https://heatherplett.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:43:09 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=ddrtcpvn6veqm08lq88t2fvmo9; expires=Fri, 04-Mar-2022 00:43:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cd503fc0-6e04-480e-aee9-6ed826df1fed; expires=Fri, 02-Feb-2024 00:43:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent

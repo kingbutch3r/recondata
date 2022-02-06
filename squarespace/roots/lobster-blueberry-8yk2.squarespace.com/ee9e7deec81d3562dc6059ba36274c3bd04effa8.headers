@@ -1,0 +1,16 @@
+GET https://lobster-blueberry-8yk2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 10:30:43 GMT
+< X-Contextid: ek2bbHaM/ABZ6HPds
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Etag: W/"1cbdcffd73f03d1b883d1997ed88f748--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcUWiwaOkRapM2EzOGI1MGQ0YjQzZGMwMzYxODZkOTBmN2JhYjVl;Path=/
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Age: 53451
+< Strict-Transport-Security: max-age=0

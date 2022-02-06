@@ -1,0 +1,13 @@
+GET http://forum.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: CloudFront
+< Content-Type: text/html
+< Location: https://forum.squarespace.com/
+< X-Amz-Cf-Pop: CDG3-C2
+< Date: Wed, 02 Feb 2022 00:54:49 GMT
+< Content-Length: 183
+< X-Cache: Redirect from cloudfront
+< Via: 1.1 95a1a2515bcfe82199fde4e864c4e6f0.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: pmIEyTLt2tgpGFKaDbfYbunY-XOAYP8P9tFrnrfN3-MEiYPQ8xdcdQ==

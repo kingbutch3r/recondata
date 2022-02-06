@@ -1,0 +1,17 @@
+GET https://37solutions.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=gp931pnfti27iteitun0qhvb73; expires=Fri, 04-Mar-2022 00:35:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ae7de9b0-f4da-451b-b3f0-fc7e360a9fb7; expires=Fri, 02-Feb-2024 00:35:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:35:58 GMT
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

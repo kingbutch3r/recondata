@@ -1,0 +1,11 @@
+GET http://kane-1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 64400
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 07:19:19 GMT
+< Location: https://kane-1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRucKRqtLmoAMzNkOTJiYzFjNGViMzg0MGMzYzU0OTRiYjIxYjYy;Path=/
+< X-Contextid: kS0kllEI/c8epnC4X

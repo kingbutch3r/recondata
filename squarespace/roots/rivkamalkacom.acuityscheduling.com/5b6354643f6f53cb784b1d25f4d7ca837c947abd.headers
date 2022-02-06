@@ -1,0 +1,17 @@
+GET https://rivkamalkacom.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=cfustcaghut6v1heegff56tro8; expires=Fri, 04-Mar-2022 00:19:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d9899ad9-cc74-4e49-a074-cc20f7c66df8; expires=Fri, 02-Feb-2024 00:19:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:19:17 GMT

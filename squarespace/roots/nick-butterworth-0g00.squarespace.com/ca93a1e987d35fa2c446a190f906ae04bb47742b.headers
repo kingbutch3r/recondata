@@ -1,0 +1,11 @@
+GET http://nick-butterworth-0g00.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 98734
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 21:32:47 GMT
+< Location: https://nick-butterworth-0g00.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbnQqHGCsNm1NjViM2Y3ZWU3Y2JlZWU3ZDRmNzJkZTA0YjM2NmRi;Path=/
+< X-Contextid: QMplc3tO/zwjlQzPJ

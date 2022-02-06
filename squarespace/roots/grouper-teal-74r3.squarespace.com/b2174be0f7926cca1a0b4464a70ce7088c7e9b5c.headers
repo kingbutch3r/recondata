@@ -1,0 +1,11 @@
+GET http://grouper-teal-74r3.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:01:35 GMT
+< Location: https://grouper-teal-74r3.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRZGoAjGWl9mYmI4YzA3NDNiNGYxNGZmMDEyN2RhM2JiODFkYjU4;Path=/
+< X-Contextid: cLFY6UNW/KmXNz75K

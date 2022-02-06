@@ -1,0 +1,16 @@
+GET https://swish22.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BS72AKflCpxdZDY5MTA5YmQwYjE0ZTY4NzllYzE4NTAwNWFhN2Q1;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: AVd5GaeG/1Gt5Va9G
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"72fa8ccbe26d603687e8b25d5f800af3--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 64009
+< Date: Tue, 01 Feb 2022 07:30:04 GMT

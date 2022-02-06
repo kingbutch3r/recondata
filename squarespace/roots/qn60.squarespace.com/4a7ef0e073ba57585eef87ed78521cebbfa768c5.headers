@@ -1,0 +1,10 @@
+GET https://qn60.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:11:31 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTDl3qGuR7vINGI3ODg2NGIzMWYwMGJlYWU3M2E1NWZiOGJhM2Jk;Path=/
+< X-Contextid: JVAnLiPn/v01Ca32g

@@ -1,0 +1,24 @@
+GET https://krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< X-Cache: BYPASS
+< Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+< Content-Security-Policy: frame-ancestors https://account.krisp.ai https://dev.account.krisp.ai https://stage.account.krisp.ai https://krisp-blog-dev.krisp.ai https://krisp.ai/blog
+< Content-Type: text/html; charset=UTF-8
+< X-Two-Optimize: 1
+< Link: <https://krisp.ai/wp-json/>; rel="https://api.w.org/"
+< X-Xss-Protection: 1; mode=block
+< Access-Control-Allow-Origin: *
+< X-Frame-Options: ALLOW-FROM https://account.krisp.ai https://dev.account.krisp.ai https://stage.account.krisp.ai https://krisp-blog-dev.krisp.ai https://krisp.ai/blog
+< Date: Tue, 01 Feb 2022 23:29:44 GMT
+< Cache-Control: max-age=3600
+< Cf-Cache-Status: HIT
+< Age: 261
+< Last-Modified: Tue, 01 Feb 2022 23:25:23 GMT
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Cf-Ray: 6d6ef6af788431f3-BOM
+< X-Content-Type-Options: nosniff
+< Server: cloudflare

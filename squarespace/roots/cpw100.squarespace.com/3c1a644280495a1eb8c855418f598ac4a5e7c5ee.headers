@@ -1,0 +1,16 @@
+GET http://cpw100.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=Bd/QmOBb8qY+ZDVhMzZkNDIyMTc1OTgxNDdmMWUzMDc3ZjljMmMx;Path=/
+< X-Contextid: nbnR0KpY/fPLXqT6k
+< Etag: W/"bef1d4309fcf3177089005cd03f56999"
+< Date: Tue, 01 Feb 2022 23:51:29 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Last-Modified: Tue, 01 Feb 2022 23:51:29 GMT
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8

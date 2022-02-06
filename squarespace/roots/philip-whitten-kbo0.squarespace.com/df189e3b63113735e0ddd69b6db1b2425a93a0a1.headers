@@ -1,0 +1,13 @@
+GET https://philip-whitten-kbo0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:10 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 0
+< Server: Squarespace
+< Set-Cookie: crumb=BVxa38ADfn28YTRhY2VmOTk5YmNiZjA4ZmYwYWJjYzFlZWE4Y2Rl;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: 9t8Kvap9/2wzaoz9n

@@ -1,0 +1,15 @@
+GET https://explore.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Pragma: no-cache
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Content-Type: text/html; charset=utf-8
+< Via: 1.1 google
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Cache-Control: no-cache, private, no-transform, no-store
+< Set-Cookie: GCLB=CJOYqOG76O6t4AE; path=/; HttpOnly
+< Date: Tue, 01 Feb 2022 23:25:39 GMT
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT

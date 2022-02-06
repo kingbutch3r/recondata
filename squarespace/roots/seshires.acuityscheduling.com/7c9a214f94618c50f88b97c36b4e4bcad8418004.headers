@@ -1,0 +1,17 @@
+GET https://seshires.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:33:07 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=hc8ebo7ulrmthp1q4m5kfokpr1; expires=Fri, 04-Mar-2022 00:33:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b08e88b1-d2fc-4499-b626-d5afee43bb7d; expires=Fri, 02-Feb-2024 00:33:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

@@ -1,0 +1,15 @@
+GET https://taniaraeannon.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:23:41 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=dn8dta3eeq3n424p0kqu5ao9n0; expires=Fri, 04-Mar-2022 00:23:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2b73044a-7be9-4a37-83fd-30bac21491cb; expires=Fri, 02-Feb-2024 00:23:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

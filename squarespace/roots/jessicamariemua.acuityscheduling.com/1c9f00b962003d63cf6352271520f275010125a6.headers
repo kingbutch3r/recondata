@@ -1,0 +1,17 @@
+GET https://jessicamariemua.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=apktbm9taf1a3sphilqblqqltf; expires=Thu, 03-Mar-2022 23:56:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=193e9612-1ced-4c37-9f75-4902df4a4c6c; expires=Thu, 01-Feb-2024 23:56:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:56:16 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

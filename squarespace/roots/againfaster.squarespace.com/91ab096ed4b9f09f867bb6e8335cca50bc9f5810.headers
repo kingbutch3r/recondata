@@ -1,0 +1,11 @@
+GET http://againfaster.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BQJwA95iui+zY2ZmYWIxY2Q1NWZhZDgyMTEwZmFhNjFkZGI0OTRj;Path=/
+< X-Contextid: 1EAVdeA1/r3WNbdUJ
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:22:17 GMT
+< Server: Squarespace

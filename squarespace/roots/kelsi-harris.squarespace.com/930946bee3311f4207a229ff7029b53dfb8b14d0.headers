@@ -1,0 +1,15 @@
+GET http://kelsi-harris.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"13171c6ca7b0012aceb9e1a792c2af8c--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BS/UDdS1MX/UZDg5ZDkxNjA3ZGVjOGZiMmJhNzEzNjkyOTYwYTk5;Path=/
+< Age: 110760
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: VgDXwKzI/RUPa2YR0
+< Accept-Ranges: bytes
+< Date: Mon, 31 Jan 2022 17:04:01 GMT
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding

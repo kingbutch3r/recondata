@@ -1,0 +1,15 @@
+GET https://angelarhinehartlmt.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=rsrtsf620ooa4js0t68qu6blhv; expires=Fri, 04-Mar-2022 00:41:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=717f3472-0ecf-401d-bc58-5661cadcc294; expires=Fri, 02-Feb-2024 00:41:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:41:25 GMT

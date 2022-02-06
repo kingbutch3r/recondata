@@ -1,0 +1,24 @@
+GET https://forum.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Ips-Loggedin: 0
+< X-Xss-Protection: 0
+< Last-Modified: Wed, 02 Feb 2022 00:41:06 GMT
+< X-Content-Type-Options: nosniff
+< X-Amz-Cf-Pop: CDG3-C2
+< X-Amz-Cf-Id: Cl1nphzf_3BS-5PQq0iFKvuIXQtrHUWkiJCOil90hdHLQzXT_4PgGg==
+< X-Frame-Options: sameorigin
+< Expires: Wed, 02 Feb 2022 00:56:06 GMT
+< Content-Type: text/html;charset=UTF-8
+< Server: Apache
+< Referrer-Policy: strict-origin-when-cross-origin
+< Cache-Control: max-age=900, public, s-maxage=900, stale-while-revalidate, stale-if-error
+< X-Cache: Hit from cloudfront
+< Age: 824
+< Date: Wed, 02 Feb 2022 00:41:06 GMT
+< Vary: Cookie,Accept-Encoding
+< Via: 1.1 85d2219c335742c82e7bf84433bc3256.cloudfront.net (CloudFront)
+< Set-Cookie: AWSALB=rJAUTeB1ID9tD9QHO6VLmR9Bc/FQmBfoRsWjnIM2ENmW2P971MtFp5MSDYLOEkX5xhpr7D0lKDPoojzkO1xFEyqtYq/BCnNjlNRF3KJBm1FYxPTxHHfeK+iVqDel; Expires=Wed, 09 Feb 2022 00:41:06 GMT; Path=/
+< Set-Cookie: AWSALBCORS=rJAUTeB1ID9tD9QHO6VLmR9Bc/FQmBfoRsWjnIM2ENmW2P971MtFp5MSDYLOEkX5xhpr7D0lKDPoojzkO1xFEyqtYq/BCnNjlNRF3KJBm1FYxPTxHHfeK+iVqDel; Expires=Wed, 09 Feb 2022 00:41:06 GMT; Path=/; SameSite=None
+< Set-Cookie: ips4_IPSSessionFront=6bejcnar3ci5o2vtkouqa7vvqg; path=/; secure; HttpOnly

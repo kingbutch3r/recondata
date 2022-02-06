@@ -1,0 +1,11 @@
+GET http://raccoon-horse-6882.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 372306
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 17:53:16 GMT
+< Location: https://raccoon-horse-6882.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BYrzSJki/kh4ODc2ZjE4Mzg4YzM4YWMyMjBjNzU5NGVjMzVmODkw;Path=/
+< X-Contextid: HTtzwqg9/zgBXzLN9

@@ -1,0 +1,17 @@
+GET https://avemo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=43200
+< Accept-Ranges: bytes
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"a6f7ce2a8df58225e19057712868e9a8--gzip"
+< Set-Cookie: crumb=BbMZyhTrCb4ANWE4ZTc2OWI1OGE2YWZiYWRhNjg3NWQ0OGM1MDE2;Path=/
+< X-Frame-Options: SAMEORIGIN
+< Date: Wed, 02 Feb 2022 00:57:16 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: Br8CSXQQ/oXlXqiUt

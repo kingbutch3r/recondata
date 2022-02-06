@@ -1,0 +1,11 @@
+GET http://jay-mclaughlin-f3m2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://jay-mclaughlin-f3m2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BaLE6HXrjzQ8NzNmY2ZjOWUxOGQ2YWU3MjYxOTE0MjM5Nzc0NGRj;Path=/
+< X-Contextid: IcZdSclp/5qQzdfCw
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:21:45 GMT

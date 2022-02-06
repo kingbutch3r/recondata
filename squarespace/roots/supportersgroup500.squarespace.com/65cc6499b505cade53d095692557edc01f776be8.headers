@@ -1,0 +1,11 @@
+GET http://supportersgroup500.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BQNH4X3cCqVuNTA5MzQxM2I2MzE1YzE0NjA5NjA5ZDgzOWI3MGYx;Path=/
+< X-Contextid: wEJUPelh/cofTGKx3
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:07:11 GMT
+< Location: https://supportersgroup500.squarespace.com/

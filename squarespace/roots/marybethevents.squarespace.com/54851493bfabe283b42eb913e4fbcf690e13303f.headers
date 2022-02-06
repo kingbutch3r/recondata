@@ -1,0 +1,16 @@
+GET https://marybethevents.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"4ffef9ca67f5017d4dae151a837a8cc5--gzip"
+< Server: Squarespace
+< X-Contextid: VwQJADQr/Wg2QKtut
+< Age: 120370
+< Date: Mon, 31 Jan 2022 15:37:21 GMT
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BRno90qQPj1kMTkzODE1MjM1NDc4ZjM3MDNiOWUyOGY1MmFiOTE4;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes

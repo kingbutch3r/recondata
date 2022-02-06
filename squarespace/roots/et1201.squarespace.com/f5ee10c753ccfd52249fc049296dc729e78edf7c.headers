@@ -1,0 +1,16 @@
+GET https://et1201.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 01:12:59 GMT
+< Set-Cookie: crumb=BZX2jog25bkFMmQ3NTJkYjE4YjU2ZGI5MmZlMDRmYTgzM2JhNTMw;Path=/
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< Age: 0
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: CEe5WQqN/BpYQ8gop
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"ca4dbc45e82cee245dec4575da383231--gzip"

@@ -1,0 +1,11 @@
+GET http://artray.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BaYLcr707XvuMzk0MjkzYzczNzMwODQ2NzgyZGYxYjhlZmVjMTVk;Path=/
+< X-Contextid: yJRAxeMK/IrnzsOBb
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:56:27 GMT
+< Location: https://artray.squarespace.com/
+< Server: Squarespace

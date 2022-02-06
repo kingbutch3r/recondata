@@ -1,0 +1,18 @@
+GET https://adobe-propsal-secured.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: DsXUrfKM/ED82lIK0
+< Date: Mon, 31 Jan 2022 16:34:46 GMT
+< Etag: W/"17f1a6cba7d76d74b7fd2d4cd038117b"
+< Age: 118229
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcFoZpv+Nx6+NThmOWViMTM0MDE0MGM1MmVmN2IyYTc2ZmZhZjBh;Path=/
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=43200
+< Server: Squarespace

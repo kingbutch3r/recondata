@@ -1,0 +1,11 @@
+GET https://www.ian-tausig-2kj2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: vfsQGfd2/WGQDAP8U
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:21:15 GMT
+< Location: https://ian-tausig-2kj2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BeAlc0L6pGhYNDQ2MjM5ZWIxZmIwMjNkZDE4ODc0YzFkNWYzMTVh;Path=/

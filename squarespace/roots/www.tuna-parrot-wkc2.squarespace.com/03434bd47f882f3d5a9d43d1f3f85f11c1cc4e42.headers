@@ -1,0 +1,11 @@
+GET https://www.tuna-parrot-wkc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BfakBlLA3iulMjQ3ZDY4NTU3OGFkYWJlNzRiYjYwMTliZWQ3ZjQ2;Path=/
+< X-Contextid: XgbtocZX/c11Kqrpc
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:12 GMT
+< Location: https://tuna-parrot-wkc2.squarespace.com/

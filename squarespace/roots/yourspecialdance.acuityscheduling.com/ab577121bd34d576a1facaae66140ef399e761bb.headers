@@ -1,0 +1,15 @@
+GET https://yourspecialdance.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:01:27 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=b5odp2d90a4dm3v88l5utlp3qf; expires=Fri, 04-Mar-2022 00:01:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5fed427e-60a3-49a6-860c-ba47b6f0b7d4; expires=Fri, 02-Feb-2024 00:01:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

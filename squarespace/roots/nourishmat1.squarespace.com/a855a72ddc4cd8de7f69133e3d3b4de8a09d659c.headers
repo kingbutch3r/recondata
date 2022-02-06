@@ -1,0 +1,13 @@
+GET https://nourishmat1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: 7etxH3HG/XApWLvN5
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BU/qYSiwehd/YzUzODRkODc1NzYxYzA1NzRiZGIyM2RkMzQxOTg2;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:51:07 GMT

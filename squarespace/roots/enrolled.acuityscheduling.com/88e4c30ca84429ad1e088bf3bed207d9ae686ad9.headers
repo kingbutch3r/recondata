@@ -1,0 +1,17 @@
+GET https://enrolled.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=gmkt3el0smk76amg3g0e60tf8o; expires=Fri, 04-Mar-2022 01:08:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e0465144-3d13-4b95-ace2-6dd7dbc4dc5d; expires=Fri, 02-Feb-2024 01:08:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 01:08:56 GMT
+< X-Content-Type-Options: nosniff

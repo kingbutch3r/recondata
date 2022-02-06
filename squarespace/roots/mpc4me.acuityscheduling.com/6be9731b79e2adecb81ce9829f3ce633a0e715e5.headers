@@ -1,0 +1,15 @@
+GET https://mpc4me.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:05:02 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=76v31lfh4n1vpfh7ff1ajqk9cs; expires=Fri, 04-Mar-2022 00:05:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2179cbec-3618-4a66-8d99-abc3c8ba9c88; expires=Fri, 02-Feb-2024 00:05:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

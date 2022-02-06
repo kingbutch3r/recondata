@@ -1,0 +1,15 @@
+GET https://globalbizservices.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=eqe344mq96knhmnf9llaop93gv; expires=Fri, 04-Mar-2022 00:32:21 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a11193e5-b65f-4bd4-9ff8-63caa6fa86e0; expires=Fri, 02-Feb-2024 00:32:22 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:32:22 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,16 @@
+GET https://the-other-bridesmaid.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:04:28 GMT
+< Etag: W/"c3552daa94a32ced893271903021c619--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BVVbp0Vt2JZ8NmJhYjE4YjE4MWIxNGZiNGExMDQyMmI0Y2U2NzBm;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< X-Contextid: hHZM1KlP/RqcFQCH4

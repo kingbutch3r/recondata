@@ -1,0 +1,11 @@
+GET http://loopescoladesom.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: https://loopescoladesom.acuityscheduling.com/
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:19:35 GMT

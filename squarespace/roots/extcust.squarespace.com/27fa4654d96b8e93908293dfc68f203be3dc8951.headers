@@ -1,0 +1,10 @@
+GET http://extcust.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: z04kUXpZ/z4U2ihwM
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:02:49 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXm8wRzqVASwOGM0ZjUzMjhjZmFmNGY2OWQ3ZmVkZDQ0ZDAwZjZh;Path=/

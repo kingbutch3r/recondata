@@ -1,0 +1,11 @@
+GET https://www.patrick-aloia-y532.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:29 GMT
+< Location: https://patrick-aloia-y532.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZ0jH0W1465/ODMwNDNiZDUyYWE3Yjc5OTg1M2UzYTY2ZDJlYzkz;Path=/
+< X-Contextid: iXG2uAIE/re8EYIRi

@@ -1,0 +1,11 @@
+GET http://poliosa.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:55:30 GMT
+< Location: https://poliosa.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTwv/TpxLDbhOTFmMjUzNmQxOTFkYmE2ZTMzYjNjNTNlZTliNjM3;Path=/
+< X-Contextid: kjB3mYpB/AOOF8l77
+< Content-Length: 0
+< Age: 0

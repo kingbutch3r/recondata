@@ -1,0 +1,16 @@
+GET https://triangle-mandolin-ta42.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 31 Jan 2022 22:18:28 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Be/XirleZfxqZTQzYzJiNzRkOTUzZDI3ZTc4ZGU2MmJlNTU2ZDVl;Path=/
+< Vary: Accept-Encoding
+< Age: 95585
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: qcwLErG8/KK6tEnsd
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"04f3b501f885565f1baa9b7984520a11--gzip"
+< X-Content-Type-Options: nosniff

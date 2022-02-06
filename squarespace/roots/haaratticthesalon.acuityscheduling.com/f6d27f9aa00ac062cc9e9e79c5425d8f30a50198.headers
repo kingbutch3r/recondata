@@ -1,0 +1,17 @@
+GET https://haaratticthesalon.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:23:29 GMT
+< Set-Cookie: PHPSESSID=tsdt2ffri3ifrvf27clus4qe3s; expires=Fri, 04-Mar-2022 00:23:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c507449b-924e-4006-b730-5497ecb8984d; expires=Fri, 02-Feb-2024 00:23:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php

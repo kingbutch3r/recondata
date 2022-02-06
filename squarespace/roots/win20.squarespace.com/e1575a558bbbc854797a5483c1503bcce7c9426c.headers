@@ -1,0 +1,11 @@
+GET https://win20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BcaYPJgPBP1+ZGUzOGVkZTdmYjU4M2U2ZjMwMWFlMmNmYTljNWVj;Path=/
+< X-Contextid: hLEYyplV/0AEfWMsY
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:49:51 GMT
+< Server: Squarespace

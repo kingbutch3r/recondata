@@ -1,0 +1,11 @@
+GET http://dahlia-lion-r4l2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:52:46 GMT
+< Location: https://dahlia-lion-r4l2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRU8CedTB6TcZWI0MTI4Mjg1MmE2YWM5ODk1ZTExZDdlZGM0YTli;Path=/
+< X-Contextid: PElLCEaE/Gj9yAaWZ
+< Age: 0
+< Content-Length: 0

@@ -1,0 +1,15 @@
+GET https://api.unfold.com
+
+
+< HTTP/1.1 404 Not Found
+< Accept-Ranges: bytes
+< X-Served-By: cache-mdw17351-MDW, cache-bom4727-BOM
+< X-Cache: MISS, MISS
+< X-Cache-Hits: 0, 0
+< Vary: Origin, Accept-Encoding
+< Content-Type: text/plain; charset=utf-8
+< X-Content-Type-Options: nosniff
+< X-Request-Id: c7sta7i23akg00jscu10
+< Traceparent: 00-53bc04051378231f09777aa577d0ff90-677cdfd638f3236b-00
+< Date: Wed, 02 Feb 2022 00:49:34 GMT
+< Content-Length: 19

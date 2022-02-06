@@ -1,0 +1,17 @@
+GET https://thechakrashoppe.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:06:06 GMT
+< Set-Cookie: PHPSESSID=ri06s96ittbdk32j5m0o8ptsev; expires=Fri, 04-Mar-2022 00:06:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bbcc9d61-6e7d-4448-bd3d-9def8934f233; expires=Fri, 02-Feb-2024 00:06:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0

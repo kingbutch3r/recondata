@@ -1,0 +1,17 @@
+GET https://wholebodymfrlmt.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:41:24 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=66n4t1fvkqoqnebin1u9pponlm; expires=Fri, 04-Mar-2022 00:41:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7326b82c-cd81-405b-b35c-4f895a0441f1; expires=Fri, 02-Feb-2024 00:41:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate

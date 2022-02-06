@@ -1,0 +1,15 @@
+GET https://samielcarolina.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:55:20 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=mg1e7vblpldb76fuq97dvpl3h4; expires=Thu, 03-Mar-2022 23:55:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=824397d2-a258-4885-92d6-74a31ba96573; expires=Thu, 01-Feb-2024 23:55:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,15 @@
+GET https://tncavidearthling.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:54:15 GMT
+< Set-Cookie: PHPSESSID=pdope6grf1p80m0qdi1jpul670; expires=Fri, 04-Mar-2022 00:54:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=aed64445-4c51-498e-808f-3944e229fa98; expires=Fri, 02-Feb-2024 00:54:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

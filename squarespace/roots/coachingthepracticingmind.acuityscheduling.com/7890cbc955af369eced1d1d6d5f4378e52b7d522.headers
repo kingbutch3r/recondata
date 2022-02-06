@@ -1,0 +1,17 @@
+GET https://coachingthepracticingmind.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:00:13 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=br67vp783e1ktql378jglf406r; expires=Fri, 04-Mar-2022 00:00:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f12b04df-0178-4ea5-ba0b-c0075fbd54b6; expires=Fri, 02-Feb-2024 00:00:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php

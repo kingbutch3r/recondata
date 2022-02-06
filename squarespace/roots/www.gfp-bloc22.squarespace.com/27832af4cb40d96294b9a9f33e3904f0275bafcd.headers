@@ -1,0 +1,11 @@
+GET https://www.gfp-bloc22.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BejvK/zgpJQYMGNjOWNhNmQwMzAzNGI2MjJkNGQ2YWUzNjQ2OTNm;Path=/
+< X-Contextid: ta48gAOR/zZGMJSJi
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:16:47 GMT
+< Location: https://gfp-bloc22.squarespace.com/

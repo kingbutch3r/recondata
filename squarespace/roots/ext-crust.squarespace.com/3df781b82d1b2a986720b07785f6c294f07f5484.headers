@@ -1,0 +1,10 @@
+GET http://ext-crust.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:49:59 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQyxbs8cyMfIYTgxNTE0ZDg0MWVjNGRkODVhNzhjNWM5MDFmZjdk;Path=/
+< X-Contextid: H2hAIF4w/AdGuJCSM
+< Age: 0
+< Content-Type: text/html;charset=utf-8

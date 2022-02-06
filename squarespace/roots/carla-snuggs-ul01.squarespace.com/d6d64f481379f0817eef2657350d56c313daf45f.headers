@@ -1,0 +1,11 @@
+GET http://carla-snuggs-ul01.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: pZU0QcoL/3wPssJ7n
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:12:56 GMT
+< Location: https://carla-snuggs-ul01.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfjT+JjtkukJMDU2ZTFjZjM4OThiOTY1MWNlMzA4NDJhZDExYTVj;Path=/

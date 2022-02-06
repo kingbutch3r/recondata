@@ -1,0 +1,16 @@
+GET https://archivea.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 586239
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"b6d715677565f22fe74de40045d21f17"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: 10tUfiu7/zxnIKpx6
+< Date: Wed, 26 Jan 2022 06:32:49 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BdriWINyZwmaMzA1Y2FkYzRiYzYzNmNlMTBjZWQ3NmI5YjEyNTg2;Path=/

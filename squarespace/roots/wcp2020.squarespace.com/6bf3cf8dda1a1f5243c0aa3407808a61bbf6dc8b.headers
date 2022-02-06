@@ -1,0 +1,11 @@
+GET http://wcp2020.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 04:05:28 GMT
+< Location: https://wcp2020.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbOOe+frZPz2MDI3NWIxYzQyNGU2OGQ2ZWNlZWU1ZTBlNmVkZWEx;Path=/
+< X-Contextid: huSB6Qy0/CgqiIIt8
+< Age: 74654

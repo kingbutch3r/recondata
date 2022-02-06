@@ -1,0 +1,15 @@
+GET http://jonathan-berry-t8l2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: I2hg4EJE/ojcdNPIE
+< Etag: W/"291211598ea39149568124739933bf7c--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Set-Cookie: crumb=BTIhaWhFYQOJYTMxOTNkMWYxZDlmZGI5ZjRmMWRlNGI4YWE3ZWRm;Path=/
+< Date: Wed, 02 Feb 2022 00:52:47 GMT
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding

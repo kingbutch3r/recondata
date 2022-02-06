@@ -1,0 +1,16 @@
+GET https://luls-luls.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BVwoqe0lxb7mNTI0YWIyMDg1YjJjOTk1NmJkYjE4ODNhYTk0OTQz;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: GEvaqP9z/znq6UpcB
+< Age: 339518
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Etag: W/"0294631fc93f44f7794d94fd3927a097--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 02:40:21 GMT
+< Strict-Transport-Security: max-age=0

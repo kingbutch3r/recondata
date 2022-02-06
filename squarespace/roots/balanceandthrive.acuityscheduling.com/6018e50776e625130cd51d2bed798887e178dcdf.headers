@@ -1,0 +1,15 @@
+GET https://balanceandthrive.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:08:07 GMT
+< Set-Cookie: PHPSESSID=h99cmkk2a1j1u385ssdvpd9rno; expires=Fri, 04-Mar-2022 00:08:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dae06e66-e45b-40c2-ac89-119617f49197; expires=Fri, 02-Feb-2024 00:08:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

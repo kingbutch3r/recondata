@@ -1,0 +1,11 @@
+GET http://bcnhoneyfest.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Fri, 28 Jan 2022 22:27:41 GMT
+< Location: https://bcnhoneyfest.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BaCRtyZVpa32MWI5MTVhNjI5NzcwNjA4MDgwYWIzNmIxMzg3ZjY4;Path=/
+< X-Contextid: KhyeI7eS/6z4rFQBZ
+< Age: 354635
+< Content-Length: 0

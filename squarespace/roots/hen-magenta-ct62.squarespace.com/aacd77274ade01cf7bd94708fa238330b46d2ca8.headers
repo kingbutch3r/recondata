@@ -1,0 +1,10 @@
+GET https://hen-magenta-ct62.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:18:06 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BaKXRSxR7sFaZDk2ZDBlYWQ4MzRmMTUxMzBmOWRjN2E3Nzk2ZTZk;Path=/
+< X-Contextid: ido7cPGG/pQciTE6n
+< Age: 0

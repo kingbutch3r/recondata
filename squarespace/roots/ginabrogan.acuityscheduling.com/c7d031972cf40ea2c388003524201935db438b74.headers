@@ -1,0 +1,17 @@
+GET https://ginabrogan.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=iiqfcbv6g5l06s9i3vvegqlp35; expires=Fri, 04-Mar-2022 00:20:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=73b37685-cbaf-461d-aba5-a92b4d647ca3; expires=Fri, 02-Feb-2024 00:20:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:20:07 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent

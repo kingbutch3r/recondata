@@ -1,0 +1,17 @@
+GET https://emmasmallbone.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=f1a0l1clf1hamef2b1kam6tb8u; expires=Fri, 04-Mar-2022 00:05:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4d3fe2e1-23d3-4e4f-a232-e8f7aa5f4fb5; expires=Fri, 02-Feb-2024 00:05:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:05:46 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8

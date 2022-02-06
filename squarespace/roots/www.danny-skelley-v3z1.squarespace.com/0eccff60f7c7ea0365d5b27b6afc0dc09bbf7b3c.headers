@@ -1,0 +1,11 @@
+GET https://www.danny-skelley-v3z1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://danny-skelley-v3z1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVZlbxNNGB8jZjlmMzcwYWU2NWE3M2IxZTgzMTQ0NTdiOGUxNmVk;Path=/
+< X-Contextid: zImnrzuU/nijaUTkz
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:13 GMT

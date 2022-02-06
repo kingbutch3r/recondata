@@ -1,0 +1,14 @@
+GET http://design.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:26:33 GMT
+< Cache-Control: max-age=3600
+< Expires: Wed, 02 Feb 2022 00:26:33 GMT
+< Location: https://design.payoneer.com/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Set-Cookie: __cfruid=265838c31735493055ec3013cc942b380a86a22c-1643757993; path=/; domain=.design.payoneer.com; HttpOnly
+< Server: cloudflare
+< Cf-Ray: 6d6ef200bf9385d9-BOM
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400

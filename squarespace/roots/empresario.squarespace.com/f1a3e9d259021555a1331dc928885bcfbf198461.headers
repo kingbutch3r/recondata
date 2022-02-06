@@ -1,0 +1,16 @@
+GET https://empresario.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"75fa9c3cb794a34d2136644f4b3d8473"
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: g3fh3QU8/20h6YY7A
+< Age: 322159
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXSuLq57dG89MDNjN2MzMTM4MTRiZTYxMDNkMDRkOGY3MmY2MDEz;Path=/
+< Date: Sat, 29 Jan 2022 07:26:44 GMT

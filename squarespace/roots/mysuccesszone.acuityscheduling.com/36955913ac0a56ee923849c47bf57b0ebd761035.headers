@@ -1,0 +1,17 @@
+GET https://mysuccesszone.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:05:55 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=bra0gocp85tgscov566el0et94; expires=Fri, 04-Mar-2022 00:05:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0c1d35bf-9923-432c-a1e5-3dd8e3cd11c1; expires=Fri, 02-Feb-2024 00:05:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent

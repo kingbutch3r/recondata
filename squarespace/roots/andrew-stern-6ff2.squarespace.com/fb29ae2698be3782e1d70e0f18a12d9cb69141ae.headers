@@ -1,0 +1,16 @@
+GET https://andrew-stern-6ff2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXy1iDM+/WsMNzQwODZjOTRlYjQ4OWE3NzgxYjJkY2FkNTYxMmJm;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: gJpcJWwY/lUSWGJdk
+< Date: Fri, 28 Jan 2022 10:08:56 GMT
+< Etag: W/"63c478cb1d34c940ace551ec2f01e44b--gzip"
+< X-Content-Type-Options: nosniff
+< Age: 398610
+< Accept-Ranges: bytes

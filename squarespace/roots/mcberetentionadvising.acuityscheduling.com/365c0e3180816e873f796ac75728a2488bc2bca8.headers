@@ -1,0 +1,15 @@
+GET https://mcberetentionadvising.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:11:55 GMT
+< Set-Cookie: PHPSESSID=lfv1ka8svrmnqe4h5ig0kru17m; expires=Fri, 04-Mar-2022 00:11:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=36f1ab73-aef8-4d48-a90b-1efd2100a5a5; expires=Fri, 02-Feb-2024 00:11:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

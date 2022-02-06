@@ -1,0 +1,14 @@
+GET https://partners.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Alt-Svc: clear
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Pragma: no-cache
+< Cache-Control: no-cache, private, no-transform, no-store
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Via: 1.1 google
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:26:22 GMT
+< Vary: Accept-Encoding

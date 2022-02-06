@@ -1,0 +1,10 @@
+GET http://web7420.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:51:28 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSO8vt5/Rl79NGVhMjA4ZDNjNDQxMDQzNzcxOTZkOGQ4NGM2ODEz;Path=/
+< X-Contextid: 3tib3fw1/zixDRfxu
+< Age: 0
+< Content-Type: text/html;charset=utf-8

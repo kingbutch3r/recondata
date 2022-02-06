@@ -1,0 +1,11 @@
+roots/crisfood.com/b1b2dc88e8720c0738ab9f4a912cd2ee001e75fe.body: http://crisfood.com 301
+roots/crfdapi.crisfood.com/99a249e7dd3336bf435b0da1e9ef6c6b486e2f8c.body: http://crfdapi.crisfood.com 301
+roots/crfdapi.crisfood.com/49d442ff54fa089740fe97d196190c433a9443d8.body: https://crfdapi.crisfood.com 302
+roots/orders.crisfood.com/a059187602211c43b14dee5b5750910ae1d6442a.body: http://orders.crisfood.com 301
+roots/www.crisfood.com/017f0ab4dd2245deb1478e7684f166f3cc2eef67.body: http://www.crisfood.com 301
+roots/mail.crisfood.com/779defecf8f49cb8cca32efc033349f1f21dc1b1.body: https://mail.crisfood.com 200
+roots/orders.crisfood.com/e90a8d293f8eea134b2de96fc88a4aeb997d3edd.body: https://orders.crisfood.com 200
+roots/crisfood.com/e0db023c2422c6ecf48617b702697b1db19ad139.body: https://crisfood.com 200
+roots/www.crisfood.com/a2bc24c92443533ff0ca6bb9fe40baf9b145f694.body: https://www.crisfood.com 200
+roots/mail.crisfood.com/c8eaccbc9cd8fe4fd993f0ae4c10b8d61b82b2a6.body: http://mail.crisfood.com 500
+roots/fruitspot.co.za./dcd07cd1bfbb71fc8323be4c7cb6c30d59993cee.body: http://fruitspot.co.za. 400

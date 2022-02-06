@@ -1,0 +1,13 @@
+GET https://christian-belgaux-8k32.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:51:30 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: tgoscEn3/jK1cU2pr
+< Server: Squarespace
+< Set-Cookie: crumb=BUHQyFH+g7MvOTYwOTNmMzE1ZjFhMWM0Zjg4MjBkNGZiMTFmZDg2;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

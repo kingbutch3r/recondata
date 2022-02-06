@@ -1,0 +1,12 @@
+GET https://ext-cust.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Pragma: no-cache
+< Cache-Control: no-cache, must-revalidate
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Date: Wed, 02 Feb 2022 01:01:39 UTC
+< Server: Squarespace
+< X-Contextid: ezl3ecGm/LZyR9GLw
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8

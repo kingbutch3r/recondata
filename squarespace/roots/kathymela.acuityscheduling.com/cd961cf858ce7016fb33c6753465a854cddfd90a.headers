@@ -1,0 +1,17 @@
+GET https://kathymela.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=ob5gq2349e1ketntubbakoq10e; expires=Thu, 03-Mar-2022 23:54:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ebd72a72-47d7-47cc-91ce-0dd2f39b5e31; expires=Thu, 01-Feb-2024 23:54:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:54:51 GMT
+< Content-Length: 0

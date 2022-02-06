@@ -1,0 +1,10 @@
+GET http://email-links.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:54:51 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BfJ8t+HpEsGvOTJhY2NmMTMyYTQxMjhjMzQzYjZkYTEyZjU5ZGFl;Path=/
+< X-Contextid: IDONb4PM/Si3XECsu
+< Age: 0
+< Content-Type: text/html;charset=utf-8

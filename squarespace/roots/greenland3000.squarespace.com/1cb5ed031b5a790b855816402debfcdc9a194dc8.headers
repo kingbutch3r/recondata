@@ -1,0 +1,17 @@
+GET https://greenland3000.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding
+< Age: 83477
+< Etag: W/"ad4874164506effbb3b3a7aecb8b410f"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Tue, 01 Feb 2022 02:15:38 GMT
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 02:15:38 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWKrua59AXfnMjcyMjhkMmExMTcxOTYzOTk2MzVmOTNiM2E4ODFi;Path=/
+< X-Contextid: 4gtJKg2k/0qVVaBJ5

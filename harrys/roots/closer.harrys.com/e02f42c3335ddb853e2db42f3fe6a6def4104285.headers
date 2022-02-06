@@ -1,0 +1,14 @@
+GET http://closer.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Accept-Ranges: bytes
+< X-Served-By: cache-bom4737-BOM
+< X-Timer: S1643477971.636290,VS0,VE0
+< Server: Varnish
+< Location: https://closer.harrys.com/
+< X-Cache: HIT
+< X-Cache-Hits: 0
+< Retry-After: 0
+< Date: Sat, 29 Jan 2022 17:39:30 GMT

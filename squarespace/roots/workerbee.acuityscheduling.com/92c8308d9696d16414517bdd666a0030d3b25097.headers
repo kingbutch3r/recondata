@@ -1,0 +1,15 @@
+GET https://workerbee.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:02:09 GMT
+< Set-Cookie: PHPSESSID=mbkq8pd5qga66n709bs0bpbmdv; expires=Fri, 04-Mar-2022 00:02:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=166032e2-16ff-47d7-91e5-f96128fe62f5; expires=Fri, 02-Feb-2024 00:02:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache

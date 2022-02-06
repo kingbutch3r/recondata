@@ -1,0 +1,11 @@
+GET http://priscilla-woo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 18:16:29 GMT
+< Location: https://priscilla-woo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Ba8BpRfuvTqJYTU1MzJiNTZkZDgwMGMyYmY2NzRiMTMyMDExYTcx;Path=/
+< X-Contextid: oksWpRFR/jPWe2X0H
+< Age: 371324

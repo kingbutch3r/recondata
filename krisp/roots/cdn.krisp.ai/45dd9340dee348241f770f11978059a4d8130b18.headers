@@ -1,0 +1,13 @@
+GET http://cdn.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html
+< X-Cache: Redirect from cloudfront
+< X-Amz-Cf-Pop: BOM50-C1
+< X-Amz-Cf-Id: JLDBfwy4eGFFjPrI9GBdQGg3HgFG_du0mCuCBzIhMxAEW4M959m2Wg==
+< Server: CloudFront
+< Date: Tue, 01 Feb 2022 23:29:36 GMT
+< Content-Length: 183
+< Location: https://cdn.krisp.ai/
+< Via: 1.1 c6009ddfc9f427867dff2ea4da6dffb4.cloudfront.net (CloudFront)

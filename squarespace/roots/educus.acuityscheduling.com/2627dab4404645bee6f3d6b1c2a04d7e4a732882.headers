@@ -1,0 +1,15 @@
+GET https://educus.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=1gf8jne9a1f0aigq5b50hqo49g; expires=Fri, 04-Mar-2022 00:39:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7d41eca7-40b5-422f-9578-3c6c3ee25f20; expires=Fri, 02-Feb-2024 00:39:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:39:53 GMT
+< Content-Type: text/html; charset=UTF-8

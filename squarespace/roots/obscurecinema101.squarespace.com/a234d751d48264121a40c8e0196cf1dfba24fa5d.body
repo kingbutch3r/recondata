@@ -1,0 +1,700 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- obscurecinema101 -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1767390&amp;RK=1341635479670&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {"google": {"families": ["Josefin Sans:400"]}};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "Obscure Cinema 101"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "18071295"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "1526751";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>obscurecinema101 - Home</title>
+    <meta property="og:title" content="obscurecinema101 - Home" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage18071295"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/login/?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent7644674" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper18071295">
+
+    <div id="navigationTop-moduleContent18071295">
+
+              <a id="navigationTop-moduleLink18071295" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18071296">
+
+    <div id="navigationTop-moduleContent18071296">
+
+              <a id="navigationTop-moduleLink18071296" class=" " href="/blog/" ><span>Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18071565">
+
+    <div id="navigationTop-moduleContent18071565">
+
+              <a id="navigationTop-moduleLink18071565" class=" " href="/reviews-list/" ><span>Reviews List</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18087207">
+
+    <div id="navigationTop-moduleContent18087207">
+
+              <a id="navigationTop-moduleLink18087207" class=" " href="/features/" ><span>Features</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18071297">
+
+    <div id="navigationTop-moduleContent18071297">
+
+              <a id="navigationTop-moduleLink18071297" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18071298">
+
+    <div id="navigationTop-moduleContent18071298">
+
+              <a id="navigationTop-moduleLink18071298" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18071379">
+
+    <div id="navigationTop-moduleContent18071379">
+
+              <a id="navigationTop-moduleLink18071379" class=" " href="/searchphp/" ><span>Search</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18071590">
+
+    <div id="navigationTop-moduleContent18071590">
+
+              <a id="navigationTop-moduleLink18071590" class=" " href="/other-great-sites/" ><span>Other Great Sites</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://www.obscurecinema101.com/">Obscure Cinema 101</a></h1>
+           <div id="siteSubtitle" class="h1subtitle">&quot;It&#39;s Not Cranberry Sauce!&quot;</div> 
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent7644674" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper18071295">
+
+    <div id="navigationBottom-moduleContent18071295">
+
+              <a id="navigationBottom-moduleLink18071295" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18071296">
+
+    <div id="navigationBottom-moduleContent18071296">
+
+              <a id="navigationBottom-moduleLink18071296" class=" " href="/blog/" ><span>Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18071565">
+
+    <div id="navigationBottom-moduleContent18071565">
+
+              <a id="navigationBottom-moduleLink18071565" class=" " href="/reviews-list/" ><span>Reviews List</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18087207">
+
+    <div id="navigationBottom-moduleContent18087207">
+
+              <a id="navigationBottom-moduleLink18087207" class=" " href="/features/" ><span>Features</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18071297">
+
+    <div id="navigationBottom-moduleContent18071297">
+
+              <a id="navigationBottom-moduleLink18071297" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18071298">
+
+    <div id="navigationBottom-moduleContent18071298">
+
+              <a id="navigationBottom-moduleLink18071298" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18071379">
+
+    <div id="navigationBottom-moduleContent18071379">
+
+              <a id="navigationBottom-moduleLink18071379" class=" " href="/searchphp/" ><span>Search</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18071590">
+
+    <div id="navigationBottom-moduleContent18071590">
+
+              <a id="navigationBottom-moduleLink18071590" class=" " href="/other-great-sites/" ><span>Other Great Sites</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent7644674" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper18071295">
+
+    <div id="moduleContent18071295">
+
+              <a id="moduleLink18071295" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18071296">
+
+    <div id="moduleContent18071296">
+
+              <a id="moduleLink18071296" class=" " href="/blog/" ><span>Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18071565">
+
+    <div id="moduleContent18071565">
+
+              <a id="moduleLink18071565" class=" " href="/reviews-list/" ><span>Reviews List</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18087207">
+
+    <div id="moduleContent18087207">
+
+              <a id="moduleLink18087207" class=" " href="/features/" ><span>Features</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18071297">
+
+    <div id="moduleContent18071297">
+
+              <a id="moduleLink18071297" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18071298">
+
+    <div id="moduleContent18071298">
+
+              <a id="moduleLink18071298" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18071379">
+
+    <div id="moduleContent18071379">
+
+              <a id="moduleLink18071379" class=" " href="/searchphp/" ><span>Search</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18071590">
+
+    <div id="moduleContent18071590">
+
+              <a id="moduleLink18071590" class=" " href="/other-great-sites/" ><span>Other Great Sites</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent7644675" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Search</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper18071299" class="widget-wrapper  widget-type-search"><div id="moduleContent18071299">
+
+
+<!-- <form method="get" action="/display/Search">
+	<div class="search-form-pt-wrapper">
+	  <div class="search-form-pt">
+	    <span class="queryFieldWrapper"><input type="text" class="text queryField" name="searchQuery" value=""/></span>
+	    <span class="queryButtonWrapper"><input type="submit" class="button queryButton" value="&raquo;"/></span>
+	    <input type="hidden" name="moduleId" value="18071299"/>
+	    <br class="clearer"/>
+	  </div>
+	</div>
+</form> -->
+
+<form method="get" action="/display/Search">
+	<input type="hidden" name="moduleId" value="18071299"/>
+	<table class="search-form-pt-wrapper search-form-table" border="0" cellpadding="0" cellspacing="0">
+		<tr class="search-form-pt search-form-row">
+			<td class="queryFieldCell search-form-cell">
+				<span class="queryFieldWrapper">
+					<input type="text" class="text queryField" name="searchQuery" value=""/>
+				</span>
+			</td>
+			<td class="queryButtonCell search-form-cell">
+				<span class="queryButtonWrapper">
+					<input type="submit" class="button queryButton" value="&rarr;"/>
+				</span>
+			</td>
+		</tr>
+	</table> 
+</form></div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent7644677" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Blog Index</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper18071301" class="widget-wrapper  widget-type-journalarchive"><div id="moduleContent18071301">
+
+
+
+
+
+
+
+  <ul class="archive-item-list-pt">
+     <li><a href="/blog/2014/10/7/halloween-quickies-shadow-of-the-vampire-2000.html">Halloween Quickies: SHADOW OF THE VAMPIRE (2000)</a></li>  <li><a href="/blog/2014/10/5/halloween-quickies-annabelle-2014.html">Halloween Quickies: ANNABELLE (2014)</a></li>  <li><a href="/blog/2014/10/3/halloween-quickies-cottage-country-2013.html">Halloween Quickies: COTTAGE COUNTRY (2013)</a></li>  <li><a href="/blog/2014/10/1/halloween-quickies-rocktober-blood-1984.html">Halloween Quickies: ROCKTOBER BLOOD (1984)</a></li>  <li><a href="/blog/2014/6/8/quick-thoughts-cold-in-july-2014.html">Quick Thoughts: COLD IN JULY (2014)</a></li>  <li><a href="/blog/2014/5/27/monster-slasher-movie-trash-the-abomination-1986-review.html">Monster-Slasher Movie Trash: THE ABOMINATION (1986) Review</a></li>  <li><a href="/blog/2014/4/17/happy-easter-the-night-before-easter-2014-review.html">Happy Easter: THE NIGHT BEFORE EASTER (2014) Review</a></li>  <li><a href="/blog/2014/1/1/happy-new-year-new-years-evil-1980-review.html">Happy New Year! NEW YEAR'S EVIL (1980) Review</a></li>  <li><a href="/blog/2013/12/25/merry-christmas-to-all-a-goodnight-1980-review.html">Merry Christmas! TO ALL A GOODNIGHT (1980) Review</a></li>  <li><a href="/blog/2013/10/13/film-by-film-my-scanners-marathon.html">Film By Film: My SCANNERS Marathon</a></li> 
+  </ul>
+
+
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent7644678" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Navigation</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper18071302">
+
+    <div id="moduleContent18071302">
+
+              <a id="moduleLink18071302" class=" " href="/links/" ><span>Links</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18071303">
+
+    <div id="moduleContent18071303">
+
+              <a id="moduleLink18071303" class=" " href="/login/?returnUrl=%2F" ><span>Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+ 
+  
+    <p><strong><em>&nbsp;</em></strong></p>
+<p><span style="font-size: 200%;"><strong><em><span style="text-decoration: underline;">WELCOME...</span></em></strong></span></p>
+<p><br /><span class="full-image-block ssNonEditable"><img src="/storage/obscurecinema101.jpg?__SQUARESPACE_CACHEVERSION=1341174931989" alt="" /></span></p>
+<p style="font-size: 150%;">Welcome...to the domain of everything strange, surreal, action-packed, horrific, shocking, hilarious, and everything in between. Take a look around at what the site as to offer, from the spoiler-free reviews to random features to any cool news regarding the realm of the obscure. Have as much fun as you like, but just remember...</p>
+<p style="font-size: 150%;">..."It's Not Cranberry Sauce!"</p>
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Copyright &copy; 2012-2014, James Oxyer.  All rights reserved. Punishments for copyright infringement include, but are not limited to, excessive tickling.
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

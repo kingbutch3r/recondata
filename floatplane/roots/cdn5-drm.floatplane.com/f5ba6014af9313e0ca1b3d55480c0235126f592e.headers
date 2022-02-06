@@ -1,0 +1,18 @@
+GET https://cdn5-drm.floatplane.com
+
+
+< HTTP/1.1 400 Bad Request
+< Access-Control-Allow-Methods: OPTIONS, GET
+< X-Beluga-Cache-Status: Miss
+< X-Beluga-Trace: 7a0aba8d-5f3d-48d2-adab-3819194335ed
+< Date: Mon, 31 Jan 2022 18:57:44 GMT
+< Access-Control-Allow-Headers: *
+< Access-Control-Allow-Origin: *
+< X-Beluga-Node: 1afcf95f-cead-485f-a536-05a2ad3bc7f9
+< X-Beluga-Record: 25dda86fd0660a9329dccd3274c31e0c5731919c
+< Server: NuCDN/v2.58.7
+< X-Beluga-Response-Time: 175 ms
+< X-Beluga-Status: 000
+< Content-Length: 0
+< Access-Control-Request-Method: *
+< Cache-Control: private, max-age=5

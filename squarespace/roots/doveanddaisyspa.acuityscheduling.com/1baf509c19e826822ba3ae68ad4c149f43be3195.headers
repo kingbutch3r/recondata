@@ -1,0 +1,15 @@
+GET https://doveanddaisyspa.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:55:44 GMT
+< Set-Cookie: PHPSESSID=7qgbp6ouehl81hmvlrata7t77o; expires=Thu, 03-Mar-2022 23:55:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=effdd751-16d9-44be-a92b-0bffb90761c4; expires=Thu, 01-Feb-2024 23:55:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

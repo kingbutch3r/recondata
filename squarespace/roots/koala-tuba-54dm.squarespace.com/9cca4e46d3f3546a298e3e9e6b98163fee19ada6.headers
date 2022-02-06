@@ -1,0 +1,11 @@
+GET http://koala-tuba-54dm.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BRu0jOXxgvf+NzUwOTM0ZjVmZjRiOTIyNWYxNTRmMmM3N2MyZDEw;Path=/
+< X-Contextid: Cp4wAlax/UvrGAIVI
+< Age: 0
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:52:16 GMT
+< Location: https://koala-tuba-54dm.squarespace.com/
+< Server: Squarespace

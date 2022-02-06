@@ -1,0 +1,17 @@
+GET https://eagleboard.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:00:34 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=mjdmi85fqri0kf3nbh8ktv2gsd; expires=Fri, 04-Mar-2022 00:00:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=36f983c5-cc86-4a83-901e-7f10fca9723e; expires=Fri, 02-Feb-2024 00:00:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

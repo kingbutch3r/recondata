@@ -1,0 +1,17 @@
+GET https://heatheradempsey.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=cv1jko9t6jp1rhkmood0tl3ojb; expires=Fri, 04-Mar-2022 00:45:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=76ce33c6-0534-420e-8369-521c890f6812; expires=Fri, 02-Feb-2024 00:45:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:45:55 GMT
+< Content-Length: 0
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

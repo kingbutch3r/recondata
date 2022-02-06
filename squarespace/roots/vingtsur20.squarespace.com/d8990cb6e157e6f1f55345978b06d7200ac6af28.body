@@ -1,0 +1,979 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="fr-FR" >
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- This is Squarespace. --><!-- vingtsur20 -->
+<base href="">
+<meta charset="utf-8" />
+<title>cours particulier maths</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1399492516882-PCV9MQ5RJRU41X3CXU14/favicon.ico?format=100w"/>
+<link rel="canonical" href="http://vingtsur20.squarespace.com"/>
+<meta property="og:site_name" content="Cours particulier maths - 20sur20"/>
+<meta property="og:title" content="cours particulier maths"/>
+<meta property="og:url" content="http://vingtsur20.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Depuis 1989, 20sur20 apporte l'essentiel aux collégiens et lycéens de tous niveaux  par des cours de math à domicile tout au long de l'année."/>
+<meta property="og:image" content="http://static1.squarespace.com/static/536a2fabe4b08598c1987d70/t/55d9b776e4b0ce9ba81cc398/1440331643452/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png?format=1500w"/>
+<meta property="og:image:width" content="536"/>
+<meta property="og:image:height" content="341"/>
+<meta itemprop="name" content="cours particulier maths"/>
+<meta itemprop="url" content="http://vingtsur20.squarespace.com"/>
+<meta itemprop="description" content="Depuis 1989, 20sur20 apporte l'essentiel aux collégiens et lycéens de tous niveaux  par des cours de math à domicile tout au long de l'année."/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/536a2fabe4b08598c1987d70/t/55d9b776e4b0ce9ba81cc398/1440331643452/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/536a2fabe4b08598c1987d70/t/55d9b776e4b0ce9ba81cc398/1440331643452/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/536a2fabe4b08598c1987d70/t/55d9b776e4b0ce9ba81cc398/1440331643452/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png?format=1500w"/>
+<meta name="twitter:title" content="cours particulier maths"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/536a2fabe4b08598c1987d70/t/55d9b776e4b0ce9ba81cc398/1440331643452/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png?format=1500w"/>
+<meta name="twitter:url" content="http://vingtsur20.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Depuis 1989, 20sur20 apporte l'essentiel aux collégiens et lycéens de tous niveaux  par des cours de math à domicile tout au long de l'année."/>
+<meta name="description" content="Depuis 1989, 20sur20 apporte l'essentiel aux collégiens et lycéens de tous 
+niveaux par des cours de math à domicile tout au long de l'année." />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Varela+Round:wght@400">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"536a2fabe4b08598c1987d70","identifier":"vingtsur20","websiteType":1,"contentModifiedOn":1620982845952,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"fr-FR","timeZone":"Europe/Paris","machineTimeZoneOffset":3600000,"timeZoneOffset":3600000,"timeZoneAbbr":"CET","siteTitle":"Cours particulier maths - 20sur20","fullSiteTitle":"cours particulier maths","siteTagLine":"cours particulier maths","siteDescription":"<p>Depuis 1989, 20 sur 20 apporte l'essentiel aux coll\u00E9giens et lyc\u00E9ens de tous niveaux aux moments clefs de leur scolarit\u00E9 et tout au long de l'ann\u00E9e par<strong> des cours de math \u00E0 domicile.</strong></p>","location":{"mapZoom":12.0,"mapLat":48.8731596,"mapLng":2.284514800000011,"markerLat":48.8731596,"markerLng":2.284514800000011,"addressTitle":"20sur20","addressLine1":"50 Avenue Foch","addressLine2":"Paris, IDF, 75116"},"logoImageId":"55d9b776e4b0ce9ba81cc398","shareButtonOptions":{"4":true,"2":true,"3":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1440331643223-GC9XV4QZI2OHA5QWCTV4/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png","authenticUrl":"http://vingtsur20.squarespace.com","internalUrl":"http://vingtsur20.squarespace.com","baseUrl":"http://vingtsur20.squarespace.com","socialAccounts":[{"serviceId":2,"userId":"528698000","userName":"stephane.grassot","screenname":"St\u00E9phane Grassot","addedOn":1401975647185,"profileUrl":"https://www.facebook.com/20sur20","iconUrl":"http://graph.facebook.com/528698000/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"41750983","showOwnerLogin":false},"websiteSettings":{"id":"536a2fabe4b08598c1987d71","websiteId":"536a2fabe4b08598c1987d70","type":"Business","subjects":[{"systemSubject":"other","otherSubject":"Education"}],"country":"FR","state":"","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":1,"isContactEmailEnabled":true,"isContactPhoneNumberEnabled":true,"isLocationEnabled":true,"isBusinessHoursEnabled":true},"announcementBarSettings":{"style":2,"text":"<p class=\"\" style=\"white-space:pre-wrap;\">Note m\u00E9diane Bac 2019 : 16/20</p><p class=\"\" style=\"white-space:pre-wrap;\">Plus d\u20191 \u00E9l\u00E8ve sur 2 mention TB</p><p class=\"\" style=\"white-space:pre-wrap;\">Pour les \u00E9l\u00E8ves suivis depuis la 2nde : les 3/4 mention TB</p>","clickthroughUrl":{"url":"/prrentre-20162017","newWindow":false}},"commentLikesAllowed":true,"commentAnonAllowed":false,"commentThreaded":true,"commentApprovalRequired":true,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":3,"commentFlagsAllowed":true,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"06 60 52 09 41","businessHours":{"monday":{"text":"Open","ranges":[{"from":0,"to":0}]},"tuesday":{"text":"Open","ranges":[{"from":0,"to":0}]},"wednesday":{"text":"Open","ranges":[{"from":0,"to":0}]},"thursday":{"text":"Open","ranges":[{"from":0,"to":0}]},"friday":{"text":"Open","ranges":[{"from":0,"to":0}]},"saturday":{"text":"Open","ranges":[{"from":0,"to":0}]},"sunday":{"text":"Open","ranges":[{"from":0,"to":0}]}},"contactEmail":"philippe.rey@20sur20.fr","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect","color":"white"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Bienvenue","id":"536a2fefe4b043cc62b5cadf","fullUrl":"/","publicCommentCount":0,"type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"outerPadding":"20px","pagePadding":"41px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","topPadding":"0px"},"templateId":"50749216e4b0933ed3da0a8d","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/","betaFeatureFlags":["nested_categories_migration_enabled","google_analytics_4_gtag_js","campaigns_section_reorder_arrows","member_areas_spanish_interviews","commerce_pdp_layouts_ga","campaigns_audience_card","campaigns_global_uc_ab","commerce_product_branching","commerce_etsy_shipping_import","campaigns_blog_product_image_editor","reduce_general_search_api_traffic","commerce_product_composer_ab_test_all_users","campaigns_banner_reduce_size","commerce_onboarding_tools_screen_test","customer_account_creation_recaptcha","campaigns_new_subscriber_search","commerce_afterpay_pdp","commerce_restock_notifications","category-delete-product-service-enabled","member_areas_pricing_options_discounts","commerce_activation_experiment_add_payment_processor_card","commerce_category_id_discounts_enabled","campaigns_thumbnail_layout","background_art_onboarding","commerce_site_visitor_metrics","startup_checklist","viewer-role-contributor-invites","commerce_product_review_import_ga","commerce_clearpay","campaigns_hide_deleted_automations_panel","scheduling_block_schema_editor","commerce_etsy_product_import","commerce_product_review_etsy_import","campaigns_show_apply_website_styles_button","member_areas_schedule_interview"],"impersonatedSession":false,"tzData":{"zones":[[60,"EU","CE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":true};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://vingtsur20.squarespace.com","name":"Cours particulier maths - 20sur20","description":"<p>Depuis 1989, 20 sur 20 apporte l'essentiel aux coll\u00E9giens et lyc\u00E9ens de tous niveaux aux moments clefs de leur scolarit\u00E9 et tout au long de l'ann\u00E9e par<strong> des cours de math \u00E0 domicile.</strong></p>","image":"//images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1440331643223-GC9XV4QZI2OHA5QWCTV4/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"20sur20","address":"50 Avenue Foch\nParis, IDF, 75116","email":"philippe.rey@20sur20.fr","telephone":"06 60 52 09 41","sameAs":["https://www.facebook.com/20sur20"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"50 Avenue Foch\nParis, IDF, 75116","image":"https://static1.squarespace.com/static/536a2fabe4b08598c1987d70/t/55d9b776e4b0ce9ba81cc398/1620982845952/","name":"20sur20","openingHours":"Mo all day, Tu all day, We all day, Th all day, Fr all day, Sa all day, Su all day","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/536a2fabe4b08598c1987d70/113/50749216e4b0933ed3da0a8d/536a2fabe4b08598c1987d74/681-05142015/1620982845946/site.css"/><title>Cours Particulier Math</title>
+<meta name="keywords" content="Cours particuliers maths, cours de maths à domicile, prof particulier maths, cours de math a domicile, soutien maths, soutien scolaire, cours particulier math, révisions mathématique, scolaire" />
+<meta name="description" content=" Cours particuliers de mathématique" />
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85785206-1', 'auto');
+  ga('send', 'pageview');
+
+</script><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-51674982-1');</script><!-- End of Squarespace Headers -->
+  <script src="https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/core-0.2.0.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/combo/?dynamic-data.js&site.js"></script>
+  
+</head>
+
+<body class="page-borders-thick canvas-style-normal  header-subtitle-none banner-alignment-center blog-layout-right-sidebar project-layout-left-sidebar thumbnails-on-open-page-show-all social-icon-style-round  hide-info-footer     hide-article-author product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link      opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-rounded large-button-style-solid large-button-shape-square button-style-solid button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-layout-default collection-536a2fefe4b043cc62b5cadf homepage mobile-style-available logo-image" id="collection-536a2fefe4b043cc62b5cadf">
+
+  <div id="canvas">
+
+    <div id="mobileNav" class="">
+      <div class="wrapper">
+        <nav class="main-nav mobileNav"><ul>
+  
+
+        
+
+          <li class="page-collection active-link">
+
+            
+              <a href="/">Bienvenue</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/20sur20en2mots">En 2 mots</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="blog-collection">
+
+            
+              <a href="/blog">L'ACTU</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/anticiper">Anticiper</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/contact">Contact</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+</ul>
+</nav>
+      </div>
+    </div>
+    <div id="mobileMenuLink"><a>Menu</a></div>
+
+    <header id="header" data-content-field="site-title" class="clear">
+
+    
+
+      <div id="upper-logo">
+        <h1 class="logo"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1440331643223-GC9XV4QZI2OHA5QWCTV4/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png?format=1500w" alt="Cours particulier maths - 20sur20" /></a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#upper-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#upper-logo')
+          });
+        });
+      </script>
+
+      
+      <div class="site-info">
+        <div class="site-address">50 Avenue Foch</div>
+        <div class="site-city-state">Paris, IDF, 75116</div>
+        <div class="site-phone">06 60 52 09 41</div>
+      </div>
+      
+
+      <div class="site-tag-line">
+        <span>cours particulier maths</span>
+      </div>
+
+      <div class="custom-info">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Header Subtitle: Custom Content" data-type="block-field" data-updated-on="1399508112776" id="customInfoBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2ff977b0afb1744e27a0"><div class="sqs-block-content"><h3 class="text-align-center">A Neuilly s/ Seine - Paris 16e - Paris 17e depuis 1989.</h3></div></div></div></div></div>
+      </div>
+
+      <div id="lower-logo">
+        <h1 class="logo"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1440331643223-GC9XV4QZI2OHA5QWCTV4/Capture+d%E2%80%99%C3%A9cran+2015-08-23+%C3%A0+14.06.14.png?format=1500w" alt="Cours particulier maths - 20sur20" /></a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#lower-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#lower-logo')
+          });
+        });
+      </script>
+
+    
+      <div id="topNav">
+  <nav class="main-nav" data-content-field="navigation">
+    <ul>
+    
+
+        <li class="page-collection active-link">
+
+          
+
+            
+              <a href="/">Bienvenue</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/20sur20en2mots">En 2 mots</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="blog-collection">
+
+          
+
+            
+              <a href="/blog">L'ACTU</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/anticiper">Anticiper</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/contact">Contact</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+  </ul>
+  <div class="page-divider"></div>
+  </nav>
+</div>
+
+
+    </header>
+
+    <div class="page-divider top-divider"></div>
+
+    <!-- // page image or divider -->
+    
+      
+    
+
+    <section id="page" role="main" data-content-field="main-content">
+
+      <!-- // CATEGORY NAV -->
+      
+
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1600938732127" id="page-536a2fefe4b043cc62b5cadf"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_10_1_1_1399468559412_11423"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2469px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/apprendre-mieux"
+              
+          >
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:67.5172119140625%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1455613736849-S9ZSMBX01FLTVWTGHOJN/photo+2020+333.jpg" alt="S'exercer ensemble..." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1455613736849-S9ZSMBX01FLTVWTGHOJN/photo+2020+333.jpg" data-image="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1455613736849-S9ZSMBX01FLTVWTGHOJN/photo+2020+333.jpg" data-image-dimensions="2469x1667" data-image-focal-point="0.5,0.5" alt="S'exercer ensemble..." data-load="false" data-image-id="56c2e71359827e4585f11ccf" data-type="image" />
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1412858580562_13211"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:220px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:52.727272033691406%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600009212868-D85NJUGHL7TAQKTJY1UR/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+16.59.52.png" alt="Capture d’écran 2020-09-13 à 16.59.52.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600009212868-D85NJUGHL7TAQKTJY1UR/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+16.59.52.png" data-image="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600009212868-D85NJUGHL7TAQKTJY1UR/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+16.59.52.png" data-image-dimensions="220x116" data-image-focal-point="0.5,0.5" alt="Capture d’écran 2020-09-13 à 16.59.52.png" data-load="false" data-image-id="5f5e33fcf54b1d69282ca678" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_16_0_1_1401995934572_10948"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Apprendre ne va pas de soi.<br>Et l'école manque parfois de ressources pour apprendre à apprendre...</p><p class="" style="white-space:pre-wrap;">Certains élèves semblent réussir sans effort. D'autres, aussi intelligents, aussi créatifs, parfois aussi motivés, se retrouvent "bloqués".</p><p class="" style="white-space:pre-wrap;"><strong>20sur20</strong> : C'est plus de 30 ans de savoir écouter et <a href="/20sur20en2mots">savoir-faire</a> pour aider votre enfant à <strong>apprendre plus efficacement</strong>.</p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="74.74747474747475" data-block-type="5" id="block-yui_3_10_1_1_1399468319688_14657"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:424px;"
+        >
+          
+        
+        
+
+        
+          <a
+              class="
+                sqs-block-image-link
+                
+          
+        
+              "
+              href="/themas"
+              
+          >
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:74.74747467041016%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1412858038558-XP7CKL81EC4ZK07PQ19I/RTEmagicC__cid_CBE45538-C4C3-41FC-AC23-5018AC944470_01.jpg.jpg" alt="Comprendre..." /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1412858038558-XP7CKL81EC4ZK07PQ19I/RTEmagicC__cid_CBE45538-C4C3-41FC-AC23-5018AC944470_01.jpg.jpg" data-image="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1412858038558-XP7CKL81EC4ZK07PQ19I/RTEmagicC__cid_CBE45538-C4C3-41FC-AC23-5018AC944470_01.jpg.jpg" data-image-dimensions="424x282" data-image-focal-point="0.5,0.5" alt="Comprendre..." data-load="false" data-image-id="543680b6e4b001842e665042" data-type="image" />
+            </div>
+          </div>
+        
+          </a>
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_16_0_1_1401995934572_21356"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:253px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:35.17786407470703%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600009812040-Y0HQ1H23DRC57WXECMVW/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+17.09.45.png" alt="Capture d’écran 2020-09-13 à 17.09.45.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600009812040-Y0HQ1H23DRC57WXECMVW/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+17.09.45.png" data-image="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600009812040-Y0HQ1H23DRC57WXECMVW/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+17.09.45.png" data-image-dimensions="253x89" data-image-focal-point="0.5,0.5" alt="Capture d’écran 2020-09-13 à 17.09.45.png" data-load="false" data-image-id="5f5e3654e9d120579b087a2d" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c541ea5b86a9e218e282"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Des solutions individualisées, un travail personnalisé, stimulant et singulier est au cœur de notre savoir-faire pédagogique.</p><p class="" style="white-space:pre-wrap;">En maths et en sciences, 20sur20 fait vraiment la différence dans le perfectionnement scolaire depuis 1989.</p><p class="" style="white-space:pre-wrap;"><strong>Contactez-nous au 01 46 37 67 85</strong></p><p style="text-align:center;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="74.12935323383084" data-block-type="5" id="block-yui_3_10_1_1_1399566589167_13808"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:424px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:74.12935638427734%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1440055658673-E0IPI64TWPLXDV8TNAO6/r%C3%A9servations" alt="réservations" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1440055658673-E0IPI64TWPLXDV8TNAO6/r%C3%A9servations" data-image="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1440055658673-E0IPI64TWPLXDV8TNAO6/r%C3%A9servations" data-image-dimensions="424x282" data-image-focal-point="0.5,0.5" alt="réservations" data-load="false" data-image-id="543680c8e4b001842e665058" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_16_0_1_1401995934572_16161"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:213px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:48.356807708740234%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600008876239-TRVFWZXI9WBST5IRQAED/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+16.54.06.png" alt="Capture d’écran 2020-09-13 à 16.54.06.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600008876239-TRVFWZXI9WBST5IRQAED/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+16.54.06.png" data-image="https://images.squarespace-cdn.com/content/v1/536a2fabe4b08598c1987d70/1600008876239-TRVFWZXI9WBST5IRQAED/Capture+d%E2%80%99%C3%A9cran+2020-09-13+%C3%A0+16.54.06.png" data-image-dimensions="213x103" data-image-focal-point="0.5,0.5" alt="Capture d’écran 2020-09-13 à 16.54.06.png" data-load="false" data-image-id="5f5e32aca6a3fc6ccb0befaa" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-619021e458758b419f03"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Vous êtes ambitieux et très motivés ?</p><p class="" style="white-space:pre-wrap;">Vos objectifs nécessitent une réussite scolaire brillante et sans faille ?</p><p class="" style="white-space:pre-wrap;">Nous avons mis au point des solutions pour traiter par avance la totalité du programme de la classe supérieure.</p><p class="" style="white-space:pre-wrap;"><strong>Contacter nous au 06 60 52 09 41</strong></p></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_10_1_1_1399545701487_12993"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="small"
+  data-button-type="tertiary"
+>
+	<a
+    href="/apprendre-mieux"
+    class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element"
+    
+  >
+    en savoir plus
+  </a>
+</div>
+</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_10_1_1_1399545701487_27695"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="small"
+  data-button-type="tertiary"
+>
+	<a
+    href="/20sur20en2mots"
+    class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element"
+    
+  >
+    EN SAVOIR PLUS SUR NOUS
+  </a>
+</div>
+</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_10_1_1_1399572122777_20292"><div class="sqs-block-content"><hr /></div></div></div></div></div>
+
+    </section>
+
+    <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content: Bienvenue" data-type="block-field" data-updated-on="1429903000182" id="collection-536a2fefe4b043cc62b5cadf"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_16_0_1_1401975815224_3648"><div class="sqs-block-content"><p class="text-align-center">20sur20 est une marque déposée INPI 99823614<br />&nbsp;SIRET 353 601 412 00029<br />Tous droits de reproduction interdits<br /><span><span>&nbsp;</span><br />Pour toute information relative à ce site et aux offres qui y sont présentées, écrire à : contact@20sur20.fr</span></p></div></div></div></div></div>
+
+    <!-- <div class="page-divider bottom-divider"></div> -->
+
+    <div class="info-footer-wrapper clear">
+      <div class="info-footer">
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Info Footer Content" data-type="block-field" data-updated-on="1399896640938" id="infoFooterBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+      
+        
+        <div id="socialLinks" class="social-links" data-content-field="connected-accounts">
+          <a href="https://www.facebook.com/20sur20" target="_blank" class="social-facebook"></a>
+        </div>
+        
+      
+      </div>
+    </div>
+
+    <footer id="footer">
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1401975858304" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+    </footer>
+
+  </div>
+
+  <div></div>
+
+  <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol></svg>
+
+
+
+</body>
+
+</html>

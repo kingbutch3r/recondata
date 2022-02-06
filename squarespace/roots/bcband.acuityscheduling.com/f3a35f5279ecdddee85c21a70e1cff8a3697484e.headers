@@ -1,0 +1,15 @@
+GET https://bcband.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:59:57 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=rqdj0vi0v9831n80q9i8613obl; expires=Thu, 03-Mar-2022 23:59:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2d871db0-cd0a-4387-adf8-783f549ec0d8; expires=Thu, 01-Feb-2024 23:59:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

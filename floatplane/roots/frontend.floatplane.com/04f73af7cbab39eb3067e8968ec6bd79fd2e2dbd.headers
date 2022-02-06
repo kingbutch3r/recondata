@@ -1,0 +1,12 @@
+GET http://frontend.floatplane.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Expires: Mon, 31 Jan 2022 19:57:43 GMT
+< Location: https://frontend.floatplane.com/
+< Vary: Accept-Encoding
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Date: Mon, 31 Jan 2022 18:57:43 GMT
+< Cache-Control: max-age=3600
+< Server: cloudflare
+< Cf-Ray: 6d652ad89e0d2e88-BOM

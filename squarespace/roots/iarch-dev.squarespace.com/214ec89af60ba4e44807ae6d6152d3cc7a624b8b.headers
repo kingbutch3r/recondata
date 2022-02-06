@@ -1,0 +1,11 @@
+GET http://iarch-dev.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:48:50 GMT
+< Location: https://iarch-dev.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUsNTDUu45mfYTQzN2MxYjFiMGI4OTI5MWY2YzJkNDAzYTIxNjdk;Path=/
+< X-Contextid: H6ovERBc/SMBmgHe9
+< Age: 4000

@@ -1,0 +1,11 @@
+GET http://andrew-robinson-79b2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: mpifa6uY/gvSXtuwW
+< Age: 17054
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 20:34:58 GMT
+< Location: https://andrew-robinson-79b2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSnfodnFDIkVZTkzMzhkNTNmMjJhZmI0ZWJjM2UwNDAyMWQ2OTcz;Path=/

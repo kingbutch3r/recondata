@@ -1,0 +1,11 @@
+GET http://shellrummel2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BWzS4/bDNhJsNDJmYzJkMzgxNTg5ZjYzNDQ4NmFlOTMwOGJhNWZk;Path=/
+< X-Contextid: SzyXNYIO/g3vYvKCC
+< Age: 342902
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 02:06:34 GMT
+< Location: https://shellrummel2.squarespace.com/

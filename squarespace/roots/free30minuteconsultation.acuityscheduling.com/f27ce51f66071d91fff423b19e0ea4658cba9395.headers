@@ -1,0 +1,15 @@
+GET https://free30minuteconsultation.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:22:57 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=scged5bo28t6b6ei63q09t08bh; expires=Fri, 04-Mar-2022 00:22:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=88ce4283-2d06-4aa5-9a04-efcd0aef28c8; expires=Fri, 02-Feb-2024 00:22:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

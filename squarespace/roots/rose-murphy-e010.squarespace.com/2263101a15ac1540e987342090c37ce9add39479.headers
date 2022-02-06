@@ -1,0 +1,16 @@
+GET https://rose-murphy-e010.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 22476
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BcSajmEyoFdxODM2NzE5ZjE4NTAzMGNjZDA3YzFmZDE5YzQ4ZGFk;Path=/
+< Strict-Transport-Security: max-age=0
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Date: Tue, 01 Feb 2022 17:36:36 GMT
+< Etag: W/"18d155674cfb335df7ed23b4657c2d34--gzip"
+< X-Content-Type-Options: nosniff
+< X-Contextid: FypqC5f3/tRPyQ8jS

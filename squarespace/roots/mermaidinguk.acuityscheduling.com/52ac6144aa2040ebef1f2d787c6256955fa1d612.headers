@@ -1,0 +1,15 @@
+GET https://mermaidinguk.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:16:35 GMT
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=dpg98ps52fp3tgkmvgmd3mqjo5; expires=Fri, 04-Mar-2022 00:16:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4d82e7d4-e0c1-4ae3-8707-8ec33f80027d; expires=Fri, 02-Feb-2024 00:16:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

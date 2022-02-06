@@ -1,0 +1,11 @@
+GET http://bird-mushroom-4h52.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Sun, 30 Jan 2022 13:58:13 GMT
+< Location: https://bird-mushroom-4h52.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTUi69krKv9XZDJjZTUwM2FlNjQ3ZTAyZWEyODZmZjA5OGM4NGMx;Path=/
+< X-Contextid: qC1J2ZNg/NrePGFRR
+< Age: 212004
+< Content-Length: 0

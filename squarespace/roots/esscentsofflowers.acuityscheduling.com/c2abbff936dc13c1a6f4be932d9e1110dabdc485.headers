@@ -1,0 +1,17 @@
+GET https://esscentsofflowers.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:37:24 GMT
+< Content-Length: 0
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=k99b6ab65kjv99j8rfbrb705k6; expires=Fri, 04-Mar-2022 00:37:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9c06ac76-e432-4133-950e-fa9098405fb7; expires=Fri, 02-Feb-2024 00:37:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

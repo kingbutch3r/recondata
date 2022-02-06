@@ -1,0 +1,16 @@
+GET http://jessrhodes.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: GBxwiU4i/ugtbSLCk
+< Age: 0
+< Etag: W/"398b7084f939e4919c1ba6a431b2c87b--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Cache-Control: max-age=172800, s-maxage=172800
+< X-Content-Type-Options: nosniff
+< Set-Cookie: crumb=BWg7oksqwIUvZGExOTEwZjc0NmJiM2UyMzYxODZiNjdiNmE2Zjc3;Path=/
+< Date: Tue, 01 Feb 2022 23:49:49 GMT
+< Server: Squarespace

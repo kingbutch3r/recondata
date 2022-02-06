@@ -1,0 +1,15 @@
+GET https://mikistrong.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:12:57 GMT
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=bdvp2636vegpo84vp1l31trs9d; expires=Fri, 04-Mar-2022 00:12:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=53add398-5ef5-42b4-87e0-e29c6b42d0e0; expires=Fri, 02-Feb-2024 00:12:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff

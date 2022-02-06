@@ -1,0 +1,9 @@
+GET http://rkerle1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:14:52 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=149E72639A7D82EFEA8FC7458315FB59.v5-web010; Path=/; HttpOnly
+< X-Contextid: 7CRuCxGR/l7pwvVhy

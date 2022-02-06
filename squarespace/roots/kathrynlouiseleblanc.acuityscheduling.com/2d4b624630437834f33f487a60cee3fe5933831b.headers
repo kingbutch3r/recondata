@@ -1,0 +1,15 @@
+GET https://kathrynlouiseleblanc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:58:24 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=86p9s3j3j5ehklobl0bqjn2r3q; expires=Thu, 03-Mar-2022 23:58:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8cfe003f-b52b-453e-a32b-d1072559de0e; expires=Thu, 01-Feb-2024 23:58:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8

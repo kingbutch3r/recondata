@@ -1,0 +1,16 @@
+GET https://mike-rothman-6351.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Etag: W/"b3bbc0d19cb3d2caafacb6a21fc3d595"
+< Date: Sun, 30 Jan 2022 09:32:31 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BfqyfWHwPfPhM2ExODg2MTFjYzUzNzQwODgyMGZlZmY0Mzk4ZDE2;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 229289
+< X-Contextid: BtGIoeXO/400RMcGw
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff

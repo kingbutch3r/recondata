@@ -1,0 +1,11 @@
+GET https://www.alteredroad1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BfuOYDm+S1vhNDc1ODkxYzQzZDY1Y2JjZDU4MzdiM2U1MTJiMGI3;Path=/
+< X-Contextid: tNcrjVY3/ZThfhFCV
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:14:50 GMT
+< Location: https://alteredroad1.squarespace.com/

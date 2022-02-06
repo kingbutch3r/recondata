@@ -1,0 +1,17 @@
+GET https://bodybyfadi.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=15beiqa8b6l9u9h8eg9m5sotuv; expires=Fri, 04-Mar-2022 00:14:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=88293945-d69d-4228-b21d-66fdbaf4600e; expires=Fri, 02-Feb-2024 00:14:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:14:58 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent

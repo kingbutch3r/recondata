@@ -1,0 +1,17 @@
+GET https://suzannebourner.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:29:28 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=tua8so1p2tmlglhhn7cmo1e4vs; expires=Fri, 04-Mar-2022 00:29:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2bd1252d-8a76-4a68-8a94-854c021c420c; expires=Fri, 02-Feb-2024 00:29:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

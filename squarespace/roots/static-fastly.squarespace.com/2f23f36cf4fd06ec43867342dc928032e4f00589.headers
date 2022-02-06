@@ -1,0 +1,19 @@
+GET https://static-fastly.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-cache, must-revalidate
+< X-Contextid: F5Q3Uu4s/oEElQYVp
+< Accept-Ranges: bytes
+< Tracepoint: Fastly
+< Pragma: no-cache
+< X-Timer: S1643763305.731545,VS0,VE0
+< X-Cache: HIT, HIT
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 00:55:04 GMT
+< Age: 265
+< X-Served-By: cache-dfw18649-DFW, cache-bom4744-BOM
+< Content-Type: text/html; charset=UTF-8
+< Via: 1.1 varnish, 1.1 varnish
+< X-Cache-Hits: 6, 1
+< Vary: Accept-Encoding

@@ -1,0 +1,27 @@
+GET http://5help.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Request-Id: 6d6f734608972e52-SEA
+< X-Request-Id: 6d6f734608972e52-SEA
+< Cf-Ray: 6d6f734608972e52-BOM
+< Content-Length: 98
+< Zendesk-Api-Version: 2022-01-01
+< X-Xss-Protection: 1; mode=block
+< Zendesk-Ep: 10
+< Cache-Control: no-cache
+< Content-Security-Policy: frame-ancestors 'self' 5help.squarespace.com support.squarespace.com help.unfold.com;
+< Location: https://5help.squarespace.com/hc
+< X-Zendesk-Origin-Server: classic-app-server-66bdf8fd94-kx2hk
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=ed1EmNG0pdxDdSEOJndTn34zikaWGNpXa4LeeBXENYAq2SuIWL0CBNYb7XLTiVMxRjItENiQtd8%2BmAwtgoJE3ZQnCoWIOKdmusuWSA8rpZOGQGbxuK0EaYRpKPt17W7OQ1N1653vhQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: __cfruid=e59e2310b68e7b530c62f4c773a89e9b0682f22a-1643763288; path=/; domain=.5help.squarespace.com; HttpOnly
+< Cf-Cache-Status: DYNAMIC
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Date: Wed, 02 Feb 2022 00:54:48 GMT
+< Vary: Accept
+< X-Runtime: 0.062676
+< X-Zendesk-Zorg: yes

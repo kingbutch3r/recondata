@@ -1,0 +1,17 @@
+GET https://mariannestrait.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:40:53 GMT
+< Set-Cookie: PHPSESSID=8n0odkmvma7fl09qnrters34t7; expires=Fri, 04-Mar-2022 00:40:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=56bd82ea-b25f-4d94-a9e6-e3aec3ab1a32; expires=Fri, 02-Feb-2024 00:40:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0

@@ -1,0 +1,15 @@
+GET https://activity-demo.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Server: rhino-core-shield
+< Vary: Accept-Encoding
+< Via: 1.1 google
+< Date: Tue, 01 Feb 2022 23:26:21 GMT
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Set-Cookie: GCLB=COzmpYSRkOyFMw; path=/; HttpOnly
+< Content-Type: text/html; charset=utf-8
+< Alt-Svc: clear
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"

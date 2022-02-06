@@ -1,0 +1,16 @@
+GET https://linda-quartey-biw1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BQKqZW1fXdGOYTliOGNjNzYyYzQ3MDcyNGEzZDcxNzJhNTFhOGUx;Path=/
+< Age: 262192
+< Etag: W/"aba8d9db95bcd2c1e4dfce5e452c3ee0--gzip"
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Sun, 30 Jan 2022 00:01:19 GMT
+< X-Contextid: gr9V7i2W/GKyFxMqV

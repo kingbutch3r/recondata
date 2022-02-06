@@ -1,0 +1,17 @@
+GET https://numericstrategies.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:32:39 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=9bg94ups3tg1glqeq2m9m63vmt; expires=Fri, 04-Mar-2022 00:32:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c5da2400-1833-4295-abe2-d728a5a0b427; expires=Fri, 02-Feb-2024 00:32:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

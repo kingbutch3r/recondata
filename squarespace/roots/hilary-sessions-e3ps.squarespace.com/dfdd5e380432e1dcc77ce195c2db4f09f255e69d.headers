@@ -1,0 +1,11 @@
+GET http://hilary-sessions-e3ps.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: PTJvqUXa/7YT6VFvy
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:22:54 GMT
+< Location: https://hilary-sessions-e3ps.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRnjDcwjluHIMGU2ODZhNjQ0N2ZlNzZmYjdlZGM1N2ZmYTJjZjc4;Path=/

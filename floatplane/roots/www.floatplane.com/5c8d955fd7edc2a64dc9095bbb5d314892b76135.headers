@@ -1,0 +1,14 @@
+GET https://www.floatplane.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: application/json; charset=utf-8
+< Cf-Cache-Status: DYNAMIC
+< Fp-Instance: ovbh-vprod-web01.floatplane.com
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Date: Mon, 31 Jan 2022 18:57:43 GMT
+< Cf-Ray: 6d652ace9b10854c-BOM
+< Etag: W/"51-b2e72xjmmX1MZ2cV5dE+W1xhOvI"
+< Vary: Accept-Encoding
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare

@@ -1,0 +1,14 @@
+GET https://patti-shaffner-gm12.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< X-Contextid: 9HbAc8O9/ROjI0sPr
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:51:21 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Length: 3208
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bc4SIFhe0RmrNjE5ZmVlNTBiMjQyNzJhYmViODNmMTA3YjBmNGZj;Path=/

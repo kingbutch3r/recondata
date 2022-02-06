@@ -1,0 +1,15 @@
+GET https://9999to1.harrys.com
+
+
+< HTTP/1.1 200 OK
+< X-Vercel-Id: bom1:bom1::kv52h-1643477967040-78ccdcf62f66
+< Date: Sat, 29 Jan 2022 17:39:27 GMT
+< Access-Control-Allow-Origin: *
+< Content-Disposition: inline; filename="index.html"
+< Server: Vercel
+< Cache-Control: public, max-age=0, must-revalidate
+< Age: 3351541
+< X-Vercel-Cache: HIT
+< Strict-Transport-Security: max-age=63072000
+< Content-Type: text/html; charset=utf-8
+< Etag: W/"28578a160d7a0c0604ae612ab524ad71d5e6ba58144ed06750f0c038ab797042"

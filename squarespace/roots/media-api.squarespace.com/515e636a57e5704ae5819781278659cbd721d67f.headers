@@ -1,0 +1,8 @@
+GET http://media-api.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:54:47 GMT
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Content-Length: 277

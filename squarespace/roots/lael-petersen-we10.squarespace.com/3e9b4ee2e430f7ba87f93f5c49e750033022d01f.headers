@@ -1,0 +1,16 @@
+GET https://lael-petersen-we10.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 209011
+< Etag: W/"7ffe6b092bedd2a67445e8374e77817f"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Sun, 30 Jan 2022 14:46:10 GMT
+< X-Contextid: 7QZUL3eD/DETszZgQ
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BQXVsAWcVo2yYWQxNTFiYWY1NjM2YzhjOGIyMTE5MzExODAxNDM2;Path=/

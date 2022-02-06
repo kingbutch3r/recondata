@@ -1,0 +1,11 @@
+GET http://radish-papaya-lw49.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: vskCdIFC/1E6EiZft
+< Age: 44921
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 12:30:02 GMT
+< Location: https://radish-papaya-lw49.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bcwj6yQRv26tNGQyZjIyYTBhOTE2YjU0MWY1NzkxNWRmYWU5ZDIw;Path=/

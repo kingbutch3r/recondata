@@ -1,0 +1,13 @@
+GET https://copper-sealion-cbh2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< X-Contextid: 8nfCVflE/3N0bvPDn
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BX5XtvcsyppuZjE1MTBmMzUxMjRhNTU2YzY1ZWI0MjdjYWVhYzI2;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:32 GMT

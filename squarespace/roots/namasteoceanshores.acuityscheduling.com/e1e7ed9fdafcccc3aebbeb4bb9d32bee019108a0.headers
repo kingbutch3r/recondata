@@ -1,0 +1,15 @@
+GET https://namasteoceanshores.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:33:08 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=vnrto9vf1gv5fcodjtjmq4q422; expires=Fri, 04-Mar-2022 00:33:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1ef1d844-2ce5-4dd6-b373-e6752137571a; expires=Fri, 02-Feb-2024 00:33:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

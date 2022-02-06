@@ -1,0 +1,12 @@
+GET https://api1.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Pragma: no-cache
+< Content-Type: text/html; charset=utf-8
+< Cache-Control: no-cache, private, no-transform, no-store
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:26:25 GMT

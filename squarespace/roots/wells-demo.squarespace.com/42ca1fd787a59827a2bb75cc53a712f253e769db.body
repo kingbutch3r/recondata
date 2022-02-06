@@ -1,0 +1,561 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+<head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<!-- This is Squarespace. --><!-- wells-demo -->
+<base href="">
+<meta charset="utf-8" />
+<title>Wells</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="https://wells-demo.squarespace.com"/>
+<meta property="og:site_name" content="Wells"/>
+<meta property="og:title" content="Wells"/>
+<meta property="og:url" content="https://wells-demo.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Wells"/>
+<meta itemprop="url" content="https://wells-demo.squarespace.com"/>
+<meta name="twitter:title" content="Wells"/>
+<meta name="twitter:url" content="https://wells-demo.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/ol99DpMytympYZKZDqX9EHWN5WXbJiEd_ZL1JpCtpnbfeCtffFHN4UJLFRbh52jhWD9hZ28KFDItwAb3Fhw3jhbUFcscFAjUwsT6HKoaZAUCSkuqZAuzO1FUiABkZWF3jAF8OcFzdPUCdhFydeyzSabCihmCdYwlZemldkoDSWmyScmDSeBRZPoRdhXCiaiaO1i8deUDOAs8dAv0SaBujW48Sagyjh90jhNlJ6U3ScNt-AuyOAozicI7fbKnMsMMeMI6MKG4fH3gIMMjfkMfH6qJtKGbMg62JMJ7fbRRHyMMeMX6MKG4fHvgIMMjgfMfH6qJCMIbMg65JMJ7f6K3UMIbMg6BJMJ7f6KUUMIbMg6VJMJ7fbKlMsMMeMj6MKG4fHtgIMMjIfMfH6qJK3IbMg6YJMJ7fbKwMsMMegI6MKG4fHqgIMMjffMfH6qJ76IbMg6PJMJ7fbK4MsMMeMq6MKG4fJGgIMMjIkMfqMeAqHnegb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/sign-up-pill-4db8cdf8d4382d5efae0e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-sign_up_pill');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/sign-up-pill-4db8cdf8d4382d5efae0e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/error-reporter-554ae6ed88f41fbb0d0ea-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-error_reporter');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/error-reporter-554ae6ed88f41fbb0d0ea-min.en-US.js" ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"56d9b7181d07c0cd16df5f11","identifier":"wells-demo","websiteType":1,"contentModifiedOn":1490738747510,"cloneable":true,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Wells","fullSiteTitle":"Wells","siteTagLine":"","siteDescription":"","shareButtonOptions":{"3":true,"4":true,"2":true,"7":true,"1":true,"6":true},"authenticUrl":"https://wells-demo.squarespace.com","internalUrl":"https://wells-demo.squarespace.com","baseUrl":"https://wells-demo.squarespace.com","sslSetting":3,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"d67e4fbce0301494f8a11b45e59f54cbe9bab11762065e082b8e627d71187d03","showOwnerLogin":false},"websiteSettings":{"id":"56d9b7181d07c0cd16df5f14","websiteId":"56d9b7181d07c0cd16df5f11","subjects":[],"country":"US","state":"NY","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":false,"isShippingPhoneRequired":false,"showBillingPhoneNumber":false,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":true,"collection":{"title":"Portraiture","id":"56d9b7b5cf80a1d5bca878ae","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"gallery-style":"Fit","galleryPadding":"40px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","thumbnail-aspect-ratio":"Auto","thumbnailWidth":"360px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"4f9adc1524ac5df956fdf98f","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/4f9adbe124ac5df956fdf900/865/scripts/","betaFeatureFlags":["member_areas_schedule_interview","commerce_clearpay","commerce_product_branching","commerce_restock_notifications","commerce_activation_experiment_add_payment_processor_card","commerce_pdp_layouts_ga","commerce_onboarding_tools_screen_test","customer_account_creation_recaptcha","campaigns_global_uc_ab","commerce_product_review_etsy_import","category-delete-product-service-enabled","commerce_etsy_shipping_import","nested_categories_migration_enabled","campaigns_thumbnail_layout","viewer-role-contributor-invites","commerce_afterpay_pdp","campaigns_audience_card","commerce_product_review_import_ga","google_analytics_4_gtag_js","campaigns_section_reorder_arrows","member_areas_spanish_interviews","startup_checklist","campaigns_hide_deleted_automations_panel","commerce_product_composer_ab_test_all_users","campaigns_new_subscriber_search","commerce_site_visitor_metrics","campaigns_blog_product_image_editor","background_art_onboarding","campaigns_show_apply_website_styles_button","commerce_etsy_product_import","member_areas_pricing_options_discounts","campaigns_banner_reduce_size","commerce_category_id_discounts_enabled","reduce_general_search_api_traffic"],"impersonatedSession":false,"demoCollections":[{"collectionId":"4f9adbe124ac5df956fdf905","deleted":true},{"collectionId":"502574d384aeab0e9130621f","deleted":true},{"collectionId":"5217a847e4b000bbb34ae46e","deleted":true},{"collectionId":"4f9adbe124ac5df956fdf904","deleted":true},{"collectionId":"4f9adbe124ac5df956fdf906","deleted":true}],"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"https://wells-demo.squarespace.com","name":"Wells","description":"","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/56d9b7181d07c0cd16df5f11/49/4f9adc1524ac5df956fdf98f/56d9b7181d07c0cd16df5f18/865-05142015/1490738738705/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script
+  async="async"
+  src="//consent.trustarc.com/notice?domain=squarespace.com&c=teconsent&js=nj&noticeType=bb&text=true&pn=2&gtm=1&pcookie"
+  crossorigin=""
+></script><!-- End of Squarespace Headers -->
+</head>
+<body class="sidebar-text-alignment-left sidebar-position-left sidebar-fixed mobile-site-title-style-auto blog-sidebar-right gallery-style-fit enable-gallery-thumbnails initial-gallery-view-thumbnails homepage-gallery-view-inherit thumbnail-aspect-ratio-auto gallery-controls-simple social-icon-style-normal hide-social-icons  show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    product-list-titles-under product-list-alignment-center product-item-size-23-standard-vertical product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-gallery collection-layout-default collection-56d9b7b5cf80a1d5bca878ae homepage view-list mobile-style-available" id="collection-56d9b7b5cf80a1d5bca878ae">
+
+  <div id="canvasWrapper">
+    <div id="canvas">
+
+      <div id="mobileNav"><div class="wrapper">
+        <nav class="main-nav mobile-nav"><ul>
+  
+
+        
+
+          <li class="gallery-collection active-link">
+
+            
+              <a href="/">Portraiture</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="gallery-collection">
+
+            
+              <a href="/human-nature-wells">Human/Nature</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+</ul>
+</nav>
+        <nav class="main-nav mobile-nav"><ul>
+  
+
+        
+
+          <li class="blog-collection">
+
+            
+              <a href="/blog-wells">Blog</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/contact-wells">Contact</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/read-me-wells">Read Me</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+</ul>
+</nav>
+      </div></div>
+
+      <div id="headerWrapper">
+      <header id="header">
+
+        <div id="topNavMobile">
+          <nav id="mobileMenuLink" class="main-nav clear"><ul><li class="active-link"><a>Menu</a></li></ul></nav>
+        </div>
+
+        <div id="logo" data-content-field="site-title">
+          
+            <h1 class="logo site-title">
+              <a href="/">
+                
+                  Wells
+                
+              </a>
+            </h1>
+            
+          
+        </div>
+
+        <script>
+          Y.use('squarespace-ui-base', function(Y) {
+            Y.one("h1.logo").plug(Y.Squarespace.TextShrink);
+          });
+        </script>
+
+        <div id="topNav" data-content-field="navigation">
+          <nav id="mainNavigation" class="main-nav dropdown-click desktop-nav">
+            <ul>
+  
+
+      <li class="gallery-collection active-link">
+
+        
+
+          
+            <a href="/">Portraiture</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="gallery-collection">
+
+        
+
+          
+            <a href="/human-nature-wells">Human/Nature</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+</ul>
+
+          </nav>
+
+          <nav id="secondaryNavigation" class="main-nav dropdown-click desktop-nav">
+            <ul>
+  
+
+      <li class="blog-collection">
+
+        
+
+          
+            <a href="/blog-wells">Blog</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="page-collection">
+
+        
+
+          
+            <a href="/contact-wells">Contact</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="page-collection">
+
+        
+
+          
+            <a href="/read-me-wells">Read Me</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+</ul>
+
+          </nav>
+        </div>
+
+        <div class="sqs-layout sqs-grid-1 columns-1 empty" data-layout-label="Header Content" data-type="block-field" id="headerBlocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"></div></div></div>
+
+      
+        
+      
+
+      </header>
+      </div>
+
+      <div id="pageWrapper" class="hfeed" role="main">
+        <!-- CATEGORY NAV -->
+        
+      <section id="page">
+
+      <div class="main-content" data-content-field="main-content">
+        <div id="galleryWrapper">
+
+  <div id="slideshowWrapper" class="">
+    <div id="slideshow" class="slideshow">
+    	
+    		<div class="slide" data-slide-id="56ddddb6c2ea51bb62417698" data-slide-url="pgh5rpj7l7jqgh0spt6ahxgx8ntzsf">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457380790451-1V4EBAPSUERI6XZ0DUPD/portraiture-82.65.2_PS2.jpg" alt="portraiture-82.65.2_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457380790451-1V4EBAPSUERI6XZ0DUPD/portraiture-82.65.2_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457380790451-1V4EBAPSUERI6XZ0DUPD/portraiture-82.65.2_PS2.jpg" data-image-dimensions="1113x1478" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.2_PS2.jpg" data-load="false" data-image-id="56ddddb6c2ea51bb62417698" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56ddebda8a65e278b3187057" data-slide-url="k96nwahfgra280mjtcy8mvoq7f0ui9">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475545583-RSE6AI5JFTGOY7JDKIXR/portraiture-82.65.447_PS1.jpg" alt="portraiture-82.65.447_PS1.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475545583-RSE6AI5JFTGOY7JDKIXR/portraiture-82.65.447_PS1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475545583-RSE6AI5JFTGOY7JDKIXR/portraiture-82.65.447_PS1.jpg" data-image-dimensions="1245x1381" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.447_PS1.jpg" data-load="false" data-image-id="56ddebda8a65e278b3187057" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde1d6044262ef7f9a0b69" data-slide-url="2owv9kvgorhofo0npj3ak3t2zaiz7q">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475445982-CZ8CAQWJ9VH6G6MXRB9S/portraiture-82.65.366_PS2.jpg" alt="portraiture-82.65.366_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475445982-CZ8CAQWJ9VH6G6MXRB9S/portraiture-82.65.366_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475445982-CZ8CAQWJ9VH6G6MXRB9S/portraiture-82.65.366_PS2.jpg" data-image-dimensions="1127x1443" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.366_PS2.jpg" data-load="false" data-image-id="56dde1d6044262ef7f9a0b69" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde02986db4354f98dea14" data-slide-url="bk8w5rghz7si7s76y4gvukqhaky4qp">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475465198-ELIGEGUCMH604ZDRGQJB/portraiture-82.65.9_PS2.jpg" alt="portraiture-82.65.9_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475465198-ELIGEGUCMH604ZDRGQJB/portraiture-82.65.9_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475465198-ELIGEGUCMH604ZDRGQJB/portraiture-82.65.9_PS2.jpg" data-image-dimensions="1129x1284" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.9_PS2.jpg" data-load="false" data-image-id="56dde02986db4354f98dea14" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde02d86db4354f98dea5f" data-slide-url="kmqog1434uyjgkvl1fzhwgiu6g539f">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474124582-OSQWM2UYPA7MLU0XY926/portraiture-82.65.133_PS2.jpg" alt="portraiture-82.65.133_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474124582-OSQWM2UYPA7MLU0XY926/portraiture-82.65.133_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474124582-OSQWM2UYPA7MLU0XY926/portraiture-82.65.133_PS2.jpg" data-image-dimensions="1099x1470" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.133_PS2.jpg" data-load="false" data-image-id="56dde02d86db4354f98dea5f" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde45c1bbee01913c664a1" data-slide-url="9tkwb8z4ogbukzhvukq4pq0f74k53m">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475496888-W0QC645FIMZH6R01BBGF/portraiture-82.65.66_PS2.jpg" alt="portraiture-82.65.66_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475496888-W0QC645FIMZH6R01BBGF/portraiture-82.65.66_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475496888-W0QC645FIMZH6R01BBGF/portraiture-82.65.66_PS2.jpg" data-image-dimensions="1203x1504" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.66_PS2.jpg" data-load="false" data-image-id="56dde45c1bbee01913c664a1" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde34d37013b29d28c9a7e" data-slide-url="0myia3avjfbr76sskzl6q6zkyokxmb">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475530517-TE22N1Z7UH1S5NFFJOSP/portraiture-82.65.5_PS2.jpg" alt="portraiture-82.65.5_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475530517-TE22N1Z7UH1S5NFFJOSP/portraiture-82.65.5_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475530517-TE22N1Z7UH1S5NFFJOSP/portraiture-82.65.5_PS2.jpg" data-image-dimensions="1145x1474" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.5_PS2.jpg" data-load="false" data-image-id="56dde34d37013b29d28c9a7e" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde0e845bf210da7bf3d2c" data-slide-url="stegkkd8n86nhzgx1rwgwm4lmv19dp">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475477342-6A3K63FQUT37DYI19X5W/portraiture-82.65.79_PS2.jpg" alt="portraiture-82.65.79_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475477342-6A3K63FQUT37DYI19X5W/portraiture-82.65.79_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475477342-6A3K63FQUT37DYI19X5W/portraiture-82.65.79_PS2.jpg" data-image-dimensions="1283x1502" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.79_PS2.jpg" data-load="false" data-image-id="56dde0e845bf210da7bf3d2c" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde4221d07c00cbfe5696c" data-slide-url="ci7svode1xrjalca1pit3ifq6b1p57">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475919508-O5I1RJXA77BOAD7EQDW0/portraiture-82.65.465_PS2.jpg" alt="portraiture-82.65.465_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475919508-O5I1RJXA77BOAD7EQDW0/portraiture-82.65.465_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475919508-O5I1RJXA77BOAD7EQDW0/portraiture-82.65.465_PS2.jpg" data-image-dimensions="1161x1462" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.465_PS2.jpg" data-load="false" data-image-id="56dde4221d07c00cbfe5696c" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde88f8259b5b05d397793" data-slide-url="zzcmllcff21r62vu2o4juraappelbi">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475894379-GX07H5PS5IER6I9QFHG5/portraiture-82.65.379_PS1-toned.jpg" alt="portraiture-82.65.379_PS1-toned.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475894379-GX07H5PS5IER6I9QFHG5/portraiture-82.65.379_PS1-toned.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475894379-GX07H5PS5IER6I9QFHG5/portraiture-82.65.379_PS1-toned.jpg" data-image-dimensions="1074x1384" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.379_PS1-toned.jpg" data-load="false" data-image-id="56dde88f8259b5b05d397793" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde5a5f8baf37a65144e08" data-slide-url="hstf39cga5cgjb20qg9dif961kru51">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474083118-3AMK647X1L0MJUFP43L9/portraiture-82.65.173_PS2.jpg" alt="portraiture-82.65.173_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474083118-3AMK647X1L0MJUFP43L9/portraiture-82.65.173_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474083118-3AMK647X1L0MJUFP43L9/portraiture-82.65.173_PS2.jpg" data-image-dimensions="1140x1469" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.173_PS2.jpg" data-load="false" data-image-id="56dde5a5f8baf37a65144e08" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    		<div class="slide" data-slide-id="56dde5a6f699bbba913c022f" data-slide-url="smvvgq674vgfr7mi18zk6gp4kfjxa8">
+          <noscript><img src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475931580-6K5U8YR14I1T0OQ9WYMJ/portraiture-82.65.454_PS2.jpg" alt="portraiture-82.65.454_PS2.jpg" /></noscript><img class="load-false" data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475931580-6K5U8YR14I1T0OQ9WYMJ/portraiture-82.65.454_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475931580-6K5U8YR14I1T0OQ9WYMJ/portraiture-82.65.454_PS2.jpg" data-image-dimensions="1191x1446" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.454_PS2.jpg" data-load="false" data-image-id="56dde5a6f699bbba913c022f" data-type="image" />
+          
+          
+          
+        </div>
+    	
+    </div>
+    <div class="overlay-controls left-control"></div>
+    <div class="overlay-controls center-control thumbnail-toggle"></div>
+    <div class="overlay-controls right-control"></div>
+    <div id="thumbnails">
+      
+        <div class="thumb" data-slide-id="56ddddb6c2ea51bb62417698">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457380790451-1V4EBAPSUERI6XZ0DUPD/portraiture-82.65.2_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457380790451-1V4EBAPSUERI6XZ0DUPD/portraiture-82.65.2_PS2.jpg" data-image-dimensions="1113x1478" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.2_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56ddebda8a65e278b3187057">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475545583-RSE6AI5JFTGOY7JDKIXR/portraiture-82.65.447_PS1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475545583-RSE6AI5JFTGOY7JDKIXR/portraiture-82.65.447_PS1.jpg" data-image-dimensions="1245x1381" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.447_PS1.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde1d6044262ef7f9a0b69">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475445982-CZ8CAQWJ9VH6G6MXRB9S/portraiture-82.65.366_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475445982-CZ8CAQWJ9VH6G6MXRB9S/portraiture-82.65.366_PS2.jpg" data-image-dimensions="1127x1443" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.366_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde02986db4354f98dea14">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475465198-ELIGEGUCMH604ZDRGQJB/portraiture-82.65.9_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475465198-ELIGEGUCMH604ZDRGQJB/portraiture-82.65.9_PS2.jpg" data-image-dimensions="1129x1284" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.9_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde02d86db4354f98dea5f">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474124582-OSQWM2UYPA7MLU0XY926/portraiture-82.65.133_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474124582-OSQWM2UYPA7MLU0XY926/portraiture-82.65.133_PS2.jpg" data-image-dimensions="1099x1470" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.133_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde45c1bbee01913c664a1">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475496888-W0QC645FIMZH6R01BBGF/portraiture-82.65.66_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475496888-W0QC645FIMZH6R01BBGF/portraiture-82.65.66_PS2.jpg" data-image-dimensions="1203x1504" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.66_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde34d37013b29d28c9a7e">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475530517-TE22N1Z7UH1S5NFFJOSP/portraiture-82.65.5_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475530517-TE22N1Z7UH1S5NFFJOSP/portraiture-82.65.5_PS2.jpg" data-image-dimensions="1145x1474" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.5_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde0e845bf210da7bf3d2c">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475477342-6A3K63FQUT37DYI19X5W/portraiture-82.65.79_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475477342-6A3K63FQUT37DYI19X5W/portraiture-82.65.79_PS2.jpg" data-image-dimensions="1283x1502" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.79_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde4221d07c00cbfe5696c">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475919508-O5I1RJXA77BOAD7EQDW0/portraiture-82.65.465_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475919508-O5I1RJXA77BOAD7EQDW0/portraiture-82.65.465_PS2.jpg" data-image-dimensions="1161x1462" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.465_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde88f8259b5b05d397793">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475894379-GX07H5PS5IER6I9QFHG5/portraiture-82.65.379_PS1-toned.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475894379-GX07H5PS5IER6I9QFHG5/portraiture-82.65.379_PS1-toned.jpg" data-image-dimensions="1074x1384" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.379_PS1-toned.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde5a5f8baf37a65144e08">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474083118-3AMK647X1L0MJUFP43L9/portraiture-82.65.173_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457474083118-3AMK647X1L0MJUFP43L9/portraiture-82.65.173_PS2.jpg" data-image-dimensions="1140x1469" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.173_PS2.jpg"  data-load="false"/>
+        </div>
+      
+        <div class="thumb" data-slide-id="56dde5a6f699bbba913c022f">
+          <img data-src="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475931580-6K5U8YR14I1T0OQ9WYMJ/portraiture-82.65.454_PS2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/56d9b7181d07c0cd16df5f11/1457475931580-6K5U8YR14I1T0OQ9WYMJ/portraiture-82.65.454_PS2.jpg" data-image-dimensions="1191x1446" data-image-focal-point="0.5,0.5" alt="portraiture-82.65.454_PS2.jpg"  data-load="false"/>
+        </div>
+      
+    </div>
+  </div>
+
+  <div class="meta">
+
+    <div id="imageData">
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+      <div class="slide">
+        <div class="slide-meta-wrapper">
+          
+          
+        </div>
+      </div>
+      
+    </div>
+
+    <div id="simpleControls" class="gallery-controls">
+        <span class="control prev-slide">prev</span> / <span class="control next-slide">next</span>
+    </div>
+
+    <div id="numberControls" class="gallery-controls"><span class="number">1 </span><span class="number">2 </span><span class="number">3 </span><span class="number">4 </span><span class="number">5 </span><span class="number">6 </span><span class="number">7 </span><span class="number">8 </span><span class="number">9 </span><span class="number">10 </span><span class="number">11 </span><span class="number">12 </span></div>
+
+    <div id="dotControls" class="gallery-controls"><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span><span class="dot">&middot;</span></div>
+
+    <div class="thumbnail-toggle">show thumbnails</div>
+
+  </div>
+
+</div>
+      </div>
+
+      
+
+      </section>
+      </div>
+
+    </div>
+  </div>
+
+<script type="text/javascript" src="https://static1.squarespace.com/static/ta/4f9adbe124ac5df956fdf900/865/scripts/combo/?site.js"></script>
+<!-- EU cookie banner code (begin) -->
+<script type="text/javascript" src="https://www.squarespace.com/s/cookie-banner.js"></script>
+<!-- EU cookie banner code (end) --><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+</body>
+</html>

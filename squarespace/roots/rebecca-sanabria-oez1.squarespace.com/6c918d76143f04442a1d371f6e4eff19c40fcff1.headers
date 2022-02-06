@@ -1,0 +1,16 @@
+GET https://rebecca-sanabria-oez1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 322957
+< Set-Cookie: crumb=BXQemqsdEGEJMTc3NDBkYjRlMTIwNTNmMzBkYTI2NzMzYzUwNjlk;Path=/
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: 1fOubJih/PcHF6BlS
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 07:33:28 GMT
+< Etag: W/"79c8731870cc52b3587818732a656d65"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

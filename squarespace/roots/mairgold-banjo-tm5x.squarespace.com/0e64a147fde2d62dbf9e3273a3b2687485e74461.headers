@@ -1,0 +1,11 @@
+GET https://mairgold-banjo-tm5x.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: max-age=300, s-maxage=300
+< Server: Squarespace
+< Set-Cookie: crumb=BUgOSpV3HYAdZjI5YmQ2MTQ1M2ZlMzFlMzYxZTFjY2I2OGZmYmI3;Path=/
+< X-Contextid: QkNpevcc/aT4mhq1Y
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:59:22 GMT

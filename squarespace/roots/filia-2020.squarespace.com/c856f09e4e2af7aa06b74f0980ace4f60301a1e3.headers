@@ -1,0 +1,16 @@
+GET https://filia-2020.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Contextid: 4Gf4YS4N/guW8EdGS
+< Age: 61396
+< Date: Tue, 01 Feb 2022 08:08:01 GMT
+< X-Content-Type-Options: nosniff
+< Etag: W/"95c6727258b4ebeead3d4050dd2f907b--gzip"
+< Set-Cookie: crumb=BZTf+wUHiGi3ODQyYTY5NjkxMGFlNDE3ZGMzNTVmMzZiMTkyZjY3;Path=/
+< Strict-Transport-Security: max-age=0

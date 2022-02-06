@@ -1,0 +1,11 @@
+GET http://hey100.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://hey100.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bdjtp4wlR/3qMDUxMjU0NTM2ZGU5MGJhYmQyYzJmYjk3NzVmMzZl;Path=/
+< X-Contextid: FsRxfRob/JMD2Di93
+< Age: 5794
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:49:00 GMT

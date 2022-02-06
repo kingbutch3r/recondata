@@ -1,0 +1,12 @@
+GET http://brian-bernasconi-k360.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BYh6Ui+V8GmAOWJlZWVlY2ZiYTVjM2ZiN2YzMGFjNGVmYWE1YzI2;Path=/
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 00:49:50 GMT
+< X-Contextid: mdyQCtwl/Gi6LYDfL
+< Age: 0
+< Content-Type: text/html;charset=utf-8

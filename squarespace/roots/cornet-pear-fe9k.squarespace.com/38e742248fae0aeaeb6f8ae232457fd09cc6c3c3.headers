@@ -1,0 +1,11 @@
+GET http://cornet-pear-fe9k.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BWXrSsPQrd5rOGU5MGQxMTAzNWFlMWEyNjc2NDc0MGQ5MjNhOGYx;Path=/
+< X-Contextid: uVNJAF0O/i9EM6Fsr
+< Age: 347842
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 00:28:34 GMT
+< Location: https://cornet-pear-fe9k.squarespace.com/
+< Server: Squarespace

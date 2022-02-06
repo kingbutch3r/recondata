@@ -1,0 +1,17 @@
+GET https://wellnesscoachinghollieazzopardi.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:15:00 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=9vm00aed4lrvpaljm1sc5clrue; expires=Fri, 04-Mar-2022 00:14:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=34cf5370-4976-43f3-9ae1-a56dd63c41da; expires=Fri, 02-Feb-2024 00:15:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

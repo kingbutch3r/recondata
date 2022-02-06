@@ -1,0 +1,17 @@
+GET https://kimjeffersonschedule.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=f69kkkl96oo0974vi79c509nva; expires=Fri, 04-Mar-2022 00:04:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dcfbc5fd-952b-4b06-a742-08fc769dbbeb; expires=Fri, 02-Feb-2024 00:04:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:04:52 GMT
+< Pragma: no-cache
+< Location: /schedule.php

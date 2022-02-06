@@ -1,0 +1,16 @@
+GET http://marisa-keris-7j80.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: Acqj8Vqy/GjnarVsn
+< Content-Type: text/html;charset=utf-8
+< Last-Modified: Tue, 01 Feb 2022 23:47:40 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Set-Cookie: crumb=BejdT4o6rNz5ZWZhNDg5ZGM4YTVmYzkxOGVjZDNhZjIyOTNmZGZk;Path=/
+< Date: Wed, 02 Feb 2022 00:49:56 GMT
+< Etag: W/"c6a49a4b845cc8823cee846cce17d26b"
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

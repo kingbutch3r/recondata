@@ -1,0 +1,16 @@
+GET https://michael-weir-g7kj.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 367642
+< Etag: W/"40b7c8f50a8646abf862e23af37bafa7--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bf98+SgAzV2zN2U2ZDY5OWYxM2NlOWYzZjVlMTgyMDc1ZDIwN2I0;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: xuyPU9Wt/MXKgX3Ww
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 18:52:06 GMT
+< X-Content-Type-Options: nosniff

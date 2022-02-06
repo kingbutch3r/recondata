@@ -1,0 +1,17 @@
+GET https://powermaxcycling.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=90dooeb9r487g5ms06nvabrt28; expires=Fri, 04-Mar-2022 00:10:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2243913f-5d96-49b8-b87f-7be03bff77c6; expires=Fri, 02-Feb-2024 00:10:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:10:51 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

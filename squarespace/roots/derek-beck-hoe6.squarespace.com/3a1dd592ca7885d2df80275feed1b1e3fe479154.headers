@@ -1,0 +1,16 @@
+GET https://derek-beck-hoe6.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Age: 597372
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"c182ebf8ddfa807a9ecab1530db60248--gzip"
+< Server: Squarespace
+< X-Contextid: UsSeBYJx/O7FAN8HO
+< Accept-Ranges: bytes
+< Date: Wed, 26 Jan 2022 03:27:38 GMT
+< Set-Cookie: crumb=BZC1D1tigzttOGQyZDE1MjI4OTUyYjZlY2Y4ZDAzMmQ4NmFhNWUz;Path=/

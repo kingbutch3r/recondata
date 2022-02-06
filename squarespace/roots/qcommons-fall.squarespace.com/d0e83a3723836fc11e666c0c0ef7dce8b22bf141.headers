@@ -1,0 +1,11 @@
+GET http://qcommons-fall.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BUaJ6lRiBuAFOGFmNjVlNWRlZDdiMWZlMTBmMGRlYTI4M2VmYWI4;Path=/
+< X-Contextid: BD4ykWZ1/JS5nKubb
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:57:42 GMT
+< Location: https://qcommons-fall.squarespace.com/
+< Server: Squarespace

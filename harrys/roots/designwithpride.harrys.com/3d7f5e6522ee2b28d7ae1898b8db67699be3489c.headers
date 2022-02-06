@@ -1,0 +1,10 @@
+GET http://designwithpride.harrys.com
+
+
+< HTTP/1.1 308 Permanent Redirect
+< Location: https://designwithpride.harrys.com/
+< Refresh: 0;url=https://designwithpride.harrys.com/
+< Server: Vercel
+< X-Vercel-Id: bom1::2cfr8-1643477966430-b657bece2841
+< Date: Sat, 29 Jan 2022 17:39:26 GMT
+< Content-Type: text/plain

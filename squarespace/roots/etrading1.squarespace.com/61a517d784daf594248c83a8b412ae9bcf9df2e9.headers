@@ -1,0 +1,16 @@
+GET http://etrading1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Last-Modified: Wed, 02 Feb 2022 01:15:01 GMT
+< Set-Cookie: crumb=BaJzYC9USFZ8YWM3OGVjMjI1YWMwYTI5Y2Y1YzAzMmYzYjRlZWIw;Path=/
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:15:01 GMT
+< Etag: W/"5c765a25981ca7ebaca9c5d0b8b1c429"
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Contextid: uCRFeWf9/lg9hTBQS
+< Accept-Ranges: bytes
+< X-Content-Type-Options: nosniff

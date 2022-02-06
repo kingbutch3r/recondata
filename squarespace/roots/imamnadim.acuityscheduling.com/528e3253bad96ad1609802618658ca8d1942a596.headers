@@ -1,0 +1,17 @@
+GET https://imamnadim.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=mv8296hqd6ps5bn795pduqtq7g; expires=Fri, 04-Mar-2022 00:19:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3f386795-ccc4-46fc-ad89-44c3286d4cff; expires=Fri, 02-Feb-2024 00:19:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:19:06 GMT

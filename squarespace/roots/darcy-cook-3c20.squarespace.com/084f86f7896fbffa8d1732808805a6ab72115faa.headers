@@ -1,0 +1,12 @@
+GET http://darcy-cook-3c20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BXk+WzjzTbngMmU4ZGJlNWUxMmMzYTk4M2FkOTk3NDc2NTlhMmE3;Path=/
+< X-Contextid: imZvSGQJ/Be7Z0UJF
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:03:40 GMT

@@ -1,0 +1,17 @@
+GET https://remixcoworking.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:10:38 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=cvdik5s3pqmnj8c446qmrh6268; expires=Fri, 04-Mar-2022 00:10:37 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=756be533-1cac-4672-b752-68cd346c062a; expires=Fri, 02-Feb-2024 00:10:38 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent

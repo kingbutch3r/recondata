@@ -1,0 +1,16 @@
+GET https://david-nguyen-1002.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 07:48:06 GMT
+< Etag: W/"cb37cfda9ebaf4879bccc30dc5e0cc7f"
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BRX5cmOwJDPEN2U4NDRiNDQzY2MzNmIzMTRiZjkxYmNkN2ZhNjNj;Path=/
+< Vary: Accept-Encoding
+< Age: 320589
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: 2mGlSTMG/EeCvE9kf

@@ -1,0 +1,13 @@
+GET https://michael-zimmermann-lgk1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< X-Contextid: oxIMln4G/imIR7GO2
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:56 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcveHEuA7j2HYTYwYTBjYTU3MTBiNTBjZTNhMDcwZjNkZWNjN2Fl;Path=/
+< Age: 0
+< Server: Squarespace

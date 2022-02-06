@@ -1,0 +1,650 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <!-- This is Squarespace. --><!-- cn-cgc -->
+<base href="">
+<meta charset="utf-8" />
+<title>CGC 网站</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="https://cn.conversation.global"/>
+<meta property="og:site_name" content="CGC 网站"/>
+<meta property="og:title" content="CGC 网站"/>
+<meta property="og:url" content="https://cn.conversation.global"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="是时候让我们开启一场   全新的对话    了解更多"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5e3c09a86075555765dcd907/t/5e3c0c25b3f135363403c3c7/1580993575344/CGC+Logo+White.png?format=1500w"/>
+<meta property="og:image:width" content="1070"/>
+<meta property="og:image:height" content="303"/>
+<meta itemprop="name" content="CGC 网站"/>
+<meta itemprop="url" content="https://cn.conversation.global"/>
+<meta itemprop="description" content="是时候让我们开启一场   全新的对话    了解更多"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5e3c09a86075555765dcd907/t/5e3c0c25b3f135363403c3c7/1580993575344/CGC+Logo+White.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5e3c09a86075555765dcd907/t/5e3c0c25b3f135363403c3c7/1580993575344/CGC+Logo+White.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5e3c09a86075555765dcd907/t/5e3c0c25b3f135363403c3c7/1580993575344/CGC+Logo+White.png?format=1500w"/>
+<meta name="twitter:title" content="CGC 网站"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5e3c09a86075555765dcd907/t/5e3c0c25b3f135363403c3c7/1580993575344/CGC+Logo+White.png?format=1500w"/>
+<meta name="twitter:url" content="https://cn.conversation.global"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="是时候让我们开启一场   全新的对话    了解更多"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/gFkbFjhxNQ0-If0gg6rj4_rulUEZEOroaIdvqC8Zzo9felIffFHN4UJLFRbh52jhWDm8whw35AItFRMaFQ9uFQShFAsRZ2q3FU7eMPG0jhtljhiRO1FUiABkZWF3jAF8OcFzdPURdKuRZhw0SaBujW48Sagyjh90jhNlOeF0OcFzd1Z8S1Fyie8zdKo1deNKjA3CdeNRjAUGdaFXOYiaikoRdKuRZhw0SaBujW48Sagyjh90jhNlOYiaikoRdKoRdhohZW4DjWsTdht0ZhUzjcBCJ6U3ScNt-AuyOAozicIKIcBqdh48OAiyScBldhoqOWgkdkG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7f6K3UMIbMg6BJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6qJn6IbMg6bJMJ7fbKwMsMMegI6MKG4fVwXIMIjgfMfH6qJv2bbMs6YJMJ7fbRkFgMgeMt6MKG4fVIXIMIjIPMfqMe3RCxkgb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"5e3c09a86075555765dcd907","identifier":"cn-cgc","websiteType":1,"contentModifiedOn":1585224197208,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/London","machineTimeZoneOffset":0,"timeZoneOffset":0,"timeZoneAbbr":"GMT","siteTitle":"CGC \u7F51\u7AD9","fullSiteTitle":"CGC \u7F51\u7AD9","siteTagLine":"\u662F\u65F6\u5019\u8BA9\u6211\u4EEC\u5F00\u542F\u4E00\u573A \u5168\u65B0\u7684\u5BF9\u8BDD","siteDescription":"","logoImageId":"5e3c0c25b3f135363403c3c7","shareButtonOptions":{"6":true,"3":true,"1":true,"2":true,"4":true,"8":true,"7":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580993573978-XZ0TFLXMJ5H93SLKB0PL/CGC+Logo+White.png","authenticUrl":"https://cn.conversation.global","internalUrl":"https://cn-cgc.squarespace.com","baseUrl":"https://cn.conversation.global","primaryDomain":"cn.conversation.global","sslSetting":3,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5e3c09a86075555765dcd90a","websiteId":"5e3c09a86075555765dcd907","subjects":[],"country":"GB","state":"ENG","simpleLikingEnabled":true,"popupOverlaySettings":{"style":1,"enabledPages":[]},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"\u4E3B\u9875","id":"5e3c0bb5a9f1571c8eebd698","fullUrl":"/","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","banner-slideshow-controls":"Arrows","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"280px","gridSpacing":"10px","logoContainerWidth":"180px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"220px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52a74dafe4b073a80cd253c5","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1041/scripts/","betaFeatureFlags":["scheduling_block_schema_editor","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","commerce_category_id_discounts_enabled","customer_account_creation_recaptcha","commerce_etsy_product_import","campaigns_global_uc_ab","google_analytics_4_gtag_js","category-delete-product-service-enabled","member_areas_schedule_interview","campaigns_thumbnail_layout","commerce_pdp_layouts_ga","commerce_activation_experiment_add_payment_processor_card","reduce_general_search_api_traffic","campaigns_new_subscriber_search","commerce_product_composer_ab_test_all_users","member_areas_pricing_options_discounts","campaigns_blog_product_image_editor","background_art_onboarding","startup_checklist","product_composer_feedback_form_on_save","commerce_etsy_shipping_import","campaigns_section_reorder_arrows","viewer-role-contributor-invites","commerce_product_review_import_ga","commerce_site_visitor_metrics","campaigns_audience_card","campaigns_banner_reduce_size","commerce_restock_notifications","campaigns_hide_deleted_automations_panel","member_areas_spanish_interviews","campaigns_show_apply_website_styles_button","commerce_product_branching","nested_categories_migration_enabled","commerce_clearpay","commerce_afterpay_pdp","commerce_product_review_etsy_import"],"impersonatedSession":false,"demoCollections":[{"collectionId":"52c71337e4b07aa29e46fa44","deleted":false}],"tzData":{"zones":[[0,"EU","GMT/BST",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"https://cn.conversation.global","name":"CGC \u7F51\u7AD9","description":"","image":"//images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580993573978-XZ0TFLXMJ5H93SLKB0PL/CGC+Logo+White.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5e3c09a86075555765dcd907/34/52a74dafe4b073a80cd253c5/5e3c09a86075555765dcd91d/1041-05142015/1585224197198/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var e='ontouchstart'in window||navigator.msMaxTouchPoints;var t=document.documentElement;if(!e&&t){t.className=t.className.replace(/touch-styles/,'')}})()
+    </script>
+  </head>
+  <body id="collection-5e3c0bb5a9f1571c8eebd698" class="transparent-header enable-nav-button nav-button-style-outline nav-button-corner-style-pill banner-button-style-solid banner-button-corner-style-pill banner-slideshow-controls-arrows meta-priority-date  hide-entry-author hide-list-entry-footer    hide-blog-sidebar center-navigation--info    event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts      gallery-design-grid aspect-ratio-auto lightbox-style-light gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-pill large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-center image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5e3c0bb5a9f1571c8eebd698 collection-type-page collection-layout-default homepage has-banner-image general-page">
+    <a href="#" class="body-overlay"></a>
+    <div class="sqs-announcement-bar-dropzone"></div>
+    <div id="sidecarNav">
+      
+
+  <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
+    <nav id="mobileNavigation">
+      
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection active homepage">
+              <a href="/">
+                主页
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <div class="folder-toggle" data-href="/about-CGC">CGC简介 </div>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/cgc-intro">
+                  CGC发展与目标 
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/partners">
+                  合作伙伴 
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/contact">
+                  联系方式
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/media">
+                CGC影响
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <div class="folder-toggle" data-href="/cgc1">CGC#1：气候与伦理</div>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/qihou-vid">
+                  CGC气候影片
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/cgi-climateethics">
+                  CGC#1：气候与伦理
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/qihou-shuxiang">
+                  气候与伦理书籍及资料
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+    </nav>
+  </div>
+
+
+
+    </div>
+    <div id="siteWrapper" class="clearfix">
+
+      <div class="sqs-cart-dropzone"></div>
+
+      <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580993573978-XZ0TFLXMJ5H93SLKB0PL/CGC+Logo+White.png?format=1500w" alt="CGC 网站" /></a></h1>
+            
+          </div><!--
+          --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
+          --><div id="headerNav">
+
+  <div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
+    <nav id="mainNavigation" data-content-field="navigation-mainNav">
+      
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection active homepage">
+              <a href="/">
+                主页
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <div class="folder-toggle" data-href="/about-CGC">CGC简介 </div>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/cgc-intro">
+                  CGC发展与目标 
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/partners">
+                  合作伙伴 
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/contact">
+                  联系方式
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/media">
+                CGC影响
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+          <div class="folder">
+            <div class="folder-toggle" data-href="/cgc1">CGC#1：气候与伦理</div>
+            <div class="subnav">
+            
+
+              
+              <div class="collection">
+                <a href="/qihou-vid">
+                  CGC气候影片
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/cgi-climateethics">
+                  CGC#1：气候与伦理
+                </a>
+              </div>
+              
+              
+            
+
+              
+              <div class="collection">
+                <a href="/qihou-shuxiang">
+                  气候与伦理书籍及资料
+                </a>
+              </div>
+              
+              
+            
+            </div>
+          </div>
+          
+        
+        
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block !important; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      
+        
+          
+            
+              
+                <div id="promotedGalleryWrapper" class="sqs-layout promoted-gallery-wrapper"><div class="row"><div class="col"></div></div></div>
+                
+                  
+                    <div class="banner-thumbnail-wrapper has-description" data-content-field="main-image" data-collection-id="5e3c0bb5a9f1571c8eebd698" data-edit-main-image="" data-annotation-alignment="bottom left">
+                      
+                      <div class="color-overlay"></div>
+                      <figure id="thumbnail" class="loading content-fill">
+                        <img data-src="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580993715420-YXTSLZE1GU941Y4D3SEZ/nasa-Q1p7bh3SHj8-unsplash.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580993715420-YXTSLZE1GU941Y4D3SEZ/nasa-Q1p7bh3SHj8-unsplash.jpg" data-image-dimensions="2500x1664" data-image-focal-point="0.5,0.5" alt="nasa-Q1p7bh3SHj8-unsplash.jpg"  />
+                      </figure>
+                      
+                      <div class="desc-wrapper" data-content-field="description" data-collection-id="5e3c0bb5a9f1571c8eebd698"><p class="" style="white-space:pre-wrap;">是时候让我们开启一场</p><p class="" style="white-space:pre-wrap;"><strong>全新的对话</strong></p><p class="" style="white-space:pre-wrap;"><a href="/what-is-cgc" target="">了解更多</a></p></div>
+                    </div>
+                  
+                
+              
+            
+          
+        
+      
+
+
+      
+      
+      
+
+      <main id="page" role="main">
+        
+        <!--
+        --><!--
+        --><!--
+        --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="5e3c0bb5a9f1571c8eebd698" data-edit-main-image="">
+         <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1582547353244" id="page-5e3c0bb5a9f1571c8eebd698"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-addc1751e9ccdd21353c"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">剑桥全球论坛 (CGC)</h1></div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-6493da73d1ba4d6a65c9"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-890437c62c841aa1d9e3"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">剑桥全球论坛总部位于英国剑桥大学，旨在就无法单靠个别国家或少数国家群体的能力解决的全球性问题进行探讨与传播，设立对话平台。不同时代的思想领袖聚集一堂，在对话中就复杂的全球性挑战分享他们的见解，引发公众的思考与反思，并引导制定应对方案。</p></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-a38fc40da89e2fe43f03"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-below&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&quot;html&quot;:&quot;&lt;p class=\&quot;\&quot;&gt;\u57282019\u5E747\u6708\u7684\u201CCGC\u6C14\u5019\u53D8\u5316\u4E0E\u4F26\u7406\u539F\u5219\u201D\u6D3B\u52A8\u5F00\u59CB\u524D\uFF0C\u9A6C\u4E01\u00B7\u91CC\u65AF\u52CB\u7235\u4E0E\u5251\u6865\u5927\u5B66\u7814\u7A76\u751FMorgan Sheil\u5DF2\u7ECF\u5C31\u6C14\u5019\u7684\u8BDD\u9898\u8FDB\u884C\u4E86\u5168\u65B9\u4F4D\u7684\u63A2\u8BA8\u3002\uFF08\u66F4\u591A\u6709\u5173\u6C14\u5019\u53D8\u5316\u4F26\u7406\u539F\u5219\u3001\u6C14\u5019\u7ECF\u6D4E\u5B66\u7B49\u8BDD\u9898\u7684\u89C6\u9891\uFF0C\u6B22\u8FCE\u8BBF\u95EECGC\u6C14\u5019\u4E0E\u4F26\u7406\u5F71\u7247\u9875\u9762\u3002\uFF09&lt;/p&gt;&quot;,&quot;raw&quot;:false&#125;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;html&quot;:&quot;&lt;iframe src=\&quot;https://player.vimeo.com/video/359018009\&quot; width=\&quot;640\&quot; height=\&quot;360\&quot; frameborder=\&quot;0\&quot; allow=\&quot;autoplay; fullscreen\&quot; allowfullscreen&gt;&lt;/iframe&gt;&quot;,&quot;resolvedBy&quot;:&quot;manual&quot;&#125;" data-block-type="32" id="block-yui_3_17_2_1_1580993823023_12178"><div class="sqs-block-content"><div class="sqs-video-wrapper" data-html="&lt;iframe src=&quot;https://player.vimeo.com/video/359018009&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;" data-provider-name=""></div><div  class="video-caption-wrapper"><div class="video-caption"><p class="">在2019年7月的“CGC气候变化与伦理原则”活动开始前，马丁·里斯勋爵与剑桥大学研究生Morgan Sheil已经就气候的话题进行了全方位的探讨。（更多有关气候变化伦理原则、气候经济学等话题的视频，欢迎访问CGC气候与伦理影片页面。）</p></div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1580993823023_35573"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&quot;html&quot;:&quot;&quot;,&quot;raw&quot;:false&#125;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;html&quot;:&quot;&lt;iframe src=\&quot;https://player.vimeo.com/video/385266543\&quot; width=\&quot;640\&quot; height=\&quot;360\&quot; frameborder=\&quot;0\&quot; allow=\&quot;autoplay; fullscreen\&quot; allowfullscreen&gt;&lt;/iframe&gt;&quot;,&quot;resolvedBy&quot;:&quot;manual&quot;&#125;" data-block-type="32" id="block-yui_3_17_2_1_1580993823023_20847"><div class="sqs-block-content"><div class="sqs-video-wrapper" data-html="&lt;iframe src=&quot;https://player.vimeo.com/video/385266543&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; fullscreen&quot; allowfullscreen&gt;&lt;/iframe&gt;" data-provider-name=""></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1580993823023_26831"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-afaf35848f25aca4d1a5"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-right
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580994608078-E79DHM6UONTMN8U2ZY4Y/Screen+Shot+2020-02-06+at+1.09.07+PM.png" alt="CGC#2：机器学习 - 我们正在策划第二场以“机器学习”为主题的CGC活动, 探讨人工智能对人类生活与伦理关系的影响，以及其中所隐藏的社会风险。" loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580994608078-E79DHM6UONTMN8U2ZY4Y/Screen+Shot+2020-02-06+at+1.09.07+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580994608078-E79DHM6UONTMN8U2ZY4Y/Screen+Shot+2020-02-06+at+1.09.07+PM.png" data-image-dimensions="2142x1444" data-image-focal-point="0.5,0.5" alt="Screen Shot 2020-02-06 at 1.09.07 PM.png"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="">CGC#2：机器学习</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="">我们正在策划第二场以“机器学习”为主题的CGC活动, 探讨人工智能对人类生活与伦理关系的影响，以及其中所隐藏的社会风险。</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-63dd5d4762ce47dd13ee"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-card
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580995103542-GH53C5Y7GB77I3CAHS8B/jason-blackeye-209586.jpg" alt="CGC#1：气候与伦理 - 我们的首次活动主题为气候变化背后的伦理原则" loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580995103542-GH53C5Y7GB77I3CAHS8B/jason-blackeye-209586.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5e3c09a86075555765dcd907/1580995103542-GH53C5Y7GB77I3CAHS8B/jason-blackeye-209586.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="jason-blackeye-209586.jpg"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="">CGC#1：气候与伦理</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="">我们的首次活动主题为气候变化背后的伦理原则</p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/take-action-bedford" class="sqs-button-element--primary">了解更多</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1580993823023_27286"><div class="sqs-block-content"><hr /></div></div></div></div></div>
+        </div><!--
+        -->
+        
+      </main>
+
+      <div id="preFooter">
+        <div class="pre-footer-inner">
+          <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1580997233117" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+        </div>
+      </div>
+
+      <footer id="footer" role="contentinfo">
+        <div class="footer-inner">
+          <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
+          
+
+
+          
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-58fbd8fa6662bb6ca0a7"><div class="sqs-block-content"><p class="text-align-center">Powered by <a target="_blank" href="http://www.squarespace.com?channel=word_of_mouth&amp;subchannel=customer&amp;source=footer&amp;campaign=4fd1028ee4b02be53c65dfb3">Squarespace</a></p></div></div></div></div></div>
+        </div>
+      </footer>
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1041/scripts/site-bundle.js" type="text/javascript"></script>
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+  </body>
+</html>

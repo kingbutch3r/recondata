@@ -1,0 +1,11 @@
+GET http://iwd2021.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 77951
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 03:11:13 GMT
+< Location: https://iwd2021.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZFfWUq6+g5pZDkzNmQ1MWM3ZDkwNTJmNjg0MzM4Y2YzNTQ2ZThj;Path=/
+< X-Contextid: ca1nrwa1/XFOgei3b

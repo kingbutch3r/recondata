@@ -1,0 +1,23 @@
+GET https://status.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Access-Control-Allow-Origin: *
+< X-Content-Type-Options: nosniff
+< X-Statuspage-Skip-Logging: true
+< X-Statuspage-Version: fdfee86f28367c43b2fd8f4b4d5f6abb754dad8e
+< X-Cache: HIT
+< Content-Type: text/html; charset=utf-8
+< Strict-Transport-Security: max-age=259200
+< X-Request-Id: e8db60c0-e56a-4d40-ae8b-bfe0301d0d90
+< Accept-Ranges: bytes
+< Cache-Control: max-age=0, private, must-revalidate
+< X-Download-Options: noopen
+< X-Runtime: 0.078322
+< X-Permitted-Cross-Domain-Policies: none
+< Date: Wed, 02 Feb 2022 00:54:51 GMT
+< X-Xss-Protection: 1; mode=block
+< Etag: W/"gz[1f07a2ab77c9d4ed72eedfe2064ee17e]"
+< Vary: Accept,Accept-Encoding,X-Forwarded-Host,X-Forwarded-Scheme,X-Forwarded-Proto,Fastly-SSL
+< Referrer-Policy: strict-origin-when-cross-origin
+< Age: 890

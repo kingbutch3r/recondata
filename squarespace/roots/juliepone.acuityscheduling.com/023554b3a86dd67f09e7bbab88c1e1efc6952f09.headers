@@ -1,0 +1,17 @@
+GET https://juliepone.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:05:51 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=f17fdn0gnlvt09snkrdu7kt9op; expires=Fri, 04-Mar-2022 00:05:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=19b6cee2-a8cb-4392-b0c2-1b0a4573598a; expires=Fri, 02-Feb-2024 00:05:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php

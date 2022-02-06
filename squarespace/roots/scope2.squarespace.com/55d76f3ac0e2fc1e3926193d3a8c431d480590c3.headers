@@ -1,0 +1,13 @@
+GET https://scope2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:20:08 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: oyJ9ZBpe/IJbqwqLI
+< Server: Squarespace
+< Set-Cookie: crumb=BchAy3QaZY3JNDMzMzc2ZGQ5Zjc4MTk2OWU3ZGJmZTRlNzc3YWNk;Path=/
+< Strict-Transport-Security: max-age=0

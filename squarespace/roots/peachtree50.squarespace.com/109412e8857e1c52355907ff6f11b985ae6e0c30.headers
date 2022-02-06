@@ -1,0 +1,11 @@
+GET http://peachtree50.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://peachtree50.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQQQIRxVtcR7YTIxZTk3NDAxZjFkM2YyNTQxZGI3NzRkZjg5ZTBm;Path=/
+< X-Contextid: 5KBwOkAB/WPNGhiqg
+< Age: 3730
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:47:38 GMT

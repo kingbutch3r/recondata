@@ -1,0 +1,14 @@
+GET https://ukulele-roadrunner-lhfl.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:56:17 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: nvbROwUy/IX7epJuG
+< X-Frame-Options: SAMEORIGIN
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BXcZZc4338qSODM3MzAzMDZmNjBkZGNlMzdmMDc0OTYzZjRmMWE5;Path=/
+< Strict-Transport-Security: max-age=43200

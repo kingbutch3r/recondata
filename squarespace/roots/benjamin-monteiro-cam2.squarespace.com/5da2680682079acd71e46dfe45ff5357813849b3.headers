@@ -1,0 +1,11 @@
+GET http://benjamin-monteiro-cam2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 16:40:38 GMT
+< Location: https://benjamin-monteiro-cam2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BR7pcj4q3k7NMmFmMjU2ZWRkZTQyMzFlY2Y0ZGVhOGNjY2JlMmUz;Path=/
+< X-Contextid: 0EzdWM7z/QUv3OAlF
+< Age: 375134

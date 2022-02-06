@@ -1,0 +1,13 @@
+GET http://files.prelive.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: CloudFront
+< Content-Length: 183
+< X-Cache: Redirect from cloudfront
+< Via: 1.1 db7ddd3365519d8ae74d9efd1464b57c.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM50-C1
+< Date: Tue, 01 Feb 2022 23:29:47 GMT
+< Content-Type: text/html
+< Location: https://files.prelive.krisp.ai/
+< X-Amz-Cf-Id: kBzUtBvzT5Fzq0V9j3OiFXAdkT5tODzKO3tmW1681M_b8-pwRYaOiw==

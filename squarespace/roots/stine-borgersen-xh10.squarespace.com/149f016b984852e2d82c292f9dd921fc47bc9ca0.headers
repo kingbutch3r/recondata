@@ -1,0 +1,12 @@
+GET https://stine-borgersen-xh10.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:59:10 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< X-Contextid: tdOmvXLM/nTd133ei

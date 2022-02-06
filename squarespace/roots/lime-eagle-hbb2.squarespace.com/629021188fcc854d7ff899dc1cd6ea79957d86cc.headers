@@ -1,0 +1,11 @@
+GET http://lime-eagle-hbb2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 212778
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 13:45:47 GMT
+< Location: https://lime-eagle-hbb2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZsyDJuVr9zcNGI2YmM4YWNiNmYyODlmODkzZTRiNTczZTEzNmVi;Path=/
+< X-Contextid: LNTpmD75/KpNI7EwC

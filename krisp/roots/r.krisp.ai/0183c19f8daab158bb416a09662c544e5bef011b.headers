@@ -1,0 +1,9 @@
+GET https://r.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: awselb/2.0
+< Date: Tue, 01 Feb 2022 23:29:52 GMT
+< Content-Type: text/html
+< Content-Length: 134
+< Location: https://account.krisp.ai:443/share/record/

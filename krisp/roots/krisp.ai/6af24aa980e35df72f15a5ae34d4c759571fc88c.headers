@@ -1,0 +1,11 @@
+GET http://krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Vary: Accept-Encoding
+< Cf-Ray: 6d6ef6ae3ab02e23-BOM
+< Expires: Wed, 02 Feb 2022 00:29:44 GMT
+< Location: https://krisp.ai/
+< Server: cloudflare
+< Date: Tue, 01 Feb 2022 23:29:44 GMT
+< Cache-Control: max-age=3600

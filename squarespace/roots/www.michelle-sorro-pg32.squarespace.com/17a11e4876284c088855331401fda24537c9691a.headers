@@ -1,0 +1,11 @@
+GET http://www.michelle-sorro-pg32.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:17:01 GMT
+< Location: http://michelle-sorro-pg32.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRl4ukou/2sINGRlNDYwOGE3NzNiZGRiYTU2YTRjMzJiMDg5YWRi;Path=/
+< X-Contextid: 4BNycR9i/Idx6XAYv
+< Age: 0

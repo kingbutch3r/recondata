@@ -1,0 +1,15 @@
+GET https://thebirthingspace.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:01:07 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=mdt7u4q4unss3262h6shhd7moq; expires=Fri, 04-Mar-2022 00:01:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=414d2925-61f9-423f-a944-f8268740c344; expires=Fri, 02-Feb-2024 00:01:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate

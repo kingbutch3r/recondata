@@ -1,0 +1,17 @@
+GET https://lashlab.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:56:32 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=gf1cuu6jts5hbicc9to0ep90jg; expires=Thu, 03-Mar-2022 23:56:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=714e87e1-7b2d-4b15-bd52-f88926de3b70; expires=Thu, 01-Feb-2024 23:56:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

@@ -1,0 +1,15 @@
+GET https://loveyourselfdetox.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:44:49 GMT
+< Set-Cookie: PHPSESSID=ap0mfoluv2936o5abdodraehbs; expires=Fri, 04-Mar-2022 00:44:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fc66877a-c447-46b2-a77d-791f74a9924d; expires=Fri, 02-Feb-2024 00:44:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,16 @@
+GET https://talesofcloth.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: G82OFDKs/tYPJgCc0
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 14:46:54 GMT
+< Etag: W/"75361a4448496be8301b364dfddd027d"
+< Strict-Transport-Security: max-age=0
+< Server: Squarespace
+< Set-Cookie: crumb=BT/x65cb2D/mNzE3ZTJiNzhmODE4ZDg4MWE5NmQ1ZDEzM2NiMGFl;Path=/
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Age: 295730
+< X-Content-Type-Options: nosniff

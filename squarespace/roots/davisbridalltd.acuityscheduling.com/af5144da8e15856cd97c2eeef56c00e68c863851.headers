@@ -1,0 +1,17 @@
+GET https://davisbridalltd.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:00:49 GMT
+< Set-Cookie: PHPSESSID=vhv5ovkqdu7f2ffrh54fh8g2oc; expires=Fri, 04-Mar-2022 00:00:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f8a496f7-22ba-4197-a382-459d5f0e3f7c; expires=Fri, 02-Feb-2024 00:00:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

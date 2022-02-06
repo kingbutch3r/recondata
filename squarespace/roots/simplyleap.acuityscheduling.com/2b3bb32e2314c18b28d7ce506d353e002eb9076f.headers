@@ -1,0 +1,17 @@
+GET https://simplyleap.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=cm3q8619tifg3osj6c027gmjs4; expires=Fri, 04-Mar-2022 00:26:37 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9c8fc45a-3868-48e5-8a48-2d87d3f997b7; expires=Fri, 02-Feb-2024 00:26:38 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:26:38 GMT
+< Pragma: no-cache
+< Content-Length: 0

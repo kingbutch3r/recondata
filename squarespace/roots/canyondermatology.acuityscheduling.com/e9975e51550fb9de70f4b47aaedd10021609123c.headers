@@ -1,0 +1,17 @@
+GET https://canyondermatology.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:46:05 GMT
+< Set-Cookie: PHPSESSID=es5h37rlihi72vqs9tugc4i172; expires=Fri, 04-Mar-2022 00:46:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7aa020b1-f1c0-48b7-aaf3-569b01b3776b; expires=Fri, 02-Feb-2024 00:46:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8

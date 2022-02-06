@@ -1,0 +1,17 @@
+GET https://launchproject.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=b17djuqu7vfq9k4n831rumef7i; expires=Fri, 04-Mar-2022 00:40:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fcaa0948-6e55-40b7-932d-11d63a4ad24d; expires=Fri, 02-Feb-2024 00:40:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:40:25 GMT

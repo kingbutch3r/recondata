@@ -1,0 +1,12 @@
+GET http://go.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cf-Ray: 6d6ef0cc3888860c-BOM
+< Vary: Accept-Encoding
+< Cf-Cache-Status: DYNAMIC
+< Set-Cookie: __cf_bm=04EMeyYZPrltBgmuMMcycZprxhl2QfsanxuRg44rWYk-1643757943-0-AS8dKtdHI7zeh1h0EzlyIdOY6/7mLNluyj+6lnCaIobqulhPAZm6M7H+XQzA8zQkewyDIoMLUo75YzHtynoE/Jk=; path=/; expires=Tue, 01-Feb-22 23:55:43 GMT; domain=.go.payoneer.com; HttpOnly; SameSite=None
+< Server: cloudflare
+< Date: Tue, 01 Feb 2022 23:25:43 GMT
+< Content-Type: text/html; charset=iso-8859-1
+< Location: https://go.payoneer.com/

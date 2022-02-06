@@ -1,0 +1,15 @@
+GET https://massagingmoments.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=vvjqi908h0mo2ojnhps35iq9ii; expires=Fri, 04-Mar-2022 00:39:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f45df9e1-6cf8-46f3-ae22-470e70a37274; expires=Fri, 02-Feb-2024 00:39:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:39:14 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache

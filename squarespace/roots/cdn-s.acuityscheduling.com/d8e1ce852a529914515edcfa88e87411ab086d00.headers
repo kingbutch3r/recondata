@@ -1,0 +1,17 @@
+GET https://cdn-s.acuityscheduling.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Amz-Bucket-Region: us-west-2
+< X-Amz-Request-Id: 7FW69EK7R3W6NXYW
+< Content-Type: application/xml
+< X-Cache: MISS
+< X-Cache-Hits: 0
+< X-Amz-Id-2: bqR0SwtRRvVBedC7mKmA1I8UXicjc5eVjq202QaPdwezmzOii/Us01WJmpcOlMq4qdQfW/3hYgo=
+< Server: AmazonS3
+< Via: 1.1 varnish
+< X-Served-By: cache-bom4746-BOM
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 00:31:12 GMT
+< X-Timer: S1643761872.190164,VS0,VE272
+< Vary: Accept-Encoding

@@ -1,0 +1,15 @@
+GET http://celebritycharid20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Age: 237660
+< Date: Sun, 30 Jan 2022 07:03:31 GMT
+< Vary: Accept-Encoding
+< Set-Cookie: crumb=BYNHD5IiEv4oOGM0ZTcyZmM4ZDFkMTIxYTNhOGU3ZTIwNTA1NTZm;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: WUYlqDE9/E4nejS0r
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"e4d4e5bc313fc24578ab3b5c4bf770f5"

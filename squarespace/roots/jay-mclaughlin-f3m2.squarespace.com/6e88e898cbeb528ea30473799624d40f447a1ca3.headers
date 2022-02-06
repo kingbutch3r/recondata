@@ -1,0 +1,16 @@
+GET https://jay-mclaughlin-f3m2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"1a4d81d0c5564f026cb276ac6447c556--gzip"
+< Vary: Accept-Encoding
+< X-Contextid: vV94YraC/oGxDP7RV
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 265382
+< Date: Sat, 29 Jan 2022 23:38:50 GMT
+< Set-Cookie: crumb=BeokYd4znz5JZmI4NzhkM2VmMDIzOTA2YmM2ZWM3MDEwYTc0NjU3;Path=/
+< X-Content-Type-Options: nosniff

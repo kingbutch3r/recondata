@@ -1,0 +1,18 @@
+GET https://share.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< X-Runtime: 0.009100
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-cache
+< X-Request-Id: e835cbc7-5e63-4de6-abfb-ccdd3b88186f
+< Vary: Origin
+< Content-Security-Policy: default-src 'self' * data: blob: filesystem: 'unsafe-inline' 'unsafe-eval'; font-src 'self' * blob: data: 'unsafe-inline'; img-src 'self' * data: blob: 'unsafe-inline'; script-src 'self' * data: blob: 'unsafe-inline' 'unsafe-eval'; style-src 'self' * data: blob: 'unsafe-inline'; connect-src 'self' * data: blob: 'unsafe-inline'
+< Server: nginx/1.19.2
+< Content-Type: text/html; charset=utf-8
+< Status: 302 Found
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+< Referrer-Policy: strict-origin-when-cross-origin
+< Location: https://squarespace.com
+< Date: Wed, 02 Feb 2022 00:54:52 GMT
+< Permissions-Policy: *

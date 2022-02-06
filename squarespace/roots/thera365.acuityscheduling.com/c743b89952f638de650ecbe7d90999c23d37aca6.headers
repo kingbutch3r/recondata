@@ -1,0 +1,17 @@
+GET https://thera365.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=gocosuqiqaign002t3d6un1ick; expires=Thu, 03-Mar-2022 23:53:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=20d4e4e4-d5d2-491f-ac2a-5af8b465b591; expires=Thu, 01-Feb-2024 23:53:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:53:16 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent

@@ -1,0 +1,1624 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- gdirectdigital2 -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1279375&amp;RK=1410530709567&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {"google": {"families": ["Raleway:100"]}};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  " "; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "19539874"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "1011065";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title> - City Bible Reach</title>
+    <meta property="og:title" content=" - City Bible Reach" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage19539874"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent4814130" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper19539874">
+
+    <div id="navigationTop-moduleContent19539874">
+
+              <a id="navigationTop-moduleLink19539874" class=" " href="/" ><span>City Bible Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19540580">
+
+    <div id="navigationTop-moduleContent19540580">
+
+              <a id="navigationTop-moduleLink19540580" class=" " href="/classified-faq/" ><span>Classified FAQ</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19542380">
+
+    <div id="navigationTop-moduleContent19542380">
+
+              <a id="navigationTop-moduleLink19542380" class=" " href="/northwoods_early_registration/" ><span>Northwoods_Early_Registration</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19545251">
+
+    <div id="navigationTop-moduleContent19545251">
+
+              <a id="navigationTop-moduleLink19545251" class=" " href="/missionalproducts_sandbox/" ><span>MissionalProducts_Sandbox</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19545254">
+
+    <div id="navigationTop-moduleContent19545254">
+
+              <a id="navigationTop-moduleLink19545254" class=" " href="/missionalproducts_gallery/" ><span>MissionalProducts_Gallery</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19546011">
+
+    <div id="navigationTop-moduleContent19546011">
+
+              <a id="navigationTop-moduleLink19546011" class=" " href="/woodside_reach/" ><span>Woodside_Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19552424">
+
+    <div id="navigationTop-moduleContent19552424">
+
+              <a id="navigationTop-moduleLink19552424" class=" " href="/cbc-monday-challenge/" ><span>CBC Monday Challenge</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19558909">
+
+    <div id="navigationTop-moduleContent19558909">
+
+              <a id="navigationTop-moduleLink19558909" class=" " href="/rcc-reach/" ><span>RCC Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19567172">
+
+    <div id="navigationTop-moduleContent19567172">
+
+              <a id="navigationTop-moduleLink19567172" class=" " href="/woodlands-directory-shutdown/" ><span>Woodlands Directory Shutdown</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19576045">
+
+    <div id="navigationTop-moduleContent19576045">
+
+              <a id="navigationTop-moduleLink19576045" class=" " href="/life_austin_ebook/" ><span>Life_Austin_eBook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19576527">
+
+    <div id="navigationTop-moduleContent19576527">
+
+              <a id="navigationTop-moduleLink19576527" class=" " href="/life_austin_ebook2/" ><span>Life_Austin_eBook2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19577249">
+
+    <div id="navigationTop-moduleContent19577249">
+
+              <a id="navigationTop-moduleLink19577249" class=" " href="/willow-crystal-lake-reach/" ><span>Willow Crystal Lake Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19577398">
+
+    <div id="navigationTop-moduleContent19577398">
+
+              <a id="navigationTop-moduleLink19577398" class=" " href="/canyon_ridge_ebook1_1/" ><span>Canyon_Ridge_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19577667">
+
+    <div id="navigationTop-moduleContent19577667">
+
+              <a id="navigationTop-moduleLink19577667" class=" " href="/canyon_ridge_ebook1_2/" ><span>Canyon_Ridge_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19584772">
+
+    <div id="navigationTop-moduleContent19584772">
+
+              <a id="navigationTop-moduleLink19584772" class=" " href="/shepherd_ebook1_1/" ><span>Shepherd_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19587112">
+
+    <div id="navigationTop-moduleContent19587112">
+
+              <a id="navigationTop-moduleLink19587112" class=" " href="/willow_creek_ebook1_1/" ><span>Willow_Creek_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19590784">
+
+    <div id="navigationTop-moduleContent19590784">
+
+              <a id="navigationTop-moduleLink19590784" class=" " href="/willow_creek_ebook1_2/" ><span>Willow_Creek_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19602344">
+
+    <div id="navigationTop-moduleContent19602344">
+
+              <a id="navigationTop-moduleLink19602344" class=" " href="/northwoods-reach/" ><span>Northwoods Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19605529">
+
+    <div id="navigationTop-moduleContent19605529">
+
+              <a id="navigationTop-moduleLink19605529" class=" " href="/missional_moment_saddleback_ki/" ><span>Missional_Moment_Saddleback_Kirk_Johnson</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19608754">
+
+    <div id="navigationTop-moduleContent19608754">
+
+              <a id="navigationTop-moduleLink19608754" class=" " href="/central_ebook1_1/" ><span>Central_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19609627">
+
+    <div id="navigationTop-moduleContent19609627">
+
+              <a id="navigationTop-moduleLink19609627" class=" " href="/central_ebook1_2/" ><span>Central_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19609631">
+
+    <div id="navigationTop-moduleContent19609631">
+
+              <a id="navigationTop-moduleLink19609631" class=" " href="/central_ebook1_3/" ><span>Central_eBook1_3</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19613091">
+
+    <div id="navigationTop-moduleContent19613091">
+
+              <a id="navigationTop-moduleLink19613091" class=" " href="/woodside_ebook1_1/" ><span>Woodside_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19613129">
+
+    <div id="navigationTop-moduleContent19613129">
+
+              <a id="navigationTop-moduleLink19613129" class=" " href="/woodside_ebook1_2/" ><span>woodside_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19618187">
+
+    <div id="navigationTop-moduleContent19618187">
+
+              <a id="navigationTop-moduleLink19618187" class=" " href="/woodside_ebook1_3/" ><span>woodside_eBook1_3</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19626031">
+
+    <div id="navigationTop-moduleContent19626031">
+
+              <a id="navigationTop-moduleLink19626031" class=" " href="/gateway_ebook1_1/" ><span>Gateway_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19626923">
+
+    <div id="navigationTop-moduleContent19626923">
+
+              <a id="navigationTop-moduleLink19626923" class=" " href="/ads_coupon_code/" ><span>ADS_Coupon_Code</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19630172">
+
+    <div id="navigationTop-moduleContent19630172">
+
+              <a id="navigationTop-moduleLink19630172" class=" " href="/hope-fellowship-exposure/" ><span>Hope Fellowship Exposure</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19635453">
+
+    <div id="navigationTop-moduleContent19635453">
+
+              <a id="navigationTop-moduleLink19635453" class=" " href="/regional_to_christianlistusa/" ><span>Regional_to_ChristianListUSA</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19635913">
+
+    <div id="navigationTop-moduleContent19635913">
+
+              <a id="navigationTop-moduleLink19635913" class=" " href="/missional-marketing-christmas/" ><span>missional marketing christmas 2015</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19637883">
+
+    <div id="navigationTop-moduleContent19637883">
+
+              <a id="navigationTop-moduleLink19637883" class=" " href="/oak-hills-reach/" ><span>Oak Hills Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19637885">
+
+    <div id="navigationTop-moduleContent19637885">
+
+              <a id="navigationTop-moduleLink19637885" class=" " href="/calvary-naperville-reach/" ><span>Calvary Naperville Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19648190">
+
+    <div id="navigationTop-moduleContent19648190">
+
+              <a id="navigationTop-moduleLink19648190" class=" " href="/100club_video/" ><span>100club_video</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19657310">
+
+    <div id="navigationTop-moduleContent19657310">
+
+              <a id="navigationTop-moduleLink19657310" class=" " href="/bayside-reach/" ><span>Bayside Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19659439">
+
+    <div id="navigationTop-moduleContent19659439">
+
+              <a id="navigationTop-moduleLink19659439" class=" " href="/transcity/" ><span>transcity</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19661062">
+
+    <div id="navigationTop-moduleContent19661062">
+
+              <a id="navigationTop-moduleLink19661062" class=" " href="/transcity2/" ><span>transcity2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19663666">
+
+    <div id="navigationTop-moduleContent19663666">
+
+              <a id="navigationTop-moduleLink19663666" class=" " href="/faith-family-reach/" ><span>Faith Family Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19663676">
+
+    <div id="navigationTop-moduleContent19663676">
+
+              <a id="navigationTop-moduleLink19663676" class=" " href="/christianlist-usa/" ><span>ChristianList USA</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19665703">
+
+    <div id="navigationTop-moduleContent19665703">
+
+              <a id="navigationTop-moduleLink19665703" class=" " href="/zarephath-reach/" ><span>zarephath reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19668654">
+
+    <div id="navigationTop-moduleContent19668654">
+
+              <a id="navigationTop-moduleLink19668654" class=" " href="/faith_family_clusa/" ><span>Faith_Family_CLUSA</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19669019">
+
+    <div id="navigationTop-moduleContent19669019">
+
+              <a id="navigationTop-moduleLink19669019" class=" " href="/journey-fl-reach/" ><span>Journey Fl Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19677927">
+
+    <div id="navigationTop-moduleContent19677927">
+
+              <a id="navigationTop-moduleLink19677927" class=" " href="/compass-reach/" ><span>Compass-Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19681416">
+
+    <div id="navigationTop-moduleContent19681416">
+
+              <a id="navigationTop-moduleLink19681416" class=" " href="/fbrogerseaster/" ><span>FBRogersEaster</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19681749">
+
+    <div id="navigationTop-moduleContent19681749">
+
+              <a id="navigationTop-moduleLink19681749" class=" " href="/tpcliveeaster/" ><span>tpcliveeaster</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19683117">
+
+    <div id="navigationTop-moduleContent19683117">
+
+              <a id="navigationTop-moduleLink19683117" class=" " href="/tfh-easter/" ><span>TFH-Easter</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19686548">
+
+    <div id="navigationTop-moduleContent19686548">
+
+              <a id="navigationTop-moduleLink19686548" class=" " href="/nwoods-clusa/" ><span>nwoods-clusa</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19689770">
+
+    <div id="navigationTop-moduleContent19689770">
+
+              <a id="navigationTop-moduleLink19689770" class=" " href="/ccm-reach/" ><span>ccm reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19702400">
+
+    <div id="navigationTop-moduleContent19702400">
+
+              <a id="navigationTop-moduleLink19702400" class=" " href="/ccm-clusa/" ><span>ccm-clusa</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19705999">
+
+    <div id="navigationTop-moduleContent19705999">
+
+              <a id="navigationTop-moduleLink19705999" class=" " href="/app-mobile/" ><span>app-mobile</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19728754">
+
+    <div id="navigationTop-moduleContent19728754">
+
+              <a id="navigationTop-moduleLink19728754" class=" " href="/christ-fellowship-christianlis/" ><span>christ-fellowship-christianlistusa</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://gdirectconnect.com/"> </a></h1>
+          
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent4814130" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper19539874">
+
+    <div id="navigationBottom-moduleContent19539874">
+
+              <a id="navigationBottom-moduleLink19539874" class=" " href="/" ><span>City Bible Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19540580">
+
+    <div id="navigationBottom-moduleContent19540580">
+
+              <a id="navigationBottom-moduleLink19540580" class=" " href="/classified-faq/" ><span>Classified FAQ</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19542380">
+
+    <div id="navigationBottom-moduleContent19542380">
+
+              <a id="navigationBottom-moduleLink19542380" class=" " href="/northwoods_early_registration/" ><span>Northwoods_Early_Registration</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19545251">
+
+    <div id="navigationBottom-moduleContent19545251">
+
+              <a id="navigationBottom-moduleLink19545251" class=" " href="/missionalproducts_sandbox/" ><span>MissionalProducts_Sandbox</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19545254">
+
+    <div id="navigationBottom-moduleContent19545254">
+
+              <a id="navigationBottom-moduleLink19545254" class=" " href="/missionalproducts_gallery/" ><span>MissionalProducts_Gallery</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19546011">
+
+    <div id="navigationBottom-moduleContent19546011">
+
+              <a id="navigationBottom-moduleLink19546011" class=" " href="/woodside_reach/" ><span>Woodside_Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19552424">
+
+    <div id="navigationBottom-moduleContent19552424">
+
+              <a id="navigationBottom-moduleLink19552424" class=" " href="/cbc-monday-challenge/" ><span>CBC Monday Challenge</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19558909">
+
+    <div id="navigationBottom-moduleContent19558909">
+
+              <a id="navigationBottom-moduleLink19558909" class=" " href="/rcc-reach/" ><span>RCC Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19567172">
+
+    <div id="navigationBottom-moduleContent19567172">
+
+              <a id="navigationBottom-moduleLink19567172" class=" " href="/woodlands-directory-shutdown/" ><span>Woodlands Directory Shutdown</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19576045">
+
+    <div id="navigationBottom-moduleContent19576045">
+
+              <a id="navigationBottom-moduleLink19576045" class=" " href="/life_austin_ebook/" ><span>Life_Austin_eBook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19576527">
+
+    <div id="navigationBottom-moduleContent19576527">
+
+              <a id="navigationBottom-moduleLink19576527" class=" " href="/life_austin_ebook2/" ><span>Life_Austin_eBook2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19577249">
+
+    <div id="navigationBottom-moduleContent19577249">
+
+              <a id="navigationBottom-moduleLink19577249" class=" " href="/willow-crystal-lake-reach/" ><span>Willow Crystal Lake Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19577398">
+
+    <div id="navigationBottom-moduleContent19577398">
+
+              <a id="navigationBottom-moduleLink19577398" class=" " href="/canyon_ridge_ebook1_1/" ><span>Canyon_Ridge_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19577667">
+
+    <div id="navigationBottom-moduleContent19577667">
+
+              <a id="navigationBottom-moduleLink19577667" class=" " href="/canyon_ridge_ebook1_2/" ><span>Canyon_Ridge_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19584772">
+
+    <div id="navigationBottom-moduleContent19584772">
+
+              <a id="navigationBottom-moduleLink19584772" class=" " href="/shepherd_ebook1_1/" ><span>Shepherd_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19587112">
+
+    <div id="navigationBottom-moduleContent19587112">
+
+              <a id="navigationBottom-moduleLink19587112" class=" " href="/willow_creek_ebook1_1/" ><span>Willow_Creek_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19590784">
+
+    <div id="navigationBottom-moduleContent19590784">
+
+              <a id="navigationBottom-moduleLink19590784" class=" " href="/willow_creek_ebook1_2/" ><span>Willow_Creek_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19602344">
+
+    <div id="navigationBottom-moduleContent19602344">
+
+              <a id="navigationBottom-moduleLink19602344" class=" " href="/northwoods-reach/" ><span>Northwoods Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19605529">
+
+    <div id="navigationBottom-moduleContent19605529">
+
+              <a id="navigationBottom-moduleLink19605529" class=" " href="/missional_moment_saddleback_ki/" ><span>Missional_Moment_Saddleback_Kirk_Johnson</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19608754">
+
+    <div id="navigationBottom-moduleContent19608754">
+
+              <a id="navigationBottom-moduleLink19608754" class=" " href="/central_ebook1_1/" ><span>Central_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19609627">
+
+    <div id="navigationBottom-moduleContent19609627">
+
+              <a id="navigationBottom-moduleLink19609627" class=" " href="/central_ebook1_2/" ><span>Central_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19609631">
+
+    <div id="navigationBottom-moduleContent19609631">
+
+              <a id="navigationBottom-moduleLink19609631" class=" " href="/central_ebook1_3/" ><span>Central_eBook1_3</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19613091">
+
+    <div id="navigationBottom-moduleContent19613091">
+
+              <a id="navigationBottom-moduleLink19613091" class=" " href="/woodside_ebook1_1/" ><span>Woodside_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19613129">
+
+    <div id="navigationBottom-moduleContent19613129">
+
+              <a id="navigationBottom-moduleLink19613129" class=" " href="/woodside_ebook1_2/" ><span>woodside_eBook1_2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19618187">
+
+    <div id="navigationBottom-moduleContent19618187">
+
+              <a id="navigationBottom-moduleLink19618187" class=" " href="/woodside_ebook1_3/" ><span>woodside_eBook1_3</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19626031">
+
+    <div id="navigationBottom-moduleContent19626031">
+
+              <a id="navigationBottom-moduleLink19626031" class=" " href="/gateway_ebook1_1/" ><span>Gateway_eBook1_1</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19626923">
+
+    <div id="navigationBottom-moduleContent19626923">
+
+              <a id="navigationBottom-moduleLink19626923" class=" " href="/ads_coupon_code/" ><span>ADS_Coupon_Code</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19630172">
+
+    <div id="navigationBottom-moduleContent19630172">
+
+              <a id="navigationBottom-moduleLink19630172" class=" " href="/hope-fellowship-exposure/" ><span>Hope Fellowship Exposure</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19635453">
+
+    <div id="navigationBottom-moduleContent19635453">
+
+              <a id="navigationBottom-moduleLink19635453" class=" " href="/regional_to_christianlistusa/" ><span>Regional_to_ChristianListUSA</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19635913">
+
+    <div id="navigationBottom-moduleContent19635913">
+
+              <a id="navigationBottom-moduleLink19635913" class=" " href="/missional-marketing-christmas/" ><span>missional marketing christmas 2015</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19637883">
+
+    <div id="navigationBottom-moduleContent19637883">
+
+              <a id="navigationBottom-moduleLink19637883" class=" " href="/oak-hills-reach/" ><span>Oak Hills Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19637885">
+
+    <div id="navigationBottom-moduleContent19637885">
+
+              <a id="navigationBottom-moduleLink19637885" class=" " href="/calvary-naperville-reach/" ><span>Calvary Naperville Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19648190">
+
+    <div id="navigationBottom-moduleContent19648190">
+
+              <a id="navigationBottom-moduleLink19648190" class=" " href="/100club_video/" ><span>100club_video</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19657310">
+
+    <div id="navigationBottom-moduleContent19657310">
+
+              <a id="navigationBottom-moduleLink19657310" class=" " href="/bayside-reach/" ><span>Bayside Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19659439">
+
+    <div id="navigationBottom-moduleContent19659439">
+
+              <a id="navigationBottom-moduleLink19659439" class=" " href="/transcity/" ><span>transcity</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19661062">
+
+    <div id="navigationBottom-moduleContent19661062">
+
+              <a id="navigationBottom-moduleLink19661062" class=" " href="/transcity2/" ><span>transcity2</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19663666">
+
+    <div id="navigationBottom-moduleContent19663666">
+
+              <a id="navigationBottom-moduleLink19663666" class=" " href="/faith-family-reach/" ><span>Faith Family Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19663676">
+
+    <div id="navigationBottom-moduleContent19663676">
+
+              <a id="navigationBottom-moduleLink19663676" class=" " href="/christianlist-usa/" ><span>ChristianList USA</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19665703">
+
+    <div id="navigationBottom-moduleContent19665703">
+
+              <a id="navigationBottom-moduleLink19665703" class=" " href="/zarephath-reach/" ><span>zarephath reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19668654">
+
+    <div id="navigationBottom-moduleContent19668654">
+
+              <a id="navigationBottom-moduleLink19668654" class=" " href="/faith_family_clusa/" ><span>Faith_Family_CLUSA</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19669019">
+
+    <div id="navigationBottom-moduleContent19669019">
+
+              <a id="navigationBottom-moduleLink19669019" class=" " href="/journey-fl-reach/" ><span>Journey Fl Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19677927">
+
+    <div id="navigationBottom-moduleContent19677927">
+
+              <a id="navigationBottom-moduleLink19677927" class=" " href="/compass-reach/" ><span>Compass-Reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19681416">
+
+    <div id="navigationBottom-moduleContent19681416">
+
+              <a id="navigationBottom-moduleLink19681416" class=" " href="/fbrogerseaster/" ><span>FBRogersEaster</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19681749">
+
+    <div id="navigationBottom-moduleContent19681749">
+
+              <a id="navigationBottom-moduleLink19681749" class=" " href="/tpcliveeaster/" ><span>tpcliveeaster</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19683117">
+
+    <div id="navigationBottom-moduleContent19683117">
+
+              <a id="navigationBottom-moduleLink19683117" class=" " href="/tfh-easter/" ><span>TFH-Easter</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19686548">
+
+    <div id="navigationBottom-moduleContent19686548">
+
+              <a id="navigationBottom-moduleLink19686548" class=" " href="/nwoods-clusa/" ><span>nwoods-clusa</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19689770">
+
+    <div id="navigationBottom-moduleContent19689770">
+
+              <a id="navigationBottom-moduleLink19689770" class=" " href="/ccm-reach/" ><span>ccm reach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19702400">
+
+    <div id="navigationBottom-moduleContent19702400">
+
+              <a id="navigationBottom-moduleLink19702400" class=" " href="/ccm-clusa/" ><span>ccm-clusa</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19705999">
+
+    <div id="navigationBottom-moduleContent19705999">
+
+              <a id="navigationBottom-moduleLink19705999" class=" " href="/app-mobile/" ><span>app-mobile</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19728754">
+
+    <div id="navigationBottom-moduleContent19728754">
+
+              <a id="navigationBottom-moduleLink19728754" class=" " href="/christ-fellowship-christianlis/" ><span>christ-fellowship-christianlistusa</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+ 
+  
+    <p><span class="full-image-block ssNonEditable"><span><img style="width: 1150px;" src="/storage/City_Bible_Activity_Report.2.16.15.png?__SQUARESPACE_CACHEVERSION=1424129829955" alt="" /></span></span></p>
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              &nbsp;
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

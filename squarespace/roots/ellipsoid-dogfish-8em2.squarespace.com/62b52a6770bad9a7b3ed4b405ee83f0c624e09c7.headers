@@ -1,0 +1,11 @@
+GET http://ellipsoid-dogfish-8em2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: Mm7T1Co3/2qWUlcdt
+< Age: 84863
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 01:47:32 GMT
+< Location: https://ellipsoid-dogfish-8em2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTz2kdg0zqNjZTZhMTU0NDQ0NmY0NmI5NWEwMzBiYzdjZjJmOGRk;Path=/

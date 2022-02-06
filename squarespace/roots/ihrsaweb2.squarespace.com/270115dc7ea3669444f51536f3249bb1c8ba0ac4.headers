@@ -1,0 +1,9 @@
+GET http://ihrsaweb2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: JSESSIONID=5806957898FF902ACBA2F9F95558ADB1.v5-web005; Path=/; HttpOnly
+< X-Contextid: eJ86ZxaA/JKIgtqNl
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:19:14 GMT
+< Server: Squarespace

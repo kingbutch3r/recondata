@@ -1,0 +1,16 @@
+GET https://cleanpowersf-sfpuc-yem2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Server: Squarespace
+< X-Contextid: YfITaixH/RVd6tf8H
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"a7f24ec3814a44f07439ff11a2aac803--gzip"
+< Set-Cookie: crumb=BUSBb8O2IHolYTNmN2Y3NWZjZmNiNWRhMTc2NjU0MTllMGNiNDRm;Path=/
+< Date: Wed, 02 Feb 2022 00:52:55 GMT
+< X-Content-Type-Options: nosniff

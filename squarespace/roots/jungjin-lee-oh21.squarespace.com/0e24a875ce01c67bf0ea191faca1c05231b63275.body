@@ -1,0 +1,525 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <meta name="viewport" content="initial-scale=1">
+  
+  <!-- This is Squarespace. --><!-- jungjin-lee-oh21 -->
+<base href="">
+<meta charset="utf-8" />
+<title>Jungjin Lee</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="http://www.jungjinlee.com"/>
+<meta property="og:site_name" content="Jungjin Lee"/>
+<meta property="og:title" content="Jungjin Lee"/>
+<meta property="og:url" content="http://www.jungjinlee.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Jungjin Lee"/>
+<meta itemprop="url" content="http://www.jungjinlee.com"/>
+<meta name="twitter:title" content="Jungjin Lee"/>
+<meta name="twitter:url" content="http://www.jungjinlee.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/K6heru7Ii8rsHSlMizREnEXlmH0cdwvMogJ8_XXm5zbfel3gfFHN4UJLFRbh52jhWD9DFebDZQSDZQsKw2jkFRwtFewUjc9DZs79MPG0-1m0ZhTTdKuCZA9ldh6kwPoDSWmyScmDSeBRZPoRdhXC-1m0ZhTTdKuCZA9ldh6kwPoDSWmyScmDSeBRZPoRdhXC-1m0ZhTTdcU8ZPoRdhXCdeNRjAUGdaFXOYiaiko7iAo1-c80OAU8ZPuz-2JUO1FUiABkZWF3jAF8OcFzdPUaiaS0-1m0ZhTTdcU8ZPoRdhXK2eFydeUudcIlShB0SkG4f54fIMMjgfMfqMeGDTQVgb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Varela+Round:wght@400">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"534d3e73e4b0626384c1be3e","identifier":"jungjin-lee-oh21","websiteType":1,"contentModifiedOn":1642636687581,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Jungjin Lee","fullSiteTitle":"Jungjin Lee","siteDescription":"<p>Born in Daegu,Korea in 1961<br />Lives and works in New York.</p><p>\u00A0</p><p><strong>Education</strong></p><p>1991 MA, New York University, Major in Photography, New York.&nbsp;<br />1984 BFA, Hong Ik University, Major in Ceramics, Seoul, Korea.</p><p>\u00A0</p><p><strong>Solo Exhibitions</strong></p><p>2012 Camera Obscura Gallery, Paris<br />2012 Stephan Witschi Gallery, Zurich<br />2012 Boyer Gallery, The Hill School, Pennsylvania<br />2011 Aperture Gallery, \u201CWind by Jungjinlee\u201D, New York <br />2010 Philip Feldman Gallery+ Project Space, PNCA, Portland, Oregon <br />2008 Goeun Museum of Photography,&nbsp;<em>\u201CRoad to the Wind\u201D,&nbsp;</em>Busan<br />2008<strong>&nbsp;</strong>Bellas Artes Gallery,&nbsp;<em>\"WIND</em>\", Santa Fe <br />2008 Santa Fe Art Institute,&nbsp;<em>\"WIND\",&nbsp;</em>Santa Fe <br />2007 Andrew Bae Gallery,&nbsp;<em>\"</em><em>Wind, Road and Buddha</em><em>\"</em>, Chicago <br />2005 Andrew Bae Gallery,&nbsp;<em>\"Beyond Photography\"</em>, Chicago <br />2005 Pyo Gallery, \"<em>THING</em>\", Seoul <br />2004 Bellas Artes Gallery,&nbsp;<em>\"THINGS</em>\", Santa Fe <br />2003 Blue Sky Gallery,\"<em>On Road/Ocean</em>\", Portland, Oregon <br />2002 The Museum of Photography,Seoul, \"<em>Buddha</em>\", Seoul.&nbsp;<br />2002 Sepia International gallery,\"<em>Desert</em>\", New York.&nbsp;<br />2002 Bellas Artes Gallery \"<em>Beyond Photography</em>\", Santa Fe, New Mexico.&nbsp;<br />2001 Tatar Alexander Gallery, Toronto, Canada.&nbsp;<br />2001 Kukje Gallery,&nbsp;<em>\"On Road/Ocean</em>\" Seoul.&nbsp;<br />2001 Sepia International Gallery,\"<em>On Road/Ocean</em>\", New York.&nbsp;<br />2000 Kumho Museum of Fine Art, \"<em>Beyond Photography</em>\", Seoul.&nbsp;<br />1999 PaceWildensteinMacGill Gallery <em>\"Pagodas</em>\" , Los Angeles.&nbsp;<br />1997 PaceWildensteinMacGill Gallery, Los Angeles.&nbsp;<br />1997 Art Space Seoul Gallery \"<em>Wasteland</em>\" , Seoul.&nbsp;<br />1996 Mansfield Freeman Center for East Asian studies Gallery <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"<em>Dissolving Landscapes</em>\" , Wesleyan University, Connecticut.&nbsp;<br />1995 PaceMacGill Gallery \"<em>Self Portrait</em>\", New York.&nbsp;<br />1995 Fuel Gallery \"<em>American Scenes</em>\", Seattle, Washington.&nbsp;<br />1994 Decouvert Artfair, Paris, France.&nbsp;<br />1994 Sonia Zannettacci Galerie, Geneva, Switzerland.&nbsp;<br />1993 Photo's Gallery, San Francisco, California.&nbsp;<br />1993 Seam-Tae Gallery \"<em>American</em><em>&nbsp;Desert</em>\", Seoul.&nbsp;<br />1992 Blue Sky Gallery, Portland, Oregon.&nbsp;<br />1991 Past Rays Gallery \"<em>Looking</em>\", Yokohama, Japan.&nbsp;<br />1990 Gensler Architects, San Francisco, California.&nbsp;<br />1990 Tartt Gallery, Washington D.C.&nbsp;<br />1989 Camera Club of New York \"<em>A Lonely Cabin in a Far Away Island,</em>\" New York.<br />1988 Paik-Song Gallery \"<em>A Lonely Cabin in a Far Away Island</em>\", Seoul.&nbsp;<br />1984 French Cultural Center <em>\"Europe\"</em>, Seoul.</p><p>\u00A0</p><p><strong>Group Exhibitions</strong></p><p>2012-13 Los Angeles Country Museum of Art \"Moments Measured\", LA<br />2012 Paris Photo 2012, Galerie Camera Obscura, Paris<br />2011 Denver Art Museum \u201CDirty Pictures\u201D, Denver<br />2011 Andrew Bae Gallery, \u201CStone and Wind/ Two person show with Han YoungJin\u201D,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chicago<br />2010 Museum of New Mexico,\u201DCase Studies from the Bureau of Contemporary Art\u201D,&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Santa Fe, New Mexico <br />2010 Museum of Hong-Ik University, Seoul<br />2010 Trunk Gallery, \u201CJungjin Lee / Hyunmi Yoo\u201D Seoul<br />2010 Santa Barbara Museum of Art, \u201CChaotic Harmony\u201D, Santa Barbara, CA<br />2009 The Metropolitan Museum of Art, \u201CSurface Tension\u201D, New York<br />2009 Houston Museum of Art, \u201CContemporary Korean Photography, CHAOTIC HARMONY\u201D<br />2009 GanaArt NY, NY<br />2009 Seoul Art Center, \u201COdyssey 2009\u201D, Seoul<br />2008<strong>&nbsp;</strong>National Museum of Contemporary Art, \"Korean Contemporary <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photography1948~2008\", Seoul <br />2008<strong>&nbsp;</strong>Seoul Museum of Art, \"Treasures Within\", Seoul <br />2008 Shinsegae Gallery, \"Mindful Garden\",Seoul <br />2007 Seoul Museum of Art, \"Korean Contemporary Art\", Seoul &nbsp;<br />2007 Jordan Schnitzer Museum of Art, University of Oregon,\"<em>From the Fire</em>\", Oregon <br />2007 Miki Wick Kim Contemporary Art, Zurich, Switzerland <br />2006 Stanlee and Rubin Center for Visual Art, University of Texas,<br /><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Contemporary Photographs of the Desert',</em>&nbsp;El Paso <br />2005 Koln Artfair (Pyo Gallery:Seoul), Koln <br />2005 San Francisco Art Fair (Pyo Gallery: Seoul), San Francisco <br />2004 Noviy Manezh, \"<em>Korean Landscape- The spritual world within the Scenery\"</em>&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organized by Seoul Museum of Art, Moscow <br />2004 Shanghai Art Fair (Pyo Gallery:Seoul), Shanghai <br /><strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;Gana Art Center, \"<em>Art in Photography\"</em>, Seoul <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FotoFest 2004,&nbsp;<em>\"Water\",</em>&nbsp;Houston <br />2003 The Contemporary Museum, \"<em>Crossing 2003: Korea/Hawai'i\"</em>, Hawai'i <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asian Art Museum,<em>\"Leaning Forward, Looking Back</em>\", San Francisco <br />2002 Museum of New Mexico,<em>\"IDEA Photographic after Modernism\"</em>, Santa Fe,&nbsp;<br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;La Gallerie Photo \"<em>Korean Contemporary Photography\"</em>&nbsp;Montpellier, France <br />2001 International Fotoage Herten \"<em>The Century of Korean photography</em>\",<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herten, Germany <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto International Art Fair, Tatar Alexander Gallery, Toronto.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicago Art Fair, Kukje gallery, Chicago.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sepia international \"<em>Summer 2001\"</em>, new York.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong Art Center \"<em>Current in Korean Contemporary Art\"</em>, Hong Kong.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tai Pei Fine Art Museum \"&nbsp;<em>Current in Korean Contemporary Art\"</em>, Tai Pei.&nbsp;<br />2000 Korean Culture Center \"<em>Figures and Paysages</em>\", Paris, France.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Odense Foto Triennale \"<em>Slowness</em>\", Odense, Denmark.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rena Brenstein Gallery <em>\"Paper Cuts</em>\", San Francisco.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arles Photography Festival <em>\"Exchange And Interchange\"</em>, Arles, France.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanlim Museum <em>\"The Sun Rises in the East</em>\", Taejon.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FotoFest International \"<em>Korean Photography\"</em>&nbsp;Houston, Texas.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Museum of Contemporary Art <em>\"New Collection</em>\", Kwachon.&nbsp;<br />1999 FNAC Collections, Paris <br />1998 National Museum of Contemporary Art\"<em>The Visual Exhibition of </em><br /><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photography Image\"</em>, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumho Museum of Art, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Museum of Far Eastern Antiquities in Stockholm \"<em>Asiatiska Fotografer\",<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>Sweden.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanlim Museum \"<em>Body &amp; Photography\"</em>, Taejon.&nbsp;<br />1997 Gallery Artbeam <em>\"Monochrome</em>\", Seoul.&nbsp;<br />1996 Walkerhill Art Center, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whitney Museum of American Art \"<em>Perpetual Mirage: Photography</em>&nbsp;<br /><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Narratives of the Desert West\"</em>, New York.&nbsp;<br />1995 Sonje Museum of Contemporary Art \", Kyongju.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Center for Photography at Woodstock <em>\"Passing\"Photography,&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today Moments,</em>&nbsp;<em>Memory Trace &amp; Light Images\"</em>, Woodstock, New York.&nbsp;<br />1994 L.A. County Museum \"<em>New York</em><em>&nbsp;from the Collections\"</em>, Los Angelse.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seoul Art Center \"<em>1945-1990, Historical Prospect\",</em>&nbsp;Seoul.&nbsp;<br />1933 Korean Cultural Center <em>\"Bridging the Differences\"</em>, L.A. California.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zabriskie Gallery, New York.&nbsp;<br />1992 Turner Krull Gallery, Los Angeles, California.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zelda Cheatle Gallery, London, England.&nbsp;<br />1986 Battangol Gallery, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Donsung-dong Art Museum, Seoul.&nbsp;<br />1985 Paris Museum of Modern Art, Paris, France.</p><p>\u00A0</p><p><strong>Awards</strong></p><p>2011 Anonymous Was A Woman Awards New York</p><p>\u00A0</p><p><strong>Commissioned work</strong></p><p>2010-11: Israel: Portrait of a Work in Progress</p>","location":{"mapZoom":12.0,"mapLat":40.7207559,"mapLng":-74.0007613},"shareButtonOptions":{"4":true,"8":true,"1":true,"7":true,"6":true,"3":true,"2":true},"authenticUrl":"http://www.jungjinlee.com","internalUrl":"http://jungjin-lee-oh21.squarespace.com","baseUrl":"http://www.jungjinlee.com","primaryDomain":"www.jungjinlee.com","sslSetting":1,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"cfc59dc","showOwnerLogin":false},"websiteSettings":{"id":"534d3e73e4b0626384c1be3f","websiteId":"534d3e73e4b0626384c1be3e","subjects":[],"country":"US","state":"NY","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Home","id":"534d41a8e4b05838eca27ecc","fullUrl":"/","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"outerPadding":"45px","pagePadding":"40px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","topPadding":"50px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"50521cf884aeb45fa5cfdb80","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5052176b84aeb45fa5cfcc83/953/scripts/","betaFeatureFlags":["commerce_clearpay","background_art_onboarding","commerce_pdp_layouts_ga","commerce_category_id_discounts_enabled","campaigns_banner_reduce_size","commerce_activation_experiment_add_payment_processor_card","commerce_etsy_shipping_import","campaigns_global_uc_ab","reduce_general_search_api_traffic","startup_checklist","commerce_product_review_etsy_import","campaigns_blog_product_image_editor","campaigns_new_subscriber_search","product_composer_feedback_form_on_save","category-delete-product-service-enabled","customer_account_creation_recaptcha","scheduling_block_schema_editor","campaigns_show_apply_website_styles_button","commerce_restock_notifications","viewer-role-contributor-invites","commerce_afterpay_pdp","member_areas_schedule_interview","commerce_product_branching","commerce_etsy_product_import","campaigns_section_reorder_arrows","google_analytics_4_gtag_js","campaigns_hide_deleted_automations_panel","commerce_product_composer_ab_test_all_users","nested_categories_migration_enabled","campaigns_thumbnail_layout","commerce_product_review_import_ga","campaigns_audience_card","member_areas_spanish_interviews","commerce_site_visitor_metrics","member_areas_pricing_options_discounts","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL"],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://www.jungjinlee.com","name":"Jungjin Lee","description":"<p>Born in Daegu,Korea in 1961<br />Lives and works in New York.</p><p>\u00A0</p><p><strong>Education</strong></p><p>1991 MA, New York University, Major in Photography, New York.&nbsp;<br />1984 BFA, Hong Ik University, Major in Ceramics, Seoul, Korea.</p><p>\u00A0</p><p><strong>Solo Exhibitions</strong></p><p>2012 Camera Obscura Gallery, Paris<br />2012 Stephan Witschi Gallery, Zurich<br />2012 Boyer Gallery, The Hill School, Pennsylvania<br />2011 Aperture Gallery, \u201CWind by Jungjinlee\u201D, New York <br />2010 Philip Feldman Gallery+ Project Space, PNCA, Portland, Oregon <br />2008 Goeun Museum of Photography,&nbsp;<em>\u201CRoad to the Wind\u201D,&nbsp;</em>Busan<br />2008<strong>&nbsp;</strong>Bellas Artes Gallery,&nbsp;<em>\"WIND</em>\", Santa Fe <br />2008 Santa Fe Art Institute,&nbsp;<em>\"WIND\",&nbsp;</em>Santa Fe <br />2007 Andrew Bae Gallery,&nbsp;<em>\"</em><em>Wind, Road and Buddha</em><em>\"</em>, Chicago <br />2005 Andrew Bae Gallery,&nbsp;<em>\"Beyond Photography\"</em>, Chicago <br />2005 Pyo Gallery, \"<em>THING</em>\", Seoul <br />2004 Bellas Artes Gallery,&nbsp;<em>\"THINGS</em>\", Santa Fe <br />2003 Blue Sky Gallery,\"<em>On Road/Ocean</em>\", Portland, Oregon <br />2002 The Museum of Photography,Seoul, \"<em>Buddha</em>\", Seoul.&nbsp;<br />2002 Sepia International gallery,\"<em>Desert</em>\", New York.&nbsp;<br />2002 Bellas Artes Gallery \"<em>Beyond Photography</em>\", Santa Fe, New Mexico.&nbsp;<br />2001 Tatar Alexander Gallery, Toronto, Canada.&nbsp;<br />2001 Kukje Gallery,&nbsp;<em>\"On Road/Ocean</em>\" Seoul.&nbsp;<br />2001 Sepia International Gallery,\"<em>On Road/Ocean</em>\", New York.&nbsp;<br />2000 Kumho Museum of Fine Art, \"<em>Beyond Photography</em>\", Seoul.&nbsp;<br />1999 PaceWildensteinMacGill Gallery <em>\"Pagodas</em>\" , Los Angeles.&nbsp;<br />1997 PaceWildensteinMacGill Gallery, Los Angeles.&nbsp;<br />1997 Art Space Seoul Gallery \"<em>Wasteland</em>\" , Seoul.&nbsp;<br />1996 Mansfield Freeman Center for East Asian studies Gallery <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\"<em>Dissolving Landscapes</em>\" , Wesleyan University, Connecticut.&nbsp;<br />1995 PaceMacGill Gallery \"<em>Self Portrait</em>\", New York.&nbsp;<br />1995 Fuel Gallery \"<em>American Scenes</em>\", Seattle, Washington.&nbsp;<br />1994 Decouvert Artfair, Paris, France.&nbsp;<br />1994 Sonia Zannettacci Galerie, Geneva, Switzerland.&nbsp;<br />1993 Photo's Gallery, San Francisco, California.&nbsp;<br />1993 Seam-Tae Gallery \"<em>American</em><em>&nbsp;Desert</em>\", Seoul.&nbsp;<br />1992 Blue Sky Gallery, Portland, Oregon.&nbsp;<br />1991 Past Rays Gallery \"<em>Looking</em>\", Yokohama, Japan.&nbsp;<br />1990 Gensler Architects, San Francisco, California.&nbsp;<br />1990 Tartt Gallery, Washington D.C.&nbsp;<br />1989 Camera Club of New York \"<em>A Lonely Cabin in a Far Away Island,</em>\" New York.<br />1988 Paik-Song Gallery \"<em>A Lonely Cabin in a Far Away Island</em>\", Seoul.&nbsp;<br />1984 French Cultural Center <em>\"Europe\"</em>, Seoul.</p><p>\u00A0</p><p><strong>Group Exhibitions</strong></p><p>2012-13 Los Angeles Country Museum of Art \"Moments Measured\", LA<br />2012 Paris Photo 2012, Galerie Camera Obscura, Paris<br />2011 Denver Art Museum \u201CDirty Pictures\u201D, Denver<br />2011 Andrew Bae Gallery, \u201CStone and Wind/ Two person show with Han YoungJin\u201D,<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chicago<br />2010 Museum of New Mexico,\u201DCase Studies from the Bureau of Contemporary Art\u201D,&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Santa Fe, New Mexico <br />2010 Museum of Hong-Ik University, Seoul<br />2010 Trunk Gallery, \u201CJungjin Lee / Hyunmi Yoo\u201D Seoul<br />2010 Santa Barbara Museum of Art, \u201CChaotic Harmony\u201D, Santa Barbara, CA<br />2009 The Metropolitan Museum of Art, \u201CSurface Tension\u201D, New York<br />2009 Houston Museum of Art, \u201CContemporary Korean Photography, CHAOTIC HARMONY\u201D<br />2009 GanaArt NY, NY<br />2009 Seoul Art Center, \u201COdyssey 2009\u201D, Seoul<br />2008<strong>&nbsp;</strong>National Museum of Contemporary Art, \"Korean Contemporary <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photography1948~2008\", Seoul <br />2008<strong>&nbsp;</strong>Seoul Museum of Art, \"Treasures Within\", Seoul <br />2008 Shinsegae Gallery, \"Mindful Garden\",Seoul <br />2007 Seoul Museum of Art, \"Korean Contemporary Art\", Seoul &nbsp;<br />2007 Jordan Schnitzer Museum of Art, University of Oregon,\"<em>From the Fire</em>\", Oregon <br />2007 Miki Wick Kim Contemporary Art, Zurich, Switzerland <br />2006 Stanlee and Rubin Center for Visual Art, University of Texas,<br /><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'Contemporary Photographs of the Desert',</em>&nbsp;El Paso <br />2005 Koln Artfair (Pyo Gallery:Seoul), Koln <br />2005 San Francisco Art Fair (Pyo Gallery: Seoul), San Francisco <br />2004 Noviy Manezh, \"<em>Korean Landscape- The spritual world within the Scenery\"</em>&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Organized by Seoul Museum of Art, Moscow <br />2004 Shanghai Art Fair (Pyo Gallery:Seoul), Shanghai <br /><strong>&nbsp;&nbsp;&nbsp;&nbsp;</strong>&nbsp;&nbsp;Gana Art Center, \"<em>Art in Photography\"</em>, Seoul <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FotoFest 2004,&nbsp;<em>\"Water\",</em>&nbsp;Houston <br />2003 The Contemporary Museum, \"<em>Crossing 2003: Korea/Hawai'i\"</em>, Hawai'i <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asian Art Museum,<em>\"Leaning Forward, Looking Back</em>\", San Francisco <br />2002 Museum of New Mexico,<em>\"IDEA Photographic after Modernism\"</em>, Santa Fe,&nbsp;<br />&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;La Gallerie Photo \"<em>Korean Contemporary Photography\"</em>&nbsp;Montpellier, France <br />2001 International Fotoage Herten \"<em>The Century of Korean photography</em>\",<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herten, Germany <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto International Art Fair, Tatar Alexander Gallery, Toronto.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicago Art Fair, Kukje gallery, Chicago.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sepia international \"<em>Summer 2001\"</em>, new York.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hong Kong Art Center \"<em>Current in Korean Contemporary Art\"</em>, Hong Kong.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tai Pei Fine Art Museum \"&nbsp;<em>Current in Korean Contemporary Art\"</em>, Tai Pei.&nbsp;<br />2000 Korean Culture Center \"<em>Figures and Paysages</em>\", Paris, France.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Odense Foto Triennale \"<em>Slowness</em>\", Odense, Denmark.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rena Brenstein Gallery <em>\"Paper Cuts</em>\", San Francisco.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arles Photography Festival <em>\"Exchange And Interchange\"</em>, Arles, France.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanlim Museum <em>\"The Sun Rises in the East</em>\", Taejon.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FotoFest International \"<em>Korean Photography\"</em>&nbsp;Houston, Texas.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Museum of Contemporary Art <em>\"New Collection</em>\", Kwachon.&nbsp;<br />1999 FNAC Collections, Paris <br />1998 National Museum of Contemporary Art\"<em>The Visual Exhibition of </em><br /><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photography Image\"</em>, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kumho Museum of Art, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Museum of Far Eastern Antiquities in Stockholm \"<em>Asiatiska Fotografer\",<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</em>Sweden.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hanlim Museum \"<em>Body &amp; Photography\"</em>, Taejon.&nbsp;<br />1997 Gallery Artbeam <em>\"Monochrome</em>\", Seoul.&nbsp;<br />1996 Walkerhill Art Center, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Whitney Museum of American Art \"<em>Perpetual Mirage: Photography</em>&nbsp;<br /><em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Narratives of the Desert West\"</em>, New York.&nbsp;<br />1995 Sonje Museum of Contemporary Art \", Kyongju.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Center for Photography at Woodstock <em>\"Passing\"Photography,&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Today Moments,</em>&nbsp;<em>Memory Trace &amp; Light Images\"</em>, Woodstock, New York.&nbsp;<br />1994 L.A. County Museum \"<em>New York</em><em>&nbsp;from the Collections\"</em>, Los Angelse.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seoul Art Center \"<em>1945-1990, Historical Prospect\",</em>&nbsp;Seoul.&nbsp;<br />1933 Korean Cultural Center <em>\"Bridging the Differences\"</em>, L.A. California.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zabriskie Gallery, New York.&nbsp;<br />1992 Turner Krull Gallery, Los Angeles, California.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Zelda Cheatle Gallery, London, England.&nbsp;<br />1986 Battangol Gallery, Seoul.&nbsp;<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Donsung-dong Art Museum, Seoul.&nbsp;<br />1985 Paris Museum of Modern Art, Paris, France.</p><p>\u00A0</p><p><strong>Awards</strong></p><p>2011 Anonymous Was A Woman Awards New York</p><p>\u00A0</p><p><strong>Commissioned work</strong></p><p>2010-11: Israel: Portrait of a Work in Progress</p>","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"address":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/534d3e73e4b0626384c1be3e/71/50521cf884aeb45fa5cfdb80/534d3e73e4b0626384c1be42/953/site.css"/><script language="JavaScript">
+  /**
+    * Disable right-click of mouse, F12 key, and save key combinations on page
+    * By Arthur Gareginyan (arthurgareginyan@gmail.com)
+    * For full source code, visit https://mycyberuniverse.com
+    */
+  window.onload = function() {
+    document.addEventListener("contextmenu", function(e){
+      e.preventDefault();
+    }, false);
+    document.addEventListener("keydown", function(e) {
+    //document.onkeydown = function(e) {
+      // "I" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 73) {
+        disabledEvent(e);
+      }
+      // "J" key
+      if (e.ctrlKey && e.shiftKey && e.keyCode == 74) {
+        disabledEvent(e);
+      }
+      // "S" key + macOS
+      if (e.keyCode == 83 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+        disabledEvent(e);
+      }
+      // "U" key
+      if (e.ctrlKey && e.keyCode == 85) {
+        disabledEvent(e);
+      }
+      // "F12" key
+      if (event.keyCode == 123) {
+        disabledEvent(e);
+      }
+    }, false);
+    function disabledEvent(e){
+      if (e.stopPropagation){
+        e.stopPropagation();
+      } else if (window.event){
+        window.event.cancelBubble = true;
+      }
+      e.preventDefault();
+      return false;
+    }
+  };
+</script><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  <script src="https://static1.squarespace.com/static/ta/5052176b84aeb45fa5cfcc83/953/scripts/site-bundle.js" type="text/javascript"></script>
+</head>
+
+<body class="page-borders-thick canvas-style-normal  header-subtitle-none banner-alignment-center blog-layout-center project-layout-left-sidebar thumbnails-on-open-page-show-all social-icon-style-round hide-social-icons hide-info-footer  hide-page-title   hide-article-author    event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    product-list-titles-under product-list-alignment-center product-item-size-32-standard product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark  opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-534d41a8e4b05838eca27ecc collection-type-page collection-layout-default homepage mobile-style-available site-title" id="collection-534d41a8e4b05838eca27ecc">
+
+  <div id="canvas">
+
+    <div id="mobileNav" class="">
+      <div class="wrapper">
+        <nav class="main-nav mobileNav"><ul>
+  
+    
+
+        <li class="page-collection active-link">
+
+          
+
+            
+              <a href="/">Home</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/bio">CV</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="index-collection folder">
+
+          
+
+            
+              <a href="/works">WORK</a>
+            
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/news">News</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="gallery-collection">
+
+          
+
+            
+              <a href="/publications">PUBLICATIONS</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/review">Review</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/collections">COLLECTION</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/representation">Representation</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/contact">CONTACT</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+    
+  
+</ul>
+</nav>
+
+      </div>
+    </div>
+    <div id="mobileMenuLink"><a>Menu</a></div>
+
+    <header id="header" class="clear">
+
+    
+
+      <div id="upper-logo">
+        <h1 class="logo" data-content-field="site-title">
+          <a href="/">Jungjin Lee</a>
+        </h1>
+      </div>
+      <script>
+      if (parseInt(Y.one('body').getComputedStyle('width'),10) <= 640) {
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#upper-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#upper-logo')
+          });
+        });
+      }
+      </script>
+
+      
+      <div class="site-info" data-content-field="business-information">
+        <div class="site-address">Street Address</div>
+        <div class="site-city-state">City, State, Zip</div>
+        <div class="site-phone">Phone Number</div>
+      </div>
+      
+
+      <div class="site-tag-line">
+        
+      </div>
+
+      <div class="custom-info">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Header Subtitle: Custom Content" data-type="block-field" data-updated-on="1381761023501" id="customInfoBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-81eee4bbda3d9efd0834"><div class="sqs-block-content"><p class="text-align-center">Your Custom Text Here</p></div></div></div></div></div>
+      </div>
+
+      <div id="lower-logo">
+        <h1 class="logo" data-content-field="site-title"><a href="/">Jungjin Lee</a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#lower-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#lower-logo')
+          });
+        });
+      </script>
+
+    
+      <div id="topNav">
+  <nav class="main-nav" data-content-field="navigation">
+    <ul>
+    
+      
+
+          <li class="page-collection active-link">
+
+            
+
+              
+                <a href="/">Home</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/bio">CV</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="index-collection folder">
+
+            
+
+              
+                <a href="/works">WORK</a>
+              
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/news">News</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="gallery-collection">
+
+            
+
+              
+                <a href="/publications">PUBLICATIONS</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/review">Review</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/collections">COLLECTION</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/representation">Representation</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/contact">CONTACT</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+      
+    
+  </ul>
+  <div class="page-divider"></div>
+  </nav>
+</div>
+
+
+    </header>
+
+    <div class="page-divider top-divider"></div>
+
+    <!-- // page image or divider -->
+    
+      
+        
+        <div id="hero">
+          <div class="page-image" data-collection-id="534d41a8e4b05838eca27ecc" data-edit-main-image="Banner" data-annotation-alignment="bottom left">
+            <div class="image-wrapper">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/534d3e73e4b0626384c1be3e/1631047906706-SCXCI0BEVRYC8JAHRQ31/Buddha+02-02.jpg" data-image="https://images.squarespace-cdn.com/content/v1/534d3e73e4b0626384c1be3e/1631047906706-SCXCI0BEVRYC8JAHRQ31/Buddha+02-02.jpg" data-image-dimensions="1600x1132" data-image-focal-point="0.5,0.5" alt="Buddha 02-02.jpg"  />
+            </div>
+            <div class="wrapper">
+              <h1 class="page-title">Home</h1>
+              <div class="page-description"></div>
+            </div>
+          </div>
+        </div>
+        
+      
+    
+
+    <section id="page" class="clear" role="main" data-content-field="main-content" data-collection-id="534d41a8e4b05838eca27ecc" data-collection-id="534d41a8e4b05838eca27ecc" data-edit-main-image="Banner" >
+
+      <!-- // CATEGORY NAV -->
+      
+
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1631047283153" id="page-534d41a8e4b05838eca27ecc"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1530894359561_5392"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-9 span-9"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1535734296876_5742"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class=""><a href="http://34.bienal.org.br/en/artistas/8656"><strong>Though it’s dark, still I sing</strong></a><strong><br></strong>Collective exhibition<br>September 4th — December 5th, 2021</p><p style="text-align:center;white-space:pre-wrap;" class=""><a href="http://34.bienal.org.br/en/" target="_blank"><br><strong>Pavilhão da Bienal<br></strong></a>Parque Ibirapuera, portão 3, Vila Mariana, São Paulo, Brazil</p></div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1530894359561_4953"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+
+    </section>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Home Footer Content" data-type="block-field" id="collection-534d41a8e4b05838eca27ecc"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <!-- <div class="page-divider bottom-divider"></div> -->
+
+    <div class="info-footer-wrapper clear">
+      <div class="info-footer">
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Info Footer Content" data-type="block-field" data-updated-on="1397584895153" id="infoFooterBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+      
+        
+      
+      </div>
+    </div>
+
+    <footer id="footer" class="clear">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1614715983818" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-126febe67777dbcbc0b4"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">©&nbsp;2011-21 jungjin lee</p></div></div></div></div></div>
+    </footer>
+
+  </div>
+
+  <div></div>
+
+  <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+
+
+</body>
+
+</html>

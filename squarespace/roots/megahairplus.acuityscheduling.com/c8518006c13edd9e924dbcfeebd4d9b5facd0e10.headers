@@ -1,0 +1,15 @@
+GET https://megahairplus.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:39:56 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=tcs6cfargu81fumg8hahnkb2bq; expires=Fri, 04-Mar-2022 00:39:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5eee71de-654c-4c7e-98bb-f22ddfabe01f; expires=Fri, 02-Feb-2024 00:39:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

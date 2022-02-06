@@ -1,0 +1,15 @@
+GET https://dubuquehair.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:30:26 GMT
+< Set-Cookie: PHPSESSID=vgaqatc78rrsf4c9fc2ttidhee; expires=Fri, 04-Mar-2022 00:30:25 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5ac2048b-52b1-49cf-8bdf-37c7ebe115cc; expires=Fri, 02-Feb-2024 00:30:26 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent

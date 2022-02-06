@@ -1,0 +1,11 @@
+GET http://virtualnationaltraining2020.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://virtualnationaltraining2020.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfoH/wY5foUdNzA4YmFjOThiMGNmMWNlYjg4MDE4NGI5YTY2N2Nm;Path=/
+< X-Contextid: 8nG0UTaL/xubVjEGD
+< Age: 280783
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 19:06:35 GMT

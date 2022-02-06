@@ -1,0 +1,17 @@
+GET https://singingsydney.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=gjo6tsfadeoatj08g02ucf5ovr; expires=Fri, 04-Mar-2022 00:45:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a00b060a-6e38-4598-a35b-d2f7a340dc1f; expires=Fri, 02-Feb-2024 00:45:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:45:44 GMT

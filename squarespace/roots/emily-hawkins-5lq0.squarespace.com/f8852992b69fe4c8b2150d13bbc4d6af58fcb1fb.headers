@@ -1,0 +1,15 @@
+GET http://emily-hawkins-5lq0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BYWNLGGmb0A9MDliY2UyY2RjMzdhMDQzNmFkYzllYjcxYWQ3ZWVh;Path=/
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"b9ac8bb101d159e3ec3085357a1731af--gzip"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:50:09 GMT
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: S3ag67v4/Gyj8bZqu

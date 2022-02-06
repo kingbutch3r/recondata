@@ -1,0 +1,15 @@
+GET https://brishim.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:19:07 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=98p3eks7f07qhvh6806ggfc6q5; expires=Fri, 04-Mar-2022 00:19:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b49362fd-d38a-461e-b06e-f8684cfafb8d; expires=Fri, 02-Feb-2024 00:19:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

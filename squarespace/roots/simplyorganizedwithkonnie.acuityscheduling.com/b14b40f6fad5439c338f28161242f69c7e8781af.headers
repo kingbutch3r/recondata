@@ -1,0 +1,15 @@
+GET https://simplyorganizedwithkonnie.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:03:48 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=cmpd5ri82vde40ecvio744iug3; expires=Fri, 04-Mar-2022 00:03:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a12a8c97-d230-4c78-abf3-254d11d0213e; expires=Fri, 02-Feb-2024 00:03:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate

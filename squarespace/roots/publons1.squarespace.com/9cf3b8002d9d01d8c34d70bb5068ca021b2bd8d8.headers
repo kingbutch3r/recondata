@@ -1,0 +1,15 @@
+GET http://publons1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BT1TwhyVZiWTYjEzMGFlOGY0OTg2NmJhZGIwMTU1ODE2Y2IzYjE1;Path=/
+< Accept-Ranges: bytes
+< Age: 382607
+< Vary: Accept-Encoding
+< X-Contextid: lclltMGC/ThHEkBph
+< Date: Fri, 28 Jan 2022 14:58:53 GMT
+< Server: Squarespace
+< Etag: W/"fa3a9b26d81a1685f77bad6d672bfbd3--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff

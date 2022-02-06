@@ -1,0 +1,23 @@
+GET https://status.acuityscheduling.com
+
+
+< HTTP/1.1 200 OK
+< Cache-Control: max-age=0, private, must-revalidate
+< X-Permitted-Cross-Domain-Policies: none
+< Accept-Ranges: bytes
+< X-Runtime: 0.192886
+< Etag: W/"gz[f35842ad593a530c4981e49c838172c0]"
+< Referrer-Policy: strict-origin-when-cross-origin
+< Content-Type: text/html; charset=utf-8
+< Strict-Transport-Security: max-age=259200
+< X-Request-Id: ace7e265-1572-491d-9565-c5bc01de4eaf
+< X-Statuspage-Skip-Logging: true
+< X-Statuspage-Version: fdfee86f28367c43b2fd8f4b4d5f6abb754dad8e
+< Age: 3451
+< Vary: Accept,Accept-Encoding,X-Forwarded-Host,X-Forwarded-Scheme,X-Forwarded-Proto,Fastly-SSL
+< X-Cache: HIT
+< Date: Wed, 02 Feb 2022 00:40:02 GMT
+< X-Download-Options: noopen
+< X-Xss-Protection: 1; mode=block
+< Access-Control-Allow-Origin: *
+< X-Content-Type-Options: nosniff

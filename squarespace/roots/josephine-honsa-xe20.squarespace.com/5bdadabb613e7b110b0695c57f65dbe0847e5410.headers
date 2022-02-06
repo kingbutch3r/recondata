@@ -1,0 +1,16 @@
+GET https://josephine-honsa-xe20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Thu, 27 Jan 2022 12:20:48 GMT
+< Set-Cookie: crumb=BdM4mCr1sTxrZThmZTA0OTNjNDBkZWQ4YjUwMGM0ZTEyNjkxNjll;Path=/
+< Age: 478043
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: D30oNJI9/NfPdEYtn
+< Etag: W/"76611ef4b2bf6d4e3950fdc60370bde5--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes

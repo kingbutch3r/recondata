@@ -1,0 +1,1881 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow,noarchive" />  
+  
+  
+  <!-- cwa4340 -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1610&amp;RK=1643738352488&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+    <link rel="alternate" type="application/atom+xml" title="ATOM" href="http://www.cwa4340.org/homr/atom.xml" />
+  
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.cwa4340.org/homr/rss.xml" />
+  
+    <link rel="alternate" type="application/rdf+xml" title="RDF" href="http://www.cwa4340.org/homr/rdf.xml" />
+  
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cwa4340.org/homr/rsd.xml" />
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/yahoo/yahoo-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/event/event-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/event-mouseenter/event-mouseenter-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/social.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/datefmt.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "CWA Local 4340"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "10407019"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "890692";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Home - CWA Local 4340 | Cleveland, Ohio</title>
+    <meta property="og:title" content="Home - CWA Local 4340 | Cleveland, Ohio" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript" charset="utf-8"></script>
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage10407019"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/stewards-log-in/?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent4327384" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper10407019">
+
+    <div id="navigationTop-moduleContent10407019">
+
+              <a id="navigationTop-moduleLink10407019" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper10407020">
+
+    <div id="navigationTop-moduleContent10407020">
+
+              <a id="navigationTop-moduleLink10407020" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper10407187">
+
+    <div id="navigationTop-moduleContent10407187">
+
+              <a id="navigationTop-moduleLink10407187" class=" " href="/need-a-union/" ><span>Need a Union?</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper10407191">
+
+    <div id="navigationTop-moduleContent10407191">
+
+              <a id="navigationTop-moduleLink10407191" class=" " href="/officers-and-directors/" ><span>Officers and Directors</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper10407193">
+
+    <div id="navigationTop-moduleContent10407193">
+
+              <a id="navigationTop-moduleLink10407193" class=" " href="/contact-us/" ><span>Contact Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+     
+      
+      <Div >
+	<script type="text/javascript" src="http://cwa4340.squarespace.com/storage/js/jquery.innerfade.js"></script> <script type="text/javascript">
+	   $(document).ready(
+				function(){			
+					$('ul#portfolio').innerfade({
+						speed: 950,
+						timeout: 4500,
+						type: 'sequence',
+						containerheight: '300px'
+					});
+
+			});
+	</script>
+    
+	<div style="width: 909px; height: 300px; ">
+ 		 <ul id="portfolio" style="font-size: 0px; text-align: center;">
+			<li> <a href="http://cwa4340.squarespace.com"><img src="http://cwa4340.squarespace.com/storage/rotator/header-home1.jpg" border="0" alt="cwa 4340" /></a> </li>
+			<li> <a href="http://cwa4340.squarespace.com"><img src="http://cwa4340.squarespace.com/storage/rotator/header-home2.jpg" border="0" alt="cwa 4340" /></a> </li>
+			<li> <a href="http://cwa4340.squarespace.com"><img src="http://cwa4340.squarespace.com/storage/rotator/header-home3.jpg" border="0" alt="cwa 4340" /></a> </li>
+			<!-- <li> <a href="http://****.squarespace.com"><img src="http://****.squarespace.com/storage/rotator/4.jpg" border="0" alt="" /></a> </li> -->
+		</ul>
+	</div>
+</div>
+      
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent4327384" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper10407019">
+
+    <div id="navigationBottom-moduleContent10407019">
+
+              <a id="navigationBottom-moduleLink10407019" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper10407020">
+
+    <div id="navigationBottom-moduleContent10407020">
+
+              <a id="navigationBottom-moduleLink10407020" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper10407187">
+
+    <div id="navigationBottom-moduleContent10407187">
+
+              <a id="navigationBottom-moduleLink10407187" class=" " href="/need-a-union/" ><span>Need a Union?</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper10407191">
+
+    <div id="navigationBottom-moduleContent10407191">
+
+              <a id="navigationBottom-moduleLink10407191" class=" " href="/officers-and-directors/" ><span>Officers and Directors</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper10407193">
+
+    <div id="navigationBottom-moduleContent10407193">
+
+              <a id="navigationBottom-moduleLink10407193" class=" " href="/contact-us/" ><span>Contact Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent4327384" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper10407019">
+
+    <div id="moduleContent10407019">
+
+              <a id="moduleLink10407019" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407020">
+
+    <div id="moduleContent10407020">
+
+              <a id="moduleLink10407020" class=" " href="/about-us/" ><span>About Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407187">
+
+    <div id="moduleContent10407187">
+
+              <a id="moduleLink10407187" class=" " href="/need-a-union/" ><span>Need a Union?</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407191">
+
+    <div id="moduleContent10407191">
+
+              <a id="moduleLink10407191" class=" " href="/officers-and-directors/" ><span>Officers and Directors</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407193">
+
+    <div id="moduleContent10407193">
+
+              <a id="moduleLink10407193" class=" " href="/contact-us/" ><span>Contact Us</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent4327385" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">FOR MEMBERS</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper10407246">
+
+    <div id="moduleContent10407246">
+
+              <a id="moduleLink10407246" class=" " href="/our-committees/" ><span>Our Committees</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10585152">
+
+    <div id="moduleContent10585152">
+
+              <a id="moduleLink10585152" class=" " href="/calendar-of-events/" ><span>Calendar of Events</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10694851">
+
+    <div id="moduleContent10694851">
+
+              <a id="moduleLink10694851" class=" " href="/bargaining-units/" ><span>Bargaining Units</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19687419">
+
+    <div id="moduleContent19687419">
+
+              <a id="moduleLink19687419" class=" " href="https://www.opers.org/" ><span>Ohio PERS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19623574">
+
+    <div id="moduleContent19623574">
+
+              <a id="moduleLink19623574" class=" " href="/community-and-social-services/" ><span>Community and Social Services</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19603445">
+
+    <div id="moduleContent19603445">
+
+              <a id="moduleLink19603445" class=" " href="/safety-corner/" ><span>Safety Corner</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407210">
+
+    <div id="moduleContent10407210">
+
+              <a id="moduleLink10407210" class=" " href="/legislation-updates/" ><span>Legislation Updates</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10476703">
+
+    <div id="moduleContent10476703">
+
+              <a id="moduleLink10476703" class=" " href="/report-grievances/" ><span>Report Grievances</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10558079">
+
+    <div id="moduleContent10558079">
+
+              <a id="moduleLink10558079" class=" " href="/photo-gallery/" ><span>Photo Gallery</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407260">
+
+    <div id="moduleContent10407260">
+
+              <a id="moduleLink10407260" class=" " href="/apprenticeship-training/" ><span>Apprenticeship &amp; Training</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10546540">
+
+    <div id="moduleContent10546540">
+
+              <a id="moduleLink10546540" class=" " href="/membership-update/" ><span>Update Membership Info</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407274">
+
+    <div id="moduleContent10407274">
+
+              <a id="moduleLink10407274" class=" " href="/cwa-employment-center/" ><span>CWA Employment Center</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10407791">
+
+    <div id="moduleContent10407791">
+
+              <a id="moduleLink10407791" class=" " href="/wear-red-on-thursdays/" ><span>Wear Red on Thursdays</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10476693">
+
+    <div id="moduleContent10476693">
+
+              <a id="moduleLink10476693" class=" " href="/labor-links/" ><span>Labor Links</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10477409">
+
+    <div id="moduleContent10477409">
+
+              <a id="moduleLink10477409" class=" " href="/directions/" ><span>Directions</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10560607">
+
+    <div id="moduleContent10560607">
+
+              <a id="moduleLink10560607" class=" " href="/stewards-log-in/?returnUrl=%2F" ><span>Stewards Log-In</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19662284">
+
+    <div id="moduleContent19662284">
+
+              <a id="moduleLink19662284" class=" " href="http://www.beatriceco.com/bti/porticus/bell/bellsystem_history.html" ><span>Bell System History</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19717360">
+
+    <div id="moduleContent19717360">
+
+              <a id="moduleLink19717360" class=" " href="/privacy-policy/" ><span>Privacy Policy</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent4327386" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Twitter &amp; Facebook</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper19514250" class="widget-wrapper  widget-type-twitter"><div id="moduleContent19514250">
+
+<style type="text/css">
+    <!--
+      #twitter-wrapper-19514250 {
+        display: block;
+        visibility: hidden;
+      }
+            
+    -->
+</style>
+
+<div id="twitter-loading-wrapper-19514250" style="display:none; background:#353535; -moz-border-radius:8px; -webkit-border-radius:8px; height:300px; ">
+  <div id="twitter-loading-img-19514250" style="height:100%; background:url(/universal/images/loading.png) no-repeat center center transparent;" ></div>
+</div>
+
+<div id="twitter-error-wrapper-19514250" style="display:none; background:#353535; -moz-border-radius:8px; -webkit-border-radius:8px; height:300px; ">
+  <a id="twitter-error-img-19514250" style="display:block; height:100%; background:url(/universal/images/loading-refresh.png) no-repeat center center transparent;" 
+    href="javascript:void(0);" onclick="javascript: twitterWidget19514250.show();">&nbsp;</a>
+</div>
+
+
+
+  <div id="twitter-wrapper-19514250" class="twitter-wrapper basic">
+    <div class="twitter-content">
+    
+      <div id="twitter-page-19514250">
+      
+        <div id="tweet-item-19514250-1" class="twitter-item-basic highlight">
+          <div class="twitter-item-content-basic">
+                        <div class="twitter-avatar"><a id="tweet-avatar-link-19514250-1" href="" target="_blank"><img id="tweet-avatar-img-19514250-1" src="" /></a></div>
+            
+                        <div class="twitter-username"><a id="tweet-username-link-19514250-1" href="" target="_blank"></a></div>
+            
+            <span id="tweet-content-19514250-1"></span>
+          </div>
+          <div class="twitter-item-slug">
+                        <div class="twitter-date"><a id="tweet-date-19514250-1" href="" target="_blank"></a></div>
+            
+            <div class="clearer"></div>            
+          </div>
+        </div>
+
+        
+                <div id="tweet-item-19514250-2" class="twitter-item-basic">
+                  <div class="twitter-item-content-basic">
+                                <div class="twitter-avatar"><a id="tweet-avatar-link-19514250-2" href="" target="_blank"><img id="tweet-avatar-img-19514250-2" src="" /></a></div>
+                    
+                                <div class="twitter-username"><a id="tweet-username-link-19514250-2" href="" target="_blank"></a></div>
+                    
+                    <span id="tweet-content-19514250-2"></span>
+                  </div>
+                  <div class="twitter-item-slug">
+                                <div class="twitter-date"><a id="tweet-date-19514250-2" href="" target="_blank"></a></div>
+                    
+                    <div class="clearer"></div>            
+                  </div>
+                </div>
+                
+                <div id="tweet-item-19514250-3" class="twitter-item-basic">
+                  <div class="twitter-item-content-basic">
+                                <div class="twitter-avatar"><a id="tweet-avatar-link-19514250-3" href="" target="_blank"><img id="tweet-avatar-img-19514250-3" src="" /></a></div>
+                    
+                                <div class="twitter-username"><a id="tweet-username-link-19514250-3" href="" target="_blank"></a></div>
+                    
+                    <span id="tweet-content-19514250-3"></span>
+                  </div>
+                  <div class="twitter-item-slug">
+                                <div class="twitter-date"><a id="tweet-date-19514250-3" href="" target="_blank"></a></div>
+                    
+                    <div class="clearer"></div>            
+                  </div>
+                </div>
+                              
+      </div>
+
+      
+    
+    </div>
+
+        <div class="twitter-slug">
+      <div class="twitter-link">
+        
+                <a id="followme-link-19514250-1" href="" target="_blank"><img id="followme-avatar-img-19514250-1" class="avatar" src="" /><span id="followme-text-19514250-1"></span></a>
+                
+      </div>
+    </div>
+    
+          
+  </div>
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+
+  var twitterWidget19514250;
+
+  E.onDOMReady( function() {
+
+    twitterWidget19514250 = new Squarespace.Social.TwitterWidget(19514250, { preset : 'basic-preset', pageSize : 3, followMeText : 'Follow @CWALocal4340', filter : '', filterType : 'any', filterAtReplies: true, filterRetweets : false, userIds : '2449919101,' });
+    twitterWidget19514250.show();      
+    
+  });
+  
+  
+//-->
+</script></div></div><div id="moduleContentWrapper19514255" class="widget-wrapper  widget-type-sociallinks"><div id="moduleContent19514255">
+
+
+
+  
+
+    
+    <ul class="social-link-list-pt">
+  
+      
+              <li id="socialLink238131" class="facebook">
+                <a  class="icon-link" style="background-image: url(/universal/images/social/facebook.png);"  onclick="this.target='new';" href="https://www.facebook.com/pages/CWA-4340/468300733293106">Facebook</a>
+              </li>
+            
+  
+    </ul>
+    
+  
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent4450203" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Bargaining Units</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper10548200">
+
+    <div id="moduleContent10548200">
+
+              <a id="moduleLink10548200" class=" " href="/att-legacy-s/" ><span>AT&amp;T Midwest/Legacy S</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10558370">
+
+    <div id="moduleContent10558370">
+
+              <a id="moduleLink10558370" class=" " href="/att-legacy-t/" ><span>AT&amp;T Legacy T</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10559290">
+
+    <div id="moduleContent10559290">
+
+              <a id="moduleLink10559290" class=" " href="/att-retirees/" ><span>AT&amp;T Retirees</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10559445">
+
+    <div id="moduleContent10559445">
+
+              <a id="moduleLink10559445" class=" " href="/avaya/" ><span>Avaya</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19663314">
+
+    <div id="moduleContent19663314">
+
+              <a id="moduleLink19663314" class=" " href="/att-national-internet-contract/" ><span>AT&amp;T National Internet Contract (NIC)</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19612275">
+
+    <div id="moduleContent19612275">
+
+              <a id="moduleLink19612275" class=" " href="/cuyahoga-county-clerk-of-court/" ><span>Cuyahoga County Clerk of Courts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10559617">
+
+    <div id="moduleContent10559617">
+
+              <a id="moduleLink10559617" class=" " href="/cuyahoga-county-sheriffs-off/" ><span>Cuyahoga County Sheriff</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10559700">
+
+    <div id="moduleContent10559700">
+
+              <a id="moduleLink10559700" class=" " href="/emt-supervisors/" ><span>EMT Supervisors</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19131413">
+
+    <div id="moduleContent19131413">
+
+              <a id="moduleLink19131413" class=" " href="/geauga-water-resources/" ><span>Geauga Water Resources</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper11663654">
+
+    <div id="moduleContent11663654">
+
+              <a id="moduleLink11663654" class=" " href="/help-foundation/" ><span>H.E.L.P. Foundation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10559769">
+
+    <div id="moduleContent10559769">
+
+              <a id="moduleLink10559769" class=" " href="/johnson-controls/" ><span>CBRE</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper11586196">
+
+    <div id="moduleContent11586196">
+
+              <a id="moduleLink11586196" class=" " href="/lake-county-job-family-servic/" ><span>Lake County Job &amp; Family Services</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper16335147">
+
+    <div id="moduleContent16335147">
+
+              <a id="moduleLink16335147" class=" " href="/lake-county-commissioners/" ><span>Lake County Commissioners</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper16335152">
+
+    <div id="moduleContent16335152">
+
+              <a id="moduleLink16335152" class=" " href="/lake-county-prosecutor/" ><span>Lake County Prosecutor</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19690410">
+
+    <div id="moduleContent19690410">
+
+              <a id="moduleLink19690410" class=" " href="/lake-county-sheriffs-dept/" ><span>Lake County Sheriff&#39;s Dept</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19623069">
+
+    <div id="moduleContent19623069">
+
+              <a id="moduleLink19623069" class=" " href="/lake-geauga-united-head-start/" ><span>Lake-Geauga United Head Start</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10559796">
+
+    <div id="moduleContent10559796">
+
+              <a id="moduleLink10559796" class=" " href="/merrick-house/" ><span>Merrick House</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10559945">
+
+    <div id="moduleContent10559945">
+
+              <a id="moduleLink10559945" class=" " href="/printing-sector/" ><span>Printing Sector</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19690441">
+
+    <div id="moduleContent19690441">
+
+              <a id="moduleLink19690441" class=" " href="/saybrook-township/" ><span>Saybrook Township</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19693751">
+
+    <div id="moduleContent19693751">
+
+              <a id="moduleLink19693751" class=" " href="/south-shore-cable-construction/" ><span>South Shore Cable Construction</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent8162015" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">CWA News</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper19552038">
+
+    <div id="moduleContent19552038">
+
+              <a id="moduleLink19552038" class=" " href="/cwa-news/" ><span>CWA News</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent4327511" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">UNION RESOURCES</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper10407416" class="widget-wrapper  widget-type-links"><div id="moduleContent10407416">
+
+
+
+
+
+
+  <ul class="link-group-list-pt">
+
+    
+
+          <li id="linkGroup928183">
+
+            
+             <div class="title">CWA&nbsp;National:</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link5108474">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.cwa-union.org/news/all/c/press_release">CWA Press&nbsp;Releases</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+          <li id="linkGroup1659603">
+
+            
+             <div class="title">Ohio&nbsp;PERS</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link5129931">
+                        <div class="title"><a onclick="this.target='new';" href="https://www.opers.org/">OPERS</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+          <li id="linkGroup928184">
+
+            
+             <div class="title">Union Plus&nbsp;Program:</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link2892340">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.unionplus.org/cell-phone-wireless/att-wireless">15% off AT&amp;T&nbsp;Wireless</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2892341">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.unionplus.org/autos-cars/car-buying-services">Auto Buying&nbsp;Services</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2892343">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.unionplus.org/life-planning-services-legal/member-assistance-programs/union-safe-grants-hospital-bills">Health Care&nbsp;Assistance</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2892347">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.unionplus.org/life-planning-services-legal/member-assistance-programs">Member&nbsp;Assistance</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2932230">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.unionplus.org/college-education-financing/princeton-review-test-prep-courses?email2">College Prep&nbsp;Courses</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2932245">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.unionplus.org/legal-aid-services?email1">Legal&nbsp;Services</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+          <li id="linkGroup928192">
+
+            
+             <div class="title">Union&nbsp;Resources:</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link5122409">
+                        <div class="title"><a onclick="this.target='new';" href="http://unionsportsmen.org/">Union Sportsmen&#39;s&nbsp;Alliance</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2932119">
+                        <div class="title"><a onclick="this.target='new';" href="http://cwa4340.squarespace.com/union-printers/">CWA 4340&nbsp;Printers</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link5093131">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.nccuonline.com/">North Coast Credit&nbsp;Union</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link5093132">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.solidarityhealth.org/">Solidarity Health&nbsp;Network</a></div>
+                        <div class="description">A Local 4340 Union organization for your health coverage needs.</div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link5108475">
+                        <div class="title"><a onclick="this.target='new';" href="http://southeastsecurity.com/">Southeast&nbsp;Security</a></div>
+                        <div class="description">A Local 4340 Union employer for your security &amp; low voltage needs</div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+
+      <div class="header"> <h1>CWA 4340 Latest News &amp; Updates:</h1> </div>
+  
+
+  
+    
+
+  
+  
+  <div class="list-journal-entry-wrapper">
+
+          
+
+
+<div class="journal-entry-wrapper post-text authored-by-cwa4340 ">
+<div id="item36391694" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Thursday</span></div><div class="journal-entry-float-date"><span class="month">Dec</span><span class="date">30</span><span class="year">2021</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/homr/2021/12/30/members-and-childrens-holiday-raffle-winners.html">Members and Children's Holiday Raffle Winners&nbsp;</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p>Thank you to everyone that participated in the holiday raffle for the  members and the children. A big thank you to Nettworth for your  donation and support.</p>
+<p>Santa, thank you for taking some time to help us out !!</p>
+<p>Below is a list of our winners:<br /> We will be in contact with all the winners to arrange a pick up time</p>
+<p>Janet Louis - &nbsp;<strong>VR Oculus </strong><br /> Jonathan Wearstler -<strong>VR Oculus </strong><br /> Nakisha Danice -<strong>Nintendo Switch </strong><br /> Brenda HIcks -<strong>Nintendo Switch</strong> <br /> Shannon Prasek-<strong>Tablet</strong><br /> Stephanie Fulton-<strong>Tablet</strong><br /> Micah Wehrle- <strong>Bicycle with helmet</strong><br /> Erin Lacina-<strong> Bicycle with helmet</strong><br /> Kathleen McGrew - <strong>Wagon</strong><br /> Jim Hennessey- <strong>Wagon</strong><br /> Thomas Griffith-<strong> 55" TV</strong><br /> Daniel Mlincek- <strong>Roomba </strong><br /> Philip Graley- <strong>Xbox</strong><br /> Laketa Drew- <strong>Stocking with gift card/Lottery tickets</strong><br /> Freddy Patterson-<strong>Stocking with gift card/ Lottery tickets</strong><br /> Jacquelin Benton- <strong>Giant Eagle gift card </strong><br /> Khadijah Afzal-<strong>Giant Eagle gift card </strong><br /> James Mintus- <strong>Giant Eagle gift card </strong><br /> William Whitehouse -<strong>Gian</strong><strong>t Eagle gift card<br /> </strong>Eloi Mella-<strong> Gift Card</strong></p>
+<p>Happy Holidays to you and yours</p>
+<p>CWA Local 4340</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"></div>
+      <div class="journal-entry-tag-post-body-line2"><span class="posted-by">  <a href="/homr/author/cwa4340"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />CWA 4340</a></span> |  <span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Thursday, December 30, 2021 at 1:44PM</span> |  <span class="email-item"><a href="/homr/recommend/36391694"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="print-item"><a href="/homr/2021/12/30/members-and-childrens-holiday-raffle-winners.html?printerFriendly=true"> <img title="Print Article" alt="Print Article" class="inline-icon print-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Print Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-cwa4340 ">
+<div id="item36389276" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Thursday</span></div><div class="journal-entry-float-date"><span class="month">Dec</span><span class="date">09</span><span class="year">2021</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/homr/2021/12/9/att-members-high-importance-read-if-you-have-dependents-on-y.html">AT&T Members - HIGH IMPORTANCE read if you have dependents on your health&nbsp;plan</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <div>For our members at AT&amp;T......</div>
+<div><br />Although open enrollment is closed, everyone should check to see if they are required to verify any of their dependents.&nbsp;</div>
+<div><br />Access  HROnestop to get to the Benefits Center tab. In there you will find a  red circle on the top right corner with a number. Click on that to get  to the Message Center. Check to see if there is a message stating  &ldquo;Documentation Required to Verify Dependent Eligibility&rdquo;. You will find  information about the documents required, and instructions on how to  submit them.&nbsp;</div>
+<div><br />THIS IS REQUIRED BY 12/29/2021 OR THEY WILL LOSE COVERAGE.</div>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"></div>
+      <div class="journal-entry-tag-post-body-line2"><span class="posted-by">  <a href="/homr/author/cwa4340"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />CWA 4340</a></span> |  <span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Thursday, December 9, 2021 at 9:09AM</span> |  <span class="email-item"><a href="/homr/recommend/36389276"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="print-item"><a href="/homr/2021/12/9/att-members-high-importance-read-if-you-have-dependents-on-y.html?printerFriendly=true"> <img title="Print Article" alt="Print Article" class="inline-icon print-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Print Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-cwa4340 ">
+<div id="item36386853" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Tuesday</span></div><div class="journal-entry-float-date"><span class="month">Nov</span><span class="date">16</span><span class="year">2021</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/homr/2021/11/16/cwa-local-4340-childrens-holiday-raffle.html">CWA Local 4340 Children's holiday&nbsp;raffle</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p style="text-align: center;">CWA Local 4340 Children's  Holiday Raffle</p>
+<p style="text-align: center;"><em>*All children must be registered* <br /> </em></p>
+<p style="text-align: center;">Raffle will take place December 20 , 2021</p>
+<p style="text-align: center;">*Please see attachment with important information and links*</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><a rel="nofollow noopener noreferrer" href="https://u1584542.ct.sendgrid.net/ss/c/P8Elou2Rvc0qoMPEUZrMXcOpy_XqN4R2ZGjoK-5zZnnYnpkaStNX9Wr02v9MR3-8BsfhrR5bX8K9xvEsuGkn21rdMLIQsVZturZsP2JMMHn23TdZJg3uCHBfnsdk13aLeYmtOuDvwZDkEx0hkhkUrsjmyaFdNvetdNQ98-7iVoTHbAfgOHw10u1_Qd2lGR3FVI59aP7aBjx6CnNrjmmht6c6a4RdQjFRd5725941DVmxv-RoQS3TmoAn9UpEEwVZHR28t-lzrDKAX58lA0IJahu6ySQo5IYyV_61YhgNJwoCWUx7qY5a7n2HiN8sXmc-z9Oflm_p9tpELY90u3gqlLDopsI7HChjdXgni11hbCDhD064gURnMSaRypsCk6Iw9n5nPNM8f0im-NmPZiu0lg/3h2/qgu5uQ8OSOC4YF0RE44Vog/h1/A87CEqqZS9t7AFPmMc2iSCpYM5Zf1k06c4cE8E8VBIk" target="_blank">2021 Children's Holiday Raffle information</a></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"></div>
+      <div class="journal-entry-tag-post-body-line2"><span class="posted-by">  <a href="/homr/author/cwa4340"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />CWA 4340</a></span> |  <span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Tuesday, November 16, 2021 at 1:51PM</span> |  <span class="email-item"><a href="/homr/recommend/36386853"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="print-item"><a href="/homr/2021/11/16/cwa-local-4340-childrens-holiday-raffle.html?printerFriendly=true"> <img title="Print Article" alt="Print Article" class="inline-icon print-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Print Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-cwa4340 ">
+<div id="item36386852" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Tuesday</span></div><div class="journal-entry-float-date"><span class="month">Nov</span><span class="date">16</span><span class="year">2021</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/homr/2021/11/16/cwa-local-4340-holiday-members-raffle.html">CWA Local 4340 Holiday members raffle&nbsp;</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p style="text-align: center;">CWA Local 4340</p>
+<p style="text-align: center;">Holiday Members Raffle</p>
+<p style="text-align: center;">All Members in good standing are automatically entered</p>
+<p style="text-align: center;">Drawing will be held December 20, 2021</p>
+<p style="text-align: center;">*Please see attachment with important information and links*</p>
+<p style="text-align: center;"><a rel="nofollow noopener noreferrer" href="https://u1584542.ct.sendgrid.net/ss/c/P8Elou2Rvc0qoMPEUZrMXcOpy_XqN4R2ZGjoK-5zZnnYnpkaStNX9Wr02v9MR3-8BsfhrR5bX8K9xvEsuGkn2_gI7BrsnCGFT1UJNwPE8940CuxN_idDsXK0Lc8fMv-Ao0Tex8Bn1lfvfVjMVH7x3OTSJfQE807zWpa49rAeIl3fDEWDqrNbmLx8RsDqQb9wKSAurdBMIxW_0dvB4M7CEcesplPPCEWxAJbLvNrrBhmVGS-6FfLqzqMluKTBZP_DQi7tt4Bu6ISwZCg-mE6L3rrKA4LmHEvlbnMOQlBZZ-zMKy2jcSkbsniiDKzBzx3thmiTHVIkq2BCbGTE3kuvSdWegjACgSvOX_r2BC_a3p4pVEoAkIO3-8BfSG7JiB8s/3h2/ACCicd2pT8aR-OOFvf_c2A/h1/fuxMF8gPyuhgGvpMXThl6Pzn0WQzIT7ctvyCy9Mo2iE" target="_blank">Holiday Members Raffle information</a></p>
+<p style="text-align: center;">&nbsp;</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"></div>
+      <div class="journal-entry-tag-post-body-line2"><span class="posted-by">  <a href="/homr/author/cwa4340"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />CWA 4340</a></span> |  <span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Tuesday, November 16, 2021 at 1:48PM</span> |  <span class="email-item"><a href="/homr/recommend/36386852"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="print-item"><a href="/homr/2021/11/16/cwa-local-4340-holiday-members-raffle.html?printerFriendly=true"> <img title="Print Article" alt="Print Article" class="inline-icon print-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Print Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-cwa4340 ">
+<div id="item36379268" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Tuesday</span></div><div class="journal-entry-float-date"><span class="month">Sep</span><span class="date">14</span><span class="year">2021</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/homr/2021/9/14/cwa-local-4340-general-membership-meeting-all.html"></a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <h1 style="text-align: center;"><strong>CWA Local 4340</strong></h1>
+<p style="text-align: center;"><strong>General Membership Meeting</strong><strong><br /> </strong><strong><em>(All Members Welcome)</em></strong><strong><em><br /> </em></strong></p>
+<p style="text-align: center;">-Meeting will be held in the parking lot weather permitting-<em><span style="text-decoration: underline;"><br />Mask requirements and social distancing protocols will be followed</span></em></p>
+<p style="text-align: center;">*Attendance is at your own risk*</p>
+<p style="text-align: center;"><span style="color: black;"><strong>Tuesday September 21, 2021</strong><br /> 6:00 pm</span><strong><br /> </strong>-At-</p>
+<p style="text-align: center;">CWA Local 4340 Union Hall<br />1400 E. Schaaf Road<br />Brooklyn Heights</p>
+<p><em>(Rear Building parking lot)</em></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"></div>
+      <div class="journal-entry-tag-post-body-line2"><span class="posted-by">  <a href="/homr/author/cwa4340"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />CWA 4340</a></span> |  <span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Tuesday, September 14, 2021 at 8:42AM</span> |  <span class="email-item"><a href="/homr/recommend/36379268"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="print-item"><a href="/homr/2021/9/14/cwa-local-4340-general-membership-meeting-all.html?printerFriendly=true"> <img title="Print Article" alt="Print Article" class="inline-icon print-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Print Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-cwa4340 ">
+<div id="item36372302" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Thursday</span></div><div class="journal-entry-float-date"><span class="month">Jul</span><span class="date">15</span><span class="year">2021</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/homr/2021/7/15/cwa-local-4340-general-membership-meeting.html">CWA Local 4340 General Membership&nbsp;Meeting</a>  
+     
+         
+    
+      </h2>
+      
+      
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <h1 style="text-align: center;"><strong>CWA Local 4340</strong></h1>
+<p style="text-align: center;"><strong>General Membership Meeting</strong><strong><br /> </strong><strong><em>(All Members Welcome)</em></strong><strong><em><br /> </em></strong></p>
+<p style="text-align: center;">-Meeting will be held in the parking lot weather permitting-<em><span style="text-decoration: underline;"><br />Mask requirements and social distancing protocols will be followed</span></em></p>
+<p style="text-align: center;">*Attendance is at your own risk*</p>
+<p style="text-align: center;"><span style="color: black;"><strong>Tuesday July 20, 2021</strong><br /> 6:00 pm</span><strong><br /> </strong>-At-</p>
+<p style="text-align: center;">CWA Local 4340 Union Hall<br />1400 E. Schaaf Road<br />Brooklyn Heights</p>
+<p style="text-align: center;"><em>(Rear Building parking lot)<br /> <br /> </em><strong></strong></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"></div>
+      <div class="journal-entry-tag-post-body-line2"><span class="posted-by">  <a href="/homr/author/cwa4340"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />CWA 4340</a></span> |  <span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Thursday, July 15, 2021 at 11:42AM</span> |  <span class="email-item"><a href="/homr/recommend/36372302"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="print-item"><a href="/homr/2021/7/15/cwa-local-4340-general-membership-meeting.html?printerFriendly=true"> <img title="Print Article" alt="Print Article" class="inline-icon print-icon" rel="blk_ko_18" src="/universal/images/transparent.png" />Print Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+    
+    
+  </div>
+
+  
+  <div  class="paginationControlWrapper journal-navigation" >
+
+    <!-- 1 - 6 of 13 (page 1 of 3) -->
+
+    <span class="paginationControlPrefix">
+      
+              Page
+       
+    </span>
+    
+    
+
+    
+              <a class="paginationPageNumber activePage" href="javascript:noop();">1</a>
+      
+    
+              <a class="paginationPageNumber"  href="/homr/?currentPage=2" >2</a>
+      
+    
+              <a class="paginationPageNumber"  href="/homr/?currentPage=3" >3</a>
+      
+     
+
+    
+
+          <span class="paginationControlNextPageSuffix">
+        <a  href="/homr/?currentPage=2" >
+          Next 6 Entries »
+        </a>
+      </span>
+    
+    
+    
+
+  </div>
+
+
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Copyright &copy; 2000-2018, Communications Workers of America Local 4340.  All rights reserved. Photographs and illustrations, as well as text, cannot be used without permission from CWA Local 4340.
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+  <script type="text/javascript">  
+    Squarespace.equalColumnHeightEnabled = true;
+    var win = this;    
+    (function () {
+      window.onload = function(){
+        Squarespace.EqualColumnHeight.enable(win);
+      }
+      window.onclick = function(){
+        YAHOO.lang.later(50, this, function() {
+           Squarespace.EqualColumnHeight.enable(win);
+        });        
+      }
+    }());
+  </script>
+
+
+</body>
+</html>

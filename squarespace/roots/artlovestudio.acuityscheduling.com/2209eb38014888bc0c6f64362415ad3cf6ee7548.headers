@@ -1,0 +1,15 @@
+GET https://artlovestudio.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:25:14 GMT
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=38uhccabh9lirmn6o0b0ft73h2; expires=Fri, 04-Mar-2022 00:25:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3b292376-7c3d-4f7f-8abd-705839ce023f; expires=Fri, 02-Feb-2024 00:25:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

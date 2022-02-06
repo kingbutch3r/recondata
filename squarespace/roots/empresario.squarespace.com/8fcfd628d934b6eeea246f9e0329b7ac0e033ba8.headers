@@ -1,0 +1,11 @@
+GET http://empresario.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 17:51:38 GMT
+< Location: https://empresario.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdIgl80Enp24OWZjMDA2Y2RjMTM4YmNlN2EzNjljZGQzZDBlNGE0;Path=/
+< X-Contextid: RRKtBw8k/Z5GLLP3o
+< Age: 372796

@@ -1,0 +1,17 @@
+GET https://geffnerproductions.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:35:53 GMT
+< Set-Cookie: PHPSESSID=o4tmv1eofse5ueh3unsaa7tm2j; expires=Fri, 04-Mar-2022 00:35:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e09387b6-7be6-421c-9aa1-f9cb5bc21d0f; expires=Fri, 02-Feb-2024 00:35:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"

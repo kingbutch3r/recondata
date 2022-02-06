@@ -1,0 +1,10 @@
+GET http://lifesize.harrys.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Amz-Id-2: 7rxxlte806K8x/YjbMd3RvYwBVgV7jcDMHMCHmaBleWUQROuOmg2HMa+erelbCTD6VoJvndZEt0=
+< Content-Type: text/html; charset=utf-8
+< Date: Sat, 29 Jan 2022 17:39:35 GMT
+< Server: AmazonS3
+< Content-Length: 303
+< X-Amz-Request-Id: 3TEB8MGFKB8H0G0K

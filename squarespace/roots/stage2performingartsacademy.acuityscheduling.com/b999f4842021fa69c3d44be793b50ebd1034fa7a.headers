@@ -1,0 +1,17 @@
+GET https://stage2performingartsacademy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=hm9p9rbr582rg3n558ma8rqgdo; expires=Fri, 04-Mar-2022 00:47:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ed1f5c79-2240-4e14-8606-d7295df2d24a; expires=Fri, 02-Feb-2024 00:47:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:47:29 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,15 @@
+GET https://beyondbeautycoaching.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:10:17 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=utjob7jlcb9k2bhvrpmik8nrad; expires=Fri, 04-Mar-2022 00:10:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3f77b503-a5d7-4c65-b18b-f2b26bbc3b1e; expires=Fri, 02-Feb-2024 00:10:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate

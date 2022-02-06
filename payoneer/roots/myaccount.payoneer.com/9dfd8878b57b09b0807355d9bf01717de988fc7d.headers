@@ -1,0 +1,10 @@
+GET http://myaccount.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://myaccount.payoneer.com/
+< Content-Length: 228
+< Date: Tue, 01 Feb 2022 23:25:48 GMT
+< Cache-Control: private

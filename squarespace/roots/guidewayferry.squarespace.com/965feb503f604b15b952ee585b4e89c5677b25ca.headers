@@ -1,0 +1,11 @@
+GET http://guidewayferry.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:52:16 GMT
+< Location: https://guidewayferry.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRdivq8I9YOHODQwNzEyNTNjNGIxODNhYjA0MjNiNDZhMzhkODlm;Path=/
+< X-Contextid: wVHDVBSG/HrIxKFuu
+< Content-Length: 0
+< Age: 0

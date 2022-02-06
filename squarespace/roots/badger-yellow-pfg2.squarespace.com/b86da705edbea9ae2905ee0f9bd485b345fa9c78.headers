@@ -1,0 +1,11 @@
+GET http://badger-yellow-pfg2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BZPQROCk8UzbZDZhZGJlZTc2MDMwZGQ1NDg0NjQ4MTE4MDk3ZmJj;Path=/
+< X-Contextid: Ygo8SOmY/OvIBoQZA
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:20:27 GMT
+< Location: https://badger-yellow-pfg2.squarespace.com/
+< Server: Squarespace

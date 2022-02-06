@@ -1,0 +1,18 @@
+GET https://tcd2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Cache-Control: max-age=172800, s-maxage=172800
+< Date: Wed, 02 Feb 2022 01:19:44 GMT
+< Etag: W/"4be343cecae886a31d2de691085ba82c"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Last-Modified: Wed, 02 Feb 2022 01:19:45 GMT
+< Set-Cookie: crumb=BUpVlhMk78umM2RjZGI3NmUwMmY5ZTYwYzM1M2Y2NjdmZmRmOTVk;Path=/
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: YBKJGWzV/Xiluctmm

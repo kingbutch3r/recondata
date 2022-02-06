@@ -1,0 +1,17 @@
+GET https://xastanford.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=q682r99qm3f1td04ae1u9dt8f9; expires=Fri, 04-Mar-2022 00:00:44 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=231829a9-de68-48a3-853d-db2cb44e890a; expires=Fri, 02-Feb-2024 00:00:45 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:00:45 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

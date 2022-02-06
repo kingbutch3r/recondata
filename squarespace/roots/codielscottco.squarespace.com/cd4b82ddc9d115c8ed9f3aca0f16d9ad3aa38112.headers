@@ -1,0 +1,14 @@
+GET https://codielscottco.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=0
+< X-Contextid: 0RulnuIx/ANdo9Vnx
+< Age: 0
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:01:17 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcbmBBoZOeWCNDY0ZjZjMjJkYjgwMTYwYzliNmI4OTc1MGUyMjZk;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff

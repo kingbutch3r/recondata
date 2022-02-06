@@ -1,0 +1,11 @@
+GET https://pack130.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< X-Contextid: jDmQcsDx/gUnkzLmh
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:51:29 GMT
+< Location: http://pack130.squarespace.com/;jsessionid=1790DB3051ADD5374265AA44141F49AD.v5-web009
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=1790DB3051ADD5374265AA44141F49AD.v5-web009; Path=/; HttpOnly

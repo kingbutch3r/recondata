@@ -1,0 +1,11 @@
+GET http://myria-fairbanks.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://myria-fairbanks.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVYZzPIzt8afMTJkNTMzYTA3YTFjNjlmMGUyYjBhZDhlNzk0ZWMx;Path=/
+< X-Contextid: Mvvfvrub/sEYPcpLW
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:24:12 GMT

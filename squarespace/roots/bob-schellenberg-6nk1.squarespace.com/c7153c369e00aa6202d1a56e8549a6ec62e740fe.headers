@@ -1,0 +1,15 @@
+GET http://bob-schellenberg-6nk1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"76ceaeba5ae69301a98732353fb68b6b--gzip"
+< Server: Squarespace
+< X-Contextid: LIVOjw3x/9q5NCoDQ
+< Date: Thu, 27 Jan 2022 20:36:58 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BUa+GaDQ9S9YODg2N2ExMWM2NDQ1YjVhY2JiZDIwNjc0ZDk0NjJh;Path=/
+< Accept-Ranges: bytes
+< Age: 447237
+< Content-Type: text/html;charset=utf-8

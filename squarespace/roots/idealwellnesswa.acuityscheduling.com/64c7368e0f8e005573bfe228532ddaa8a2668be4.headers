@@ -1,0 +1,17 @@
+GET https://idealwellnesswa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:56:24 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=4ghvhutqms0hotpio7pcvn19ij; expires=Thu, 03-Mar-2022 23:56:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9e495fe4-481f-4a6f-84bf-e91653d2664b; expires=Thu, 01-Feb-2024 23:56:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

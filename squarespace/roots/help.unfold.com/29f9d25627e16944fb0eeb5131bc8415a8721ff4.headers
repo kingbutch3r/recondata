@@ -1,0 +1,27 @@
+GET http://help.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=UTF-8
+< Zendesk-Api-Version: 2022-01-01
+< Vary: Accept
+< X-Content-Type-Options: nosniff
+< Cf-Ray: 6d6f6baaec346ef4-BOM
+< Date: Wed, 02 Feb 2022 00:49:36 GMT
+< Cache-Control: no-cache
+< X-Runtime: 0.059604
+< X-Zendesk-Zorg: yes
+< Server: cloudflare
+< Set-Cookie: __cfruid=4f775febb0adea167008367412c1510090de4d23-1643762976; path=/; domain=.help.unfold.com; HttpOnly
+< Content-Length: 92
+< Location: https://help.unfold.com/hc
+< X-Zendesk-Origin-Server: classic-app-server-66bdf8fd94-jp27s
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Cf-Cache-Status: DYNAMIC
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=WI83e1K1Q%2FyB5LaDDniu2RGWH4HlQ501E6rZBtyJxFkbzVJMHHXeDk6rmb%2BB875UZ%2BIw6snd21JOVx6dBcq0uGBeVfHY%2FN%2B9VEDztFDeezOl4VHWwOGyIKh2OY5yHgrTOg%3D%3D"}],"group":"cf-nel","max_age":604800}
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< X-Xss-Protection: 1; mode=block
+< Content-Security-Policy: frame-ancestors 'self' 5help.squarespace.com support.squarespace.com help.unfold.com;
+< Zendesk-Ep: 10
+< X-Request-Id: 6d6f6baaec346ef4-SEA
+< X-Request-Id: 6d6f6baaec346ef4-SEA

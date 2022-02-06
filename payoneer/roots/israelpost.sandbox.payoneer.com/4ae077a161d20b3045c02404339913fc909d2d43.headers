@@ -1,0 +1,15 @@
+GET https://israelpost.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: GCLB=CK7mypCy8dHKMw; path=/; HttpOnly
+< Server: rhino-core-shield
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Date: Tue, 01 Feb 2022 23:26:24 GMT
+< Vary: Accept-Encoding
+< Via: 1.1 google
+< Alt-Svc: clear
+< Content-Type: text/html; charset=utf-8
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache

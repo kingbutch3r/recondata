@@ -1,0 +1,13 @@
+GET https://marc-epstein-dpr1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: PqtKq1M7/MnW77ai6
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:51:03 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BYYPz/kdVU9ZODc0ZjAyYzc5MzIzMzBmZjkzMzY4YzYyNWNjYTlm;Path=/

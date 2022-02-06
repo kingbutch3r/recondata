@@ -1,0 +1,17 @@
+GET https://wendybreakstone.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:05:53 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=qtjp26ql2dfupt7dh3if6cvns7; expires=Fri, 04-Mar-2022 00:05:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ba85a38a-02b1-42fa-b8a2-4bd6e938dd24; expires=Fri, 02-Feb-2024 00:05:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

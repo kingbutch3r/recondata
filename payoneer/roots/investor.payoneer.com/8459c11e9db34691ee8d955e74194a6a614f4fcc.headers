@@ -1,0 +1,19 @@
+GET https://investor.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=utf-8
+< Strict-Transport-Security: max-age=31536000
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:26:37 GMT
+< Cf-Cache-Status: HIT
+< X-Frame-Options: SAMEORIGIN
+< Age: 88
+< X-Xss-Protection: 1; mode=block
+< Set-Cookie: __cf_bm=AkNoUdKlOZ3zi3pFdJ9I61J4WbM.TG4G4J5MLvdU.Hw-1643757997-0-AfBEr9gFNfl0SmbhqTHY86LOZN8WU5XxxDbjtwP+Yb9amePzTQPqVbeE7c+8C+jJs88A59ZAqmOLXa69X892rdg=; path=/; expires=Tue, 01-Feb-22 23:56:37 GMT; domain=.investor.payoneer.com; HttpOnly; Secure; SameSite=None
+< Server: cloudflare
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Location: /overview/default.aspx
+< Cf-Ray: 6d6ef21c5a788555-BOM
+< Cache-Control: public, max-age=120, stale-if-error=86400, stale-while-revalidate=86400
+< Vary: Accept-Encoding

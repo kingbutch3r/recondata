@@ -1,0 +1,8 @@
+GET http://image-uploads.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Content-Length: 277
+< Date: Wed, 02 Feb 2022 00:55:02 GMT

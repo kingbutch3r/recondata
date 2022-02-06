@@ -1,0 +1,12 @@
+GET https://web6352.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: bWHSuKXX/9jz8YEv4
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 01:17:36 UTC
+< Pragma: no-cache

@@ -1,0 +1,15 @@
+GET http://jay-white-nrl1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BeBTbCAd+ODaYzQ1NjM3ZmY2NGE0YjIwYjc4MGVhZTFiN2ZlMjEy;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: mLyJKjTw/Y8oPmYX0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:15:23 GMT
+< Etag: W/"95726aa1a10a60579570618807f11337--gzip"

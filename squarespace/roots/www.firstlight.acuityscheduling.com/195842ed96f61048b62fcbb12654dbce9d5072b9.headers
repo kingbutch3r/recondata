@@ -1,0 +1,17 @@
+GET https://www.firstlight.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:40:50 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=00rsbu4q1hbkrgef9buon6184p; expires=Fri, 04-Mar-2022 00:40:49 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a1f3d661-8dec-41fd-910f-02259ea83b20; expires=Fri, 02-Feb-2024 00:40:50 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload

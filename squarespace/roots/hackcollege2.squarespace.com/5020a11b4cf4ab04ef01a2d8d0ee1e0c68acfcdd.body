@@ -1,0 +1,2104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+   <meta name="description" content="HackCollege is a student-powered lifehacking site. Work smarter, not harder." /> 
+  
+  <!-- hackcollege2 -->
+
+  <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=820396&amp;RK=1311294287967&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/hackcollege" />
+  
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.hackcollege.com/blog/rsd.xml" />
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "HackCollege"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "2964520"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "280479";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>HackCollege - Student-Powered Lifehacking</title>
+    <meta property="og:title" content="HackCollege - Student-Powered Lifehacking" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  <link rel="image_src" href="http://a.images.blip.tv/Michaelksutton-300x300_show_image636.png" />  
+<link rel="apple-touch-icon" href="/storage/hackcollege_iphone_icon_hires.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="/storage/opensearch.xml" title="HackCollege" />
+
+
+<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
+</script>
+<script type='text/javascript'>
+GS_googleAddAdSenseService("ca-pub-8952758563875501");
+GS_googleEnableAllServices();
+</script>
+<script type='text/javascript'>
+GA_googleAddSlot("ca-pub-8952758563875501", "HackCollege300");
+</script>
+<script type='text/javascript'>
+GA_googleFetchAds();
+</script>
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage2964520"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent1540702" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationTop-moduleContentWrapper2975349">
+
+    <div id="navigationTop-moduleContent2975349">
+
+              <a id="navigationTop-moduleLink2975349" class=" " href="/about-rosario-doriott/" ><span>Rosario Doriott</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper2975347">
+
+    <div id="navigationTop-moduleContent2975347">
+
+              <a id="navigationTop-moduleLink2975347" class=" " href="/about-chris-lesinski/" ><span>Chris Lesinski</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper2975319">
+
+    <div id="navigationTop-moduleContent2975319">
+
+              <a id="navigationTop-moduleLink2975319" class=" " href="/about-kelly-sutton/" ><span>Kelly Sutton</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3173744">
+
+    <div id="navigationTop-moduleContent3173744">
+
+              <a id="navigationTop-moduleLink3173744" class=" " href="/about-mike-bertolino/" ><span>Mike Bertolino</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3173757">
+
+    <div id="navigationTop-moduleContent3173757">
+
+              <a id="navigationTop-moduleLink3173757" class=" " href="/about-luke-turcotte/" ><span>Luke Turcotte</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper6349987">
+
+    <div id="navigationTop-moduleContent6349987">
+
+              <a id="navigationTop-moduleLink6349987" class=" " href="/about-shep-mcallister/" ><span>Shep McAllister</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper7236159">
+
+    <div id="navigationTop-moduleContent7236159">
+
+              <a id="navigationTop-moduleLink7236159" class=" " href="/about-emily-chapman/" ><span>Emily Chapman</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper7236163">
+
+    <div id="navigationTop-moduleContent7236163">
+
+              <a id="navigationTop-moduleLink7236163" class=" " href="/about-laura-schluckebier/" ><span>Laura Schluckebier</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper7236170">
+
+    <div id="navigationTop-moduleContent7236170">
+
+              <a id="navigationTop-moduleLink7236170" class=" " href="/about-sean-quinn/" ><span>Sean Quinn</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper11492942">
+
+    <div id="navigationTop-moduleContent11492942">
+
+              <a id="navigationTop-moduleLink11492942" class=" " href="/about-deryck-wong/" ><span>About Deryck Wong</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper11693168">
+
+    <div id="navigationTop-moduleContent11693168">
+
+              <a id="navigationTop-moduleLink11693168" class=" " href="/about-sarah-feng/" ><span>Sarah Feng</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+        
+        <div id="bannerWrapper">
+          <a href="http://www.hackcollege.com/"><img id="banner" src="/storage/banner_v3.png" alt="HackCollege" title="HackCollege"/></a>
+        </div>  
+
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent1540702" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module   " id="navigationBottom-moduleContentWrapper2975349">
+
+    <div id="navigationBottom-moduleContent2975349">
+
+              <a id="navigationBottom-moduleLink2975349" class=" " href="/about-rosario-doriott/" ><span>Rosario Doriott</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper2975347">
+
+    <div id="navigationBottom-moduleContent2975347">
+
+              <a id="navigationBottom-moduleLink2975347" class=" " href="/about-chris-lesinski/" ><span>Chris Lesinski</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper2975319">
+
+    <div id="navigationBottom-moduleContent2975319">
+
+              <a id="navigationBottom-moduleLink2975319" class=" " href="/about-kelly-sutton/" ><span>Kelly Sutton</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3173744">
+
+    <div id="navigationBottom-moduleContent3173744">
+
+              <a id="navigationBottom-moduleLink3173744" class=" " href="/about-mike-bertolino/" ><span>Mike Bertolino</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3173757">
+
+    <div id="navigationBottom-moduleContent3173757">
+
+              <a id="navigationBottom-moduleLink3173757" class=" " href="/about-luke-turcotte/" ><span>Luke Turcotte</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper6349987">
+
+    <div id="navigationBottom-moduleContent6349987">
+
+              <a id="navigationBottom-moduleLink6349987" class=" " href="/about-shep-mcallister/" ><span>Shep McAllister</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper7236159">
+
+    <div id="navigationBottom-moduleContent7236159">
+
+              <a id="navigationBottom-moduleLink7236159" class=" " href="/about-emily-chapman/" ><span>Emily Chapman</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper7236163">
+
+    <div id="navigationBottom-moduleContent7236163">
+
+              <a id="navigationBottom-moduleLink7236163" class=" " href="/about-laura-schluckebier/" ><span>Laura Schluckebier</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper7236170">
+
+    <div id="navigationBottom-moduleContent7236170">
+
+              <a id="navigationBottom-moduleLink7236170" class=" " href="/about-sean-quinn/" ><span>Sean Quinn</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper11492942">
+
+    <div id="navigationBottom-moduleContent11492942">
+
+              <a id="navigationBottom-moduleLink11492942" class=" " href="/about-deryck-wong/" ><span>About Deryck Wong</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper11693168">
+
+    <div id="navigationBottom-moduleContent11693168">
+
+              <a id="navigationBottom-moduleLink11693168" class=" " href="/about-sarah-feng/" ><span>Sarah Feng</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent1762530" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper7549464" class="widget-wrapper  widget-type-page"><div id="moduleContent7549464">
+
+
+
+
+
+  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.hackcollege.com&amp;layout=button_count&amp;show_faces=false&amp;width=308&amp;action=like&amp;font=lucida+grande&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:308px; height:21px;" allowTransparency="true"></iframe>
+  
+  <a href="http://twitter.com/hackcollege" class="twitter-follow-button">Follow @hackcollege</a>
+  <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1489919" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Get Involved</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper2842074" class="widget-wrapper  widget-type-page"><div id="moduleContent2842074">
+
+
+
+
+
+  <div id="box-rss">
+  		
+  <a href="http://feeds.feedburner.com/Hackcollege">Subscribe to our RSS Feed</a>
+  		
+  </div>
+  
+  <div id="box-twitterrss">
+  		
+  <a href="http://www.twitter.com/hackcollegerss">Follow our RSS Feed on Twitter</a>
+  		
+  </div>
+
+</div></div><div id="moduleContentWrapper2842130" class="widget-wrapper  widget-type-page"><div id="moduleContent2842130">
+
+
+
+
+
+  <div id="box-facebook">
+  		
+  <a href="http://facebook.com/hackcollege">Like us on Facebook</a>
+  		
+  </div>
+
+</div></div><div id="moduleContentWrapper2842175" class="widget-wrapper  widget-type-page"><div id="moduleContent2842175">
+
+
+
+
+
+  <div id="box-podcast">
+  		
+  <a href="http://feeds.feedburner.com/hackcollegepodcast">Subscribe to Our Podcast</a>
+  		
+  </div>
+
+</div></div><div id="moduleContentWrapper2975624" class="widget-wrapper  widget-type-page"><div id="moduleContent2975624">
+
+
+
+
+
+  <div id="box-love"><a href="/hackcollege-love/">See Some HackCollege Love</a></div>
+</div></div><div id="moduleContentWrapper2989583" class="widget-wrapper  widget-type-page"><div id="moduleContent2989583">
+
+
+
+
+
+  <div id="box-mail"><a href="/contact-hackcollege/">Send HackCollege an email</a></div>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1489813" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper2962702" class="widget-wrapper  widget-type-page"><div id="moduleContent2962702">
+
+
+
+
+
+  <div id="box-sqsp">
+  <a href="http://www.squarespace.com"><img src="/storage/layout/friendof-badge-280.png" /></a>
+  </div>
+  <br clear="all" />
+  
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1540567" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Pages</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper2975285">
+
+    <div id="moduleContent2975285">
+
+              <a id="moduleLink2975285" class=" " href="/about-hackcollegecom/" ><span>About HackCollege</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2984179">
+
+    <div id="moduleContent2984179">
+
+              <a id="moduleLink2984179" class=" " href="/contact-hackcollege/" ><span>Contact HackCollege</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2975296">
+
+    <div id="moduleContent2975296">
+
+              <a id="moduleLink2975296" class=" " href="/history/" ><span>HackCollege History</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2975361">
+
+    <div id="moduleContent2975361">
+
+              <a id="moduleLink2975361" class=" " href="/hackcollege-love/" ><span>HackCollege Love</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2987067">
+
+    <div id="moduleContent2987067">
+
+              <a id="moduleLink2987067" class=" " href="/hackcollege-faq/" ><span>HackCollege FAQ</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2987072">
+
+    <div id="moduleContent2987072">
+
+              <a id="moduleLink2987072" class=" " href="/guest-blogging-for-hackcollege/" ><span>Guest Blogging for HackCollege</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3000060">
+
+    <div id="moduleContent3000060">
+
+              <a id="moduleLink3000060" class=" " href="/hackcollege-wallpapers/" ><span>HackCollege Wallpapers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3045846">
+
+    <div id="moduleContent3045846">
+
+              <a id="moduleLink3045846" class=" " href="/recommended-reading/" ><span>Recommended Reading</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4664078">
+
+    <div id="moduleContent4664078">
+
+              <a id="moduleLink4664078" class=" " href="/dorm-room-essentials/" ><span>Dorm Room Essentials</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper4921828">
+
+    <div id="moduleContent4921828">
+
+              <a id="moduleLink4921828" class=" folder-link" href="/hackcollege-tools/" ><span>HackCollege Tools</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent4921828">
+            
+  <li class="module   " id="moduleContentWrapper4921848">
+
+    <div id="moduleContent4921848">
+
+              <a id="moduleLink4921848" class=" " href="/bibliograph-bookmarklet-mla/" ><span>Bibliograph! Bookmarklet</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper7934931">
+
+    <div id="moduleContent7934931">
+
+              <a id="moduleLink7934931" class=" " href="/hackcollege-media-kit/" ><span>HackCollege Media Kit</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1742996" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">RSS Readers</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper3511426" class="widget-wrapper  widget-type-page"><div id="moduleContent3511426">
+
+
+
+
+
+  <p><a href="http://feeds2.feedburner.com/Hackcollege"><img src="http://feeds2.feedburner.com/~fc/Hackcollege?bg=ffae00&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt="" /></a></p>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1762524" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Archives</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper3561831" class="widget-wrapper  widget-type-journalarchive"><div id="moduleContent3561831">
+
+
+
+
+
+
+
+
+
+  <ul class="archive-item-list-pt">
+     <li><a href="/blog/month/october-2011">October 2011</a> <span class="entry-count">(32)</span></li>  <li><a href="/blog/month/september-2011">September 2011</a> <span class="entry-count">(74)</span></li>  <li><a href="/blog/month/august-2011">August 2011</a> <span class="entry-count">(107)</span></li>  <li><a href="/blog/month/july-2011">July 2011</a> <span class="entry-count">(60)</span></li>  <li><a href="/blog/month/june-2011">June 2011</a> <span class="entry-count">(17)</span></li>  <li><a href="/blog/month/may-2011">May 2011</a> <span class="entry-count">(15)</span></li>  <li><a href="/blog/month/april-2011">April 2011</a> <span class="entry-count">(16)</span></li>  <li><a href="/blog/month/march-2011">March 2011</a> <span class="entry-count">(20)</span></li>  <li><a href="/blog/month/february-2011">February 2011</a> <span class="entry-count">(18)</span></li>  <li><a href="/blog/month/january-2011">January 2011</a> <span class="entry-count">(26)</span></li>  <li><a href="/blog/month/december-2010">December 2010</a> <span class="entry-count">(20)</span></li>  <li><a href="/blog/month/november-2010">November 2010</a> <span class="entry-count">(19)</span></li>  <li><a href="/blog/month/october-2010">October 2010</a> <span class="entry-count">(21)</span></li>  <li><a href="/blog/month/september-2010">September 2010</a> <span class="entry-count">(40)</span></li>  <li><a href="/blog/month/august-2010">August 2010</a> <span class="entry-count">(31)</span></li>  <li><a href="/blog/month/july-2010">July 2010</a> <span class="entry-count">(31)</span></li>  <li><a href="/blog/month/june-2010">June 2010</a> <span class="entry-count">(12)</span></li>  <li><a href="/blog/month/may-2010">May 2010</a> <span class="entry-count">(10)</span></li>  <li><a href="/blog/month/april-2010">April 2010</a> <span class="entry-count">(22)</span></li>  <li><a href="/blog/month/march-2010">March 2010</a> <span class="entry-count">(23)</span></li>  <li><a href="/blog/month/february-2010">February 2010</a> <span class="entry-count">(29)</span></li>  <li><a href="/blog/month/january-2010">January 2010</a> <span class="entry-count">(33)</span></li>  <li><a href="/blog/month/december-2009">December 2009</a> <span class="entry-count">(30)</span></li>  <li><a href="/blog/month/november-2009">November 2009</a> <span class="entry-count">(25)</span></li>  <li><a href="/blog/month/october-2009">October 2009</a> <span class="entry-count">(37)</span></li>  <li><a href="/blog/month/september-2009">September 2009</a> <span class="entry-count">(46)</span></li>  <li><a href="/blog/month/august-2009">August 2009</a> <span class="entry-count">(18)</span></li>  <li><a href="/blog/month/july-2009">July 2009</a> <span class="entry-count">(17)</span></li>  <li><a href="/blog/month/june-2009">June 2009</a> <span class="entry-count">(18)</span></li>  <li><a href="/blog/month/may-2009">May 2009</a> <span class="entry-count">(11)</span></li>  <li><a href="/blog/month/april-2009">April 2009</a> <span class="entry-count">(10)</span></li>  <li><a href="/blog/month/march-2009">March 2009</a> <span class="entry-count">(10)</span></li>  <li><a href="/blog/month/february-2009">February 2009</a> <span class="entry-count">(16)</span></li>  <li><a href="/blog/month/january-2009">January 2009</a> <span class="entry-count">(15)</span></li>  <li><a href="/blog/month/december-2008">December 2008</a> <span class="entry-count">(18)</span></li>  <li><a href="/blog/month/november-2008">November 2008</a> <span class="entry-count">(22)</span></li>  <li><a href="/blog/month/october-2008">October 2008</a> <span class="entry-count">(11)</span></li>  <li><a href="/blog/month/september-2008">September 2008</a> <span class="entry-count">(14)</span></li>  <li><a href="/blog/month/august-2008">August 2008</a> <span class="entry-count">(13)</span></li>  <li><a href="/blog/month/july-2008">July 2008</a> <span class="entry-count">(15)</span></li>  <li><a href="/blog/month/june-2008">June 2008</a> <span class="entry-count">(10)</span></li>  <li><a href="/blog/month/may-2008">May 2008</a> <span class="entry-count">(12)</span></li>  <li><a href="/blog/month/april-2008">April 2008</a> <span class="entry-count">(27)</span></li>  <li><a href="/blog/month/march-2008">March 2008</a> <span class="entry-count">(24)</span></li>  <li><a href="/blog/month/february-2008">February 2008</a> <span class="entry-count">(28)</span></li>  <li><a href="/blog/month/january-2008">January 2008</a> <span class="entry-count">(24)</span></li>  <li><a href="/blog/month/december-2007">December 2007</a> <span class="entry-count">(31)</span></li>  <li><a href="/blog/month/november-2007">November 2007</a> <span class="entry-count">(27)</span></li>  <li><a href="/blog/month/october-2007">October 2007</a> <span class="entry-count">(31)</span></li>  <li><a href="/blog/month/september-2007">September 2007</a> <span class="entry-count">(24)</span></li>  <li><a href="/blog/month/august-2007">August 2007</a> <span class="entry-count">(30)</span></li>  <li><a href="/blog/month/july-2007">July 2007</a> <span class="entry-count">(13)</span></li>  <li><a href="/blog/month/june-2007">June 2007</a> <span class="entry-count">(16)</span></li>  <li><a href="/blog/month/may-2007">May 2007</a> <span class="entry-count">(36)</span></li>  <li><a href="/blog/month/april-2007">April 2007</a> <span class="entry-count">(39)</span></li>  <li><a href="/blog/month/march-2007">March 2007</a> <span class="entry-count">(18)</span></li>  <li><a href="/blog/month/february-2007">February 2007</a> <span class="entry-count">(22)</span></li>  <li><a href="/blog/month/january-2007">January 2007</a> <span class="entry-count">(26)</span></li>  <li><a href="/blog/month/december-2006">December 2006</a> <span class="entry-count">(37)</span></li>  <li><a href="/blog/month/november-2006">November 2006</a> <span class="entry-count">(29)</span></li>  <li><a href="/blog/month/october-2006">October 2006</a> <span class="entry-count">(10)</span></li>  <li><a href="/blog/month/september-2006">September 2006</a> <span class="entry-count">(21)</span></li>  <li><a href="/blog/month/august-2006">August 2006</a> <span class="entry-count">(9)</span></li> 
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1848845" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Friends</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper3788005" class="widget-wrapper  widget-type-links"><div id="moduleContent3788005">
+
+
+
+
+
+
+  <ul class="link-group-list-pt">
+
+    
+
+          <li id="linkGroup254340">
+
+            
+             <div class="title">Other College&nbsp;Blogs</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link1109033">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.digitizd.com/">Digitizd</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link785039">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.campusgrotto.com">CampusGrotto</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link785038">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.thecollegeblognetwork.com">The College Blog&nbsp;Network</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link785040">
+                        <div class="title"><a onclick="this.target='new';" href="http://collegecandy.com">College&nbsp;Candy</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link785024">
+                        <div class="title"><a onclick="this.target='new';" href="http://collegetimes.us">CollegeTimes</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1011781">
+                        <div class="title"><a onclick="this.target='new';" href="http://decadentdorm.com">Decadent&nbsp;Dorm</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1289437">
+                        <div class="title"><a onclick="this.target='new';" href="http://hercampus.com">Her&nbsp;Campus</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1011773">
+                        <div class="title"><a onclick="this.target='new';" href="http://insidecollege.com">InsideCollege.com</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link785034">
+                        <div class="title"><a onclick="this.target='new';" href="http://studentbloggers.org">Student&nbsp;Bloggers</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1011774">
+                        <div class="title"><a onclick="this.target='new';" href="http://ultimateintern.com">UltimateIntern.com</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1378992">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.savvystudent.com/">Savvy&nbsp;Student</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1459476">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.debtfreescholar.com/">Debt-free&nbsp;Scholar</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1772411">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.everycollegegirl.com/">Every College&nbsp;Girl</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1800078">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.nvilloria.com/">Nikky&nbsp;Villoria</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2973817">
+                        <div class="title"><a onclick="this.target='new';" href="http://talknerdy2me.org/">Talk Nerdy 2&nbsp;Me</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link2997278">
+                        <div class="title"><a onclick="this.target='new';" href="http://collegeinfogeek.com">College Info&nbsp;Geek</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+          <li id="linkGroup353499">
+
+            
+             <div class="title">Other College&nbsp;Sites</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link1574659">
+                        <div class="title"><a onclick="this.target='new';" href="http://bettergrads.org/">BetterGrads</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1093844">
+                        <div class="title"><a onclick="this.target='new';" href="http://stuvu.com">StuVu</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2284007" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Student Bloggers</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4967289" class="widget-wrapper  widget-type-page"><div id="moduleContent4967289">
+
+
+
+
+
+  <p><a href="http://studentbloggers.org"> <img src="http://s3.amazonaws.com/studentbloggers/student_bloggers_200_trans.png" alt="Student Bloggers" /> </a></p>
+</div></div><div id="moduleContentWrapper6350970" class="widget-wrapper  widget-type-page"><div id="moduleContent6350970">
+
+
+
+
+
+  <p><span class="full-image-inline ssNonEditable"><span><a href="http://collegeblender.com/"><img src="/storage/badge_small.png?__SQUARESPACE_CACHEVERSION=1269977772505" alt="" /></a></span></span></p>
+  <p>&nbsp;</p>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1489811" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper2964520">
+
+    <div id="moduleContent2964520">
+
+              <a id="moduleLink2964520" class=" " href="/" ><span>Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5664541">
+
+    <div id="moduleContent5664541">
+
+              <a id="moduleLink5664541" class=" " href="http://www.hackcollege.com/blog/tag/show" ><span>Show</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2841720">
+
+    <div id="moduleContent2841720">
+
+              <a id="moduleLink2841720" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent1873782" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Search HackCollege</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper3855445" class="widget-wrapper  widget-type-search"><div id="moduleContent3855445">
+
+
+<!-- <form method="get" action="/display/Search">
+	<div class="search-form-pt-wrapper">
+	  <div class="search-form-pt">
+	    <span class="queryFieldWrapper"><input type="text" class="text queryField" name="searchQuery" value=""/></span>
+	    <span class="queryButtonWrapper"><input type="submit" class="button queryButton" value="&raquo;"/></span>
+	    <input type="hidden" name="moduleId" value="3855445"/>
+	    <br class="clearer"/>
+	  </div>
+	</div>
+</form> -->
+
+<form method="get" action="/display/Search">
+	<input type="hidden" name="moduleId" value="3855445"/>
+	<table class="search-form-pt-wrapper search-form-table" border="0" cellpadding="0" cellspacing="0">
+		<tr class="search-form-pt search-form-row">
+			<td class="queryFieldCell search-form-cell">
+				<span class="queryFieldWrapper">
+					<input type="text" class="text queryField" name="searchQuery" value=""/>
+				</span>
+			</td>
+			<td class="queryButtonCell search-form-cell">
+				<span class="queryButtonWrapper">
+					<input type="submit" class="button queryButton" value="&rarr;"/>
+				</span>
+			</td>
+		</tr>
+	</table> 
+</form></div></div><div id="moduleContentWrapper3855663" class="widget-wrapper  widget-type-page"><div id="moduleContent3855663">
+
+
+
+
+
+  <p><br /></p>
+</div></div><div id="moduleContentWrapper3855484" class="widget-wrapper  widget-type-links"><div id="moduleContent3855484">
+
+
+
+
+
+
+  <ul class="link-group-list-pt">
+
+    
+
+          <li id="linkGroup261248">
+
+            
+             <div class="title">Best of&nbsp;HackCollege</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link806312">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.hackcollege.com/2007/10/17/10-ways-to-find-a-lost-word-doc/">10 Ways to Find a Lost Word&nbsp;Document</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link806333">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.hackcollege.com/blog/2008/8/25/3-drinking-games-you-need-to-know.html">3 Drinking Games You Need to&nbsp;Know</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link806335">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.hackcollege.com/2007/08/28/how-to-construct-a-loft-bed/">How to Construct a Loft&nbsp;Bed</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link806323">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.hackcollege.com/2007/08/06/getting-your-textbooks-for-free/">Getting Your Textbooks for&nbsp;Free</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link806325">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.hackcollege.com/2008/03/08/stocking-a-bar-building-the-100-bar/">Stocking a Bar - Building the $100&nbsp;Bar</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link806331">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.hackcollege.com/2007/01/08/classhack-v2-get-the-mosquito-ringtone/">Get the Mosquito&nbsp;Ringtone</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+
+      <div class="header"> <div id="stumble-box" style="display: none"></div> </div>
+  
+
+  
+    
+
+  
+  
+  <div class="list-journal-entry-wrapper">
+
+          
+
+
+<div class="journal-entry-wrapper post-text authored-by-lauraschluckebier ">
+<div id="item13239077" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Monday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">17</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/17/top-five-things-colleges-look-at-in-undergraduate-applicants.html',title:'Top Five Things Colleges Look at in Undergraduate&nbsp;Applicants'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/17/top-five-things-colleges-look-at-in-undergraduate-applicants.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/17/top-five-things-colleges-look-at-in-undergraduate-applicants.html">Top Five Things Colleges Look at in Undergraduate&nbsp;Applicants</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Monday, October 17, 2011</span> <span class="posted-by">by  <a href="/blog/author/lauraschluckebier"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Laura Schluckebier</a></span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><span class="full-image-block ssNonEditable"><span><img style="width: 659px;" src="/storage/college application.jpg?__SQUARESPACE_CACHEVERSION=1318520898807" alt="" /></span><span class="thumbnail-caption" style="width: 659px;">College applications determine which school  you'll attend for the next four years. Make sure that you're focusing on the most important parts. Photo courtesy of <a href="http://www.flickr.com/photos/blackhour/">TheBlackHour.com</a>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</span></span>Even though most of our readers are probably in college already, here's an article for those who haven't quite gotten there yet. <a href="http://www.usatodayeducate.com/staging/index.php/toolbox/ranking-the-top-5-components-of-the-college-application">USAToday College</a> published a list of the top five items that colleges look at when examining a student's college application. Though the list isn't anything unexpected, it's a good thing to think about as you're applying to colleges.</p>
+<ol>
+<li><strong>Grades</strong> - More important than SAT scores apparently, having good grades is the best way to get you noticed by colleges. If you're only an average student right now and you're looking at some higher caliber schools, you need to start pulling those grades up now. Even just one semester can improve your GPA and chances to get into the school of your choice.</li>
+<li><strong>SAT Scores</strong> - I seriously dislike that the SAT counts so much in college applications since some students (such as myself) simply don't test well on standardized tests. But SAT scores are ranked as the second most important item that colleges look at. If you test well, you're good to go. If you're like me and only test average at best, you're going to want to really bolster your application with good grades.</li>
+<li><strong>Personal Statement </strong>- This is when being a good writer comes in handy. Make every word you say matter. Put your personality in it. Get straight to the point. It's your first chance to really make a personable impression on the admissions office, so make sure you come off strong and memorable.</li>
+<li><strong>Extracirricular Activities</strong> - The thing to note about this is that being involved does not mean that you're involved with every organization that your school offers. It is much better to be truly invested in two or three activities or organizations than to spread yourself too thin. Being invested in an organization means that you will have time to dedicate to move up the ranking. In other words, instead of just being a member in 10 organizations, you can be the president of one organization, secretary of another, and board member of another.</li>
+<li><strong>Teacher Recommendations</strong> - Teachers are the people who know you best academically. They know exactly what you are capable of. Be judicious in who you choose to ask for your recommendations. You want to paint a picture of yourself that gets your best sides. Choose teachers to whom you have provided your best work.</li>
+</ol>
+<p><em>What do you think of this list? Let us know in the comments!</em></p>
+<p><strong>[via <a href="http://www.usatodayeducate.com/staging/index.php/toolbox/ranking-the-top-5-components-of-the-college-application">USAToday College</a>]</strong></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/17/top-five-things-colleges-look-at-in-undergraduate-applicants.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F17%2Ftop-five-things-colleges-look-at-in-undergraduate-applicants.html','Top%20Five%20Things%20Colleges%20Look%20at%20in%20Undergraduate%20Applicants');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13239077"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-shepmcallister category-dorm-tips">
+<div id="item13260046" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Friday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">14</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/14/friday-fun-put-cheap-vodka-to-good-use.html',title:'Friday Fun: Put Cheap Vodka to Good&nbsp;Use'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/14/friday-fun-put-cheap-vodka-to-good-use.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/14/friday-fun-put-cheap-vodka-to-good-use.html">Friday Fun: Put Cheap Vodka to Good&nbsp;Use</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Friday, October 14, 2011</span> <span class="posted-by">by  <a href="/blog/author/shepmcallister"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Shep McAllister</a></span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><span class="full-image-float-right ssNonEditable"><span><img style="width: 300px;" src="/storage/439419292_140d03fd43_z.jpeg?__SQUARESPACE_CACHEVERSION=1318602704075" alt="" /></span><span class="thumbnail-caption" style="width: 300px;">Looks like she brought us a bottle of anti-dandruff rinse! Photo by <a href="http://www.flickr.com/photos/betsssssy/439419292/sizes/l/in/photostream/">Betsssssy</a> and licensed under CC BY 2.0</span></span>You probably have a $15 plastic bottle of vodka hiding in your dorm room sock drawer. Since that stuff tastes like gasoline, why not put it to greater use?</p>
+<p><a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/">Instructables</a> has a great tutorial with 15 less-than-obvious ways to use that vodka. For example, <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/step2/I-Can-See-Clearly-Now/">if you wear glasses</a>, vodka and water in a spray bottle makes for a great lens cleaning solution. The same combination would also make for a <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/step8/Window-Cleaners-Best-Kept-Secret/">great glass cleaner</a> to clean up your bathroom mirror and windows without shelling out for Windex. You can even use the mix to <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/step3/Goo-Be-Gone/">clean up any sticky gunk</a> left by spilled drinks.&nbsp;</p>
+<p>This is all great, but vodka is good for more than just household cleaning. If your <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/step9/Odor-Eater/">shoes</a> or <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/#step1">clothes</a> are a little rank, a spritz of vodka between wears acts as a great deodorizer. You can even take a bottle of vodka into the shower for a great <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/step10/No-More-Flakes/">anti-dandruff rinse</a>.</p>
+<p>Yes, the uses for cheap vodka seem nearly limitless, but if you're intent on drinking it, Instructables also shows you how to <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/step15/Drink-It/">filter it</a> with a standard Brita pitcher, or <a href="http://www.instructables.com/id/15-Unusual-Uses-for-Cheap-Vodka/step16/Infuse-it/">infuse it</a> with the fruity flavors of your choice.</p>
+<p>Make sure you head over to Instructables to see the whole list, because if vodka is going to be part of your weekend, you should know the awesome power that exists in that plastic bottle.&nbsp;</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/14/friday-fun-put-cheap-vodka-to-good-use.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F14%2Ffriday-fun-put-cheap-vodka-to-good-use.html','Friday%20Fun%3A%20Put%20Cheap%20Vodka%20to%20Good%20Use');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13260046"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="posted-in">in <span class="tag-element"><a rel="tag" href="/blog/category/dorm-tips"> <img title="Category" alt="Category" class="inline-icon category-icon" rel="dark" src="/universal/images/transparent.png" />Dorm Tips</a></span></span>  </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-emilychapman category-wach-read-make">
+<div id="item13250956" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Friday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">14</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/14/watch-read-make-loling-at-seo-with-wine.html',title:'Watch, Read, Make: LOLing at SEO with&nbsp;Wine!'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/14/watch-read-make-loling-at-seo-with-wine.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/14/watch-read-make-loling-at-seo-with-wine.html">Watch, Read, Make: LOLing at SEO with&nbsp;Wine!</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Friday, October 14, 2011</span> <span class="posted-by">by  <a href="/blog/author/emilychapman"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Emily Chapman</a></span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><iframe width="640" height="360" src="http://www.youtube.com/embed/j_x5cfdwP98?hd=1" frameborder="0" allowfullscreen></iframe></p>
+<p><em>Watch, Read, Make is our weekly summary of cool things for your weekend.</em></p>
+<p><strong>Watch:</strong>&nbsp;David Mitchell, for those who are not familiar with him, is a British comedian who has made a career out of being stodgy. So, his defense of the use of "lol" is fun to watch. He draws the line at emoticons--he is "unfine" with them because they encourage ambiguous writing. Though this is the most appropriate-for-HackCollege episode of the Soapbox that he has up on YouTube, he has many others covering a wide variety of topics. He's also on <em><a href="http://en.wikipedia.org/wiki/Peep_Show_(TV_series)">Peep Show</a></em>, a sitcom that makes me more physically uncomfortable with awkwardness than does the entirety of <em>The Office</em>. (Also, <a href="http://www.youtube.com/watch?v=Uw0KbGi4gH8&amp;feature=related">here he is discussing cheese</a>.)</p>
+<p><strong>Read: </strong><a href="http://mattgemmell.com/2011/09/20/seo-for-non-dicks/">SEO for Non-Dicks</a>&nbsp;combines my favorite parts of internet writing--a snappy title and good advice! None of the advice is incredibly novel, but it's good to check if you're doing everything you can to attract viewers without being just awful with self-promotion. (If these techniques fail, though, feel free to write about Lady Gaga's Gay Marriage Love-child with Justin Bieber, or whatever.)</p>
+<p><strong>Make:</strong>&nbsp;Credit for this goes to my lady-bro and fellow writer Laura. If you're living in a dorm or apartment or are simply to lazy to carve a pumpkin, this is the craft for you! Take an <a href="http://www.re-nest.com/re-nest/lighting/wine-bottle-jackolantern-157997">empty wine bottle and turn it into a jack-o-lantern</a>. You should have all the supplies that you need except for, perhaps, the spray paint. Charm your hall mates and horrify your RA for under five dollars!</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/14/watch-read-make-loling-at-seo-with-wine.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F14%2Fwatch-read-make-loling-at-seo-with-wine.html','Watch%2C%20Read%2C%20Make%3A%20LOLing%20at%20SEO%20with%20Wine%21');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13250956"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> |  <span class="posted-in">in <span class="tag-element"><a rel="tag" href="/blog/category/wach-read-make"> <img title="Category" alt="Category" class="inline-icon category-icon" rel="dark" src="/universal/images/transparent.png" />wach, read, make</a></span></span>  </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-lauraschluckebier ">
+<div id="item13238695" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Friday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">14</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/14/how-to-start-and-maintain-healthy-living-habits.html',title:'How to Start and Maintain Healthy Living&nbsp;Habits'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/14/how-to-start-and-maintain-healthy-living-habits.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/14/how-to-start-and-maintain-healthy-living-habits.html">How to Start and Maintain Healthy Living&nbsp;Habits</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Friday, October 14, 2011</span> <span class="posted-by">by  <a href="/blog/author/lauraschluckebier"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Laura Schluckebier</a></span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><span class="full-image-block ssNonEditable"><span><img style="width: 659px;" src="/storage/snacks.jpg?__SQUARESPACE_CACHEVERSION=1318518674984" alt="" /></span><span class="thumbnail-caption" style="width: 659px;">These snacks are undoubtedly yummy, but probably not very good for you. Photo courtesy of <a href="http://www.flickr.com/photos/judybaxter/">Old Shoe Woman</a>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</span></span>College is a great time to start up good healthy habits for your body. It's a time when you're defining what's important to you, and amongst the hustle and bustle of classes, extracirrucular activities, and your social life, sometimes it can really be hard to commit to a healthy lifestyle. However, with a few easy to follow tips from Daphne Oz, author of the bestseller&nbsp;<em><a href="http://dormroomdiet.com/">The Dorm Room Diet</a></em>, you can start living healthier and also maintain these habits throughout your college career.</p>
+<p>The main problem that college students seem to have when it comes to exercising and keeping their body active is finding time to do so. Sometimes it is simply a matter of finding an hour or two to carve out of your day to dedicate to going to the gym. It doesn't come easy for extraordinarily busy students, and it usually requires a sacrifice of some sorts, whether it's getting up early or cutting back on your social life.</p>
+<p>If you absolutely can't find time to work your body, Oz says that, "The most important thing to remember is that exercise does not need to take place in a gym. Even if it&rsquo;s just a ten-minute break while you&rsquo;re studying to run stairs, or going to a bathroom on a different floor, or walking your errands, getting more activity in your day will keep your metabolism running high."</p>
+<p>Another problem that college kids seem to have a problem with is snacking. Freshman year, I snacked a lot. It was just relaxing to come back to my room, watching some TV, and eat my favorite snack (Goldfish are so yummy). However, snacking during the day is usually unnecessary and not healthy. If you can, try to resist. It makes a real difference in the way that your body feels. If you can't fight the urge to snack, Oz suggests that you take out all of the unhealthy snacks and replace them with things like hard fruits like apples and pears, cirtus fruits which give you an immune boost, soychips which will satisfy your salty-crunchy craving, and even small amounts of chocolate chips to give you a chocolate fix if you so desire.</p>
+<p>If you find that you're snacking too much with your friends while watching TV or just chilling in someone's room, try just grabbing a bowl and put some of the snack in there. That way you're still eating with your friends but you're also controlling your snacking portion which is much better than eating straight out of the bag. When you eat out of the bag, it's harder to realize how much you're actually eating.</p>
+<p>For more healthy living tips from Daphne Oz, <a href="http://www.usatodayeducate.com/staging/index.php/campuslife/fit-healthy-college-lifestyle-daphne-oz">read the full article here</a>.</p>
+<p><em>Are these realistic tips for you? How do you stay healthy in college? Let us know in the comments!</em></p>
+<p><strong>[via <a href="http://www.usatodayeducate.com/staging/index.php/campuslife/fit-healthy-college-lifestyle-daphne-oz">USAToday College</a>]</strong></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/14/how-to-start-and-maintain-healthy-living-habits.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F14%2Fhow-to-start-and-maintain-healthy-living-habits.html','How%20to%20Start%20and%20Maintain%20Healthy%20Living%20Habits');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13238695"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-emilychapman ">
+<div id="item13228693" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Thursday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">13</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/13/tweetmemeface-three-ways-to-stay-current-on-campus-news.html',title:'TweetMemeFace+: Three Ways to Stay Current on Campus&nbsp;News'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/13/tweetmemeface-three-ways-to-stay-current-on-campus-news.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/13/tweetmemeface-three-ways-to-stay-current-on-campus-news.html">TweetMemeFace+: Three Ways to Stay Current on Campus&nbsp;News</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Thursday, October 13, 2011</span> <span class="posted-by">by  <a href="/blog/author/emilychapman"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Emily Chapman</a></span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><span class="full-image-block ssNonEditable"><span><img src="/storage/post-images/Screen shot 2011-10-12 at 5.43.31 PM.png?__SQUARESPACE_CACHEVERSION=1318456018036" alt="" /></span><span class="thumbnail-caption" style="width: 640px;">The other tip here would be "don't go to a school with a person name." Makes your results confusing.</span></span></p>
+<p>If you're trying to use social media to keep track of what's going on on campus but beyond your immediate circle of friends, it can be difficult to know where to begin. On stranger-friendly social media (Twitter and Google +, as opposed to Facebook), it's difficult to actually find fellow students or campus organizations that you aren't already familiar with.</p>
+<p>But, if you can manage it, social media gives you a much easier way to find out about what's happening than your other option--long email newsletters from various campus groups.&nbsp;However, it can be done! Here are three simple ways to find out what's going on around you.</p>
+<p><strong>Find out who your university follows:</strong>&nbsp;If you're looking for official club accounts or prominent alumni, look at who your official university Twitter account is following. Those people are more likely to be affiliated with the university in some capacity (unlike the account's followers, who may just be spambots or unaffiliated), and if you're looking for news from more specific parts of your university, like on-campus committees, this is where you'll find those accounts.</p>
+<p><strong>Search for mentions of your university:</strong>&nbsp;This is a good way to keep track of what people are doing right now near your school. For example, a cursory search for Emory on Twitter returned a bunch of tweets about the two big things on campus tonight: free cupcakes near the dining hall, and a social media forum hosted by CNN. On a Friday or Saturday night, this search will likely turn up news of an interesting party or concert that you would otherwise not know about. If you're stuck in a rut, use this method to find new things happening within the next day or two.</p>
+<p><strong>Look for your fake university account:</strong>&nbsp;Chances are high that if your university can be made fun of, someone is doing it over at @FakeYourSchool. Sometimes this will be a bust--the account will have died, or it will be angry rather than funny--but if the person managing your school's fake account is doing it well, their tweets will give you a look at what issues are bugging students on campus and aren't able to be addressed in the school paper. It's like an on-campus version of <em>The Onion.</em></p>
+<p>None of these methods can substitute for actual human interaction, but if you're looking to stay abreast of what's happening on your campus without slogging through email after email, social media can be a lifesaver.</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/13/tweetmemeface-three-ways-to-stay-current-on-campus-news.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F13%2Ftweetmemeface-three-ways-to-stay-current-on-campus-news.html','TweetMemeFace%2B%3A%20Three%20Ways%20to%20Stay%20Current%20on%20Campus%20News');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13228693"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-lauraschluckebier ">
+<div id="item13230316" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Thursday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">13</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/13/cure-stomach-aches-with-natural-remedies.html',title:'Cure Stomach Aches with Natural&nbsp;Remedies'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/13/cure-stomach-aches-with-natural-remedies.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/13/cure-stomach-aches-with-natural-remedies.html">Cure Stomach Aches with Natural&nbsp;Remedies</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Thursday, October 13, 2011</span> <span class="posted-by">by  <a href="/blog/author/lauraschluckebier"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Laura Schluckebier</a></span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><span class="full-image-block ssNonEditable"><span><img style="width: 659px;" src="http://www.hackcollege.com/storage/cat.jpg?__SQUARESPACE_CACHEVERSION=1318459971296" alt="" /></span><span class="thumbnail-caption" style="width: 659px;">Presumably kitties get tummy aches too. Photo courtesy of <a href="http://www.flickr.com/photos/clunyclogger/">Tiniest Tiger's </a>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>.</span></span></p>
+<p>Every once in awhile, whether it's due to stress or just something you ate last night, your stomach is going to give your problems. Having a stomach ache can distract you from just about everything you need to do, and can leave you wanting to do nothing except lie on your couch and stare at the wall. However, there are some really great, natural cures available to you if you don't have stomach ache medicine close by.</p>
+<ul>
+<li><strong>Ginger or Ginger Ale</strong> - I get seasick very easily, and so on a boat ride this summer, I spent the majority of the ride back sipping on some ginger ale. Ginger has anti-inflamatory properties and helps aid in digestion. Fresh ginger or even ginger pills are best, but ginger ale is pretty tasty as well.</li>
+<li><strong>Peppermint</strong> - You can put a few mint leaves and a cup of warm water to make some tea. If you don't care for tea (like me), you can just chew the mint leaves as well.</li>
+<li><strong>Warm Lemon Water</strong> - Lemons are usually easier to get your hands on than fresh ginger or mint leaves, and work well to settle your stomach too.</li>
+<li><strong>Heating Pad</strong> - Heat is apparently one of the best ways to soothe away stomach pains, so if warm liquid isn't helping you, try placing a heating pad on your stomach. If you don't have one, Shep wrote a wonderful article about <a href="http://www.hackcollege.com/blog/2010/6/10/treat-your-wounds-with-a-diy-hotpack.html">how to make one yourself.</a></li>
+</ul>
+<p>For&nbsp;more natural stomach cures, <a href="http://www.wisebread.com/12-natural-remedies-for-stomach-pain">check out Wise Bread's full article here</a>.</p>
+<p><em>Have you ever used these stomach cures? How do you settle your stomach when it's hurting you? Let us know in the comments!</em></p>
+<p><strong>[via <a href="http://www.wisebread.com/12-natural-remedies-for-stomach-pain">Wise Bread</a>]</strong></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/13/cure-stomach-aches-with-natural-remedies.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F13%2Fcure-stomach-aches-with-natural-remedies.html','Cure%20Stomach%20Aches%20with%20Natural%20Remedies');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13230316"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-deryckwong ">
+<div id="item13169940" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Wednesday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">12</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/12/install-and-update-all-your-windows-and-linux-apps-with-nini.html',title:'Install and Update All Your Windows and Linux Apps with&nbsp;Ninite'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/12/install-and-update-all-your-windows-and-linux-apps-with-nini.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/12/install-and-update-all-your-windows-and-linux-apps-with-nini.html">Install and Update All Your Windows and Linux Apps with&nbsp;Ninite</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Wednesday, October 12, 2011</span> <span class="posted-by">by  <a href="/blog/author/deryckwong"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Deryck Wong</a></span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p><span class="full-image-float-left ssNonEditable"><span><img src="/storage/Capture.PNG?__SQUARESPACE_CACHEVERSION=1318401207695" alt="" /></span><span class="thumbnail-caption" style="width: 420px;">Start it up and Ninite automatically installs/updates all your selected apps.</span></span>Ninite is a great website I discovered <a href="http://lifehacker.com/5388408/ninite-bulk+installs-great-free-windows-apps">via Lifehacker</a> that allows you to create and download a customized one-step application installer. Windows users can check out Ninite <a href="https://ninite.com/">here</a>, while Linux users should go <a href="https://ninite.com/linux/">here</a>. The list of applications available is very extensive and covers a broad range of categories from browsers to IM clients to media players. More importantly, all this software is free and fantastic! Using Ninite couldn&rsquo;t be any easier &ndash; just click the boxes to choose which applications you want in your installer, click &ldquo;Get Installer&rdquo; at the bottom of the page, and run the executable (which is very lightweight and only about 200 KB). That&rsquo;s it! Ninite handles all the rest, downloading all the necessary files and installing them automatically.</p>
+<p>I especially appreciate this feature because it lets me focus on other work while Ninite confirms all the annoying dialog boxes you would normally have to approve manually. On top of this automatic installation, Ninite also makes sure not to install toolbars or adware and automatically downloads the appropriate 32 or 64-bit version of the app for your PC. I&rsquo;ve found Ninite to be invaluable for fresh system installs, not to mention its great updating feature. Just run Ninite again to experience the same seamless updates for all your Ninite apps! The bottom line is that it&rsquo;s free, incredibly useful, and easy to use. Even if you already have all your favorite apps installed, use Ninite to upgrade them in one fell swoop!</p>
+<p><em>Do you use any other one-click installers? Why do you like them better then Ninite? Let us know in the comments!</em></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/12/install-and-update-all-your-windows-and-linux-apps-with-nini.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F12%2Finstall-and-update-all-your-windows-and-linux-apps-with-nini.html','Install%20and%20Update%20All%20Your%20Windows%20and%20Linux%20Apps%20with%20Ninite');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13169940"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-sarahfeng ">
+<div id="item13140082" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Wednesday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">12</span><span class="year">2011</span></div>
+  
+   <div class="journal-entry-tag journal-entry-tag-pre-title"><span class="post-snippet-1"><a href="#" style="float: right; margin-top: 10px;" onclick="Evernote.doClip({contentId:'contentWrapper',providerName:'HackCollege',url:'http://hackcollege2.squarespace.com/blog/2011/10/12/studying-abroad-your-options.html',title:'Studying Abroad: Your&nbsp;Options'}); return false;"><img src="http://static.evernote.com/article-clipper-remember.png" alt="Clip to Evernote" /></a></span> <span class="post-snippet-2"><iframe style="float: right; width: 80px; height: 21px; margin-top: 10px;" src="http://www.facebook.com/plugins/like.php?href=http://hackcollege2.squarespace.com/blog/2011/10/12/studying-abroad-your-options.html&layout=button_count&show_faces=true&width=450&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true"></iframe><br clear="both" /></span> </div> 
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/blog/2011/10/12/studying-abroad-your-options.html">Studying Abroad: Your&nbsp;Options</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Wednesday, October 12, 2011</span> <span class="posted-by">by  <a href="/blog/author/sarahfeng"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />Sarah Feng</a></span> </div> 
+
+    
+  
+     
+
+      <div class="body">
+  
+        
+  
+         
+  
+        <p><p><span class="full-image-block ssNonEditable"><span><a href="http://www.flickr.com/photos/chris-yunker/" target="_blank"><img style="width: 680px;" src="/storage/42908213_a78c9f73c1_b.jpg?__SQUARESPACE_CACHEVERSION=1318213978508" alt="" /></a></span><span class="thumbnail-caption" style="width: 680px;">Another perk of studying abroad? The sightseeing! Photo courtesy of <a href="http://www.flickr.com/photos/chris-yunker/">ChrisYunker</a>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY-SA 2.0</a>. </span></span>Thinking of taking some classes abroad? &nbsp;Studying abroad is a rich and rewarding experience for many college students. I know many people who say that their time abroad was the most valuable (and fun!) part of their college experience. Studying abroad is a great resume booster, a way to advance your academic and career goals, and an opportunity to learn to be truly independent, among other things. Should you choose to pursue global study, there are several avenues open to you. When deciding on the perfect study abroad program, you will have to consider many factors including academic requirements, language differences, and cost. If you think studying abroad is something you might be interested in, read on to find out what type of study abroad program is right for you!</p>
+<p>&nbsp;</p></p>
+  
+        <p class="journal-read-more-tag"><a href="/blog/2011/10/12/studying-abroad-your-options.html">Click to read more ...</a></p>
+  
+      </div>
+  
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="post-comments"><a href="/blog/2011/10/12/studying-abroad-your-options.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fblog%2F2011%2F10%2F12%2Fstudying-abroad-your-options.html','Studying%20Abroad%3A%20Your%20Options');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/blog/recommend/13140082"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"></div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+    
+    
+  </div>
+
+  
+  <div  class="paginationControlWrapper journal-navigation" >
+
+    <!-- 1 - 8 of 1566 (page 1 of 196) -->
+
+    <span class="paginationControlPrefix">
+      
+              Page
+       
+    </span>
+    
+    
+
+    
+              <a class="paginationPageNumber activePage" href="javascript:noop();">1</a>
+      
+    
+              <a class="paginationPageNumber"  href="/blog/?currentPage=2" >2</a>
+      
+    
+              <a class="paginationPageNumber"  href="/blog/?currentPage=3" >3</a>
+      
+    
+              <a class="paginationPageNumber"  href="/blog/?currentPage=4" >4</a>
+      
+    
+              <a class="paginationPageNumber"  href="/blog/?currentPage=5" >5</a>
+      
+     
+
+          <span class="paginationEllipsis">...</span> <a class="paginationPageNumber"  href="/blog/?currentPage=196" >196</a>
+    
+
+          <span class="paginationControlNextPageSuffix">
+        <a  href="/blog/?currentPage=2" >
+          Next 8 Entries »
+        </a>
+      </span>
+    
+    
+    
+
+  </div>
+
+
+
+      <div class="footer"> <script type="text/javascript">
+var displayStumbleUponWelcome = function () {
+  var element = document.getElementById("stumble-box");
+  
+  stumbleImage = document.createElement('img');
+  stumbleImage.setAttribute('src', 'http://hackcollege.com/storage/pictures/stumbleupon_logo_100_trans.png');
+  stumbleImage.setAttribute('style', 'float: left;');
+  
+  innardsText = document.createElement('h3');
+  innardsText.innerHTML = "Welcome StumbleUpon users! You may want to <a href='http://feeds.feedburner.com/Hackcollege'>subscribe to our RSS feed</a> while you're here!";
+
+  element.appendChild(stumbleImage);
+  element.appendChild(innardsText);
+  element.setAttribute('display', 'block');
+};
+
+//if (document.referrer.search("stumbleupon.com") > -1) {
+if (true) {
+  displayStumbleUponWelcome();
+}
+</script> </div>
+  
+
+
+</div></div> <!-- Content -->
+  
+          
+      <script type='text/javascript'>
+
+// Removing inline icons
+var elements = YAHOO.util.Dom.getElementsByClassName('inline-icon', 'img');
+
+for (e in elements) {
+    elements[e].style.display = "none";
+}
+
+// Search overlay stuff
+var noop = function () {
+  null;
+};
+
+var displaySearch = function (e) {
+  var searchDiv = document.createElement("div");
+      cancelButton = document.createElement("a");
+      cancelButtonImage = document.createElement("img"); 
+      form = document.createElement("form"),
+      header = document.getElementById("bannerAreaWrapper"),
+      inputField = document.createElement("input"),
+      hiddenInput = document.createElement("input"),
+      testDiv = document.getElementById("search_overlay");
+      
+  e.stopPropagation();
+
+  if (testDiv != undefined) {
+    testDiv.style.display = "block";
+    return 0;
+  }
+      
+  searchDiv.setAttribute("id", "search_overlay");
+  searchDiv.style.position = "absolute";
+  
+  cancelButton.setAttribute("id", "cancel_search_button");
+  cancelButton.setAttribute("href", "#");
+  //cancelButton.setAttribute("onclick", "cancelSearch();");
+  cancelButton.addEventListener("click", cancelSearch, false);
+  cancelButton.innerHTML = "×";
+  
+  cancelButtonImage.setAttribute("src", "/storage/img/cancel.png");
+  
+  form.setAttribute("id", "search_form");
+  form.setAttribute("method", "get");
+  form.setAttribute("name", "search");
+  form.setAttribute("action", "http://www.google.com/search");
+
+  inputField.setAttribute("id", "search_text_input");
+  inputField.setAttribute("type", "text");
+  inputField.setAttribute("name", "q");
+  inputField.setAttribute("value", "Enter your search term and press enter");
+  //inputField.setAttribute("onclick", "clearTextField();");
+  inputField.addEventListener("click", clearTextField, false);
+  
+  hiddenInput.setAttribute("type", "hidden");
+  hiddenInput.setAttribute("name", "q");
+  hiddenInput.setAttribute("value", "site:hackcollege.com");
+      
+  form.appendChild(inputField);
+  form.appendChild(hiddenInput);
+  
+  //cancelButton.appendChild(cancelButtonImage);
+  
+  searchDiv.appendChild(cancelButton);
+  searchDiv.appendChild(form);
+      
+  //form = document.getElementById("search_overlay");
+  //form.style.display = "block";
+  
+  header.appendChild(searchDiv);
+  searchDiv.style.display = "block";
+  
+  return false;
+};
+
+var cancelSearch = function (e) {
+  var form = document.getElementById("search_overlay");
+  
+  e.stopPropagation();
+
+  form.style.display = "none";
+};
+
+var clearTextField = function (e) {
+  var textField = document.getElementById("search_text_input"),
+      defaultText = "Enter your search term and press enter";
+  
+  e.stopPropagation();
+
+  if (textField.value === defaultText) {
+    textField.value = "";
+  }
+};
+
+var placeSearch = function () {
+  var searchLink = document.createElement("a"),
+      searchImage = document.createElement("img");
+
+  searchLink.setAttribute("id", "activate_search_link");
+  //searchLink.setAttribute("onclick", "displaySearch();");
+  searchLink.style.cursor = "pointer";
+
+  searchLink.addEventListener("click", displaySearch, false);
+
+  searchImage.src = "/storage/theme/images/search.png";
+
+  searchLink.appendChild(searchImage);
+  document.getElementById("pageHeaderWrapper").insertBefore(searchLink, document.getElementById("pageHeader"));
+
+  var pageHeader = document.getElementById("pageHeaderWrapper");
+  pageHeader.style.cursor = "pointer";
+  pageHeader.addEventListener("click", function (e) {
+    window.location = "http://www.hackcollege.com";
+  });
+};
+
+placeSearch();
+
+</script>
+
+<script type="text/javascript" src="http://static.evernote.com/noteit.js"></script>
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Copyright &copy; 2006-2011, HackCollege.  All rights reserved.
+
+
+<script type="text/javascript" charset="utf-8">
+	var disqus_forum_url = 'hackcollege';
+</script>
+<script type="text/javascript" src="http://mediacdn.disqus.com/1080/embed/squarespace.js"></script>
+<script type="text/javascript" src="http://disqus.com/forums/hackcollege/embed.js"></script>
+
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+      
+    <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-823659-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+      
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

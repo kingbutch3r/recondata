@@ -1,0 +1,17 @@
+GET https://nolaeventplannersclientscheduler.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=rho0vc6dkqt3rruilm9drssonr; expires=Fri, 04-Mar-2022 00:29:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fc0ce6be-1b7f-4c69-95b6-f884bad89938; expires=Fri, 02-Feb-2024 00:29:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:29:14 GMT
+< Content-Length: 0
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

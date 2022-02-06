@@ -1,0 +1,11 @@
+GET https://www.abigail-ray-lnj2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://abigail-ray-lnj2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXfZy9xXJYPLZDYzYzc1OTUwODVlM2VjYjc4NWYzMzIyZTMwYzJi;Path=/
+< X-Contextid: cpnMd3jA/eXRjO2xr
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:43 GMT

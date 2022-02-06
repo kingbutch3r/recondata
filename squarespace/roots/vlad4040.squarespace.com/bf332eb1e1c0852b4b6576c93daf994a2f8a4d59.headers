@@ -1,0 +1,9 @@
+GET https://vlad4040.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:50:08 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=DA709622C1A6610511ABCC1E5B2A43B1.v5-web002; Path=/; HttpOnly
+< X-Contextid: XzJTiS4N/nStKmR9O
+< Content-Type: text/html;charset=UTF-8

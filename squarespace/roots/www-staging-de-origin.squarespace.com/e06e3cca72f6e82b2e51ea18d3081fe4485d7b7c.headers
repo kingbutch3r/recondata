@@ -1,0 +1,18 @@
+GET https://www-staging-de-origin.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Set-Cookie: crumb=BVaOKWLsCLIxYjZlNWMwOTRkNThkYTVlY2VhNWE1OGJmYTZjNDI2;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 14938
+< Server: Squarespace
+< Content-Language: de-DE
+< Content-Type: text/html; charset=utf-8
+< X-Server: Smartling
+< X-Sl-Notranslate: 1
+< X-Sl-Norewrite: 1
+< Date: Wed, 02 Feb 2022 00:55:01 GMT
+< X-Contextid: t6JbyAhT/lzwe4r0D
+< Strict-Transport-Security: max-age=0

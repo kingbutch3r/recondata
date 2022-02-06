@@ -1,0 +1,24 @@
+GET https://uk.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=43200
+< Server: nginx
+< Content-Type: text/html; charset=utf-8
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Etag: W/"6b82b85e7c57ce20c3a61c335307d955"
+< X-Sl-Notranslate: 1
+< X-Sl-Notranslate: 1
+< X-Server: Smartling
+< Date: Wed, 02 Feb 2022 00:54:59 GMT
+< Cache-Control: no-cache
+< Expires: 
+< X-Contextid: OD8Whga4/V4lLB9JQ
+< X-Sl-Norewrite: 1
+< X-Sl-Norewrite: 1
+< Age: 0
+< X-Content-Type-Options: nosniff
+< Content-Language: en-GB
+< X-Sl-Cached: 1

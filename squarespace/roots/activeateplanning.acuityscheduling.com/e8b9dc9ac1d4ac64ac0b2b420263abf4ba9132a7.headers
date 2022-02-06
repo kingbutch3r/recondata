@@ -1,0 +1,15 @@
+GET https://activeateplanning.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=tdrm4969vsga9lvt09um5f7el0; expires=Fri, 04-Mar-2022 00:11:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=aed94de3-25d1-4760-aed9-1a2da28ca9fe; expires=Fri, 02-Feb-2024 00:11:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:11:37 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff

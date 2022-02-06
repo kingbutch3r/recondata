@@ -1,0 +1,16 @@
+GET https://interior1-10.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Age: 268039
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Sat, 29 Jan 2022 22:31:32 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BaPCjhG3JXTiZTE0ZmIwZjhlZDJkYWU0MzU2ZmU2ZTFjNjk3YjY2;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: ZkmfkI1Z/ATgVdJri
+< Etag: W/"086fe50eef44cf7d232da36c60c51766"

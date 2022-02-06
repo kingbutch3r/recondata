@@ -1,0 +1,17 @@
+GET https://itrc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=n4h7tmaku5ofm366i3gqc1q3co; expires=Thu, 03-Mar-2022 23:58:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=00bed0ba-1ab0-49ba-8a8e-3fc625ff744f; expires=Thu, 01-Feb-2024 23:58:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Tue, 01 Feb 2022 23:58:47 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

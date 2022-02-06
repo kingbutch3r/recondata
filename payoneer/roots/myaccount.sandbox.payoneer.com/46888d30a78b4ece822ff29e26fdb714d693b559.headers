@@ -1,0 +1,15 @@
+GET https://myaccount.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Server: rhino-core-shield
+< Content-Type: text/html; charset=utf-8
+< Vary: Accept-Encoding
+< Pragma: no-cache
+< Cache-Control: no-cache, private, no-transform, no-store
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Via: 1.1 google
+< Date: Tue, 01 Feb 2022 23:26:40 GMT
+< Set-Cookie: GCLB=CMm75sS7-d2TwAE; path=/; HttpOnly
+< Alt-Svc: clear

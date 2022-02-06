@@ -1,0 +1,11 @@
+GET http://katie-coleman-0930.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:00:04 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbYI9/bjAD2hNmI5MjZjYTMzMGM3MjU3YWJmODY5YTVmNzJlMmE1;Path=/
+< X-Contextid: QJs0ha8F/L3dvBiGl
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8

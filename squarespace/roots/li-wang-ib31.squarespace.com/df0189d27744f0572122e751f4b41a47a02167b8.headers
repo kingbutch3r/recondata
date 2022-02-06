@@ -1,0 +1,13 @@
+GET https://li-wang-ib31.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Set-Cookie: crumb=BaaMDO6KQrOuMDc3ODRiZWNkNWFiNDExZTQ1MTk2ODUzMmI3ZGZi;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: dmMq8gaJ/r9edE2BG
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:52 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

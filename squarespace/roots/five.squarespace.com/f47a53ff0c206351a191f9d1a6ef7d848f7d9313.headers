@@ -1,0 +1,11 @@
+GET https://five.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:52:18 GMT
+< Location: http://five.squarespace.com/;jsessionid=C49D804238CF47B3534B4CACA0FAD57A.v5-web006
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=C49D804238CF47B3534B4CACA0FAD57A.v5-web006; Path=/; HttpOnly
+< X-Contextid: uohTaFGw/l6CJ2nyB
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8

@@ -1,0 +1,11 @@
+GET http://andrea-kacsits-tcd2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:19:40 GMT
+< Location: https://andrea-kacsits-tcd2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bdm0rBAEZDICMjc2MDkzZDU2NDI4YzE2MmY5N2Q0N2Y5MmQ2NTRl;Path=/
+< X-Contextid: VmEc74pY/aPogi3Xc

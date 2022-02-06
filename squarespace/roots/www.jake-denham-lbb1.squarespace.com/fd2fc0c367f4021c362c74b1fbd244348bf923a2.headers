@@ -1,0 +1,11 @@
+GET http://www.jake-denham-lbb1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 7sjFXOA1/NNfcOfIr
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:14:22 GMT
+< Location: http://jake-denham-lbb1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BatFvugMdFPdMDliYjY2NTNmOGFhZmYwOTE1Njg1MTdiNmY2MDZl;Path=/

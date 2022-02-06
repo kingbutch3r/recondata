@@ -1,0 +1,15 @@
+GET https://werdnerdtutoring.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=la7c7j96c76di26ek6flda223j; expires=Fri, 04-Mar-2022 00:11:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=56f0367a-2396-473e-9da6-578c3df343bd; expires=Fri, 02-Feb-2024 00:11:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:11:47 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

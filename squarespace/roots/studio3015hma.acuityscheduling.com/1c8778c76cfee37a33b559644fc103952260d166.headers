@@ -1,0 +1,17 @@
+GET https://studio3015hma.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=f0u0qg89onhbtbm8mr0rjtc31e; expires=Thu, 03-Mar-2022 23:55:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f4c13250-453e-4c32-9561-71441050fe1f; expires=Thu, 01-Feb-2024 23:55:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:55:06 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Length: 0

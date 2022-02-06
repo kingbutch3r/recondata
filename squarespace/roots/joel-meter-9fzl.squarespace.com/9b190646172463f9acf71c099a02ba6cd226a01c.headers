@@ -1,0 +1,11 @@
+GET http://joel-meter-9fzl.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BZH0kl1/984+Yjg4OTM3ODk3MWZlMjQ5YjkzNDgzYTY4NzNiMmFh;Path=/
+< X-Contextid: xWXJEMiR/wEcFGlKd
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:06:34 GMT
+< Location: https://joel-meter-9fzl.squarespace.com/

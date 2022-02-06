@@ -1,0 +1,11 @@
+GET http://blueberry-fiddle-ljdm.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BfuHHzOv9JNTNmE5ODk4M2Y5NmRlZTc0YWNjOTY4ODA1NTkwYWM5;Path=/
+< X-Contextid: 0iRP1qcy/IQDyAKm9
+< Age: 24611
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 18:05:07 GMT
+< Location: https://blueberry-fiddle-ljdm.squarespace.com/
+< Server: Squarespace

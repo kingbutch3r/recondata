@@ -1,0 +1,17 @@
+GET https://andrea-gentl-q5i2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BTX7HtOnOR9UMDEyYWNiZGUyM2YxMmM3NWIxOTg1YmRkZmIzOTcz;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Last-Modified: Tue, 01 Feb 2022 13:46:14 GMT
+< Server: Squarespace
+< X-Contextid: 7pOzkK04/YuIsO2b3
+< X-Content-Type-Options: nosniff
+< Age: 41680
+< Date: Tue, 01 Feb 2022 13:46:14 GMT
+< Etag: W/"ee2d67ebeb1eea7300046c89e6659c45"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

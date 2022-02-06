@@ -1,0 +1,17 @@
+GET https://wexley-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Fri, 28 Jan 2022 15:18:07 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=0
+< X-Contextid: 0WRKKZc1/Z9tObFN5
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Fri, 28 Jan 2022 15:18:07 GMT
+< Accept-Ranges: bytes
+< Etag: W/"ebe66ec0900ce0ea0272568ab7b4736b"
+< Set-Cookie: crumb=BRhEwkdUBZYjNmUyODZiYjQ0MTI1YTlhYTg5ZjNmNmEzNzFmMWQ5;Path=/
+< Age: 380229
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Vary: Accept-Encoding

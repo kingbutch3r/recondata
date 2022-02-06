@@ -1,0 +1,15 @@
+GET https://tave.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=vp24osd7nrbnv19gt7dqgqgpl3; expires=Fri, 04-Mar-2022 00:08:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b2209299-e100-4cfd-91a3-fa43217e2590; expires=Fri, 02-Feb-2024 00:08:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:08:03 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

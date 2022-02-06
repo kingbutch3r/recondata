@@ -1,0 +1,10 @@
+GET https://clementine-apricots-3hl2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:21:48 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSMp6m79/9roNDJmMWJmOTI1ZjYwNmIwNzI3N2FjMGVkNGM3NmJm;Path=/
+< X-Contextid: TAjmbxci/Efk3Ll1c

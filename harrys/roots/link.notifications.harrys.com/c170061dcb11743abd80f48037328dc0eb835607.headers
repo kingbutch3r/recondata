@@ -1,0 +1,15 @@
+GET http://link.notifications.harrys.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html
+< Content-Length: 162
+< X-Cache-Hits: 1
+< X-Timer: S1643477973.044144,VS0,VE0
+< X-Served-By: cache-bom4743-BOM
+< X-Cache: HIT
+< Server: nginx
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 17:39:33 GMT
+< Via: 1.1 varnish
+< Age: 22

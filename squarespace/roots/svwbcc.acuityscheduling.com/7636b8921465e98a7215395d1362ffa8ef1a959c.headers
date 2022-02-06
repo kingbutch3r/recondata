@@ -1,0 +1,15 @@
+GET https://svwbcc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=nk60b7dn0p131acm530uveu51f; expires=Thu, 03-Mar-2022 23:56:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=315975d3-edfe-47b1-bea3-d33a46ece5d9; expires=Thu, 01-Feb-2024 23:56:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:56:59 GMT
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,16 @@
+GET https://chatham-university-r56m.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 31 Jan 2022 05:54:22 GMT
+< X-Contextid: sknbJNq3/eUk4pZtU
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BfAHoiq7Z5fJOTJjZWU2Yjc4OGUyODMxZTBlOTg4YTljZmM3MTUy;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=0
+< Age: 155460
+< Etag: W/"e7f44360d491c799505f86066238ff96"
+< Server: Squarespace

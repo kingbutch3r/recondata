@@ -1,0 +1,16 @@
+GET https://mark-greentree-ix31.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 61742
+< Date: Tue, 01 Feb 2022 08:04:53 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Etag: W/"da4a57365440d69322294256a953d212--gzip"
+< X-Contextid: cLvSIrno/JO3uGkyG
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BdxH9kcxnh08Zjg1OWZmZDA4ZGY4NmFkNTYyZTFlOTZhZTk4MDll;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff

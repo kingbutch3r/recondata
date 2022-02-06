@@ -1,0 +1,15 @@
+GET https://ebongeka.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=etfanv2r3igd4dgbr5rapla54r; expires=Thu, 03-Mar-2022 23:54:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4dbd2fed-42ab-4c45-9ff6-33da629c2782; expires=Thu, 01-Feb-2024 23:54:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:42 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

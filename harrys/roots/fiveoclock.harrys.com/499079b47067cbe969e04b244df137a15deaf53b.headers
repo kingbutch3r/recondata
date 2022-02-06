@@ -1,0 +1,17 @@
+GET https://fiveoclock.harrys.com
+
+
+< HTTP/1.1 200 OK
+< Last-Modified: Sat, 29 Jan 2022 17:34:44 GMT
+< X-Hacker: If you're reading this, you should visit automattic.com/jobs and apply to join the fun, mention this header.
+< X-Nananana: Batcache
+< Server: nginx
+< Date: Sat, 29 Jan 2022 17:39:28 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=31536000
+< Cache-Control: max-age=16, must-revalidate
+< Vary: Accept-Encoding
+< Vary: Cookie
+< Host-Header: WordPress.com
+< Link: <https://wp.me/P6vAWR-qe>; rel=shortlink
+< X-Ac: 1.bom _dca

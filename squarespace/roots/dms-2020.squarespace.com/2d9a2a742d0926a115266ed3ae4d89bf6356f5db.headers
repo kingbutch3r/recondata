@@ -1,0 +1,10 @@
+GET https://dms-2020.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=Bc0pYPId5GIYZDA0NzYzMDdjNzRkYzZhOWY5NmMwNTBlNjM0NzM0;Path=/
+< X-Contextid: iP3Ps42W/YzTB9b64
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:00:39 GMT

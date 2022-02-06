@@ -1,0 +1,15 @@
+GET http://mj101.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Etag: W/"579b7c4b8dba07d6d1d187410642af2e"
+< X-Content-Type-Options: nosniff
+< Age: 91947
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 23:40:19 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bdlfrgg8TJ3qOWVjYmMxYzY1YTg1NWQwZTcwYWQxNWRkZjdlODM5;Path=/
+< X-Contextid: 0LIObb8n/ILTdqoEp
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

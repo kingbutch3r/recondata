@@ -1,0 +1,16 @@
+GET https://meaghan-hlinka-fhhn.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Etag: W/"c739eb7b39450b00d1b40c1de0c1476f--gzip"
+< Strict-Transport-Security: max-age=0
+< X-Contextid: ETcyeF7U/148lmTte
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BRYbLNUfyD70YzcwMzAyMDlkNjA4ZmM0M2RiN2U3NWRlMjhkNTcz;Path=/
+< Vary: Accept-Encoding
+< Date: Tue, 01 Feb 2022 23:50:31 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8

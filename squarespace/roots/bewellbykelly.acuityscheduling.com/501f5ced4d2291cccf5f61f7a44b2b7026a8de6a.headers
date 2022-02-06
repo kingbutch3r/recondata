@@ -1,0 +1,15 @@
+GET https://bewellbykelly.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:47:11 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=6n2o7d7s86kudf5hqjamro6a0o; expires=Fri, 04-Mar-2022 00:47:10 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6b4b3381-a1ce-4dea-9f7d-29156e0aee93; expires=Fri, 02-Feb-2024 00:47:11 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

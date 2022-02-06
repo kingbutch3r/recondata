@@ -1,0 +1,14 @@
+GET https://dyntest.payoneer.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:26:40 GMT
+< Content-Length: 216
+< X-Xss-Protection: 0
+< X-Frame-Options: SAMEORIGIN
+< Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+< Access-Control-Allow-Origin: *
+< X-Content-Type-Options: nosniff
+< Location: https://dns.google/
+< Content-Type: text/html; charset=UTF-8
+< Server: HTTP server (unknown)

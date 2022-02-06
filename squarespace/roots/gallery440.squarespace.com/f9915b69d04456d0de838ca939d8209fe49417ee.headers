@@ -1,0 +1,16 @@
+GET https://gallery440.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Age: 127302
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 13:42:18 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< Etag: W/"09687d0be8e2262c6bfc084294b2cef5--gzip"
+< X-Content-Type-Options: nosniff
+< X-Contextid: m9z8sN0E/8IegdtxR
+< Set-Cookie: crumb=BQgniCkSSzWMMmM5MzgyMmRmNDkxNGU3NjEyZTQ0OTM0NjU2ZmVk;Path=/
+< Vary: Accept-Encoding

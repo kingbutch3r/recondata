@@ -1,0 +1,18 @@
+GET https://whatsnew.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Set-Cookie: _launchnotes_session=HGAih3cZhXizAPaLY%2FW9dKmwJ235A9M8e2MUWTjqRw8pK5eysfStKIFwVDoSp1%2BICFFyBOy8ejZnyXK1aqEY3jo67E896AbHcS6NUGsWpLvDQmE2appsT0cPrmOt%2BTY23X3VGjKiq0Da89rkwMHof463qbu1fhpAYt0B%2FW5cpvfDPdQ321QAc1e6TCJPhuSIJPmXgtXR66zTO1s2qOgRtv9ICqwb55TZcO0IJgRCkZ22MJDOnvu7LGNN7nlbb2kCt2JzIGMs4zuMMXRnLJzcru68Y926QpDS6Q3NWA%3D%3D--xXx0bOMms%2Bp3M2yL--GsQ2CFMPV9OFcOt3hI1KiQ%3D%3D; path=/; HttpOnly
+< Date: Tue, 01 Feb 2022 23:29:42 GMT
+< X-Request-Id: 7e463e481ba8f02fd467c2ffeb05214b
+< X-Xss-Protection: 1; mode=block
+< X-Permitted-Cross-Domain-Policies: none
+< X-Runtime: 0.146634
+< X-Frame-Options: SAMEORIGIN
+< X-Download-Options: noopen
+< Referrer-Policy: strict-origin-when-cross-origin
+< Etag: W/"68a37b2c1b72c9b37ba679d5b4fda737"
+< Cache-Control: max-age=0, private, must-revalidate
+< Strict-Transport-Security: max-age=15724800; includeSubDomains
+< Content-Type: text/html; charset=utf-8

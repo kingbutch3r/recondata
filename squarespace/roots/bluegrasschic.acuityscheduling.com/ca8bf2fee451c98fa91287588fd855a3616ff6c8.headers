@@ -1,0 +1,11 @@
+GET http://bluegrasschic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:57:13 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: https://bluegrasschic.acuityscheduling.com/
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

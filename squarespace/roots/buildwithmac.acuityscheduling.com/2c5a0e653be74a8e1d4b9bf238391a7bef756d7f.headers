@@ -1,0 +1,17 @@
+GET https://buildwithmac.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:56:54 GMT
+< Set-Cookie: PHPSESSID=d9rhuk6qpp7801t82kl3frf7dm; expires=Thu, 03-Mar-2022 23:56:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=737d0aa9-abf2-42d8-9837-bfb543050129; expires=Thu, 01-Feb-2024 23:56:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

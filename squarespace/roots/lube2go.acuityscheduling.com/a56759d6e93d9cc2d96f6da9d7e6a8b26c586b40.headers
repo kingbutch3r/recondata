@@ -1,0 +1,17 @@
+GET https://lube2go.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=qptu0k39g8j8mh9a6u44eruvc3; expires=Fri, 04-Mar-2022 00:25:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f48dba64-8de9-45d3-8b82-c5f6235bbcee; expires=Fri, 02-Feb-2024 00:25:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:25:02 GMT
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache

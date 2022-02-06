@@ -1,0 +1,9 @@
+GET http://jenkins.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:52:47 GMT
+< Content-Type: application/octet-stream
+< Content-Length: 0
+< Location: https://unfold.com
+< Server: awselb/2.0

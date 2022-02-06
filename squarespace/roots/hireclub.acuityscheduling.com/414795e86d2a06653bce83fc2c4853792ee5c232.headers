@@ -1,0 +1,17 @@
+GET https://hireclub.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:56:48 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=9f2871s4vjhdnnudaud69phasc; expires=Thu, 03-Mar-2022 23:56:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=24ed09c5-fc80-4cc6-a609-67c188ba1732; expires=Thu, 01-Feb-2024 23:56:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

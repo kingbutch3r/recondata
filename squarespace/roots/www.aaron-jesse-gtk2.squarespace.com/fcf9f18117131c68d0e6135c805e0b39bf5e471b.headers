@@ -1,0 +1,12 @@
+GET http://www.aaron-jesse-gtk2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: http://aaron-jesse-gtk2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSKbo+d9nEGYYzdhZDA4NWE0ZjA4YmM3ZDgwODM5ODE3NGFjZjAy;Path=/
+< X-Contextid: L5t4mfzv/3mQRF7e8
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800
+< Date: Wed, 02 Feb 2022 01:21:24 GMT
+< Content-Length: 0

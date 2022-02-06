@@ -1,0 +1,12 @@
+GET http://www.still630.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800
+< Location: http://still630.squarespace.com/
+< Set-Cookie: crumb=Bawn4Ezgr4UUNWQ0ODg2YWM4ZTE5MmJkNzBkOWE4NjU0ODBiM2Vh;Path=/
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:49:46 GMT
+< Server: Squarespace
+< X-Contextid: L1qZ9vaT/0glJMf7H

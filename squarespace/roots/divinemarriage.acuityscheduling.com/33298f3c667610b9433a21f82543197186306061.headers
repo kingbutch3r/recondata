@@ -1,0 +1,15 @@
+GET https://divinemarriage.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:02:46 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=logi4sa5aafqu3mo27nm48lkp5; expires=Fri, 04-Mar-2022 00:02:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bdddaaa0-dd7e-4506-b56f-72f0ab68484b; expires=Fri, 02-Feb-2024 00:02:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

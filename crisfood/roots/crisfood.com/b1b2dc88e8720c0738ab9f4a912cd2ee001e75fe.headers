@@ -1,0 +1,9 @@
+GET http://crisfood.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://crisfood.com/
+< Server: Web Server
+< X-Frame-Options: SAMEORIGIN
+< Date: Sat, 29 Jan 2022 17:28:31 GMT
+< Content-Type: text/html

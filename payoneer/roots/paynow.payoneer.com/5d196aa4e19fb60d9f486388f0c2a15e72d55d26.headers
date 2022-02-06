@@ -1,0 +1,11 @@
+GET https://paynow.payoneer.com
+
+
+< HTTP/1.1 403 Forbidden
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:25:55 GMT
+< Content-Type: text/html
+< Via: 1.1 google
+< Vary: Accept-Encoding
+< Set-Cookie: GCLB=CM6LouaxntOtLA; path=/; HttpOnly
+< Alt-Svc: clear

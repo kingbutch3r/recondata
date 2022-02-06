@@ -1,0 +1,11 @@
+GET http://david-shapiro-oes0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: WV4N1i4M/XvqZRJoC
+< Age: 95850
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 22:34:55 GMT
+< Location: https://david-shapiro-oes0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXvUoZVCLym1MmZhZjcwMjZmZGUxY2ZkNGY1YjhlY2Q5ZjYzN2Rh;Path=/

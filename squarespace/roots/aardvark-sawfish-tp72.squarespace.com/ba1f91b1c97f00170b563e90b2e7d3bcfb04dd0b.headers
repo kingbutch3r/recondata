@@ -1,0 +1,11 @@
+GET http://aardvark-sawfish-tp72.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BYBwgvFFIfkxYmU2ZDBlNWI5NDRlYzY3M2VhN2NlOTE4OWRkMGU3;Path=/
+< X-Contextid: WkU5RDuX/uy6pkQvh
+< Age: 583618
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 07:11:16 GMT
+< Location: https://aardvark-sawfish-tp72.squarespace.com/

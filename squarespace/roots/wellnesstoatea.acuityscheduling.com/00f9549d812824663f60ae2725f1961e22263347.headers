@@ -1,0 +1,15 @@
+GET https://wellnesstoatea.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:53:55 GMT
+< Set-Cookie: PHPSESSID=7cb7lh550v3cmkvfcqnesrqj0l; expires=Thu, 03-Mar-2022 23:53:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a8aa07b5-7c94-4c1a-b501-8a7445936ef0; expires=Thu, 01-Feb-2024 23:53:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate

@@ -1,0 +1,15 @@
+GET https://activateaustinschedule.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=thgns7eucq3fcp8b53pf55h47j; expires=Fri, 04-Mar-2022 00:04:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=47735cbf-47a4-41e3-a1bb-d9825a9d891a; expires=Fri, 02-Feb-2024 00:04:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:04:51 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,17 @@
+GET https://jaimelee.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:02:16 GMT
+< Content-Length: 0
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=fartp081upjbh0t45rvlbdubic; expires=Fri, 04-Mar-2022 00:02:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=16de9c7e-00d1-45a4-888f-cffc489d30ea; expires=Fri, 02-Feb-2024 00:02:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

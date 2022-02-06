@@ -1,0 +1,16 @@
+GET https://anjali-dayal.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 514690
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bemv10OnwWJUMjRhNjYxNzhmNTZkMjNlNzUxOTg0ZDkyMzBlZmNm;Path=/
+< X-Contextid: MC10CSZy/XDMYrllG
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Thu, 27 Jan 2022 02:26:59 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Etag: W/"df71a77d39ea7c60c9884879580260f8--gzip"
+< Server: Squarespace

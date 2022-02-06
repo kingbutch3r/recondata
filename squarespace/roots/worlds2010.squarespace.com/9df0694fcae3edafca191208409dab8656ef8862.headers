@@ -1,0 +1,12 @@
+GET http://worlds2010.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: max-age=300, s-maxage=300
+< X-Contextid: d3g1Jt5P/ZpKhuMOK
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:52:12 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bf01cuylhWPRYTI1NzhhNDAyNGYxNGZjMWI3NGJkNDE4NTg1YTA3;Path=/
+< Content-Length: 3123

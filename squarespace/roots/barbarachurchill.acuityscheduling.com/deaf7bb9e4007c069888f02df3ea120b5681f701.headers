@@ -1,0 +1,17 @@
+GET https://barbarachurchill.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=i82k28rb35d7enkmdvrml42hpn; expires=Fri, 04-Mar-2022 00:18:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4c9aaba4-81f5-425d-9d66-d359c4be0414; expires=Fri, 02-Feb-2024 00:18:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:18:16 GMT

@@ -1,0 +1,13 @@
+GET http://www-staging-de-origin.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://www-staging-de-origin.squarespace.com/
+< Set-Cookie: crumb=BbgnlkEs89UBY2NjZTYyYWJkNzI2NTNlMzJkODZlOGYyNzAyMDM2;Path=/
+< X-Sl-Norewrite: 1
+< X-Contextid: mGkfGc7Z/PvodkI32
+< X-Server: Smartling
+< X-Sl-Notranslate: 1
+< Date: Wed, 02 Feb 2022 00:54:58 GMT
+< Age: 14933
+< Server: Squarespace

@@ -1,0 +1,12 @@
+GET http://cameron-cox-ffl2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 109438
+< Cache-Control: max-age=172800, s-maxage=172800
+< Date: Mon, 31 Jan 2022 18:28:50 GMT
+< Content-Length: 0
+< Location: https://cameron-cox-ffl2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Ba/iPieII3jiZjk1Yjc3NzZiNTVhMTM4Mjc1MDRjNzE4YTNiZTdh;Path=/
+< X-Contextid: Bgo71sBU/YUkWmL1H

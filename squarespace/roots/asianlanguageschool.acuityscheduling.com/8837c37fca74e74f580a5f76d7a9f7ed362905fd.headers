@@ -1,0 +1,17 @@
+GET https://asianlanguageschool.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=i18kqt1b84ed1aklcv70ddbtbg; expires=Fri, 04-Mar-2022 00:18:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fde96368-b143-4666-8786-e0ec5426e9cb; expires=Fri, 02-Feb-2024 00:18:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:18:25 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

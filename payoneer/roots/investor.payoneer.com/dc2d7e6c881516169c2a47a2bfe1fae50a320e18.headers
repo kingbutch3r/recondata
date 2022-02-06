@@ -1,0 +1,15 @@
+GET http://investor.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=utf-8
+< X-Content-Type-Options: nosniff
+< Server: cloudflare
+< Cf-Cache-Status: HIT
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Date: Tue, 01 Feb 2022 23:26:37 GMT
+< Location: https://investor.payoneer.com/
+< Cf-Ray: 6d6ef21c28992e7d-BOM
+< Age: 381
+< Vary: Accept-Encoding
+< Set-Cookie: __cf_bm=HLcT7o3yHQr0dkSk59LHRn8JzvMPUigRVHMKdVveh1k-1643757997-0-ASWZOUQ2dVprlXvnKGvX4F/TLRQwsDmkYBetdvFpby+AYJH+boPs+QWShfngQpz8pB2TJqM2/7J3NjoSi9+RtMw=; path=/; expires=Tue, 01-Feb-22 23:56:37 GMT; domain=.investor.payoneer.com; HttpOnly; SameSite=None

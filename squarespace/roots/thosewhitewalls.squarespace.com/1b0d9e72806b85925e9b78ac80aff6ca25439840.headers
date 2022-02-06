@@ -1,0 +1,15 @@
+GET http://thosewhitewalls.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Etag: W/"dc935bb5ebe57974e3fe6b7269116c69--gzip"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BXgRGuqANraYZTM3ZTZmNzBlNjdkM2M3M2VhNTQyNDY1NmRkMmI0;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: razvVQjw/kwSRY4eq
+< Age: 505485
+< Date: Thu, 27 Jan 2022 04:41:05 GMT

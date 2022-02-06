@@ -1,0 +1,15 @@
+GET https://alexabcdesign.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:21:24 GMT
+< Set-Cookie: PHPSESSID=39hic1k464o0n2fpeborqb37t1; expires=Fri, 04-Mar-2022 00:21:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=58ea496f-fc8a-48ad-b8e8-f34d4159c020; expires=Fri, 02-Feb-2024 00:21:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

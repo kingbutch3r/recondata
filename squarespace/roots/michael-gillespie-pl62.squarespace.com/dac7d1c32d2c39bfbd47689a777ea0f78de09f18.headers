@@ -1,0 +1,11 @@
+GET http://michael-gillespie-pl62.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BamOLto+ELxxNDUzNTA5Y2I0Mjg0NTIxYjY5YTJjNDg4NWFlZDIx;Path=/
+< X-Contextid: K3f2TQiG/buv4goFt
+< Age: 150479
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 07:03:44 GMT
+< Location: https://michael-gillespie-pl62.squarespace.com/

@@ -1,0 +1,11 @@
+GET https://aainter1.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:15:36 GMT
+< Location: http://aainter1.squarespace.com/;jsessionid=A6E94AE3EC902CD2C0DD68B38B173EE9.v5-web009
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=A6E94AE3EC902CD2C0DD68B38B173EE9.v5-web009; Path=/; HttpOnly
+< X-Contextid: NmeQZ41T/0rlhXVK9

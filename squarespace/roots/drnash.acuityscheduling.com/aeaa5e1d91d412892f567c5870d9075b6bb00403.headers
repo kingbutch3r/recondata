@@ -1,0 +1,17 @@
+GET https://drnash.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:14:06 GMT
+< Set-Cookie: PHPSESSID=d8mcg3avoc4l8q0hm80o2fi5d0; expires=Fri, 04-Mar-2022 00:14:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=59f9b329-5669-4eb3-b8b9-e4513778272b; expires=Fri, 02-Feb-2024 00:14:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

@@ -1,0 +1,12 @@
+GET http://jiujitsu360.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: nnVos0oJ/edHuF1LS
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BU87BF+jzze0YmM2ZmI5ZjYwZDc5ZTNhMTc3ZTc0NjE1ODhhM2Fi;Path=/
+< Date: Wed, 02 Feb 2022 00:49:52 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff

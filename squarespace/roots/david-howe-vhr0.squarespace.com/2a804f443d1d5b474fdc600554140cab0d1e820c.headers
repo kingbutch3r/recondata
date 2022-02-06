@@ -1,0 +1,14 @@
+GET https://david-howe-vhr0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:12:27 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=0
+< X-Contextid: 5YKXkWNP/rWNQWPyw
+< Age: 0
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BTw1UTdfOfVgYWViMzU2NjlkOWRmMjdlM2JjZmM2MWMyN2FlODdk;Path=/

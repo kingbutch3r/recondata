@@ -1,0 +1,14 @@
+GET https://dolores-pian-4j00.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BTK7WI6g5h94ZGQyMDZjMmNmZGZkZTdiMzA2NDZjMTc2ZTIxZmJj;Path=/
+< Strict-Transport-Security: max-age=43200
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:13 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: ts3WqeXV/ykad3RFb
+< Age: 0
+< Content-Length: 3208

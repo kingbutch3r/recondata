@@ -1,0 +1,17 @@
+GET https://legacybuilders.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"b4f9944ed58de5509cf904c8776fe15c"
+< Last-Modified: Sat, 29 Jan 2022 02:08:31 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: grUP28F7/qT6VTQYh
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 02:08:31 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Age: 341348
+< Set-Cookie: crumb=BfgpnRvKjZB9ZjYyYjUxZWQwZGU5NDYyNDNiN2JkNmVhN2I5NjFh;Path=/
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding

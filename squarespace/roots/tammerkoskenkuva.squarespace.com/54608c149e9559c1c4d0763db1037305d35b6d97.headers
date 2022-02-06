@@ -1,0 +1,11 @@
+GET http://tammerkoskenkuva.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BTeL/ywJkSd+YzkxYTQ3MDQ0YWI0YzQzMjMxMzgyZWYwZDg3NDUy;Path=/
+< X-Contextid: PLVkbvqm/FRqJPG3G
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:55:30 GMT
+< Location: https://tammerkoskenkuva.squarespace.com/

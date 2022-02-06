@@ -1,0 +1,11 @@
+GET http://cdn-stories.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Accept-Ranges: bytes
+< X-Served-By: cache-bom4720-BOM
+< X-Cache: HIT
+< X-Cache-Hits: 0
+< Retry-After: 0
+< Location: https://cdn-stories.unfold.com/
+< Content-Length: 0

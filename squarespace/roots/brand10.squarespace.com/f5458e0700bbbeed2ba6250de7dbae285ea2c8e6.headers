@@ -1,0 +1,9 @@
+GET https://brand10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:50:00 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=FAA9789704CB4DAFD3BE55471A3264EF.v5-web019; Path=/; HttpOnly
+< X-Contextid: jnILBgno/oauw3V2M
+< Content-Type: text/html;charset=UTF-8

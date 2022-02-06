@@ -1,0 +1,15 @@
+GET http://katrina-firenze.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 371140
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 16:44:16 GMT
+< Set-Cookie: crumb=BSL32tMmDgCRZDM0MDc0NGNjNTI0OTRkMGUyODU3YzNkOTcxNGYw;Path=/
+< Accept-Ranges: bytes
+< X-Contextid: mWpWT5LR/ebn5Nzbp
+< Etag: W/"fb24eee51d211e66117bed0c808316b7--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

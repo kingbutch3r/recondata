@@ -1,0 +1,15 @@
+GET http://matthew-law-pg20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:08:21 GMT
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BchJYEr4xw4AYzM2ZTRiZmM2MTU1ODZkYzBhYmFiNzA2NmVmZGM2;Path=/
+< Vary: Accept-Encoding
+< Age: 0
+< Accept-Ranges: bytes
+< Etag: W/"e8ca4c4b3c0b8f8076fc127de0ef9218--gzip"
+< X-Contextid: 5qMhkgpl/VXeVNwX6

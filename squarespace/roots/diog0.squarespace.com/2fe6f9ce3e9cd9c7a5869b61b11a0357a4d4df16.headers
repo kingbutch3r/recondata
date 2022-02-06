@@ -1,0 +1,13 @@
+GET https://diog0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:50:05 GMT
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BRVuovDQ8d5eOTViNWRhNTkxNTcyNzYxYTE4Y2ZiYWNkNjgyNzY4;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: JqTT9eAp/4gqHXxqb

@@ -1,0 +1,17 @@
+GET https://balpa.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Etag: W/"3c46309bce1413a50b18e0f01e4c8ca0"
+< Date: Tue, 01 Feb 2022 16:24:10 GMT
+< Age: 26842
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: INbVFtrh/hepvhHr8
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BSyKNdSQzO5/YTIzNDYyYTg2NWM4YTljOWY0MDJmZmYyZTY0MjQz;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

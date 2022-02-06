@@ -1,0 +1,17 @@
+GET https://katemarolt.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:41:12 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=8pk2ujjmd6u4i48it2b7tii6lr; expires=Fri, 04-Mar-2022 00:41:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1ad02342-42f8-4148-8704-f28d4b7b8076; expires=Fri, 02-Feb-2024 00:41:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

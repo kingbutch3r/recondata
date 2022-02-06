@@ -1,0 +1,1959 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- en-ilumeo -->
+<base href="">
+<meta charset="utf-8" />
+<title>Ilumeo - Data Science Company</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1513397736930-2OTKKA7C7RLXGK5G186S/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://www.en.ilumeo.com.br"/>
+<meta property="og:site_name" content="Ilumeo - Data Science Company (Copy)"/>
+<meta property="og:title" content="Ilumeo - Data Science Company"/>
+<meta property="og:url" content="https://www.en.ilumeo.com.br"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Ilumeo is a consulting firm for Data Science, a company that brings together data with scientific knowledge to help businesses grow"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/61e1c021b666015792d87186/t/61e1c2a3b666015792d8ece3/1641580816033/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="353"/>
+<meta itemprop="name" content="Ilumeo - Data Science Company"/>
+<meta itemprop="url" content="https://www.en.ilumeo.com.br"/>
+<meta itemprop="description" content="Ilumeo is a consulting firm for Data Science, a company that brings together data with scientific knowledge to help businesses grow"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/61e1c021b666015792d87186/t/61e1c2a3b666015792d8ece3/1641580816033/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/61e1c021b666015792d87186/t/61e1c2a3b666015792d8ece3/1641580816033/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/61e1c021b666015792d87186/t/61e1c2a3b666015792d8ece3/1641580816033/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png?format=1500w"/>
+<meta name="twitter:title" content="Ilumeo - Data Science Company"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/61e1c021b666015792d87186/t/61e1c2a3b666015792d8ece3/1641580816033/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png?format=1500w"/>
+<meta name="twitter:url" content="https://www.en.ilumeo.com.br"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Ilumeo is a consulting firm for Data Science, a company that brings together data with scientific knowledge to help businesses grow"/>
+<meta name="description" content="Ilumeo is a consulting firm for Data Science, a company that brings 
+together data with scientific knowledge to help businesses grow" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/NW4jsxbYHRUqDKP4pfH1Cmvvkd-TfhOzumKO1antRrGfeGMIfFHN4UJLFRbh52jhWDjUZQBRw2JUjRjhFRMUFQSowcbtFDItFynoMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0ZAtl-AUudAmzO1FUiABkZWF3jAF8OcFzdP37O1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80Zko0ZWbCjWw0dA9CZAtl-AUudAmzO1FUiABkZWF3jAF8OcFzdPU8dKoTdYmlZAv0jhNlOc4kOeUzjhBC-eNDifUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcBDOcu8OYiaiko8dKuTdYmlZAv0SaBujW48Sagyjh90jhNlOYiaiko8dKoTdYmlZAv0jhNlOc4kOYiaikoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlJ68ciWsuScIlSYb7fbKemsMMeMw6MKG4fJsmIMMjgfMfH6qJxubbMg6BJMJ7fbRKpsMMeMj6MKG4fJBmIMMjgkMfH6qJ6u9bMg6FJMJ7fbKfmsMMegI6MTMgyxWOR3j.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:ital,wght@0,400;0,700;0,800;1,700;1,800">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"61e1c021b666015792d87186","identifier":"en-ilumeo","websiteType":1,"contentModifiedOn":1643392397416,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Ilumeo - Data Science Company (Copy)","fullSiteTitle":"Ilumeo - Data Science Company","siteDescription":"","logoImageId":"61e1c2a3b666015792d8ece3","shareButtonOptions":{},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1513397907170-NSQHGRNVQL3H2F1QL2Y1/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png","authenticUrl":"https://www.en.ilumeo.com.br","internalUrl":"https://en-ilumeo.squarespace.com","baseUrl":"https://www.en.ilumeo.com.br","primaryDomain":"www.en.ilumeo.com.br","sslSetting":3,"isHstsEnabled":true,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"61e1c021b666015792d871ac","websiteId":"61e1c021b666015792d87186","subjects":[],"country":"US","state":"CA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK","NZD","SGD","MXN","HKD","CZK","ILS","MYR","RUB","PHP","PLN","THB","BRL","ARS","COP","IDR","INR","JPY","ZAR"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":true,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":false,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"about us","id":"61e1c04ab666015792d8797d","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"3","tweak-blog-list-item-image-aspect-ratio-grid":"16:9 Widescreen","tweak-blog-list-item-image-aspect-ratio-stacked":"3:2 Standard","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"60px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Stacked","tweak-header-bottom-overlay-on-index-gallery":"true","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"2","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"None","tweak-index-gallery-layout":"Slideshow","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"Pages with Backgrounds Only","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"true","tweak-product-item-image-zoom-factor":"2.5","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"3","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-site-ajax-loading-enable":"false","tweak-site-border-show":"false","tweak-site-border-width":"0px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/","betaFeatureFlags":["campaigns_audience_card","commerce_product_composer_ab_test_all_users","viewer-role-contributor-invites","campaigns_new_subscriber_search","commerce_etsy_product_import","nested_categories_migration_enabled","member_areas_spanish_interviews","commerce_clearpay","customer_account_creation_recaptcha","campaigns_show_apply_website_styles_button","commerce_site_visitor_metrics","reduce_general_search_api_traffic","campaigns_thumbnail_layout","startup_checklist","member_areas_schedule_interview","campaigns_section_reorder_arrows","commerce_product_branching","commerce_product_review_etsy_import","campaigns_banner_reduce_size","commerce_product_review_import_ga","commerce_etsy_shipping_import","campaigns_global_uc_ab","google_analytics_4_gtag_js","campaigns_blog_product_image_editor","commerce_activation_experiment_add_payment_processor_card","category-delete-product-service-enabled","commerce_afterpay_pdp","background_art_onboarding","commerce_category_id_discounts_enabled","campaigns_hide_deleted_automations_panel","commerce_onboarding_tools_screen_test","commerce_restock_notifications","commerce_pdp_layouts_ga","member_areas_pricing_options_discounts"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.en.ilumeo.com.br/english/about-us?format=rss" />
+<script type="application/ld+json">{"url":"https://www.en.ilumeo.com.br","name":"Ilumeo - Data Science Company (Copy)","description":"","image":"//images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1513397907170-NSQHGRNVQL3H2F1QL2Y1/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/61e1c021b666015792d87186/0/55f0aac0e4b0f0a5b7e0b22e/61e1c021b666015792d871d1/347-05142015/1643223369737/site.css"/><meta name="d4sign-domain-verification"
+content="4c4e1424-8e37-4212-b76e-d3997d8c74e4"><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-61e1c04ab666015792d8797d" class="tweak-social-icons-style-solid tweak-social-icons-shape-square tweak-site-width-option-full-background tweak-icon-weight-hairline   tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left ancillary-header-tagline-position-top-left ancillary-header-primary-nav-position-top-right ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-hide ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-active tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square tweak-header-secondary-nav-inherit-styles tweak-header-secondary-nav-hover-style-spotlight tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-underlined tweak-header-search-placeholder-show tweak-header-cart-style-text tweak-header-account-style-text tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-expanding-horizontal-lines tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-pages-with-backgrounds-only  tweak-index-page-scroll-indicator-icon-only tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-light tweak-header-bottom-overlay-on-index-gallery tweak-index-gallery-layout-slideshow tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-plain tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-light tweak-index-gallery-indicators-none tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-bottom-left tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-stacked tweak-footer-layout-columns-auto tweak-footer-stacked-alignment-left   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-right tweak-mobile-bar-menu-icon-hamburger ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-hide tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square tweak-mobile-overlay-menu-secondary-inherit  tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-center  tweak-blog-meta-primary-category tweak-blog-meta-secondary-none tweak-blog-list-style-grid  tweak-blog-list-alignment-left tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-169-widescreen tweak-blog-list-item-image-aspect-ratio-stacked-32-standard tweak-blog-list-item-title-show  tweak-blog-list-item-body-show tweak-blog-list-item-readmore-below-excerpt tweak-blog-list-item-meta-position-below-title tweak-blog-list-pagination-link-label-show tweak-blog-list-pagination-link-icon-show tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-left tweak-blog-item-meta-position-below-title tweak-blog-item-share-position-below-content tweak-blog-item-pagination-link-icon-show  tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-category tweak-blog-item-pagination-link-icon-weight-heavy   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-hide tweak-product-list-filter-alignment-left tweak-product-item-nav-show-breadcrumb-and-pagination tweak-product-item-nav-pagination-style-previousnext tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-square tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-small tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-default button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only     tweak-share-buttons-standard-background-color native-currency-code-usd collection-61e1c04ab666015792d8797d collection-type-index collection-layout-default homepage view-list mobile-style-available sqs-has-custom-cart has-logo-image has-parallax-images has-parallax-images enable-load-effects has-primary-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            <img src="//images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1513397907170-NSQHGRNVQL3H2F1QL2Y1/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png?format=1500w" alt="Ilumeo - Data Science Company (Copy)" class="Mobile-bar-branding-logo" />
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          
+            <a href="/" class="Mobile-overlay-nav-item">
+              about us
+            </a>
+          
+        
+      
+    
+    
+  
+    
+      
+        
+          
+            <a href="/english/hidden-insights" class="Mobile-overlay-nav-item">
+              Hidden Insights
+            </a>
+          
+        
+      
+    
+    
+  
+    
+    
+      <a href="https://projetos.ilumeo.com.br" class="Mobile-overlay-nav-item">
+        clients & projects
+      </a>
+    
+  
+    
+      
+        
+          <a href="/english/team" class="Mobile-overlay-nav-item">
+            our team
+          </a>
+        
+      
+    
+    
+  
+    
+      
+        
+          <a href="/english/blog" class="Mobile-overlay-nav-item">
+            blog
+          </a>
+        
+      
+    
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+  
+
+  
+
+  
+
+        
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="61e1c292b666015792d8ea40"></div>
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="61e1c074b666015792d88614"></div>
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      
+        <header class="Header Header--top">
+          <div class="Header-inner Header-inner--top" data-nc-group="top">
+            <div data-nc-container="top-left">
+
+              <div class="Header-search" data-nc-element="search">
+                <form class="Header-search-form" action="/search" method="get">
+                  <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                  <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                    <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                    </svg>
+                    <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                    </svg>
+                  </button>
+                </form>
+              </div>
+
+            </div>
+            <div data-nc-container="top-center">
+              
+              
+            </div>
+            <div data-nc-container="top-right">
+
+              
+
+            </div>
+          </div>
+        </header>
+      
+
+      <div class="Site-inner Site-inner--index" data-controller="HeaderOverlay">
+
+        <header class="Header Header--bottom Header--overlay">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/" class="Header-nav-item Header-nav-item--active" data-test="template-nav">about us</a><a href="/english/hidden-insights" class="Header-nav-item" data-test="template-nav">Hidden Insights</a><a href="https://projetos.ilumeo.com.br" class="Header-nav-item">clients & projects</a><a href="/english/team" class="Header-nav-item" data-test="template-nav">our team</a><a href="/english/blog" class="Header-nav-item" data-test="template-nav">blog</a>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    <img src="//images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1513397907170-NSQHGRNVQL3H2F1QL2Y1/RGB.Ilumeo.Negativo.LogoSimbolo.Cor-01.png?format=1500w" alt="Ilumeo - Data Science Company (Copy)" class="Header-branding-logo" />
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+
+          <main class="Index" data-collection-id="61e1c04ab666015792d8797d" data-controller="IndexFirstSectionHeight, Parallax, IndexNavigation">
+            
+              <section id="english/data-science" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="61e1c292b666015792d8ea40" data-parallax-id="61e1c292b666015792d8ea40" data-edit-main-image="Background">
+        
+          <div class="Index-page-scroll-indicator hidden" data-controller="ScrollIndicator">
+            <div class="Index-page-scroll-indicator-text">Scroll</div>
+            <svg class="Index-page-scroll-indicator-arrow Icon Icon--caretLarge--down" viewBox="0 0 48 23">
+              <use xlink:href="/assets/ui-icons.svg#caret-down-large-icon"></use>
+            </svg>
+            <div class="Index-page-scroll-indicator-line"></div>
+          </div>
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" id="page-61e1c292b666015792d8ea40"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-e61858af2128bdbb474f"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">Data science company</h1></div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185362598-1ALKFDORXMLEMSSE0HES/Final-GIF.gif" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185362598-1ALKFDORXMLEMSSE0HES/Final-GIF.gif" data-image-dimensions="600x338" data-image-focal-point="0.5,0.5" alt="Final-GIF.gif"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="english/who-we-are" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="61e1c074b666015792d88614" data-parallax-id="61e1c074b666015792d88614" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" id="page-61e1c074b666015792d88614"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-b2868f579c1c910ff297"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-f79d1fea4aa0959a1492"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6931aaea037880871527"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;"><strong>Statistics + Technology + Strategy</strong></h2></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="83.33333333333333" data-block-type="21" id="block-38ee4c4d994715af10d5"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-5 span-5"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-46d5aea1d115d6e74541"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:461px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820552-R2OGI28LUAWD650ZRMET/brain.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820552-R2OGI28LUAWD650ZRMET/brain.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820552-R2OGI28LUAWD650ZRMET/brain.png" data-image-dimensions="461x461" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c074b666015792d8860f" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-78420db0e6dc4bdf8f74"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:50px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:182%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820562-JU2HW4XA5IX1U0Z1LLL1/i+n+t+e+l+i+g+e+n+c+i+a.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820562-JU2HW4XA5IX1U0Z1LLL1/i+n+t+e+l+i+g+e+n+c+i+a.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820562-JU2HW4XA5IX1U0Z1LLL1/i+n+t+e+l+i+g+e+n+c+i+a.png" data-image-dimensions="50x91" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c074b666015792d88612" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-418971da137499577aa7"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">Ilumeo is a Data Science consulting company which considers these 3 pillars for businesses growth.</h3><p class="" style="white-space:pre-wrap;"><br>Our mission is to bring together scientific methods and technology to convert data into business intelligence, generating patterns for action to propitiate the growth of our clients’ businesses. </p><p class="" style="white-space:pre-wrap;">&nbsp;</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-c2629ff697d06fcf3ca1"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-108f3f31726854fdf891"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-a2fe462f935b2bc84907"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820543-UOXYERT52SMVKRM0HLFL/bkg-black.jpg" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184820543-UOXYERT52SMVKRM0HLFL/bkg-black.jpg" data-image-dimensions="1024x630" data-image-focal-point="0.46264466597914516,0.38694074969770254" alt="bkg-black.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="english/differential" class="Index-page"  data-collection-id="61e1c289b666015792d8e625" data-parallax-id="61e1c289b666015792d8e625" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" id="page-61e1c289b666015792d8e625"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-0c5243ef10fe42a27944"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-77a8a9a61aef00a69183"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Why are we different?</h2></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="3.4755134281200633" data-block-type="21" id="block-3e2418378ab84d797f26"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-1c6123382e12106ad866"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">We use scientific methods as our approach to face properly all our challenges and projects.</h3></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-410536f5f025b7f59d94"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:37px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:137.8378448486328%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185353484-3FZORD8YCQY6J94D5V0F/c+i+e+n+c+i+a.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185353484-3FZORD8YCQY6J94D5V0F/c+i+e+n+c+i+a.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185353484-3FZORD8YCQY6J94D5V0F/c+i+e+n+c+i+a.png" data-image-dimensions="37x51" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c289b666015792d8e620" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-d3b88b753debf6c0146b"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-259e3a3e2969ca0ec031"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="126.39405204460968" data-block-type="5" id="block-2c78bb785543dc6cfa24"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:126.39405059814453%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185353489-SHUE14Z1HVJCNDFFSFPL/porque%403x.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185353489-SHUE14Z1HVJCNDFFSFPL/porque%403x.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642185353489-SHUE14Z1HVJCNDFFSFPL/porque%403x.png" data-image-dimensions="1381x1381" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c289b666015792d8e623" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-5 span-5"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f4ada76c0625794adfca"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">It means we never establish models, systems or start our field work without ensuring that we are really updated with the latest best alternatives in terms of international academic production in areas such as communication and marketing. </p><p class="" style="white-space:pre-wrap;">It assures methodological rigor, accuracy and efficiency to our projects. </p><p class="" style="white-space:pre-wrap;">&nbsp;</p></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-d99736f232d58286e81e"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="english/actuation" class="Index-page"  data-collection-id="61e1c025b666015792d872bc" data-parallax-id="61e1c025b666015792d872bc" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" id="page-61e1c025b666015792d872bc"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-76aa4d9ad697ecbdd699"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Our Areas of Expertise</h2></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-5d3f3d0fa88b5499096c"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-6f6534c70d11542b8b30"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:230px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:57.826087951660156%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741379-AFO3I4MIUU1Q67R673NR/1.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741379-AFO3I4MIUU1Q67R673NR/1.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741379-AFO3I4MIUU1Q67R673NR/1.png" data-image-dimensions="230x133" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c025b666015792d872ab" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><strong>BIG DATA</strong></p><p class="" style="white-space:pre-wrap;">Projects with large amount of data, where we transform it into business intelligence for our clients.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-56df43de487f42df428d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:230px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:57.826087951660156%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741390-UBMDO2C41O0D3503F55E/2.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741390-UBMDO2C41O0D3503F55E/2.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741390-UBMDO2C41O0D3503F55E/2.png" data-image-dimensions="230x133" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c025b666015792d872ae" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><strong>MODELING</strong></p><p class="" style="white-space:pre-wrap;">Creation of models to comprehend the causal relations among business variables, brand, communication and media.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-9e311af1b522f32a58da"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:230px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:57.826087951660156%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741399-MT04BWDRZYJG7IBQYIFU/3.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741399-MT04BWDRZYJG7IBQYIFU/3.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741399-MT04BWDRZYJG7IBQYIFU/3.png" data-image-dimensions="230x133" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c025b666015792d872b1" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><strong>ROI</strong></p><p class="" style="white-space:pre-wrap;">Stablishment of standards for evaluating the return generated by communication and marketing initiatives.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-da058671272502673b17"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:230px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:57.826087951660156%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741407-HTVX51Y960KTN5QS3LSZ/4.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741407-HTVX51Y960KTN5QS3LSZ/4.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741407-HTVX51Y960KTN5QS3LSZ/4.png" data-image-dimensions="230x133" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c025b666015792d872b4" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><strong>PRICING</strong></p><p class="" style="white-space:pre-wrap;">Price point evaluation, promotional initiatives, elasticity etc.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-ae150e0e0475753840d0"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:230px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:57.826087951660156%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741415-GJOM5GDF75HNMHABUGR7/5.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741415-GJOM5GDF75HNMHABUGR7/5.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741415-GJOM5GDF75HNMHABUGR7/5.png" data-image-dimensions="230x133" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c025b666015792d872b7" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><strong>TRACKING</strong></p><p class="" style="white-space:pre-wrap;">Evaluation of image attributes for brands, celebrities and influencers.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-222158c357db7d43beeb"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:230px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:57.826087951660156%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741424-588NE4VGB2SJCFJ20KSW/6.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741424-588NE4VGB2SJCFJ20KSW/6.png" data-image="https://images.squarespace-cdn.com/content/v1/61e1c021b666015792d87186/1642184741424-588NE4VGB2SJCFJ20KSW/6.png" data-image-dimensions="230x133" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c025b666015792d872ba" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;"><strong>TESTING</strong></p><p class="" style="white-space:pre-wrap;">Evaluation of how products and communication can potentially work through qualitative and/or quantitative methods.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+  
+    <nav class="Index-nav">
+      <div class="Index-nav-inner">
+        
+          <a href="#english/data-science" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Data Science</span></div>
+          </a>
+        
+          <a href="#english/who-we-are" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Who we are</span></div>
+          </a>
+        
+          <a href="#english/differential" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Differential</span></div>
+          </a>
+        
+          <a href="#english/actuation" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Actuation</span></div>
+          </a>
+        
+      </div>
+    </nav>
+            
+          </main>
+
+        </div>
+      </div>
+
+      
+        <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" data-layout-label="Footer Top Blocks" data-type="block-field" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-57ee23c37ce2546bd46d"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-dcaaaa7088ba0c28050c"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a592fd05b34a8c7db4cc"><div class="sqs-block-content"><h2 style="white-space:pre-wrap;">Contact us</h2></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-04714f30dd380384f892"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-7 span-7"><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-b04c870e4557f3206b01"><div class="sqs-block-content">
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="61e1c021b666015792d87219"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://en-ilumeo.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '61e1c021b666015792d87219',
+      collectionId: '',
+      objectName: 'footerBlocksTop'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1553017897412_6364" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1553017897412_6365" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1553017897412_6365-field">
+              Email
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1553017897412_6365-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1572370873040_13969" class="form-item field text">
+                
+            <label class="title" for="text-yui_3_17_2_1_1572370873040_13969-field">
+              Company
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1572370873040_13969-field"
+                    
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1572370873040_15029" class="form-item field text">
+                
+            <label class="title" for="text-yui_3_17_2_1_1572370873040_15029-field">
+              Position
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1572370873040_15029-field"
+                    
+                    
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1572371204450_15555" class="form-item field textarea">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1572371204450_15555-field">
+              Message
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1572371204450_15555-field"
+                    
+                    
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="SEND"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p class="">Vamos retornar para você o mais brevemente possível. Caso precise de um retorno imediato, ligue para 11 3034-0775.</p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div></div><div class="sqs-block map-block sqs-block-map sized vsize-12" data-block-json="&#123;&quot;vSize&quot;:12,&quot;controls&quot;:false,&quot;labels&quot;:true,&quot;terrain&quot;:false,&quot;style&quot;:5,&quot;location&quot;:&#123;&quot;mapZoom&quot;:12.0,&quot;mapLat&quot;:-23.5595225,&quot;mapLng&quot;:-46.682814199999996,&quot;markerLat&quot;:-23.5595225,&quot;markerLng&quot;:-46.682814199999996,&quot;addressTitle&quot;:&quot;Ilumeo Brasil&quot;,&quot;addressLine1&quot;:&quot;653 Rua Francisco Leit\u00E3o&quot;,&quot;addressLine2&quot;:&quot;S\u00E3o Paulo, SP, 05414-025&quot;,&quot;addressCountry&quot;:&quot;Brazil&quot;&#125;&#125;" data-block-type="4" id="block-0d97c3f80ae539eb4cd0"><div class="sqs-block-content">&nbsp;</div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="26.527050610820247" data-block-type="5" id="block-e5c70ff5e17c3cdcf44f"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1920px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:26.527050018310547%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1519099154397-NA0IKL1OLPSY5RUID3RH/Ilumeo+logo+ilumeo.com.br" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1519099154397-NA0IKL1OLPSY5RUID3RH/Ilumeo+logo+ilumeo.com.br" data-image="https://images.squarespace-cdn.com/content/v1/5a2a067e8dd04151f6e8250d/1519099154397-NA0IKL1OLPSY5RUID3RH/Ilumeo+logo+ilumeo.com.br" data-image-dimensions="1920x452" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61e1c021b666015792d8721c" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-7 span-7"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-accbbca851a4a3e043ee"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Email: contato@ilumeo.com.br</p><p class="" style="white-space:pre-wrap;">Commercial Phone Number: +55 11 94536-0781 </p><p class="" style="white-space:pre-wrap;">Administrative Phone Number: +55 11 96313-5935</p><p class="" style="white-space:pre-wrap;">Address: <a href="https://goo.gl/maps/DPQtVquPpXK2" target="_blank">Rua Francisco Leitão, 653 - cj 51/61</a>/72</p><p class="" style="white-space:pre-wrap;">São Paulo - Brazil</p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-7723f4585d363932df31"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+
+        
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container empty" data-layout-label="Footer Bottom Blocks" data-type="block-field" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+  </div>
+
+</footer>
+
+      
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <meta name="d4sign-domain-verification"
+content="4c4e1424-8e37-4212-b76e-d3997d8c74e4"><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+  </body>
+</html>

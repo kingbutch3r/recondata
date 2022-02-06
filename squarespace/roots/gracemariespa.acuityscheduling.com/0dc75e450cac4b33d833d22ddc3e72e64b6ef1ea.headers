@@ -1,0 +1,17 @@
+GET https://gracemariespa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:55:40 GMT
+< Set-Cookie: PHPSESSID=fs74rj9qdve5dmbf3rqv2a37ml; expires=Thu, 03-Mar-2022 23:55:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1ed1bdbf-2e30-4ee4-a329-35f239e7719d; expires=Thu, 01-Feb-2024 23:55:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Content-Length: 0
+< Location: /schedule.php

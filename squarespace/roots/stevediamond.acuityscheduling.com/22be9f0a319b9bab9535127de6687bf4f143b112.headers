@@ -1,0 +1,17 @@
+GET https://stevediamond.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=n1orvtj9d7ne1g9ad0n5c75og2; expires=Fri, 04-Mar-2022 00:00:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1a2efbd1-f251-4562-9b8f-16ff50cdab7d; expires=Fri, 02-Feb-2024 00:00:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:00:15 GMT
+< Content-Length: 0
+< X-Content-Type-Options: nosniff

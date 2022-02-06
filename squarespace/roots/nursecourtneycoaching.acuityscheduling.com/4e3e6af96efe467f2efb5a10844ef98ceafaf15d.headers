@@ -1,0 +1,15 @@
+GET https://nursecourtneycoaching.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=b9sbtkes9ujq24r4revkrbup30; expires=Fri, 04-Mar-2022 00:10:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b1228096-877d-4690-a766-6e963b5f750c; expires=Fri, 02-Feb-2024 00:10:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:10:15 GMT
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,17 @@
+GET https://increditableadvisorsllc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:58:14 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=ltqt0r7u7jmnn1dlfefjsgnre6; expires=Thu, 03-Mar-2022 23:58:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7dadd513-49de-4c1c-9398-84f92eabe6bb; expires=Thu, 01-Feb-2024 23:58:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent

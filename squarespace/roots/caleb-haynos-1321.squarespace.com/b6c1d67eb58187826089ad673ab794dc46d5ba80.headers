@@ -1,0 +1,11 @@
+GET http://caleb-haynos-1321.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BW09QHgmmS2TYjFiOGMzMDA1YjU1MTM3ZTgxMjYzMzY5ZTAwYWVl;Path=/
+< X-Contextid: ZXF8TBun/m2Nc0orS
+< Age: 116114
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 16:58:09 GMT
+< Location: https://caleb-haynos-1321.squarespace.com/
+< Server: Squarespace

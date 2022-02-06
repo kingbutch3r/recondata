@@ -1,0 +1,17 @@
+GET https://www.curbside.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=pj8r3c582jfc4rfcnd1s2kgrff; expires=Fri, 04-Mar-2022 00:02:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f50e4092-063b-44f1-b809-416cdab3a859; expires=Fri, 02-Feb-2024 00:02:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:02:02 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

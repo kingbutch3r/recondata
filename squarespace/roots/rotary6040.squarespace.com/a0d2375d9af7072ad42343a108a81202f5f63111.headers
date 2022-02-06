@@ -1,0 +1,10 @@
+GET http://rotary6040.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:50:14 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbAunhh2AfW3ZDQxMWU5ZWZiMTAwOGVkNTU5NTgzNzg0ZjMxNGYx;Path=/
+< X-Contextid: wK7iPu6a/Duzexk4a
+< Age: 0
+< Content-Type: text/html;charset=utf-8

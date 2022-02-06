@@ -1,0 +1,15 @@
+GET https://jsakcapital.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=cmudjbvcpc2uosb8h34umtrdqs; expires=Fri, 04-Mar-2022 00:54:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f177c435-ee5c-402c-87f7-bb380648a046; expires=Fri, 02-Feb-2024 00:54:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:54:41 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent

@@ -1,0 +1,11 @@
+GET http://david-perez-rm30.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:52:21 GMT
+< Location: https://david-perez-rm30.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcSS1/gFIaYRNTIyMzQ2MmYxOTZmNDE4OTIyMGNmMWY3ZTk5MjU2;Path=/
+< X-Contextid: xUhzTI5C/QZOpdsrE
+< Content-Length: 0
+< Age: 0

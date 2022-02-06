@@ -1,0 +1,11 @@
+GET http://companypolicy200.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=Bby/MaeWIOKEMTA3YWJhMGJiNzcyMzg2NzU1Yjc1YzlmNmM5Yjg5;Path=/
+< X-Contextid: IndzDYit/hrnD6X6D
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:07:05 GMT
+< Location: https://companypolicy200.squarespace.com/
+< Server: Squarespace

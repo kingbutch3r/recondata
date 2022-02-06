@@ -1,0 +1,11 @@
+GET http://reindeer-mouse-e49m.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 13:43:16 GMT
+< Location: https://reindeer-mouse-e49m.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bcg07ZcF6ewiMzc4OTliM2YxNGNjNTFmMmI0MTQ1YjY0MmY2YTlk;Path=/
+< X-Contextid: GaPktzMF/oHxjAWYQ
+< Age: 385580

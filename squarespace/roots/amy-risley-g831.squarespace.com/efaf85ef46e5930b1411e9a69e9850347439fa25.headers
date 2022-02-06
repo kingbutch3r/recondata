@@ -1,0 +1,11 @@
+GET http://amy-risley-g831.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:13:44 GMT
+< Location: https://amy-risley-g831.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bdo4bz4mjk4OZmVhMWIxNGZlNzM2ZDI2OGM2ZTdhNTk1ZjMwOGY1;Path=/
+< X-Contextid: s5dO7JSo/rzloDFqv

@@ -1,0 +1,13 @@
+GET https://allie-martin-y4a2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: v8Qba6Uz/zGMyfHGh
+< Date: Wed, 02 Feb 2022 01:18:52 GMT
+< Set-Cookie: crumb=Bd1oAdd54g6oMDdmNzMyNzg4NGZmMjIyOTc2Mjk3ZDNlMWRkZDMw;Path=/
+< Strict-Transport-Security: max-age=43200

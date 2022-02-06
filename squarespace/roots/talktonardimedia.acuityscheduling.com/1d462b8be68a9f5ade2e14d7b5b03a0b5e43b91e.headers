@@ -1,0 +1,15 @@
+GET https://talktonardimedia.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=biu6dcav8o99v8nrqrq5kqflgq; expires=Thu, 03-Mar-2022 23:54:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=40385935-a398-4cb8-aac0-8943f9e5d087; expires=Thu, 01-Feb-2024 23:54:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Date: Tue, 01 Feb 2022 23:54:17 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

@@ -1,0 +1,17 @@
+GET https://marawaibodymindcoaching.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=uu39tnemnpta55b1baj9m7a18d; expires=Fri, 04-Mar-2022 00:09:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=53d9a996-6483-4e8e-a48f-0a251f788627; expires=Fri, 02-Feb-2024 00:09:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:09:24 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

@@ -1,0 +1,14 @@
+GET https://roberto-conte-98d1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BfKc+0pavHeSOTFhODg3MDg2ZjdmY2JkMTRhOGY0OGI4ODFiYjgz;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: nXA4GbYa/bnL29oge
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:14:47 GMT

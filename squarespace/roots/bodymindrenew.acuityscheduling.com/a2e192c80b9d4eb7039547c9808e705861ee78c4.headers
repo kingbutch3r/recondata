@@ -1,0 +1,15 @@
+GET https://bodymindrenew.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:44:12 GMT
+< Set-Cookie: PHPSESSID=jrh8c6j61bpdhen303k6soq3d4; expires=Fri, 04-Mar-2022 00:44:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2f40cbf0-674b-411e-ad67-8ad9c83a7288; expires=Fri, 02-Feb-2024 00:44:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache

@@ -1,0 +1,17 @@
+GET https://reindeer-mouse-e49m.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BXRN4FZD+lT7OWEyY2EzYzFiZTVhMGFjMGY1ODM4YzRiZjJmNmIz;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: ODqw8dDi/uYDbCWsZ
+< Accept-Ranges: bytes
+< Age: 559391
+< Date: Wed, 26 Jan 2022 13:26:28 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=43200
+< Etag: W/"771cf916431dcf514067fa02c92fa9cc--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Frame-Options: SAMEORIGIN

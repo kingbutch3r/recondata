@@ -1,0 +1,17 @@
+GET https://vickigarcia.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:16 GMT
+< Set-Cookie: PHPSESSID=alfcc6seri9ei6b1olf2km845c; expires=Thu, 03-Mar-2022 23:54:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fe5fe279-0798-42d1-8364-5e4e5190d6fa; expires=Thu, 01-Feb-2024 23:54:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

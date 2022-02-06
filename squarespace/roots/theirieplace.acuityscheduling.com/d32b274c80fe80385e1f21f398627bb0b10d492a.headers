@@ -1,0 +1,15 @@
+GET https://theirieplace.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:01:02 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=7t76dr8cevvu45p4p4ore04nit; expires=Fri, 04-Mar-2022 00:01:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=eda23829-b4ce-47eb-b635-f3509ff2b23f; expires=Fri, 02-Feb-2024 00:01:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

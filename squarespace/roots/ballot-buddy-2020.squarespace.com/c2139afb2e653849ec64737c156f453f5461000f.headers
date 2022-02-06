@@ -1,0 +1,11 @@
+GET http://ballot-buddy-2020.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: fkjWt9gW/30EuoqNS
+< Age: 448298
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 20:18:04 GMT
+< Location: https://ballot-buddy-2020.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcauWKMPRd0TOWQ3ZjgyMDg2MTJjMjRkNjBkMWI5MzAwYjA1Yzg0;Path=/

@@ -1,0 +1,17 @@
+GET https://thebusinessofhelping.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:11:43 GMT
+< Set-Cookie: PHPSESSID=8f1abtvavkl1t05k4l5c1nh2cq; expires=Fri, 04-Mar-2022 00:11:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ac0e5d44-c13f-4575-a7aa-7bfec192052a; expires=Fri, 02-Feb-2024 00:11:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< Vary: User-Agent
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

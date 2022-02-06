@@ -1,0 +1,12 @@
+GET https://shrut11.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Date: Wed, 02 Feb 2022 01:13:20 UTC
+< X-Contextid: MbnmhkGA/403rjpsI
+< Cache-Control: no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Server: Squarespace
+< Content-Length: 77576

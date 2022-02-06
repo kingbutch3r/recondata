@@ -1,0 +1,17 @@
+GET https://adarlow60.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:52:54 GMT
+< Set-Cookie: PHPSESSID=ooo3u8lt6jarsivbm5924dn19e; expires=Thu, 03-Mar-2022 23:52:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2a945e0d-08c3-4656-8c41-5a01a7dbb86a; expires=Thu, 01-Feb-2024 23:52:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"

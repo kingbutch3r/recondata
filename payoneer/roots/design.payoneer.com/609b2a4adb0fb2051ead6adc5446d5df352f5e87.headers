@@ -1,0 +1,19 @@
+GET https://design.payoneer.com
+
+
+< HTTP/1.1 307 Temporary Redirect
+< Location: https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fdesign.payoneer.com%2F
+< Cf-Ray: 6d6ef203496185b4-BOM
+< Cf-Cache-Status: DYNAMIC
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< X-Content-Type-Options: nosniff
+< X-Envoy-Upstream-Service-Time: 0
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Date: Tue, 01 Feb 2022 23:26:33 GMT
+< Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+< Medium-Fulfilled-By: edgy/8.2.0, valencia/main-20220201-223741-950139b2ac
+< Vary: Accept-Encoding
+< Set-Cookie: __cfruid=265838c31735493055ec3013cc942b380a86a22c-1643757993; path=/; domain=.design.payoneer.com; HttpOnly; Secure; SameSite=None
+< Content-Type: text/html; charset=utf-8

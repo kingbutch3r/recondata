@@ -1,0 +1,16 @@
+GET https://blueberry-fiddle-ljdm.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Age: 24612
+< Date: Tue, 01 Feb 2022 18:05:07 GMT
+< Etag: W/"e3a08860646c7831e6216656e411f3ba--gzip"
+< Vary: Accept-Encoding
+< X-Contextid: EcGTYurS/9cFzjhs7
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BcMiymp6IO6AOTZkZmUzMTE1YWIxMWFmODUwYzk3OGI0ZjU2NWZi;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes

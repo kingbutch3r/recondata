@@ -1,0 +1,11 @@
+GET https://bird-groundhog-tc92.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:18:44 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQkuP7a5+7smOGIwMzcwNzI2ZWZlODM3MjNlNDQ0YTNkZmZhMjgz;Path=/
+< X-Contextid: Ta231HcP/1X77F7Aq

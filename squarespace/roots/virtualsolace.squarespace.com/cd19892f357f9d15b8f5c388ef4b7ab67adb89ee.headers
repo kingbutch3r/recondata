@@ -1,0 +1,16 @@
+GET https://virtualsolace.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 01:02:34 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQ7i5pUHqE9qNWMxNTliZmFiYWNjYTNjZjg2YWIwZGI1OWVjN2Fm;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 87721
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Etag: W/"6ca509c509af1542a6748703fa394d2f--gzip"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: RvpRytSm/DwvQtB60

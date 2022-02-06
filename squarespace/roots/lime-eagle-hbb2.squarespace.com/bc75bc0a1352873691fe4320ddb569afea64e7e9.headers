@@ -1,0 +1,16 @@
+GET https://lime-eagle-hbb2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Thu, 27 Jan 2022 18:04:05 GMT
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Age: 458115
+< Etag: W/"b13c5bd0c6861d3bd2bf25b6d72812ac"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: m1VKKA2u/MVCQJZUN
+< Set-Cookie: crumb=BTO6/q9R3TQZNWQzNjAxNjk2MjNmYTM5NDUwNDE0ODI0OGJmYjRl;Path=/
+< X-Content-Type-Options: nosniff

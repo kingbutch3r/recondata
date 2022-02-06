@@ -1,0 +1,17 @@
+GET https://disabilitysupportadvocates.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:33:17 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=d2sah0b18d54n0g2b6n85vo3j5; expires=Fri, 04-Mar-2022 00:33:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6212a79b-61cd-4e26-bb9e-527f32ac2929; expires=Fri, 02-Feb-2024 00:33:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Pragma: no-cache

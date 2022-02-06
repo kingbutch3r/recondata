@@ -1,0 +1,11 @@
+GET http://urbodyaustralia.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BektZkCJJz5IOGQ4MzE3M2U4NjAxZDVmZGY4Njg5MTc1MDlkNTEw;Path=/
+< X-Contextid: YiNqrrrM/uH0PR9EA
+< Age: 237109
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 07:04:00 GMT
+< Location: https://urbodyaustralia.squarespace.com/

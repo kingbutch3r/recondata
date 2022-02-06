@@ -1,0 +1,17 @@
+GET https://wolfson.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:23:49 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=slce5i4md06tt3qvcga9u77rmd; expires=Fri, 04-Mar-2022 00:23:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0332bcce-c436-4210-9074-fe0bd3934072; expires=Fri, 02-Feb-2024 00:23:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

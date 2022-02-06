@@ -1,0 +1,15 @@
+GET https://goyoga.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=2ok7aojeq6o6q72a614ttr0c2k; expires=Thu, 03-Mar-2022 23:54:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5738b97d-92e7-4443-b139-09dde0cfb7c4; expires=Thu, 01-Feb-2024 23:54:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:06 GMT

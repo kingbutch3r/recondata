@@ -1,0 +1,17 @@
+GET https://marcobrien.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:20:57 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=46eom6245ojo0epfgrd3e4ca3m; expires=Fri, 04-Mar-2022 00:20:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=97c6bdd4-bbea-4172-af68-f3268f9a0423; expires=Fri, 02-Feb-2024 00:20:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

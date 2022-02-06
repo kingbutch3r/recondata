@@ -1,0 +1,13 @@
+GET http://delivery.squarespace.net
+
+
+< HTTP/1.1 307 Temporary Redirect
+< Cache-Control: no-cache, no-store, must-revalidate, private, max-age=0
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Location: https://delivery.squarespace.net/
+< X-Accel-Expires: 0
+< Via: 1.1 google
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:49:28 GMT
+< Content-Length: 69

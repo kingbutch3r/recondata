@@ -1,0 +1,13 @@
+GET http://sparrow-haddock-hm8c.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Date: Wed, 02 Feb 2022 01:23:19 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bb9qxOnWifWKZjU5NDIyZDVmZWE5OTFiMDZiYzQ4ZmRjNWNiOWU1;Path=/
+< X-Contextid: o8PlOSHu/OIMWdwbs
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN

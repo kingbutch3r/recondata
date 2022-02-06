@@ -1,0 +1,11 @@
+GET http://toftoy.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://toftoy.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXWgWmNtjwT8NmEzNTdjZDkzNmFlOThhZDgyNDA5YWM2Y2M4OGU4;Path=/
+< X-Contextid: MNvJf9bP/TOSI9iEe
+< Age: 288949
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 16:40:35 GMT

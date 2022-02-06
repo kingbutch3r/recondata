@@ -1,0 +1,11 @@
+GET http://jmyerscho0610.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://jmyerscho0610.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BT/jb1rnJ50JZjZmYWNiNjUzZTgxMDJjMDdjYmIzYjNlOGVjZmVj;Path=/
+< X-Contextid: uiXs7IQB/eqLZhg9H
+< Age: 215039
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 12:06:21 GMT

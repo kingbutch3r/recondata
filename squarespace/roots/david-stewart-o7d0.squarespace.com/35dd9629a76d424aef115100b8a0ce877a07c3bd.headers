@@ -1,0 +1,11 @@
+GET http://david-stewart-o7d0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BRYZNQ5FbdgrNDcwM2MwNmY5Y2Y5N2ZjNzg5YTBkNDZlZjUyNmU5;Path=/
+< X-Contextid: h8JCZdm3/RF2PppEe
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:11:52 GMT
+< Location: https://david-stewart-o7d0.squarespace.com/

@@ -1,0 +1,13 @@
+GET https://distinctlydanni.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BWFOof5XbvR7ZjNhNTlkZjA3ZWVjYWU4MzRlOWRhNDJiY2VlMDk1;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: l90ldenp/R6wA3but
+< Date: Wed, 02 Feb 2022 01:06:38 GMT
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0

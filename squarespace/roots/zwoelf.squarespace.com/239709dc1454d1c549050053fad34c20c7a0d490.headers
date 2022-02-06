@@ -1,0 +1,10 @@
+GET https://zwoelf.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:01:34 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSBKyXeBANGYZGNmMGEzMmM3YzAxMDM4Yjc2MjQ4ODBiMGY0MDg2;Path=/
+< X-Contextid: BIzZb5qY/IYaUnKds
+< Age: 0
+< Content-Type: text/html;charset=utf-8

@@ -1,0 +1,14 @@
+GET https://ricensus2020.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: i9I0wqdp/nfGfJVrP
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:45 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BX971OU5XoSfNTk5ZjlhYjY0N2UxYjRiMjQ4YTE3MDA5NmEwODFl;Path=/

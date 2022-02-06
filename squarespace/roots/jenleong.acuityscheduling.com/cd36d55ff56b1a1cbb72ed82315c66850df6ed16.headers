@@ -1,0 +1,17 @@
+GET https://jenleong.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:12:56 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=il5uskbhau0aj71cgqoo11na6l; expires=Fri, 04-Mar-2022 00:12:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=997e86f4-727c-4ec5-9a76-601dbbaf4c6f; expires=Fri, 02-Feb-2024 00:12:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent

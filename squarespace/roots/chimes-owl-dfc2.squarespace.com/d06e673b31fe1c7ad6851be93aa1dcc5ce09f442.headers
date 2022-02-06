@@ -1,0 +1,11 @@
+GET http://chimes-owl-dfc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Fri, 28 Jan 2022 05:14:27 GMT
+< Location: https://chimes-owl-dfc2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQ2ACcR0inSoYzZlNDAzY2ZjYTQ5MmVjMmViODE0MmQyOTY4MTky;Path=/
+< X-Contextid: WGxXQvIl/x4JgQFDZ
+< Age: 417902
+< Content-Length: 0

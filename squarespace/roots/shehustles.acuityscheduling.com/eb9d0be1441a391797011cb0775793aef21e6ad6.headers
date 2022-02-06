@@ -1,0 +1,15 @@
+GET https://shehustles.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:32:56 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=bjp3u91uf14jj0m8iug5hffjlu; expires=Fri, 04-Mar-2022 00:32:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b18f6049-6045-40b7-997a-1c3c0ce42fc6; expires=Fri, 02-Feb-2024 00:32:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate

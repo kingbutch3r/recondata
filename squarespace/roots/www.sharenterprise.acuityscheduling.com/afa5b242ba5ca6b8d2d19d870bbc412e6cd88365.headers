@@ -1,0 +1,17 @@
+GET https://www.sharenterprise.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:07:06 GMT
+< Set-Cookie: PHPSESSID=3gj7dbncldck1qt3ap54qequm0; expires=Fri, 04-Mar-2022 00:07:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c3fa9343-07c3-4c70-9150-9a55d59e7b88; expires=Fri, 02-Feb-2024 00:07:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate

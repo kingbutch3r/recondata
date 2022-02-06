@@ -1,0 +1,17 @@
+GET https://livsulerud.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:00:51 GMT
+< Set-Cookie: PHPSESSID=ig9ok9rdcqkof19udpka2dt7r7; expires=Fri, 04-Mar-2022 00:00:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=42e13c66-9862-4385-b2bc-cf605f5884cc; expires=Fri, 02-Feb-2024 00:00:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php

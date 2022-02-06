@@ -1,0 +1,15 @@
+GET https://globalnomad.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:59:02 GMT
+< Set-Cookie: PHPSESSID=9848d1msti80g69dvtoluv060f; expires=Thu, 03-Mar-2022 23:59:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d29a6720-3926-4f6d-9b54-1c0632f57a88; expires=Thu, 01-Feb-2024 23:59:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

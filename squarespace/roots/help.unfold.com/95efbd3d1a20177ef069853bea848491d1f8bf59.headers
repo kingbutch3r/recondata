@@ -1,0 +1,32 @@
+GET https://help.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 92
+< X-Xss-Protection: 1; mode=block
+< Zendesk-Ep: 10
+< Set-Cookie: _zendesk_shared_session=-MytpUitKU0tQSW9GOHVNMVFxdCtLbmZFc2pLNHpSQUV4cStPRnZsdjQ4U292YjJ2OStTUWRMd0YwZm1hOWlzOHZXTzBVRjJIRXg2VUsvdDlVRkgyckNvZ055VjZqRktpNm9Sc0lLNFFDbStWR0htNGNmOWMxdWlzbjNHcmJoMUppcUpaK0piTHRxZUJaRkVHUEV5NWxRPT0tLXhKdWYrc2UwVnlXbGxlelZWbWxOZnc9PQ%3D%3D--dc702d2eeb47aa3f600d66703ba769bf2584e22f; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_authenticated=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJWE0YTgyODg0OGUxZDNiZTY5NTU5YTA3MTllZDhmNzA2BjsAVEkiDGFjY291bnQGOwBGaQPHDAlJIgpyb3V0ZQY7AEZpA4RKMUkiDmlzX21vYmlsZQY7AFRGSSITd2FyZGVuLm1lc3NhZ2UGOwBUewA%3D--9a53729b1593a6588dc45cb2c954b81afbe47e42; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: __cfruid=170f9c7eb8e3d2977acda4ce2dc4583aba4ee166-1643762978; path=/; domain=.help.unfold.com; HttpOnly; Secure; SameSite=None
+< Strict-Transport-Security: max-age=259200;
+< Cache-Control: no-cache
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=UMAu2TBfnKautckdQWrsOdZQp89dbDfxLTBFFSEc20BPVy3BEpQ3A8%2F559RBxqqJLFdsm39GGvBslFngTwHLsdYovyBKqzKxwO6XBapfDtFJsixjTjVVSdhSwKrIVNyTOA%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Date: Wed, 02 Feb 2022 00:49:38 GMT
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< Location: https://help.unfold.com/hc
+< X-Zendesk-Origin-Server: classic-app-server-66bdf8fd94-lj5jl
+< X-Request-Id: 6d6f6bb33f5885d1-SEA
+< X-Request-Id: 6d6f6bb33f5885d1-SEA
+< X-Content-Type-Options: nosniff
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Vary: Accept
+< Content-Security-Policy: frame-ancestors 'self' 5help.squarespace.com support.squarespace.com help.unfold.com;
+< X-Zendesk-Zorg: yes
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Cf-Ray: 6d6f6bb33f5885d1-BOM
+< Zendesk-Api-Version: 2022-01-01
+< X-Runtime: 0.105141
+< Server: cloudflare
+< Content-Type: text/html; charset=UTF-8

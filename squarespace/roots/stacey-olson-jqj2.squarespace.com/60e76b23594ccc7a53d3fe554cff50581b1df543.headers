@@ -1,0 +1,16 @@
+GET http://stacey-olson-jqj2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Last-Modified: Thu, 27 Jan 2022 23:10:52 GMT
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BR4oolw5mwyyZTA4M2RkZGQ2NmU5YjY1ZjhhODMwOTY2YmZmOGM2;Path=/
+< Accept-Ranges: bytes
+< Age: 439826
+< Content-Type: text/html;charset=utf-8
+< Date: Thu, 27 Jan 2022 23:10:52 GMT
+< Etag: W/"8dfdc8805b612843285bf715299b796e"
+< Server: Squarespace
+< X-Contextid: J9vstdM8/6LxJPXjd

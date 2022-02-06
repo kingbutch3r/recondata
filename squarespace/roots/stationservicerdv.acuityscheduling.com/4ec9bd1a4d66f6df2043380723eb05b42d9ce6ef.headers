@@ -1,0 +1,17 @@
+GET https://stationservicerdv.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:43:50 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=48l9prj44q6ktvgk2c6osu9se3; expires=Fri, 04-Mar-2022 00:43:49 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7345aa56-1b2d-46c4-9d76-3487f0b5a003; expires=Fri, 02-Feb-2024 00:43:50 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

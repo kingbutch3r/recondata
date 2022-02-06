@@ -1,0 +1,17 @@
+GET https://greatpeoplegreatplanet.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:40:37 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=s8litmuim32li0ju6jb0ueithe; expires=Fri, 04-Mar-2022 00:40:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a38a91da-b5e1-488e-b31c-183bccf86dec; expires=Fri, 02-Feb-2024 00:40:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

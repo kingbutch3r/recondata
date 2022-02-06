@@ -1,0 +1,15 @@
+GET https://markdavian.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=s730let6f2frpkf1h6qsi8pmle; expires=Fri, 04-Mar-2022 00:20:10 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ac724e5b-3f09-47c1-9b04-4b6363b2a9d7; expires=Fri, 02-Feb-2024 00:20:11 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:20:11 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

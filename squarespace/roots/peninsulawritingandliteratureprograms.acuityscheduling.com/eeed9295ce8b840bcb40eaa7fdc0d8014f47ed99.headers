@@ -1,0 +1,15 @@
+GET https://peninsulawritingandliteratureprograms.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:35:05 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=e7jg40h6896pgfrm2hm3dk0nkc; expires=Fri, 04-Mar-2022 00:35:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0947f18f-14b1-4097-b669-52cee6dd752d; expires=Fri, 02-Feb-2024 00:35:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

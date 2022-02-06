@@ -1,0 +1,12 @@
+GET http://www.patrick-aloia-y532.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Date: Wed, 02 Feb 2022 01:16:57 UTC
+< Server: Squarespace
+< X-Contextid: 3bIrbBmC/Cyc9tk8P
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Cache-Control: no-cache, must-revalidate

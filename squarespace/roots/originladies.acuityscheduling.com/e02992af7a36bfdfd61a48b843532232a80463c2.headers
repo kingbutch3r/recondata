@@ -1,0 +1,15 @@
+GET https://originladies.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=0uagch9513k5467vvt8oal4a7v; expires=Fri, 04-Mar-2022 00:32:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=66795b98-c936-42c9-8c6d-8a84e4d3fd59; expires=Fri, 02-Feb-2024 00:32:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:32:37 GMT
+< Content-Type: text/html; charset=UTF-8

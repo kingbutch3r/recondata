@@ -1,0 +1,15 @@
+GET https://lighthouselands.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:31:49 GMT
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=bp7qq50av2lpnjm38a5ig0jkv4; expires=Fri, 04-Mar-2022 00:31:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a162ff5d-0341-4ddf-aaf0-5b30cb1c121e; expires=Fri, 02-Feb-2024 00:31:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent

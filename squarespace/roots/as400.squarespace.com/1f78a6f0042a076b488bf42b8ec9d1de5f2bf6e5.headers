@@ -1,0 +1,10 @@
+GET https://as400.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BSf//pSM7pWkYzhjYWJjMzdkYjZkMDk2MGU4NjI1Y2NkNGIwOTM3;Path=/
+< X-Contextid: h1YIBEpE/IA3mzbuq
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:59:08 GMT
+< Server: Squarespace

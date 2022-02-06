@@ -1,0 +1,15 @@
+GET https://justbringmeleads.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:31:41 GMT
+< Set-Cookie: PHPSESSID=dlt1se9408hed321hh4d2vemg6; expires=Fri, 04-Mar-2022 00:31:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9afe2c9c-b7ec-4bc9-82cb-a3e22a7b7281; expires=Fri, 02-Feb-2024 00:31:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff

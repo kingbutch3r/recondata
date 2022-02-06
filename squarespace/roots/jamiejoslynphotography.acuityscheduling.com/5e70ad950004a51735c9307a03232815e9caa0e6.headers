@@ -1,0 +1,17 @@
+GET https://jamiejoslynphotography.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:46:37 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=a420g7ao0ahqks7f7jggc97eii; expires=Fri, 04-Mar-2022 00:46:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=32b0fc59-44c2-4c8f-b539-91aae601d1c9; expires=Fri, 02-Feb-2024 00:46:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

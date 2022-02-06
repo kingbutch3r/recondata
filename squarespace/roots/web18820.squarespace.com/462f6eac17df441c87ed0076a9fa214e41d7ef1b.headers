@@ -1,0 +1,12 @@
+GET http://web18820.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:59:30 UTC
+< Pragma: no-cache
+< Server: Squarespace
+< X-Contextid: Jnqnl7jq/e7Lju9Gl
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC

@@ -1,0 +1,10 @@
+GET http://fdcapplicationapi.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://fdcapplicationapi.payoneer.com/
+< Content-Length: 236
+< Date: Tue, 01 Feb 2022 23:26:30 GMT
+< Cache-Control: private

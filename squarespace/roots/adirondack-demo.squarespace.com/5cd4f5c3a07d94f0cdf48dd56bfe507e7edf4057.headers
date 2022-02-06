@@ -1,0 +1,11 @@
+GET http://adirondack-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: XBJKq1LM/ldFgz4m6
+< Age: 537347
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 19:39:35 GMT
+< Location: https://adirondack-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZyohtJGrXe4OTFmMmQxODFhNTk2YWQwMjNlN2RkMTNlZjM1MjI1;Path=/

@@ -1,0 +1,17 @@
+GET https://hounddogdigital.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:17:07 GMT
+< Set-Cookie: PHPSESSID=f7iv31bir0j7t4ooehfpe0k860; expires=Fri, 04-Mar-2022 00:17:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4771d4fa-590e-4ceb-bccf-76459312c88b; expires=Fri, 02-Feb-2024 00:17:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0

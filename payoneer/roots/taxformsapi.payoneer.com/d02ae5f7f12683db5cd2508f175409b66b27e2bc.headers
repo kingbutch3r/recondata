@@ -1,0 +1,10 @@
+GET http://taxformsapi.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://taxformsapi.payoneer.com/
+< Content-Length: 230
+< Date: Tue, 01 Feb 2022 23:26:31 GMT

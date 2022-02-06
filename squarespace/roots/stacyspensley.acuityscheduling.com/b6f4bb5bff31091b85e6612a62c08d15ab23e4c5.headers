@@ -1,0 +1,17 @@
+GET https://stacyspensley.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:45:41 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=ledpv5dua5ed0i3cnrhts55e5f; expires=Fri, 04-Mar-2022 00:45:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6cbe5c85-8765-4f07-8c17-471b061d0bbd; expires=Fri, 02-Feb-2024 00:45:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Length: 0

@@ -1,0 +1,16 @@
+GET http://daniel-kelly-cmv0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BSbbzM80k1RoYjBmYTE1N2IxODI4OGY2NDhjOGNlYTY3MzQyOWFk;Path=/
+< Vary: Accept-Encoding
+< Server: Squarespace
+< Etag: W/"4cb923ddbc223b9eeca02b9ba3e276d4--gzip"
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 00:45:05 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: bdiQA004/TVzKkram
+< Age: 86706
+< Cache-Control: max-age=172800, s-maxage=172800
+< Accept-Ranges: bytes

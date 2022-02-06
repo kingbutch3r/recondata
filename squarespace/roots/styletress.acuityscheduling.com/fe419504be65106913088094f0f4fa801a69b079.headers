@@ -1,0 +1,17 @@
+GET https://styletress.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:38:51 GMT
+< Set-Cookie: PHPSESSID=0po03d68a4cjt958v45qubv57g; expires=Fri, 04-Mar-2022 00:38:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=92867abc-d38d-430c-9b47-ec2697431270; expires=Fri, 02-Feb-2024 00:38:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

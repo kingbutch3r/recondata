@@ -1,0 +1,17 @@
+GET https://je411.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=7cn35gu5jiab1tejlbabm6p9sf; expires=Thu, 03-Mar-2022 23:52:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5654397d-7251-4508-bcbd-85191e389c64; expires=Thu, 01-Feb-2024 23:52:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:52:57 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,17 @@
+GET https://staceyherrera.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=gerj7pgp3er784n8thbe1874h7; expires=Thu, 03-Mar-2022 23:55:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fb1d262b-5674-45d8-b518-23a56926d82a; expires=Thu, 01-Feb-2024 23:55:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:55:49 GMT
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

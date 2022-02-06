@@ -1,0 +1,17 @@
+GET https://alternativehealthmarketing.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:09:28 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=85t4hlr7sous56uuo6vfn0tluk; expires=Fri, 04-Mar-2022 01:09:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=74ef497b-5139-46cf-816c-ae70dc7151b8; expires=Fri, 02-Feb-2024 01:09:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent

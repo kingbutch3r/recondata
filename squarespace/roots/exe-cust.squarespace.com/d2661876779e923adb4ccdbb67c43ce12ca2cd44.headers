@@ -1,0 +1,12 @@
+GET http://exe-cust.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Date: Wed, 02 Feb 2022 00:57:23 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Server: Squarespace
+< X-Contextid: a7cEFy8c/5dg0lBqT
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8

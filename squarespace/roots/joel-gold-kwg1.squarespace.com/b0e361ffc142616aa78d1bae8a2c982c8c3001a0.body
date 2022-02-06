@@ -1,0 +1,790 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- This is Squarespace. --><!-- joel-gold-kwg1 -->
+<base href="">
+<meta charset="utf-8" />
+<title>Joel Gold, MD</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="http://www.joelgold.md"/>
+<meta property="og:site_name" content="Joel Gold, MD"/>
+<meta property="og:title" content="Joel Gold, MD"/>
+<meta property="og:url" content="http://www.joelgold.md"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Joel Gold, MD"/>
+<meta itemprop="url" content="http://www.joelgold.md"/>
+<meta name="twitter:title" content="Joel Gold, MD"/>
+<meta name="twitter:url" content="http://www.joelgold.md"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/8KopgwEsfHt8cIpGmU6alcVAozSA2Bk6A4ScwHTeSHjfelXgfFHN4UJLFRbh52jhWD9DjAjUZQMXZQsKw2Ik5AjXZQiKwQZ8ZyTdiaiaOcTzZAU1dhUqOcuqOeTzZAU1dhUqOcuqOeTzZA3lZhNCZfunihSUO1FUiABkZWF3jAF8OcFzdP37OcTzZA3lZhNCZfunihSUO1FUiABkZWF3jAF8OcFzdPJwSY4zpe8ljPu0daZyH6qJtKGbMg62JMJ7fbKzMsMMeMb6MKG4fHXgIMMjgKMfH6qJK3IbMg6YJMJ7fbRRHyMMeMX6MKG4fHtgIMMjIfMfH6qJRMIbMg6sJMJ.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Varela+Round:ital,wght@0,;0,400;0,700;1,;1,400;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"53af1e04e4b0129f4e7b16ef","identifier":"joel-gold-kwg1","websiteType":1,"contentModifiedOn":1553617752637,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Joel Gold, MD","fullSiteTitle":"Joel Gold, MD","siteDescription":"","location":{"mapZoom":12.0,"mapLat":40.7127837,"mapLng":-74.00594130000002,"markerLat":40.7127837,"markerLng":-74.00594130000002,"addressTitle":"","addressLine1":"Psychiatrist","addressLine2":"New York City","addressCountry":""},"shareButtonOptions":{"2":true,"4":true,"1":true,"6":true,"8":true,"7":true,"3":true},"authenticUrl":"http://www.joelgold.md","internalUrl":"http://joel-gold-kwg1.squarespace.com","baseUrl":"http://www.joelgold.md","primaryDomain":"www.joelgold.md","typekitId":"","statsMigrated":false,"showOwnerLogin":false},"websiteSettings":{"id":"53af1e04e4b0129f4e7b16f0","websiteId":"53af1e04e4b0129f4e7b16ef","type":"Business","subjects":[{"systemSubject":"health"}],"country":"CA","simpleLikingEnabled":true,"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"(646) 245-1056","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect","color":"white"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Joel Gold, MD","id":"53af1e9ce4b0c19cb475f4db","fullUrl":"/","publicCommentCount":0,"type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"outerPadding":"100px","pagePadding":"60px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","topPadding":"80px"},"templateId":"50749216e4b0933ed3da0a8d","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/","betaFeatureFlags":["startup_checklist","commerce_clearpay","campaigns_banner_reduce_size","commerce_category_id_discounts_enabled","campaigns_show_apply_website_styles_button","commerce_onboarding_tools_screen_test","campaigns_section_reorder_arrows","commerce_restock_notifications","commerce_afterpay_pdp","commerce_product_branching","member_areas_schedule_interview","commerce_etsy_product_import","commerce_activation_experiment_add_payment_processor_card","campaigns_thumbnail_layout","background_art_onboarding","scheduling_block_schema_editor","member_areas_pricing_options_discounts","commerce_product_composer_ab_test_all_users","google_analytics_4_gtag_js","commerce_product_review_etsy_import","commerce_site_visitor_metrics","nested_categories_migration_enabled","category-delete-product-service-enabled","reduce_general_search_api_traffic","viewer-role-contributor-invites","member_areas_spanish_interviews","product_composer_feedback_form_on_save","commerce_product_review_import_ga","customer_account_creation_recaptcha","campaigns_hide_deleted_automations_panel","commerce_etsy_shipping_import","commerce_pdp_layouts_ga","campaigns_global_uc_ab","campaigns_new_subscriber_search","campaigns_audience_card","campaigns_blog_product_image_editor"],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://www.joelgold.md","name":"Joel Gold, MD","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"Psychiatrist\nNew York City","email":"joel.gold@nyumc.org","telephone":"(646) 245-1056","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"Psychiatrist\nNew York City","name":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/53af1e04e4b0129f4e7b16ef/27/50749216e4b0933ed3da0a8d/53af1e04e4b0129f4e7b16f3/681-05142015/1404416838914/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  <script src="https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/core-0.2.0.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/combo/?dynamic-data.js&site.js"></script>
+  
+</head>
+
+<body class="show-products-category-navigation  page-borders-thick canvas-style-masthead-logo-left  header-subtitle-address banner-alignment-center blog-layout-right-sidebar project-layout-left-sidebar thumbnails-on-open-page-show-all social-icon-style-round  hide-info-footer     hide-article-author product-list-titles-under product-list-alignment-center product-item-size-43-four-thirds product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link      opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-53af1e9ce4b0c19cb475f4db collection-type-page collection-layout-default homepage mobile-style-available site-title" id="collection-53af1e9ce4b0c19cb475f4db">
+
+  <div id="canvas">
+
+    <div id="mobileNav" class="">
+      <div class="wrapper">
+        <nav class="main-nav mobileNav"><ul>
+  
+
+        
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.nytimes.com/2008/08/28/fashion/28truman.html?fta=y&_r=0">The New York Times</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.newyorker.com/reporting/2013/09/16/130916fa_fact_marantz?mobify=0">The New Yorker</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.psmag.com/navigation/books-and-culture/caught-trap-culture-make-us-crazy-85191/" target="_blank">Pacific Standard</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.theglobeandmail.com/arts/books-and-media/book-reviews/brain-power-two-books-delve-into-the-wild-world-of-mental-matters/article19567247/?utm_source=Shared+Article+Sent+to+User&utm_medium=E-mail:+Newsletters+/+E-Blasts+/+etc.&utm_campaign=Shared+Web+Article+Links" target="_blank">The Globe and Mail</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://nypost.com/2014/07/19/the-truman-show-delusion-and-how-our-culture-determines-crazy/" target="_blank">The New York Post</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.webmd.com/mental-health/features/truman-show-delusion-real-imagined" target="_blank">Web MD</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.nytimes.com/2014/08/31/books/review/suspicious-minds-by-joel-gold-and-ian-gold.html?_r=1">The New York Times Book Review</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://artsbeat.blogs.nytimes.com/2014/08/29/book-review-podcast-culture-and-madness/">The New York Times Book Review Podcast</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.bostonglobe.com/arts/books/2014/07/27/book-review-suspicious-minds-how-culture-shapes-madness-joel-gold-and-ian-gold/GrYIvz4exvFj2i3pyF5bMJ/story.html">The Boston Globe</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.newrepublic.com/article/118898/how-culture-affects-mental-illness-do-crazy-times-make-people-crazier">New Republic</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.scientificamerican.com/article/mind-reviews-suspicious-minds/">Scientific American</a>
+              
+
+            </li>
+
+          
+
+        
+
+      
+
+  
+
+        
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.newyorker.com/online/blogs/culture/2013/09/inside-the-truman-show-delusion.html">The New Yorker</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="https://www.youtube.com/watch?v=xkjQQTtbfBw&sns=em">Simon and Shuster YouTube</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://edge.org/memberbio/joel_gold">Edge</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://nymag.com/scienceofus/2014/07/psychiatry-in-the-age-of-justifiable-paranoia.html?mid=twitter_nymag" target="_blank">New York Magazine</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.thedailybeast.com/articles/2014/07/07/you-too-could-be-a-mass-murdering-zealot.html" target="_blank">The Daily Beast</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.msnbc.com/the-cycle/watch/is-our-society-leading-to-mental-illness--301417027861" target="_blank">MSNBC</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://live.huffingtonpost.com/r/segment/mental-health-redemption/53eaad4602a76097e9000011">The Huffington Post</a>
+              
+
+            </li>
+
+          
+
+        
+
+      
+
+  
+
+        
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="http://www.med.nyu.edu/biosketch/goldj04/publications">NYU Langone Medical Center</a>
+              
+
+            </li>
+
+          
+
+        
+
+      
+
+  
+</ul>
+</nav>
+      </div>
+    </div>
+    <div id="mobileMenuLink"><a>Menu</a></div>
+
+    <header id="header" data-content-field="site-title" class="clear">
+
+    
+
+      <div id="upper-logo">
+        <h1 class="logo"><a href="/">Joel Gold, MD</a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#upper-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#upper-logo')
+          });
+        });
+      </script>
+
+      
+      <div class="site-info">
+        <div class="site-address">Psychiatrist</div>
+        <div class="site-city-state">New York City</div>
+        <div class="site-phone">(646) 245-1056</div>
+      </div>
+      
+
+      <div class="site-tag-line">
+        
+      </div>
+
+      <div class="custom-info">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Header Subtitle: Custom Content" data-type="block-field" data-updated-on="1381760877175" id="customInfoBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2ff977b0afb1744e27a0"><div class="sqs-block-content"><p class="text-align-center">Your Custom Text Here</p></div></div></div></div></div>
+      </div>
+
+      <div id="lower-logo">
+        <h1 class="logo"><a href="/">Joel Gold, MD</a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#lower-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#lower-logo')
+          });
+        });
+      </script>
+
+    
+      <div id="topNav">
+  <nav class="main-nav" data-content-field="navigation">
+    <ul>
+    
+
+        <li class="folder-collection folder">
+
+          
+
+            <a aria-haspopup="true" >Press</a>
+            <div class="subnav">
+              <ul>
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.nytimes.com/2008/08/28/fashion/28truman.html?fta=y&_r=0">The New York Times</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.newyorker.com/reporting/2013/09/16/130916fa_fact_marantz?mobify=0">The New Yorker</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.psmag.com/navigation/books-and-culture/caught-trap-culture-make-us-crazy-85191/" target="_blank">Pacific Standard</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.theglobeandmail.com/arts/books-and-media/book-reviews/brain-power-two-books-delve-into-the-wild-world-of-mental-matters/article19567247/?utm_source=Shared+Article+Sent+to+User&utm_medium=E-mail:+Newsletters+/+E-Blasts+/+etc.&utm_campaign=Shared+Web+Article+Links" target="_blank">The Globe and Mail</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://nypost.com/2014/07/19/the-truman-show-delusion-and-how-our-culture-determines-crazy/" target="_blank">The New York Post</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.webmd.com/mental-health/features/truman-show-delusion-real-imagined" target="_blank">Web MD</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.nytimes.com/2014/08/31/books/review/suspicious-minds-by-joel-gold-and-ian-gold.html?_r=1">The New York Times Book Review</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://artsbeat.blogs.nytimes.com/2014/08/29/book-review-podcast-culture-and-madness/">The New York Times Book Review Podcast</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.bostonglobe.com/arts/books/2014/07/27/book-review-suspicious-minds-how-culture-shapes-madness-joel-gold-and-ian-gold/GrYIvz4exvFj2i3pyF5bMJ/story.html">The Boston Globe</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.newrepublic.com/article/118898/how-culture-affects-mental-illness-do-crazy-times-make-people-crazier">New Republic</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.scientificamerican.com/article/mind-reviews-suspicious-minds/">Scientific American</a>
+                    </li>
+                  
+                
+              </ul>
+            </div>
+
+          
+
+        </li>
+
+    
+
+        <li class="folder-collection folder">
+
+          
+
+            <a aria-haspopup="true" >Media</a>
+            <div class="subnav">
+              <ul>
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.newyorker.com/online/blogs/culture/2013/09/inside-the-truman-show-delusion.html">The New Yorker</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="https://www.youtube.com/watch?v=xkjQQTtbfBw&sns=em">Simon and Shuster YouTube</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://edge.org/memberbio/joel_gold">Edge</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://nymag.com/scienceofus/2014/07/psychiatry-in-the-age-of-justifiable-paranoia.html?mid=twitter_nymag" target="_blank">New York Magazine</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.thedailybeast.com/articles/2014/07/07/you-too-could-be-a-mass-murdering-zealot.html" target="_blank">The Daily Beast</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.msnbc.com/the-cycle/watch/is-our-society-leading-to-mental-illness--301417027861" target="_blank">MSNBC</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://live.huffingtonpost.com/r/segment/mental-health-redemption/53eaad4602a76097e9000011">The Huffington Post</a>
+                    </li>
+                  
+                
+              </ul>
+            </div>
+
+          
+
+        </li>
+
+    
+
+        <li class="folder-collection folder">
+
+          
+
+            <a aria-haspopup="true" >Publications</a>
+            <div class="subnav">
+              <ul>
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="http://www.med.nyu.edu/biosketch/goldj04/publications">NYU Langone Medical Center</a>
+                    </li>
+                  
+                
+              </ul>
+            </div>
+
+          
+
+        </li>
+
+    
+  </ul>
+  <div class="page-divider"></div>
+  </nav>
+</div>
+
+
+    </header>
+
+    <div class="page-divider top-divider"></div>
+
+    <!-- // page image or divider -->
+    
+      
+    
+
+    <section id="page" role="main" data-content-field="main-content">
+
+      <!-- // CATEGORY NAV -->
+      
+
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1553617752629" id="page-53af1e9ce4b0c19cb475f4db"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1403985414876_28904"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:133.3199920654297%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/53af1e04e4b0129f4e7b16ef/1403986368888-WDL8CV5P990S0H0EQHGK/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/53af1e04e4b0129f4e7b16ef/1403986368888-WDL8CV5P990S0H0EQHGK/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/53af1e04e4b0129f4e7b16ef/1403986368888-WDL8CV5P990S0H0EQHGK/image-asset.jpeg" data-image-dimensions="2500x3333" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="53af21c0e4b0e2bdbc9e9396" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1403989160621_9088"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>Contact Dr. Gold</strong></h3><h3 style="white-space:pre-wrap;">(646) 245-1056</h3><h3 style="white-space:pre-wrap;">Dr@joelgold.md</h3><p style="white-space:pre-wrap;">&nbsp; &nbsp;&nbsp;</p><p style="white-space:pre-wrap;">&nbsp; &nbsp;</p><p style="white-space:pre-wrap;"><br></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c541ea5b86a9e218e282"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;">About</h3><p data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p style="white-space:pre-wrap;">JOEL GOLD, M.D. is Clinical Associate Professor of Psychiatry at New York University School of Medicine. He evaluates and treats adults in his private practice in Manhattan. Dr. Gold practices both psychotherapy and medication management.</p><p style="white-space:pre-wrap;">Dr. Gold graduated Magna Cum Laude from Brown University, earning a B.Sc. in Neuroscience, with honors, and an M.D.C.M. from McGill University. He completed his residency in Psychiatry at Bellevue Hospital Center and New York University Medical Center. Dr. Gold is the co-founder of the Tibetan Support Group, which he led for five years, at the Bellevue/NYU Program for Survivors of Torture. He was Unit Chief of the Inpatient Psychiatric Training Unit at Bellevue, became Bellevue’s Director of Psychiatric Emergency Services and finally the hospital’s Director of the Psychiatric Outpatient Division.</p><p style="white-space:pre-wrap;">Dr. Gold is a regular contributor to Edge.org and his work has been profiled in <em>The New Yorker</em> and <em>The New York Times</em>, on <em>This American Life</em>, and elsewhere. Dr. Gold has published articles in peer-reviewed journals such as the&nbsp;<em>New England Journal of Medicine</em>,&nbsp;<em>Science</em>,&nbsp;<em>Psychiatry</em>,&nbsp;<em>Cognitive Neuropsychiatry</em>, <em>The Journal of Traumatic Stress</em>,&nbsp;<em>The Journal of Nervous and Mental Disorders</em>,&nbsp;<em>The American Journal of Drug and Alcohol Abuse</em>, and&nbsp;<em>The American Journal of Epidemiology</em>. </p><p style="white-space:pre-wrap;">His first book, <em>Suspicious Minds: How Culture Shapes Madness</em> was published in 2014.</p><p data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block amazon-block sqs-block-amazon" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;amazonProduct&quot;:&#123;&quot;title&quot;:&quot;Suspicious Minds: How Culture Shapes Madness&quot;,&quot;asin&quot;:&quot;1439181551&quot;,&quot;productGroup&quot;:&quot;Book&quot;,&quot;authors&quot;:[&quot;Joel Gold&quot;,&quot;Ian Gold&quot;],&quot;artists&quot;:[],&quot;actors&quot;:[],&quot;manufacturer&quot;:&quot;Free Press&quot;,&quot;detailPageUrl&quot;:&quot;http://www.amazon.com/Suspicious-Minds-Culture-Shapes-Madness/dp/1439181551%3FSubscriptionId%3D0ENGV10E9K9QDNSJ5C82%26tag%3D[associate-id-placeholder]%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1439181551&quot;,&quot;listPrice&quot;:&quot;$19.26&quot;,&quot;imageUrlSmall&quot;:&quot;http://ecx.images-amazon.com/images/I/41xrCqZs9uL._SL75_.jpg&quot;,&quot;imageHeightSmall&quot;:75,&quot;imageWidthSmall&quot;:49,&quot;imageUrlMedium&quot;:&quot;http://ecx.images-amazon.com/images/I/41xrCqZs9uL._SL160_.jpg&quot;,&quot;imageHeightMedium&quot;:160,&quot;imageWidthMedium&quot;:105,&quot;imageUrlLarge&quot;:&quot;http://ecx.images-amazon.com/images/I/41xrCqZs9uL.jpg&quot;,&quot;imageHeightLarge&quot;:500,&quot;imageWidthLarge&quot;:329,&quot;authorshipInfo&quot;:&quot;By Joel Gold, Ian Gold&quot;&#125;,&quot;showPrice&quot;:true,&quot;showBuyButton&quot;:true,&quot;alignment&quot;:&quot;left&quot;,&quot;showImage&quot;:true,&quot;showTitle&quot;:true,&quot;showAuthor&quot;:true&#125;" data-block-type="46" id="block-yui_3_17_2_1_1403987820999_14997"><div class="sqs-block-content">
+
+
+
+
+
+  <div class="product-block" class="clear">
+
+    
+        <div class="image-container">
+          <a href="http://www.amazon.com/Suspicious-Minds-Culture-Shapes-Madness/dp/1439181551?SubscriptionId=0ENGV10E9K9QDNSJ5C82&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1439181551" target="new">
+            <img src="http://ecx.images-amazon.com/images/I/41xrCqZs9uL.jpg"/>
+          </a>
+        </div>
+    
+
+    <div class="productDetails left">
+      <a href="http://www.amazon.com/Suspicious-Minds-Culture-Shapes-Madness/dp/1439181551?SubscriptionId=0ENGV10E9K9QDNSJ5C82&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1439181551" target="new" class="product-title title">Suspicious Minds: How Culture Shapes Madness</a>
+      
+        <div class="product-price price">
+          
+          <span class="list-price">$19.26</span>
+          
+        </div>
+      
+      <div class="product-author author">By Joel Gold, Ian Gold</div>
+      
+        <a
+          href="http://www.amazon.com/Suspicious-Minds-Culture-Shapes-Madness/dp/1439181551?SubscriptionId=0ENGV10E9K9QDNSJ5C82&tag=&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1439181551"
+          target="_blank"
+          rel="noopener"
+          class="buy-button"
+          data-animation-role="button"
+        >
+          <span
+            class="sqs-amazon-button sqs-system-button sqs-editable-button sqs-button-element--primary"
+            value=""
+          >
+            Buy on Amazon
+          </span>
+        </a>
+      
+
+    </div>
+
+  </div>
+
+
+</div></div><div class="sqs-block twitter-block sqs-block-twitter sqs-col-3 span-3 float float-left" data-block-json="&#123;&quot;title&quot;:true,&quot;thumbnail&quot;:true,&quot;excerpt&quot;:true,&quot;pageSize&quot;:3,&quot;collectionId&quot;:&quot;53b5b346e4b05fbe3505fe3b&quot;,&quot;filter&quot;:&#123;&#125;,&quot;showAvatar&quot;:false,&quot;showUsername&quot;:true,&quot;followButton&quot;:true,&quot;hSize&quot;:3,&quot;floatDir&quot;:&quot;left&quot;,&quot;addAccount&quot;:null,&quot;pageCollectionId&quot;:&quot;53af1e9ce4b0c19cb475f4db&quot;,&quot;containingItemId&quot;:null&#125;" data-block-type="6" id="block-yui_3_17_2_1_1404412580824_38174"><div class="sqs-block-content">
+
+
+
+
+  <ul class="tweet-list" >
+    
+      <li class="tweet clear no-avatar " id="591e2d88890b27411f81cd56">
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/ThinkVsShrink/">Joel & Ian Gold</a></div>
+          
+          <div class="tweet-text">RT @<a class="tweet-url username" href="https://twitter.com/nktpnd" rel="nofollow">nktpnd</a>: Why can't we have scandals like these? <a href="https://t.co/x4LJiwQyAr" rel="nofollow">https://t.co/x4LJiwQyAr</a></div>
+          <time class="tweet-timestamp" datetime="2017-05-18"><a target="new" href="https://twitter.com/ThinkVsShrink/status/865343267872833537">May 18, 2017, 7:08 PM</a></time>
+        </div>
+      </li>
+    
+      <li class="tweet clear no-avatar " id="591e2d88890b27411f81cd57">
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/ThinkVsShrink/">Joel & Ian Gold</a></div>
+          
+          <div class="tweet-text">RT @<a class="tweet-url username" href="https://twitter.com/guardiannews" rel="nofollow">guardiannews</a>: Popular social media sites 'harm young people's mental health' <a href="https://t.co/362L0NwKb6" rel="nofollow">https://t.co/362L0NwKb6</a></div>
+          <time class="tweet-timestamp" datetime="2017-05-18"><a target="new" href="https://twitter.com/ThinkVsShrink/status/865342834345431040">May 18, 2017, 7:06 PM</a></time>
+        </div>
+      </li>
+    
+      <li class="tweet clear no-avatar " id="591dfb256fd27c19e6a2f3b2">
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/ThinkVsShrink/">Joel & Ian Gold</a></div>
+          
+          <div class="tweet-text">RT @<a class="tweet-url username" href="https://twitter.com/UNFCCC" rel="nofollow">UNFCCC</a>: Carbon dioxide levels have just passed 410 ppm threshold first time in human history <a href="https://t.co/5hUrWpoXBi" rel="nofollow">https://t.co/5hUrWpoXBi</a>… <a href="https://t.co/TNGuMlopfg" rel="nofollow">https://t.co/TNGuMlopfg</a></div>
+          <time class="tweet-timestamp" datetime="2017-05-18"><a target="new" href="https://twitter.com/ThinkVsShrink/status/865290873189408770">May 18, 2017, 3:39 PM</a></time>
+        </div>
+      </li>
+    
+  </ul>
+
+
+
+  <script>Y.use('squarespace-follow-buttons', function(Y) { Y.on('domready', function() { Y.Squarespace.FollowButtonUtils.renderAll(); }); });</script><div class="squarespace-follow-button" data-username="ThinkVsShrink"></div>
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-619021e458758b419f03"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><br></h3><p style="white-space:pre-wrap;"><br></p></div></div></div></div></div>
+
+    </section>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content: Joel Gold, MD" data-type="block-field" id="collection-53af1e9ce4b0c19cb475f4db"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <!-- <div class="page-divider bottom-divider"></div> -->
+
+    <div class="info-footer-wrapper clear">
+      <div class="info-footer">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Info Footer Content" data-type="block-field" data-updated-on="1357764188561" id="infoFooterBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block summary-block sqs-block-summary" data-block-type="20" id="block-81c3ab8b7e681e7c61ca"><div class="sqs-block-content"><div class="sqs-state-message error">You must select a collection to display.</div></div></div></div></div></div>
+      
+        
+      
+      </div>
+    </div>
+
+    <footer id="footer">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1357764223408" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-3b72577acbce24b2b9fb"><div class="sqs-block-content"><p class="text-align-center">Powered by <a href="http://www.squarespace.com" data-link-type="external">Squarespace</a></p></div></div></div></div></div>
+    </footer>
+
+  </div>
+
+  <div></div>
+
+  <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+
+
+</body>
+
+</html>

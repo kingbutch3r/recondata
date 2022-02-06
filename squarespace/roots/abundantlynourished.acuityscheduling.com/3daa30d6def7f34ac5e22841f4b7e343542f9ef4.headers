@@ -1,0 +1,17 @@
+GET https://abundantlynourished.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=0mgrja0rh5k53qd7hluk8g0i9m; expires=Thu, 03-Mar-2022 23:59:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a0047d83-acbe-4c9a-84ea-30bf640b5410; expires=Thu, 01-Feb-2024 23:59:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:59:14 GMT
+< Content-Length: 0
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff

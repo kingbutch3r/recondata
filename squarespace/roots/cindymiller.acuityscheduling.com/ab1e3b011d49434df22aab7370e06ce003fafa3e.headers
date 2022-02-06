@@ -1,0 +1,17 @@
+GET https://cindymiller.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:29:07 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=atv426k2hee5qand0qm6qd8pf0; expires=Fri, 04-Mar-2022 00:29:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=74319d88-67c1-455a-a153-5fd79d60ffce; expires=Fri, 02-Feb-2024 00:29:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent

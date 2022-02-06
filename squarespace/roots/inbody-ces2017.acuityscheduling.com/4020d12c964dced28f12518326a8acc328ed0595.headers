@@ -1,0 +1,15 @@
+GET https://inbody-ces2017.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=d8ibah7n500pgrbmms8c3evja9; expires=Thu, 03-Mar-2022 23:53:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c07dc0f9-66c7-4f26-b0e8-94b4edc45a2a; expires=Thu, 01-Feb-2024 23:53:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:53:21 GMT
+< Vary: Accept-Encoding,User-Agent

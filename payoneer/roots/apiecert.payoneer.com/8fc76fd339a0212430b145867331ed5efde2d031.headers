@@ -1,0 +1,12 @@
+GET http://apiecert.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html
+< Content-Length: 190
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Pragma: no-cache
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:26:39 GMT
+< Location: https://apiecert.payoneer.com/
+< Cache-Control: max-age=0, no-cache, no-store

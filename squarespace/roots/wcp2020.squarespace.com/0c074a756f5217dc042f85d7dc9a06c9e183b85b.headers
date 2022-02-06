@@ -1,0 +1,16 @@
+GET https://wcp2020.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BefgpjLKM8zeYzQwNjI3NTlmNTljZTYzZWNmNmQ3ZTlkNWM5M2Y1;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Age: 18143
+< Date: Tue, 01 Feb 2022 19:47:21 GMT
+< Strict-Transport-Security: max-age=0
+< Etag: W/"2fd2c359c4d8cd21eded05dafde6f94c--gzip"
+< Server: Squarespace
+< X-Contextid: cPwY6tPt/J9pVDb0U

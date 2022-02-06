@@ -1,0 +1,9 @@
+GET http://msoid.payoneer.com
+
+
+< HTTP/1.1 404 NotFound
+< Date: Tue, 01 Feb 2022 23:26:26 GMT
+< Content-Length: 10
+< Content-Type: text/HTML
+< Set-Cookie: x-ms-gateway-slice=estsfd; path=/; secure; samesite=none; httponly
+< Client-Request-Id: 481cc6b4-4ec6-4b74-be0a-0172e6a07a9c

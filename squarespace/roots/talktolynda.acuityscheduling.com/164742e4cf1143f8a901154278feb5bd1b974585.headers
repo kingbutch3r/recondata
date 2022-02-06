@@ -1,0 +1,15 @@
+GET https://talktolynda.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=acb5kgcuddgeq5013enij28215; expires=Thu, 03-Mar-2022 23:53:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2e5976a8-b2ba-4122-866e-f9794444da20; expires=Thu, 01-Feb-2024 23:53:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:53:51 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

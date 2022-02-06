@@ -1,0 +1,11 @@
+GET http://makeupmaryb.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:56:48 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: https://makeupmaryb.acuityscheduling.com/
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

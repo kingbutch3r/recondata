@@ -1,0 +1,13 @@
+GET https://nick-gulliver-nh42.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:17:32 GMT
+< Set-Cookie: crumb=BdXjQQw1eRquOTNjODA1N2ZkODY5ZTdlYTJlYWM0ZjQ3MjlkMzk1;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: 2gQw2omi/4A5Iqqhd
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

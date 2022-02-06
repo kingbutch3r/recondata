@@ -1,0 +1,17 @@
+GET https://atticus.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:39:51 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=3qa4dj7efobsma1mn60u5ke210; expires=Fri, 04-Mar-2022 00:39:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=09319eea-9512-4e90-a214-e9e89187f334; expires=Fri, 02-Feb-2024 00:39:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

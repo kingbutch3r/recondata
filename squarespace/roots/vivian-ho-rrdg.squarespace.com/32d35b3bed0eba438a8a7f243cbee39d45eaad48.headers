@@ -1,0 +1,16 @@
+GET https://vivian-ho-rrdg.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: iaUVujRG/iPgKg2i0
+< Date: Mon, 31 Jan 2022 12:28:45 GMT
+< Etag: W/"74c0fdfa9578f03e4d345f3812a79f72--gzip"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Set-Cookie: crumb=BbqXMUmO2aZMZDkxNTNmMzg0ODhkY2FmOTY1NjE0OTM1OWVhYjM0;Path=/
+< Accept-Ranges: bytes
+< Age: 133042
+< Strict-Transport-Security: max-age=0

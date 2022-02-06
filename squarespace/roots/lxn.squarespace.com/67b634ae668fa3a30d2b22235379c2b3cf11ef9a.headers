@@ -1,0 +1,12 @@
+GET http://lxn.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BcoeSPmrhml2YzE5MTJjZGE2NTUwOGNlNTgyNjhkMzFiNGZjZDFj;Path=/
+< Date: Wed, 02 Feb 2022 01:26:53 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: lVTNTC9z/Pi20iwSL
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff

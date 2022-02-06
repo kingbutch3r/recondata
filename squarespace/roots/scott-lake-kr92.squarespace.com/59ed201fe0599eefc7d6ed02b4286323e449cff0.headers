@@ -1,0 +1,16 @@
+GET https://scott-lake-kr92.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BQJEPGw7sXNFMjgwNzUyODg4NzRiNzVjNzk1MmNmNTA2ZmFjMjQ0;Path=/
+< Vary: Accept-Encoding
+< Age: 446392
+< Etag: W/"5cd4e8cab3ae40a0b96adf2cf59db9af--gzip"
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: o7Q7kaks/hn1TvCST
+< Accept-Ranges: bytes
+< Date: Thu, 27 Jan 2022 21:18:55 GMT

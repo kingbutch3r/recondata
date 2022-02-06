@@ -1,0 +1,15 @@
+GET https://arizonaconsumerlawgroup.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:27:34 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=a3uj0fl1pbdo87u5mu6484k589; expires=Fri, 04-Mar-2022 00:27:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=eb5e6d71-95bd-4fa9-8c27-c15f8426d987; expires=Fri, 02-Feb-2024 00:27:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache

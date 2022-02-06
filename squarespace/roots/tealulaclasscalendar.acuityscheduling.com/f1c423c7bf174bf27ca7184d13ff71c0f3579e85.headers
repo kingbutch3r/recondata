@@ -1,0 +1,17 @@
+GET https://tealulaclasscalendar.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:28:01 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=bkanh21c921sib5ke0i5u0133m; expires=Fri, 04-Mar-2022 00:28:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7301f98b-05ab-42d2-b449-c00344c68d26; expires=Fri, 02-Feb-2024 00:28:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate

@@ -1,0 +1,17 @@
+GET https://positivelysorted.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=t9o3b2ksnu1s71hro0q94g7feo; expires=Thu, 03-Mar-2022 23:59:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e13c3019-bb4f-4e90-932d-1d830c1cc2d8; expires=Thu, 01-Feb-2024 23:59:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:59:31 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

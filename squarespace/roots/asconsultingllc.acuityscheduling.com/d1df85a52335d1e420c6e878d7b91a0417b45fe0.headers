@@ -1,0 +1,17 @@
+GET https://asconsultingllc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:57:56 GMT
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=e0ecug6ef4634s5jrnlcm6ando; expires=Thu, 03-Mar-2022 23:57:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6539cff3-6782-425f-995c-7071858002bf; expires=Thu, 01-Feb-2024 23:57:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Length: 0
+< Pragma: no-cache

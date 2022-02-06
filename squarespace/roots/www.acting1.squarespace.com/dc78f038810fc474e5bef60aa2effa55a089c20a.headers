@@ -1,0 +1,11 @@
+GET https://www.acting1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: QV4dF7HD/eeX804dO
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:50:51 GMT
+< Location: https://acting1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSsEshtoGPK6ODE5YjM3OGVmNDZjM2QwMjkzM2FiNGUyYjNlM2Q1;Path=/

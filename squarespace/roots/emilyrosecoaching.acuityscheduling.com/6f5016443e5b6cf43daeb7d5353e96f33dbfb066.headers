@@ -1,0 +1,17 @@
+GET https://emilyrosecoaching.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=gt9qkldba71ggjvgfiendti9u8; expires=Fri, 04-Mar-2022 00:09:37 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b7e4239b-a4f0-4d7b-9790-16a39f5cb62e; expires=Fri, 02-Feb-2024 00:09:38 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Length: 0
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:09:38 GMT

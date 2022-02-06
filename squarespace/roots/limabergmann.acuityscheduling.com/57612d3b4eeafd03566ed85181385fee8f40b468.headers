@@ -1,0 +1,17 @@
+GET https://limabergmann.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:22:05 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=hsscgbloo72fc6d7atcc5ktc8q; expires=Fri, 04-Mar-2022 00:22:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=266d610b-1cae-4fbc-abb9-b0bba570e9d5; expires=Fri, 02-Feb-2024 00:22:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,15 @@
+GET http://newspin360.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"a0c3ec55c6de3dda3d0cda5891765546"
+< X-Contextid: Mx74BLQ2/xthLWqRv
+< Set-Cookie: crumb=BbuoABcCljoqYjA4YzAwYzY5OGZmZWE0YzMzMWMwMzFlMWNlZWUy;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 15:08:40 GMT
+< Age: 380470
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,11 @@
+GET http://unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BZB/AZwxaUUMODM4ZWQ3NWI2NjY3Y2E2ZTVlMGRmZjUwMzRhZGRh;Path=/
+< X-Contextid: 7mF0Brsn/3sOHx8I0
+< Age: 546692
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 17:05:19 GMT
+< Location: https://unfold.com/

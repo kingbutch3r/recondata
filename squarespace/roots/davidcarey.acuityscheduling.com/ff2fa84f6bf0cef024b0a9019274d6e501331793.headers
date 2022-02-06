@@ -1,0 +1,15 @@
+GET https://davidcarey.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:45:52 GMT
+< Set-Cookie: PHPSESSID=irf7vlgkodhmqqg8ra936ek7pa; expires=Fri, 04-Mar-2022 00:45:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a0c0cf5c-9d7c-447d-b160-7c6bfe26ef18; expires=Fri, 02-Feb-2024 00:45:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent

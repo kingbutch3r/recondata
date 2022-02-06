@@ -1,0 +1,17 @@
+GET https://sriyoga.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:54:03 GMT
+< Set-Cookie: PHPSESSID=cvvmb3qtlhp71ve4rqbhj2jmv9; expires=Thu, 03-Mar-2022 23:54:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dab24fe0-2e80-4bc3-9ace-5bfcd2e8c99d; expires=Thu, 01-Feb-2024 23:54:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent

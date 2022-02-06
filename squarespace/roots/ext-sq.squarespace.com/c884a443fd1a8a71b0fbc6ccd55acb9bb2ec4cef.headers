@@ -1,0 +1,12 @@
+GET https://ext-sq.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3123
+< Date: Wed, 02 Feb 2022 01:05:36 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bfrz+6rxMvidYmYxOGFhZDE1NWYxNGUyNTRkNGFhNTc2NDFjZjcy;Path=/
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: d69jRuql/blmMMVYb

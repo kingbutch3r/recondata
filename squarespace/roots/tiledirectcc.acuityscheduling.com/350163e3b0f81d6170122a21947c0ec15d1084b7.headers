@@ -1,0 +1,15 @@
+GET https://tiledirectcc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=hmvm64cmfskh8d4fjddlv2psf4; expires=Thu, 03-Mar-2022 23:57:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fbdddf44-0fa1-4e3d-ac9e-a141e1078474; expires=Thu, 01-Feb-2024 23:57:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Date: Tue, 01 Feb 2022 23:57:03 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

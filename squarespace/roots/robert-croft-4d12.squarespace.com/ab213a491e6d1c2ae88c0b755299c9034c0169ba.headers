@@ -1,0 +1,15 @@
+GET http://robert-croft-4d12.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BS3ySW/MtqARZDU1ODQ2NTIyZmQyNjdkZTI5MTVmNDViZWZkNGZj;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 372185
+< Vary: Accept-Encoding
+< X-Contextid: KsdOYa3O/a9fbK7xI
+< Date: Fri, 28 Jan 2022 17:53:15 GMT
+< Etag: W/"9b01f5bdccbd1c82a03268ebfc88c0f1--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

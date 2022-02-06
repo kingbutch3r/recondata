@@ -1,0 +1,11 @@
+GET http://syn-bt2ywgclz3.api.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://syn-bt2ywgclz3.api.krisp.ai/
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Cf-Ray: 6d6ef6db597785eb-BOM
+< Date: Tue, 01 Feb 2022 23:29:51 GMT
+< Expires: Wed, 02 Feb 2022 00:29:51 GMT
+< Cache-Control: max-age=3600

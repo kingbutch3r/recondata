@@ -1,0 +1,13 @@
+GET https://lilspace.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Server: Squarespace
+< X-Contextid: 53jqZFSu/um9NdzN7
+< Set-Cookie: crumb=BZe8hMJTMfBBY2Q0Njc4Yjk0ZWMyMzFkNDVjZDZiM2E4NWU0YjFh;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:24:25 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

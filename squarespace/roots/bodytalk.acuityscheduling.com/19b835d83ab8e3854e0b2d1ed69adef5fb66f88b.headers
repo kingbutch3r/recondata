@@ -1,0 +1,17 @@
+GET https://bodytalk.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:16:08 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=tgtqjdcev3inj3idof2psgs0k1; expires=Fri, 04-Mar-2022 00:16:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6e559959-6906-4c2c-9858-cfdeb52cc6aa; expires=Fri, 02-Feb-2024 00:16:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

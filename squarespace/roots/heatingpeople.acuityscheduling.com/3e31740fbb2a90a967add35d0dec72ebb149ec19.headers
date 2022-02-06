@@ -1,0 +1,17 @@
+GET https://heatingpeople.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:04:40 GMT
+< Set-Cookie: PHPSESSID=06mtqdmqh568fq5nus01o3jc7s; expires=Fri, 04-Mar-2022 00:04:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=71698825-68fb-46bc-8be3-f71d63a50fba; expires=Fri, 02-Feb-2024 00:04:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

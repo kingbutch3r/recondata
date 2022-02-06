@@ -1,0 +1,17 @@
+GET https://thermalimagingservices.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:32:08 GMT
+< Set-Cookie: PHPSESSID=grevpme0pj3275aibb1n9henkv; expires=Fri, 04-Mar-2022 00:32:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c8974da7-d5ee-41cf-8545-793162106cea; expires=Fri, 02-Feb-2024 00:32:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< X-Content-Type-Options: nosniff

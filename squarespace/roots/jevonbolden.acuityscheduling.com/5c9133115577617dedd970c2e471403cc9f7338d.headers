@@ -1,0 +1,15 @@
+GET https://jevonbolden.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:20:48 GMT
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=h5uan30h8c29erpte4749frvun; expires=Fri, 04-Mar-2022 00:20:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f89b354b-a68d-4f94-b9a0-8803eefcd61f; expires=Fri, 02-Feb-2024 00:20:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

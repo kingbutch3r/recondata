@@ -1,0 +1,17 @@
+GET https://econaccbusadvising.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:11:59 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=gb15djft4ipqira7bupa02o27n; expires=Fri, 04-Mar-2022 00:11:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=76388a40-8968-46f0-b55a-5a640aa7d82f; expires=Fri, 02-Feb-2024 00:11:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

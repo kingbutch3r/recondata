@@ -1,0 +1,17 @@
+GET https://whitewillowmassagetherapy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:47:56 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=fsbnljoh01q6f6aqq5ea8nv6do; expires=Fri, 04-Mar-2022 00:47:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=91cccef8-f03f-4789-8c6e-b39727d806ec; expires=Fri, 02-Feb-2024 00:47:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

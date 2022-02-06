@@ -1,0 +1,11 @@
+GET http://amethyst-stingray-as62.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:44 GMT
+< Location: https://amethyst-stingray-as62.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bd3QCuuutp0EZWQ5MDBjMzc0OTUzNWFlZGNlMDNmYmYyNWMwY2Vj;Path=/
+< X-Contextid: DIOB028Q/xsJpZ3vf
+< Age: 0

@@ -1,0 +1,18 @@
+GET https://cdn.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< X-Amz-Cf-Pop: BOM50-C1
+< Age: 256697
+< X-Amz-Cf-Id: 9xOSxNiVYSX6WysnLq48pnJNKbQJKXKly_ChewDoCQATYv2l1i5yKA==
+< Date: Sun, 30 Jan 2022 00:11:20 GMT
+< Server: AmazonS3
+< X-Cache: Hit from cloudfront
+< X-Amz-Server-Side-Encryption: AES256
+< Accept-Ranges: bytes
+< Content-Type: text/html
+< Content-Length: 229
+< Via: 1.1 c6009ddfc9f427867dff2ea4da6dffb4.cloudfront.net (CloudFront)
+< Last-Modified: Thu, 02 May 2019 09:18:29 GMT
+< Etag: "c49104e3ad5856d3151a6b7275a5fcd0"
+< X-Amz-Version-Id: wZRDPW.RV2nfE2s8vR7ZHUzOOecqozeO

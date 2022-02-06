@@ -1,0 +1,17 @@
+GET https://reikiface.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=seblucd3mop0jblrif255sj9oq; expires=Fri, 04-Mar-2022 00:00:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0d121ea5-3371-4906-a2cf-8e63c607b436; expires=Fri, 02-Feb-2024 00:01:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:01:00 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

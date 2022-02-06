@@ -1,0 +1,14 @@
+GET https://music-scene-media.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: 2JRqD054/NEJOgdwP
+< X-Frame-Options: SAMEORIGIN
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcVdtpS15KAZNTE4NDdiYjgyNTA5ZDkyN2E5Y2ZhNjRkMGZjNjky;Path=/
+< Date: Wed, 02 Feb 2022 00:55:29 GMT
+< X-Content-Type-Options: nosniff

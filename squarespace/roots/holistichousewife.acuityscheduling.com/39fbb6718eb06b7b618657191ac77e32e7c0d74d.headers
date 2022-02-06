@@ -1,0 +1,17 @@
+GET https://holistichousewife.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:02:44 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=u0ohb2ap8q5vt3n31kqopk5nik; expires=Fri, 04-Mar-2022 00:02:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=40b099ae-bd8e-4beb-b18e-5a0a21c125e1; expires=Fri, 02-Feb-2024 00:02:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate

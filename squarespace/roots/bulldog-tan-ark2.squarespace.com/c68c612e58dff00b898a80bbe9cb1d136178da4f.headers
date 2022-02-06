@@ -1,0 +1,13 @@
+GET http://bulldog-tan-ark2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:52:43 GMT
+< X-Content-Type-Options: nosniff
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQ461SzUZ8y9MTBlN2RlMjlkNjgxMmEzZTQxMzY2MWMyZGYyNDhh;Path=/
+< X-Contextid: 8s3DkwzP/iBpqrSrv

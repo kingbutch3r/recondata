@@ -1,0 +1,11 @@
+GET http://wolfson.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:23:47 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: https://wolfson.acuityscheduling.com/
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

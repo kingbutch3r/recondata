@@ -1,0 +1,11 @@
+GET http://trumpet-blackbird-yjd2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BX//n28co1eSYzNjOWM0OTMyYjg5ZjhiZGY1ZWI1YzkzNGVlMGIy;Path=/
+< X-Contextid: NatmYcdJ/Gx36sPIB
+< Age: 474430
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 13:32:33 GMT
+< Location: https://trumpet-blackbird-yjd2.squarespace.com/

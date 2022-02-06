@@ -1,0 +1,12 @@
+GET http://zookeeper.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html
+< Content-Length: 162
+< X-Xss-Protection: 1; mode=block
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+< Server: nginx
+< Date: Sat, 29 Jan 2022 17:39:32 GMT
+< Location: https://zookeeper.harrys.com/
+< X-Content-Type-Options: nosniff

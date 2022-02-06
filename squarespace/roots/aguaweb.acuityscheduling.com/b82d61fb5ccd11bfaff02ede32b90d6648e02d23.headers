@@ -1,0 +1,17 @@
+GET https://aguaweb.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=pbphskbg1ci2fq4l06g9kl7hqb; expires=Thu, 03-Mar-2022 23:56:37 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7d751a3b-d948-4755-bb1f-44ca6d63d49e; expires=Thu, 01-Feb-2024 23:56:38 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:56:38 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

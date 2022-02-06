@@ -1,0 +1,17 @@
+GET https://seanslattery.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 01:03:51 GMT
+< Etag: W/"a1caea6b68d70220f301c5c4278103c5"
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:03:51 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 0
+< Set-Cookie: crumb=BT8VD/uBApXDZWM2NTE1MmNjYTA5ZTc3MTY4NGFkMmY5MzdjYTky;Path=/
+< X-Contextid: zPOQ52kG/2FenKJj4

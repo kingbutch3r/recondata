@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Krisp</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico">
+</head>
+
+<body>
+    <div class="main">
+        <div class="container">
+            <div class="content">
+                <header class="header">
+                    <img src="logo.png" />
+                </header>
+
+                <a class="krisp-logo">
+                    <img src="krisp-logo.svg" />
+                </a>
+                <h2 class="title">By downloading the Krisp application, you acknowledge that you have read, understood,
+                    and agree to the following terms of use:</h2>
+                <p class="description">
+                    Your download and use of Krisp is completely voluntary and not a condition of your employment.
+                    If you choose to download and use Krisp, you may stop using it at any time for any reason.
+                    As you download and use Krisp, Krisp may collect information such as employee email address,
+                    Standard ID (SID) and minutes used.
+                    The data collected will be used on an aggregate and individual basis for analytical reporting
+                    purposes and Pilot evaluation.
+                    No data will be collected regarding performance metrics nor will the data that is collected be used
+                    for performance metrics.
+                </p>
+                <ul class="instructions-list" type="square">
+                    <li>
+                        <span>Install Krisp on your <span class="bold">personal device</span> (outside of your JPMC Desktop).</span>
+                        <ul class="instructions-sublist">
+                            <li>Please close your Citrix session BEFORE installing Krisp.</li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="link" href="Krisp-Installation-Guide-on-Krisp.pdf" target="_blank">Click here</a> for installation instructions. This will open in a separate window. <i>Keep it open and reference for step-by-step guide to successfully install Krisp. </i>
+                    </li>
+                    <li>
+                        Go to <span class="bold">go/nonoise</span> and select the installation tab from your JPMC desktop for additional instructions after you complete the steps outlined above.
+                    </li>
+                </ul>
+
+
+
+                <div class="button-container">
+                    <a href="https://api.krisp.ai/v2/auth/login/saml?idp=custom&slug=jpmchase" class="button">Sign In</a>
+                </div>
+            </div>
+        </div>
+        <div class="image-banner"></div>
+    </div>
+</body>
+
+</html>

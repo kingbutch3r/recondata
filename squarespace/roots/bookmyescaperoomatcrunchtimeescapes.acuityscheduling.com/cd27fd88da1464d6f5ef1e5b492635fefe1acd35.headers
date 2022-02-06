@@ -1,0 +1,15 @@
+GET https://bookmyescaperoomatcrunchtimeescapes.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:33:06 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=d2q9f30jph79gkr3e00u2t7595; expires=Fri, 04-Mar-2022 00:33:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a68b2b60-1850-4d85-8757-d7018dc9a4df; expires=Fri, 02-Feb-2024 00:33:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

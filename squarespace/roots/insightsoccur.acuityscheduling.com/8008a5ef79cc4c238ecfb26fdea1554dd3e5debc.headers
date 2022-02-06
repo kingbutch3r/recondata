@@ -1,0 +1,17 @@
+GET https://insightsoccur.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:31:00 GMT
+< Set-Cookie: PHPSESSID=mmvl5v79pl3cuaejsb43v4uoig; expires=Fri, 04-Mar-2022 00:30:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=79426785-fcb4-4610-aa21-6aebc92b367a; expires=Fri, 02-Feb-2024 00:31:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"

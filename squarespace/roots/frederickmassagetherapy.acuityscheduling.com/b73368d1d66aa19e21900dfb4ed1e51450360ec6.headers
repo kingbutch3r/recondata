@@ -1,0 +1,17 @@
+GET https://frederickmassagetherapy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:47:54 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=qukl3uktggokd50n1gmgt0u6m1; expires=Fri, 04-Mar-2022 00:47:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fdadf55a-683c-4046-8d5d-ac0206016bef; expires=Fri, 02-Feb-2024 00:47:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

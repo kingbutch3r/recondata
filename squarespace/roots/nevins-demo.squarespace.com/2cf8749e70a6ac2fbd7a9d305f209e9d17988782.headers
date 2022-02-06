@@ -1,0 +1,11 @@
+GET http://nevins-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 460803
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 17:23:15 GMT
+< Location: https://nevins-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdA2IjD2OnlkNjQ0NjM1ZDZkN2Y1NjVlZDAwYWQxMWUzMmI2ZWJh;Path=/
+< X-Contextid: GXoDZItP/MP9gtwqo

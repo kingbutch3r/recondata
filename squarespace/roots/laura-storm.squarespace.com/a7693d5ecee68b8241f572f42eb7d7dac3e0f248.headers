@@ -1,0 +1,16 @@
+GET https://laura-storm.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Date: Mon, 31 Jan 2022 18:35:25 GMT
+< Strict-Transport-Security: max-age=0
+< Server: Squarespace
+< X-Contextid: gN5SDAZP/wKkZpufH
+< Age: 110991
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Etag: W/"9ae79dc1955d8247c6abff8c9540bdcd--gzip"
+< Set-Cookie: crumb=BcPe/8Tpsee1NDJhMTMxNTJlNzdlMjJhN2QwM2RlNDdkNmJhMTA5;Path=/

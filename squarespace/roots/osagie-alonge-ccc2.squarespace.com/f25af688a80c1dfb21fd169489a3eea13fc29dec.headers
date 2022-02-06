@@ -1,0 +1,13 @@
+GET http://osagie-alonge-ccc2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: xpp3Si47/BQlSoyWF
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BezVAICqXcYDOTc4YTc1YTFhZjlmZWRmOTBiZjk5ZDU0NDJhMTMx;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Date: Wed, 02 Feb 2022 01:19:27 GMT
+< Server: Squarespace

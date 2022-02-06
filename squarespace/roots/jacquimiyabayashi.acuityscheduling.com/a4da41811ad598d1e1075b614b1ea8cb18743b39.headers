@@ -1,0 +1,17 @@
+GET https://jacquimiyabayashi.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:15:07 GMT
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ihlkl3raknqpc082e1c1e0ppg9; expires=Fri, 04-Mar-2022 00:15:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=670cbefc-115b-4214-90bd-a6fb38263856; expires=Fri, 02-Feb-2024 00:15:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php

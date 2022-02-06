@@ -1,0 +1,10 @@
+GET https://i20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: fvTBoAUN/Abirv3yt
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:57:20 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZDFAj4IoUSoZmI1YWQ5NzUxZGQ5Zjg4MTg5NTRiOGQyODQxMmQ5;Path=/

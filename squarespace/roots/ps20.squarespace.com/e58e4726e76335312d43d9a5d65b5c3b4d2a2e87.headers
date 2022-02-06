@@ -1,0 +1,11 @@
+GET http://ps20.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:51:13 GMT
+< Location: https://ps20.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdrNkLOGe0kcMWQ3OThjMDZkYjNlOThmMGMzNDI1YjMwZmNhN2Q5;Path=/
+< X-Contextid: gIQTwKZk/Bo8wjfDH
+< Content-Length: 0

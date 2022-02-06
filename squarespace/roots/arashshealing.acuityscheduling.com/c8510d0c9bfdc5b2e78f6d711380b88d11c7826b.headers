@@ -1,0 +1,15 @@
+GET https://arashshealing.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=q4bms78fu31731ndsutdhm7nrs; expires=Fri, 04-Mar-2022 00:54:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=033e2763-c110-4d44-a5a2-c3fdac6ba87b; expires=Fri, 02-Feb-2024 00:54:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:54:14 GMT

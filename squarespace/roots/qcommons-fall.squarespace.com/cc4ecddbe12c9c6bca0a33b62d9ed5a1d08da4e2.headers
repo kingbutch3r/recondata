@@ -1,0 +1,16 @@
+GET https://qcommons-fall.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Fri, 28 Jan 2022 15:00:08 GMT
+< Etag: W/"de9e1e03e8a6eb95b65ecd0dc7950322--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bf0yltNdtIYfYmRhZTU0ODczM2Q5NmEwZDE3MTBlMzZhMGQ4YTll;Path=/
+< Accept-Ranges: bytes
+< Age: 381461
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: mb9sdmjJ/6GOaPVKF

@@ -1,0 +1,10 @@
+GET http://pubs.sandbox.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://pubs.sandbox.payoneer.com/
+< Content-Length: 231
+< Date: Tue, 01 Feb 2022 23:26:18 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer

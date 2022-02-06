@@ -1,0 +1,11 @@
+GET http://bedriftshelse1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:50:48 GMT
+< Location: https://bedriftshelse1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bf+4U0TqokCWMmEwZGQ1MGU1N2QzNWI4NzU1ZDg3ZDJlYzUzYzI0;Path=/
+< X-Contextid: wGcPSkP8/rm9QOMGK
+< Content-Length: 0
+< Age: 0

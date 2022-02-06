@@ -1,0 +1,17 @@
+GET https://newhorizonsprimarycare.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=0plruapho3oachjl89qtd9a85i; expires=Fri, 04-Mar-2022 00:06:17 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ea6499c8-5023-45bb-9d30-d6c24540d7ee; expires=Fri, 02-Feb-2024 00:06:18 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:06:18 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

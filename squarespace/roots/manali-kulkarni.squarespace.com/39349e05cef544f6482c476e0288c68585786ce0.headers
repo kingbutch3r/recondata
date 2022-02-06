@@ -1,0 +1,16 @@
+GET http://manali-kulkarni.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: 5itJ1pyo/Ox1vcWgA
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:23:51 GMT
+< Vary: Accept-Encoding
+< Last-Modified: Wed, 02 Feb 2022 01:23:51 GMT
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWjEaxaxA1MLMjg0NWUzNDVlZjFkYzRlYzE0NDk1NzAzMmZiMjIx;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Etag: W/"ae49df2fd4f5476fcaffdba71710da93"

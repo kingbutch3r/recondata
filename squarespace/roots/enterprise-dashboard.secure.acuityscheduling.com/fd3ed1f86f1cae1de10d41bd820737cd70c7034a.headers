@@ -1,0 +1,16 @@
+GET https://enterprise-dashboard.secure.acuityscheduling.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html
+< Content-Length: 933
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 00:55:11 GMT
+< X-Cache: Hit from cloudfront
+< X-Amz-Cf-Id: Vrc_gGtJFrdagIMbW_YZIYlW289O5Hgn_mDsU-GCn2V3pk9IKDIMIQ==
+< Last-Modified: Fri, 15 Oct 2021 23:21:57 GMT
+< Server: AmazonS3
+< Etag: "3c65116170aff500e364fa957375fe0d"
+< Via: 1.1 31af63d94a35c7f951da97c47fa229aa.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: MXP63-P4
+< Age: 3245

@@ -1,0 +1,15 @@
+GET https://laurenwilliamson.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:23:54 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=00e312enf2qsu8pf5spivebaf3; expires=Fri, 04-Mar-2022 00:23:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b89cf6fd-3d33-4198-87a4-d767c7b42d9a; expires=Fri, 02-Feb-2024 00:23:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

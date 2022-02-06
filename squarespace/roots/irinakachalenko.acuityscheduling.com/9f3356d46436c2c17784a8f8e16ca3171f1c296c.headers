@@ -1,0 +1,15 @@
+GET https://irinakachalenko.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=g3d1g4conekl2d73f3saq9tcen; expires=Fri, 04-Mar-2022 00:25:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f8eb44eb-0689-4e82-b392-7ae5ef5b83c4; expires=Fri, 02-Feb-2024 00:25:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:25:39 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

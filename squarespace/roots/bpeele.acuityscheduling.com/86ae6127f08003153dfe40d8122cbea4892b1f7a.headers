@@ -1,0 +1,17 @@
+GET https://bpeele.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:04:17 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=rohm7ate4alnav0h4kblh15oet; expires=Fri, 04-Mar-2022 00:04:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dee12b2e-ce60-4dd3-b0e8-4d45e1e60c08; expires=Fri, 02-Feb-2024 00:04:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8

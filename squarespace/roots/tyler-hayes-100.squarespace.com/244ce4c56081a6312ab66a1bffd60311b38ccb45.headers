@@ -1,0 +1,12 @@
+GET http://tyler-hayes-100.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BVImcch9SjH0N2QyODdiNmE4MjQ2NmE0MjkzYzYxN2NjYTM5YjJj;Path=/
+< X-Contextid: 7XA9gAnU/KbTnyudM
+< Date: Wed, 02 Feb 2022 01:00:38 GMT
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Age: 0

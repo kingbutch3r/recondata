@@ -1,0 +1,17 @@
+GET https://kazoo-orb-6ge2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 92114
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Mon, 31 Jan 2022 23:17:05 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Date: Mon, 31 Jan 2022 23:17:05 GMT
+< Etag: W/"fddd6f8b8b2b7ad639f7999acfa1e356"
+< X-Content-Type-Options: nosniff
+< X-Contextid: DUWXJ7Mo/5HgxIXs4
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BeLseKV/GFFnYzhkOTM1MWZhZjM1ZjgxMDJmNzAxNDBmNzliZTI0;Path=/

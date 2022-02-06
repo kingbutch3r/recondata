@@ -1,0 +1,17 @@
+GET https://radish-papaya-lw49.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 21:55:57 GMT
+< Last-Modified: Tue, 01 Feb 2022 21:55:57 GMT
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Etag: W/"2fa7cc2794a41f2ae1c9c13f5d54ffbe"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bfy8t6Qdco+vYWEwMDYxZTg5Y2U2YmFjMDEzOTJmNjFjYzcxMDdl;Path=/
+< X-Contextid: BXeBiJ2V/kJPXYW6W
+< Age: 6836
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

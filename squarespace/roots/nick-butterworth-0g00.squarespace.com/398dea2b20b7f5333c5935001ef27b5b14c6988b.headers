@@ -1,0 +1,12 @@
+GET https://nick-butterworth-0g00.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Server: Squarespace
+< X-Contextid: iEN9e04I/emQ3O2RY
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Date: Wed, 02 Feb 2022 00:58:27 UTC

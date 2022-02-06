@@ -1,0 +1,11 @@
+GET http://jane-kalman-bbj2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Mon, 31 Jan 2022 08:08:16 GMT
+< Location: https://jane-kalman-bbj2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfNKM5mKoFy4MGExNWVhOTgwOWYxNjA1ZTJhOGU3ZmYwYWMyZDAz;Path=/
+< X-Contextid: d2D9OgbG/YQ5KDTNy
+< Age: 146660
+< Content-Length: 0

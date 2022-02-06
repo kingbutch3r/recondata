@@ -1,0 +1,12 @@
+GET http://adobe-propsal-secured.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Server: Squarespace
+< Pragma: no-cache
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:25:08 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: UqixfMh1/tcIAjyzp
+< Cache-Control: no-cache, must-revalidate

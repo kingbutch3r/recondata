@@ -1,0 +1,15 @@
+GET https://assetsapi.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html; charset=utf-8
+< Pragma: no-cache
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Via: 1.1 google
+< Date: Tue, 01 Feb 2022 23:26:33 GMT
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Set-Cookie: GCLB=CKDV__jNg5ijIA; path=/; HttpOnly
+< Vary: Accept-Encoding
+< Cache-Control: no-cache, private, no-transform, no-store
+< Alt-Svc: clear
+< Server: rhino-core-shield

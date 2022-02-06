@@ -1,0 +1,3 @@
+https://load.payoneer.com/?AspxAutoDetectCookieSupport=1
+https://www.payoneer.com/ target=
+https://www.payoneer.com/ target=/

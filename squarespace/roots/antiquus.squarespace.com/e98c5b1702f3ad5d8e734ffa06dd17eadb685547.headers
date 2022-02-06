@@ -1,0 +1,11 @@
+GET https://antiquus.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 01:25:55 GMT
+< Location: http://antiquus.squarespace.com/;jsessionid=1FA49C63828C51C6E984EBB9243452D6.v5-web004
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=1FA49C63828C51C6E984EBB9243452D6.v5-web004; Path=/; HttpOnly
+< X-Contextid: wY0EW60w/2Pvz4iIg
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8

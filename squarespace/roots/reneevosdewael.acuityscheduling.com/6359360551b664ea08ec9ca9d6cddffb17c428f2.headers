@@ -1,0 +1,15 @@
+GET https://reneevosdewael.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=ubtot2s55dligsn4d38qdc45k8; expires=Fri, 04-Mar-2022 00:17:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bb61e213-9b1a-4f0b-aace-2992ccaeec6d; expires=Fri, 02-Feb-2024 00:17:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:17:20 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff

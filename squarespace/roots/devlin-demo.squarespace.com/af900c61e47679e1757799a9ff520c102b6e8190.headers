@@ -1,0 +1,10 @@
+GET http://devlin-demo.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:26 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BR+EVVoT9nIeZmU2OTczY2Y5YjUyMGE3NzkzYzcwNTA3ZmI0MDc0;Path=/
+< X-Contextid: jlCgr9Dm/WBssI5Tf
+< Age: 0

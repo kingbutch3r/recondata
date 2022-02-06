@@ -1,0 +1,17 @@
+GET https://singlemusic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=91krusqnq9ki55qnoi6e5h7b59; expires=Thu, 03-Mar-2022 23:57:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0ac7301b-e3ac-4025-a066-abf1d3a25281; expires=Thu, 01-Feb-2024 23:57:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:57:28 GMT
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload

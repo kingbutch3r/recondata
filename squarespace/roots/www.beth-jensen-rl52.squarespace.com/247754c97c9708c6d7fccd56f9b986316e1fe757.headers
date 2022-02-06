@@ -1,0 +1,11 @@
+GET https://www.beth-jensen-rl52.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://beth-jensen-rl52.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bd5Tqsf59i2CMmQ0NjFkMzgzNzFlNjE1MDk3M2FhZmVkMGUyNGJh;Path=/
+< X-Contextid: xkydayhZ/RuFHACGT
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:40 GMT

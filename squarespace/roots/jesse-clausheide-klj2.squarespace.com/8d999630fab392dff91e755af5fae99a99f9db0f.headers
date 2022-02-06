@@ -1,0 +1,11 @@
+GET http://jesse-clausheide-klj2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 337256
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 03:40:15 GMT
+< Location: https://jesse-clausheide-klj2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BV4XnyCYVF2/MjlmYzQzYTJjNmRiZThlNGRiYWUxNjJiMGE4NWZh;Path=/
+< X-Contextid: 4xTj0WCZ/IcHAlot3

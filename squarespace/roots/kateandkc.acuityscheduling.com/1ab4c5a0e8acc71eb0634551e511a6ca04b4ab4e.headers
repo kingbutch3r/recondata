@@ -1,0 +1,17 @@
+GET https://kateandkc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=v8k1dduckjaqmiheoe35dss6ov; expires=Thu, 03-Mar-2022 23:57:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b91df330-1511-4d20-ba3e-384cf570e890; expires=Thu, 01-Feb-2024 23:57:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Tue, 01 Feb 2022 23:57:42 GMT
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

@@ -1,0 +1,11 @@
+GET http://cranberry-chipmunk-ba27.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BTVKRGYEnEmCMTdjNDc4ZGM2ZjlkMmFhZDRhZjEzYTdjYzMzYjI0;Path=/
+< X-Contextid: lNIv6TCI/9iDVTX4z
+< Age: 359467
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 21:35:12 GMT
+< Location: https://cranberry-chipmunk-ba27.squarespace.com/

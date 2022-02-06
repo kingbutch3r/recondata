@@ -1,0 +1,13 @@
+GET https://inspirechurchfast2021.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BSnpE+R0ZY5NNzU1NGE0ODMzMjI5OTc2YmQ5MDdlMGI5NzkxOTgz;Path=/
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=0
+< X-Contextid: kSlS70zb/Chnf0kWF
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:28 GMT
+< Server: Squarespace

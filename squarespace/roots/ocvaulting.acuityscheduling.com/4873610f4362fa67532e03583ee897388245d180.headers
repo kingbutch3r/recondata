@@ -1,0 +1,17 @@
+GET https://ocvaulting.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=2pa21hrjm2dt2avcir2v0djhee; expires=Fri, 04-Mar-2022 00:12:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3a54372b-9d28-4526-bbb5-f3ac64459225; expires=Fri, 02-Feb-2024 00:12:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:12:17 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent

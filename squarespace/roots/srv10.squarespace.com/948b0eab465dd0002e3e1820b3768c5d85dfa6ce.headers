@@ -1,0 +1,11 @@
+GET http://srv10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Date: Wed, 02 Feb 2022 01:01:02 GMT
+< Server: Squarespace
+< X-Contextid: KSLv7VAG/EPXq7r0m
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BWH3D68C9ocGMzAwYTNjMTIyYTgwZWVhMjc4ZDY1Yjk5ZDI4YWZm;Path=/

@@ -1,0 +1,11 @@
+GET http://coconut-clementine-zs9s.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:26:51 GMT
+< Location: https://coconut-clementine-zs9s.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXbPPGDEMqs4MmQ0NzhkNGNlZTA3NGYyMWU3YWE5Y2M4MzgxYjM5;Path=/
+< X-Contextid: 5S9THSvB/HtJXScm7
+< Age: 0
+< Content-Length: 0

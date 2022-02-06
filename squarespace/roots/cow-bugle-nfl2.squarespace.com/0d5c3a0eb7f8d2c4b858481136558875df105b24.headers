@@ -1,0 +1,11 @@
+GET http://cow-bugle-nfl2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BdW+yz4Fy5qDZGIwOTIzNzA0MTM1YzE0ZGZiOTE3Y2VlODAwZjNh;Path=/
+< X-Contextid: KEt72mPv/8FDP0CnM
+< Age: 79863
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 03:10:36 GMT
+< Location: https://cow-bugle-nfl2.squarespace.com/

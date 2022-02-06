@@ -1,0 +1,11 @@
+GET http://www1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Mon, 31 Jan 2022 14:27:00 GMT
+< Location: https://www1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZue5mH3I38bYWM0MDY4ZjU5NDQ2ZmYwZDI3OTk0NDgzMDE0MDA1;Path=/
+< X-Contextid: ARtRnLKV/ZhLIA2DR
+< Age: 123849
+< Content-Length: 0

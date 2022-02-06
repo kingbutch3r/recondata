@@ -1,0 +1,11 @@
+GET https://edge02-na.floatplane.com
+
+
+< HTTP/1.1 400 Bad Request
+< Access-Control-Allow-Headers: *
+< Connection: keep-alive
+< Cache-Control: private, max-age=5
+< Date: Mon, 31 Jan 2022 18:57:41 GMT
+< Access-Control-Allow-Origin: *
+< Access-Control-Request-Method: *
+< Access-Control-Allow-Methods: OPTIONS, GET

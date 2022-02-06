@@ -1,0 +1,17 @@
+GET https://returntosacred.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 01:08:57 GMT
+< Set-Cookie: PHPSESSID=k33bfd21crn6pai6qn1qkusqv1; expires=Fri, 04-Mar-2022 01:08:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7b578f45-e199-4ee6-a783-6b7be3b4ca42; expires=Fri, 02-Feb-2024 01:08:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

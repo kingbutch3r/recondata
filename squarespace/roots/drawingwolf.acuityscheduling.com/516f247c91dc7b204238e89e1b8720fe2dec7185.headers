@@ -1,0 +1,15 @@
+GET https://drawingwolf.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=q3825u8tbpri80rjr9si808u7d; expires=Fri, 04-Mar-2022 00:08:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e27bf082-a987-491c-b5e4-e844dc2a28ee; expires=Fri, 02-Feb-2024 00:08:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:08:51 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache

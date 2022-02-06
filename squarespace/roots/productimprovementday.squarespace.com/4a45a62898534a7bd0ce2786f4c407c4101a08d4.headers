@@ -1,0 +1,18 @@
+GET https://productimprovementday.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 483540
+< Date: Thu, 27 Jan 2022 10:36:33 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BTjpiztFAPhWZWQ4NTA4ZDc4Yjk5ZjgwZTA2NGU0NjdhNGMyZjFm;Path=/
+< Strict-Transport-Security: max-age=43200
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: eQUGKBwc/SaVFLiOF
+< Etag: W/"8d7bd086059671e02db5967f4f138762"

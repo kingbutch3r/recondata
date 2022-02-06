@@ -1,0 +1,10 @@
+GET http://ma-8760.sandbox.payoneer.com
+
+
+< HTTP/1.1 308 unknown
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://ma-8760.sandbox.payoneer.com/
+< Content-Length: 234
+< Date: Tue, 01 Feb 2022 23:25:52 GMT

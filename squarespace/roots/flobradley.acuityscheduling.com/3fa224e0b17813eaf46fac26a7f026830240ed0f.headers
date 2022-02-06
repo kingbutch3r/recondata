@@ -1,0 +1,15 @@
+GET https://flobradley.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:45:33 GMT
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ituv8pakf92ca0qftgj9b74lk7; expires=Fri, 04-Mar-2022 00:45:32 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=20ba9e8c-7e07-4a13-80c0-1e9c6b186781; expires=Fri, 02-Feb-2024 00:45:33 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"

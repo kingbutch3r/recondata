@@ -1,0 +1,17 @@
+GET https://instacalminc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:58:31 GMT
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=f4mdaq3s0psoeii0h67r01epb0; expires=Thu, 03-Mar-2022 23:58:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=47b4722d-a49c-4b2c-b2df-f96f995e029a; expires=Thu, 01-Feb-2024 23:58:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

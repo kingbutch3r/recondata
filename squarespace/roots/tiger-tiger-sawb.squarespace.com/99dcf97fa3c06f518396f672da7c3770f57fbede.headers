@@ -1,0 +1,13 @@
+GET https://tiger-tiger-sawb.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:55:17 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BdlshZNd4tzmNzQ3MjgzNzE4ODk5YjY5Y2Y2ZmZlZTNlNjk1NWZh;Path=/
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: ScSLBsCJ/AukpStp7

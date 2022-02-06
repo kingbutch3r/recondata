@@ -1,0 +1,10 @@
+GET http://sandbox.payoneer.com
+
+
+< HTTP/1.1 308 unknown
+< Content-Length: 226
+< Date: Tue, 01 Feb 2022 23:25:51 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://sandbox.payoneer.com/

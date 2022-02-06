@@ -1,0 +1,22 @@
+GET https://stage.account.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Feature-Policy: vibrate none; geolocation none; camera 'none'; microphone 'none'
+< Server: cloudflare
+< Content-Type: text/html
+< Access-Control-Allow-Origin: *
+< Vary: Accept-Encoding
+< X-Cache: Hit from cloudfront
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Referrer-Policy: no-referrer
+< Last-Modified: Tue, 01 Feb 2022 09:01:49 GMT
+< Via: 1.1 fc94a589021a59066ae58e032534def6.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM51-C1
+< X-Amz-Cf-Id: NyvsjAqErBafPKlytPxxW_2ay-5UxyIDds-4m_WANSFwjLeV2841zg==
+< Age: 24
+< Cf-Cache-Status: DYNAMIC
+< Date: Tue, 01 Feb 2022 23:29:52 GMT
+< Cf-Ray: 6d6ef6e1aa03858f-BOM
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: sameorigin

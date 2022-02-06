@@ -1,0 +1,16 @@
+GET https://dilek-topkara-ygk1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< X-Contextid: VPua3ELp/8NBhpRRY
+< Etag: W/"70ae5f07ed3be597b9d3a8053a50f26f--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bccv3Qyn2a6+YTg1OWIzMjZlN2E0ODA5N2MzNTBjYjU0ODNjYzQ2;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 94378
+< Date: Mon, 31 Jan 2022 22:37:57 GMT
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8

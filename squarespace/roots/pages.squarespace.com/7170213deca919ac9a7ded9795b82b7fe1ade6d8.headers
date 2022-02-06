@@ -1,0 +1,11 @@
+GET http://pages.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 00:54:57 GMT
+< Content-Type: text/html; charset=utf-8
+< Cf-Cache-Status: DYNAMIC
+< Server: cloudflare
+< Cf-Ray: 6d6f737a2c41851c-BOM
+< Vary: Accept-Encoding
+< X-Powered-By: ASP.NET

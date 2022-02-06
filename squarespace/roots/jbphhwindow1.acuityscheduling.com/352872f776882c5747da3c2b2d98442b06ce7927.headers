@@ -1,0 +1,17 @@
+GET https://jbphhwindow1.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:53:03 GMT
+< Set-Cookie: PHPSESSID=d1a0bmvil9fs1lggbqi53v7f12; expires=Thu, 03-Mar-2022 23:53:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=134e8e3e-802e-48ac-81e6-5ec3a6c232cb; expires=Thu, 01-Feb-2024 23:53:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

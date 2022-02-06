@@ -1,0 +1,11 @@
+GET http://payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: ECD (ama/8B67)
+< Content-Length: 218
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:26:24 GMT
+< Location: https://payoneer.com/
+< Referrer-Policy: no-referrer

@@ -1,0 +1,13 @@
+GET https://vuvuzela-banjo-3xg2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: DQDS5Q4I/1lX9QYRY
+< Age: 0
+< Server: Squarespace
+< Set-Cookie: crumb=BRx9yWkVGmhUOTdiMGU1ZjU0YzNhM2IzM2Q3ZTMyNDE3OTJjNmI0;Path=/
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:52:31 GMT

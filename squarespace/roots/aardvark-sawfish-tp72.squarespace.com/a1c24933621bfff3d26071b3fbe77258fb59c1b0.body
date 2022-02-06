@@ -1,0 +1,367 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+<head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+
+<!-- This is Squarespace. --><!-- aardvark-sawfish-tp72 -->
+<base href="">
+<meta charset="utf-8" />
+<title>Ania Grzeszek</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="https://www.aniagrzeszek.com"/>
+<meta property="og:site_name" content="Ania Grzeszek"/>
+<meta property="og:title" content="Ania Grzeszek"/>
+<meta property="og:url" content="https://www.aniagrzeszek.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Ania Grzeszek"/>
+<meta itemprop="url" content="https://www.aniagrzeszek.com"/>
+<meta name="twitter:title" content="Ania Grzeszek"/>
+<meta name="twitter:url" content="https://www.aniagrzeszek.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/WmFlfAmj8jAnJhcogS-yNxwlkQF6MHiw25V5vP-dDFXfe0CIfFHN4UJLFRbh52jhWDmqFAw3jcwkFhbkwQi8w2M3wQIUZejDFs7iMkG0jABkZYZyScClShBaZc8D-fuXS2SkO1FUiABkZWF3jAF8OcFzdP37OcBRiA8XpWFR-emqiAUTdcS0jhNlOfG0jAFu-WsoShFGZAsude80Zko0ZWbCHKoySkolZP37O1FUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCjABkZYZyScClShBaZc8D-fuXS2SkO1FUiABkZWF3jAF8OcFzdPUyjamTiY8Djhy8ZYmC-Ao1OcFzdPUyjamTiY8Djhy8ZYmC-Ao1Oco8ifUydc8yZa4EZWFEZAC0jhNlOeBDOcu8OeUzjhBC-eNDifUDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOYiaikoyjW4qicBk-kuDjWic-WFGOWs3FDJ0SaBujW48Sagyjh90jhNlOYiaikoyjamTiY8Djhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80Zko0ZWbCiaiaOcB0-AB1S1T8SaT8-koRdhXCiaiaOcBDOcu8OYiaikoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlJ6U3ScNt-AuyOAozicIKfANldcmDOWgkdkG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7f6K3UMIbMg6BJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6GJCSbgIMMj2kMfH6qJRMIbMg6sJMJ7fbKEVyMgeMw6MKG4fO6rIMIjgfMfH6qJzRtbMs6YJMJ7fbKoVyMgeMt6MKG4fOvrIMIjIPMfqMYmyxrgg6.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Lato:wght@300">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-6bf9aa2dcdef771c3f44a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-6bf9aa2dcdef771c3f44a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-34d228a31f2ebe48bba55-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-34d228a31f2ebe48bba55-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-98fcec8fe4ac79d616790-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-98fcec8fe4ac79d616790-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-cc722a56a2db1e01cee25-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-d156217a5e6bc4bc7f846-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-a61164ed9cd7a9eb7bfce-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e6d055ed15b111bd6538f-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-cab32b9fecdae6ba6ebcb-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-119f397b3281ed3884445-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-708e41f40f57bdd166721-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-9b847e3cf9570958e77a8-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-8c06b3cd4fda755e3e4f3-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-08426cdfc77045a9462a8-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-03fe0045a50313e024895-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-37e6abe30ca783c1d89a7-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d2c61be9b8f97e301a175-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4be1ee041b08a625937bd-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-798317aed06c656945a2f-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-fa5f5d649a09b40da8aa4-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-49085558da5380a91b120-min.en-US.js"}},"pageType":2,"website":{"id":"5d5c0bc27d217e000111df35","identifier":"aardvark-sawfish-tp72","websiteType":1,"contentModifiedOn":1636124330665,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/Berlin","machineTimeZoneOffset":3600000,"timeZoneOffset":3600000,"timeZoneAbbr":"CET","siteTitle":"Ania Grzeszek","fullSiteTitle":"Ania Grzeszek","siteTagLine":"","siteDescription":"","shareButtonOptions":{"2":true,"4":true,"1":true,"3":true,"6":true,"7":true},"authenticUrl":"https://www.aniagrzeszek.com","internalUrl":"https://aardvark-sawfish-tp72.squarespace.com","baseUrl":"https://www.aniagrzeszek.com","primaryDomain":"www.aniagrzeszek.com","sslSetting":3,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"d8ace93cf04b42605f6a599c5ed42c0665f0260a50b5a6a838b3f4545593318b","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5d5c0bc27d217e000111df38","websiteId":"5d5c0bc27d217e000111df35","subjects":[],"country":"DE","state":"BE","simpleLikingEnabled":true,"popupOverlaySettings":{"style":1,"enabledPages":[]},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"about","id":"5d5c0c557d33da00019de3c7","fullUrl":"/","publicCommentCount":0,"type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"gallery-style":"Fit","galleryPadding":"40px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","thumbnail-aspect-ratio":"Auto","thumbnailWidth":"360px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"4f9adc1524ac5df956fdf98f","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/4f9adbe124ac5df956fdf900/865/scripts/","betaFeatureFlags":["background_art_onboarding","commerce_etsy_product_import","commerce_restock_notifications","commerce_activation_experiment_add_payment_processor_card","commerce_clearpay","campaigns_thumbnail_layout","commerce_product_review_etsy_import","category-delete-product-service-enabled","transactional_email_pipeline_v2_enabled","campaigns_hide_deleted_automations_panel","campaigns_global_uc_ab","campaigns_banner_reduce_size","member_areas_spanish_interviews","commerce_etsy_shipping_import","customer_account_creation_recaptcha","google_analytics_4_gtag_js","campaigns_audience_card","commerce_product_branching","member_areas_annual_subscriptions","startup_checklist","nested_categories_migration_enabled","reduce_general_search_api_traffic","campaigns_section_reorder_arrows","scheduling_block_schema_editor","commerce_product_composer_ab_test_all_users","member_areas_pricing_options_discounts","viewer-role-contributor-invites","campaigns_blog_product_image_editor","commerce_product_review_import_ga","commerce_site_visitor_metrics","commerce_pdp_layouts_ga","commerce_category_id_discounts_enabled","commerce_afterpay_pdp","campaigns_show_apply_website_styles_button","campaigns_new_subscriber_search","member_areas_schedule_interview","member_areas_billing_state_migration"],"impersonatedSession":false,"tzData":{"zones":[[60,"EU","CE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"https://www.aniagrzeszek.com","name":"Ania Grzeszek","description":"","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5d5c0bc27d217e000111df35/33/4f9adc1524ac5df956fdf98f/5d5c0bc27d217e000111df4b/865-05142015/1614791657422/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+</head>
+<body class="sidebar-text-alignment-left sidebar-position-left sidebar-fixed mobile-site-title-style-auto blog-sidebar-right gallery-style-fit enable-gallery-thumbnails initial-gallery-view-thumbnails homepage-gallery-view-inherit thumbnail-aspect-ratio-auto gallery-controls-simple social-icon-style-normal hide-social-icons  show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    product-list-titles-under product-list-alignment-center product-item-size-23-standard-vertical product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5d5c0c557d33da00019de3c7 collection-type-page collection-layout-default homepage mobile-style-available" id="collection-5d5c0c557d33da00019de3c7">
+
+  <div id="canvasWrapper">
+    <div id="canvas">
+
+      <div id="mobileNav"><div class="wrapper">
+        <nav class="main-nav mobile-nav"><ul>
+  
+
+        
+
+          <li class="gallery-collection">
+
+            
+              <a href="/handwoven">handwoven</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="gallery-collection">
+
+            
+              <a href="/plantdyed">plant dyed</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+</ul>
+</nav>
+        <nav class="main-nav mobile-nav"><ul>
+  
+
+        
+
+          <li class="page-collection active-link">
+
+            
+              <a href="/">about</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/read-me">contact</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+</ul>
+</nav>
+      </div></div>
+
+      <div id="headerWrapper">
+      <header id="header">
+
+        <div id="topNavMobile">
+          <nav id="mobileMenuLink" class="main-nav clear"><ul><li class="active-link"><a>Menu</a></li></ul></nav>
+        </div>
+
+        <div id="logo" data-content-field="site-title">
+          
+            <h1 class="logo site-title">
+              <a href="/">
+                
+                  Ania Grzeszek
+                
+              </a>
+            </h1>
+            
+          
+        </div>
+
+        <script>
+          Y.use('squarespace-ui-base', function(Y) {
+            Y.one("h1.logo").plug(Y.Squarespace.TextShrink);
+          });
+        </script>
+
+        <div id="topNav" data-content-field="navigation">
+          <nav id="mainNavigation" class="main-nav dropdown-click desktop-nav">
+            <ul>
+  
+
+      <li class="gallery-collection">
+
+        
+
+          
+            <a href="/handwoven">handwoven</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="gallery-collection">
+
+        
+
+          
+            <a href="/plantdyed">plant dyed</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+</ul>
+
+          </nav>
+
+          <nav id="secondaryNavigation" class="main-nav dropdown-click desktop-nav">
+            <ul>
+  
+
+      <li class="page-collection active-link">
+
+        
+
+          
+            <a href="/">about</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="page-collection">
+
+        
+
+          
+            <a href="/read-me">contact</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+</ul>
+
+          </nav>
+        </div>
+
+        <div class="sqs-layout sqs-grid-1 columns-1 empty" data-layout-label="Header Content" data-type="block-field" id="headerBlocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"></div></div></div>
+
+      
+        
+      
+
+      </header>
+      </div>
+
+      <div id="pageWrapper" class="hfeed" role="main">
+        <!-- CATEGORY NAV -->
+        
+      <section id="page">
+
+      <div class="main-content" data-content-field="main-content">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1636124330660" id="page-5d5c0c557d33da00019de3c7"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-5826f938431614c884b7"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2336px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:125%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5d5c0bc27d217e000111df35/1614790615090-QIPOO5U1VRG9WH4MWQUI/IMG_5086.jpg" alt="IMG_5086.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/5d5c0bc27d217e000111df35/1614790615090-QIPOO5U1VRG9WH4MWQUI/IMG_5086.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5d5c0bc27d217e000111df35/1614790615090-QIPOO5U1VRG9WH4MWQUI/IMG_5086.jpg" data-image-dimensions="2336x2920" data-image-focal-point="0.5,0.5" alt="IMG_5086.jpg" data-load="false" data-image-id="603fbfcbe7e2200e63245663" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-eec63e0701c7008c8ca3"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Textiles are my language. There are endless possibilities and endless surprises. Materials, colours, patterns, techniques - their characteristics have a big impact on my work. It takes time and practice to train the eyes and develop sensitivity in the fingertips.</p><p class="" style="white-space:pre-wrap;">As a former architect, I am deeply interested in the environments we live in. Instead of creating new environments, I create from and within the environment I find myself in. I started to work with plant dyes to explore this collaborative process. I collect my materials by hand in my immediate surrounding and process them into dye baths and pigments. I use dyed yarns and painted fabrics to weave with.</p><p class="" style="white-space:pre-wrap;">I find weaving very similar to architecture. Slowly and carefully constructed plan, a vision implemented with mathematical precision. What distinguishes one from the other is a concern for error. Mistakes are not acceptable in architecture. In weaving, mistakes become an invitation to let the act of creation unfold freely. Each piece becomes a transcript of my mood and imagination that I am safe to investigate within a rigid structure of warp. </p><p class="" style="white-space:pre-wrap;">I draw from the ancestral traditions to learn about the past, record the present and create a sense of continuity for the future. The slowness and stillness of my work allow me to look for the essence of being in the moment. My textile practice takes me on a journey of discovery within and without.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;"><em>My&nbsp;textiles are created carefully, slowly, and with intention. I believe in conscious creativity</em></p><p class="" style="white-space:pre-wrap;"><em>Slow, natural, and local,&nbsp;my&nbsp;textiles are made with high-quality natural fibres from European suppliers. Hand-spun yarns from local spinners and re-loved fibers, I dye the yarns myself, with botanical dyes.&nbsp;When I work with fabric, I choose recycled or GOTS-certified fibres. My&nbsp;goal is to create beautiful, unique, and conscious textiles; one-of-a-kind pieces that tell a story. You can find my products at </em><a href="https://www.kaliko.co"><em>www.kaliko.co</em></a></p></div></div></div></div></div>
+      </div>
+
+      
+
+      </section>
+      </div>
+
+    </div>
+  </div>
+
+<script type="text/javascript" src="https://static1.squarespace.com/static/ta/4f9adbe124ac5df956fdf900/865/scripts/combo/?site.js"></script>
+<script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+</body>
+</html>

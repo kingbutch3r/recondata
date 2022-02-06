@@ -1,0 +1,17 @@
+GET https://walterzajac.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:56:53 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=imv6e237ue9ju3fg28e1gel27t; expires=Thu, 03-Mar-2022 23:56:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e1327cf4-f45d-443a-b8f3-a85e747c05b1; expires=Thu, 01-Feb-2024 23:56:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

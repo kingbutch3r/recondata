@@ -1,0 +1,17 @@
+GET https://massageworkstfcc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=vsals46kcjn1t3vlnc0gio171j; expires=Thu, 03-Mar-2022 23:57:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cc48dd0c-b17f-4649-a2ee-e4e0d91a680d; expires=Thu, 01-Feb-2024 23:57:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Tue, 01 Feb 2022 23:57:01 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

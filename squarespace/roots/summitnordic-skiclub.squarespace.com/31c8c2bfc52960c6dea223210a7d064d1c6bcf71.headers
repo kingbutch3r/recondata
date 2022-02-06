@@ -1,0 +1,12 @@
+GET http://summitnordic-skiclub.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< X-Contextid: QYpjFZFM/ngf4CvZi
+< Age: 97762
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 22:14:13 GMT
+< Location: https://summitnordic-skiclub.squarespace.com/
+< Set-Cookie: crumb=Ba7piLEpLoI2YTQ2OThmZThlZTJjMzE3ZWVhZDAwMWJlMDcxNjQ4;Path=/

@@ -1,0 +1,11 @@
+GET http://1on1coaching.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:09:16 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: https://1on1coaching.acuityscheduling.com/
+< Vary: User-Agent

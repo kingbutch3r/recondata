@@ -1,0 +1,15 @@
+GET http://rick-crici-e8g2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: masWFWOG/AcvGJdcm
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Etag: W/"38a81e23893e6b73a8dc4ec7f97b4a0c--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=Bcp0StCBlUUQYjFhMWIyZTUyYjA5ZTA2MmNkNjAxNmU1ZmE1N2Y4;Path=/
+< Date: Wed, 02 Feb 2022 01:20:26 GMT
+< Vary: Accept-Encoding
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,17 @@
+GET https://escapegamebrighton.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:24:13 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=dhfei0kuj9iuh79aoneun63qdb; expires=Fri, 04-Mar-2022 00:24:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f92ba8df-d39d-4b0d-bbdc-2b6d167f5244; expires=Fri, 02-Feb-2024 00:24:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php

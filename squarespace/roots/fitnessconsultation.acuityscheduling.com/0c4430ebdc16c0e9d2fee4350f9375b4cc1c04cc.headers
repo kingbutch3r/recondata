@@ -1,0 +1,17 @@
+GET https://fitnessconsultation.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:23:02 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=9tkq81d49gujm71lb7csc8kg94; expires=Fri, 04-Mar-2022 00:23:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=918f1e9f-9524-40e7-94a0-79950faf47ca; expires=Fri, 02-Feb-2024 00:23:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate

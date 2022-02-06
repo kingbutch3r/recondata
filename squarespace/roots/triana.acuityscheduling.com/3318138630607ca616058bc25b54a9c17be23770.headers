@@ -1,0 +1,15 @@
+GET https://triana.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:55:13 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=mev5vo3ra5tkuhup5pbh69m67j; expires=Thu, 03-Mar-2022 23:55:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5f04a886-6df1-4956-aa04-9c0241de53af; expires=Thu, 01-Feb-2024 23:55:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

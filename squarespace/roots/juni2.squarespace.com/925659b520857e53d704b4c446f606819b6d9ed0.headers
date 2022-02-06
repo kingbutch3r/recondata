@@ -1,0 +1,11 @@
+GET http://juni2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 196014
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 18:53:57 GMT
+< Location: https://juni2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbGGAaojXRCqZWQxYzlmNWU2YWJhNTg3MmNkNTQzNmUyNjQ2ZTcz;Path=/
+< X-Contextid: 9iZTwd7F/rbycO1EC

@@ -1,0 +1,15 @@
+GET https://emergeilc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:57:44 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=9gasqbc38ai11ieq620nj6hv1i; expires=Thu, 03-Mar-2022 23:57:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=04009b8c-e2f8-4fdb-bab1-04ce99d1efb6; expires=Thu, 01-Feb-2024 23:57:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff

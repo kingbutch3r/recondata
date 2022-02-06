@@ -1,0 +1,17 @@
+GET https://bison-saxophone-ty42.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Contextid: o8xincxg/ICMQV3aw
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 19582
+< Cache-Control: max-age=172800, s-maxage=172800
+< Date: Tue, 01 Feb 2022 19:51:12 GMT
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"f2bdacb8686815f0506ae8822119bf68--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BV+4c9UgaAFUMmZiMGU2NTRiMDJkODliYmE3NjM0MzY4YzFkMjIw;Path=/
+< Strict-Transport-Security: max-age=0

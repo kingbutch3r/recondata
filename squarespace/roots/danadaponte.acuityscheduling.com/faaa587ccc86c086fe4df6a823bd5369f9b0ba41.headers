@@ -1,0 +1,17 @@
+GET https://danadaponte.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:07:38 GMT
+< Content-Length: 0
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=0u9kich39mbdh48pj59rjgtrf9; expires=Fri, 04-Mar-2022 00:07:37 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=49b55929-17d2-4d94-a437-bb9d6d4c7693; expires=Fri, 02-Feb-2024 00:07:38 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

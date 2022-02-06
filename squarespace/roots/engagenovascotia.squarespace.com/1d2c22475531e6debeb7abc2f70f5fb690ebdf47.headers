@@ -1,0 +1,11 @@
+GET http://engagenovascotia.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: rYTvDPEY/gMNf4T5T
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:25:44 GMT
+< Location: https://engagenovascotia.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BY/srDvaHjf3YTczYzRlZDc0MjYyNGZkM2E0NjMzOTE0NjM1MjBl;Path=/

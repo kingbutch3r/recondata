@@ -1,0 +1,16 @@
+GET https://scina2012.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"9797d72c3e4d199f551e2d1daaf968d6"
+< Vary: Accept-Encoding
+< Set-Cookie: crumb=BfsNga9BqvVkOTQyMWE4NTdjY2QzYmY2N2M0M2EzMjkyYTY3Mzhh;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: zeFoJ8bE/eOusIy4A
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 304319
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 12:19:19 GMT
+< Strict-Transport-Security: max-age=43200

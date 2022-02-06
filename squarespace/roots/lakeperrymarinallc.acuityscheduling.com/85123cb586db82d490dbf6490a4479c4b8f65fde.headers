@@ -1,0 +1,15 @@
+GET https://lakeperrymarinallc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=aumm9om41eem57eg3pleie3j1d; expires=Thu, 03-Mar-2022 23:57:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5486301c-e9bd-4ea0-868a-af77e6771b10; expires=Thu, 01-Feb-2024 23:57:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:57:47 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

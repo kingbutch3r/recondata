@@ -1,0 +1,11 @@
+GET http://rsu21.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:13:33 GMT
+< Location: https://rsu21.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQbbgwxljFOtMjY3YTVmYTJiNjA5YzU5YTVhYmJlZjAyYTgzNDhj;Path=/
+< X-Contextid: 3wMtbX9X/qzy0AmOE
+< Content-Length: 0

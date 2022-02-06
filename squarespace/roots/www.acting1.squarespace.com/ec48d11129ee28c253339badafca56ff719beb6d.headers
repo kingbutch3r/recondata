@@ -1,0 +1,12 @@
+GET http://www.acting1.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Date: Wed, 02 Feb 2022 01:15:02 UTC
+< Server: Squarespace
+< X-Contextid: M8ihW1ph/jtz4g9WP
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache

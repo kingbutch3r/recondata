@@ -1,0 +1,12 @@
+GET https://files.krisp.ai
+
+
+< HTTP/1.1 403 Forbidden
+< X-Amz-Bucket-Region: us-east-1
+< Date: Tue, 01 Feb 2022 23:29:40 GMT
+< X-Cache: Error from cloudfront
+< X-Amz-Cf-Id: 6EDLme7NVnHJydb9CtzDGHH-_V5WnZpEZXrwQZ2GZHPE2yQ2XJ6TIg==
+< Via: 1.1 2e5c0a1d8bd388d881d5a8729d1272d6.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM50-C1
+< Content-Type: application/xml
+< Server: AmazonS3

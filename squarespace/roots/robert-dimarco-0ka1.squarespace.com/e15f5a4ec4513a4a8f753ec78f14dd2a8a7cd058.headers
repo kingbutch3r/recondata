@@ -1,0 +1,12 @@
+GET http://robert-dimarco-0ka1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BbpfwJ/LY47RZTU0ZTAyZjYyNzg5YzU5MjUyNmU3YmIzYWEyNmM0;Path=/
+< Date: Wed, 02 Feb 2022 01:14:19 GMT
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: J7cQsZAq/fJeyBVxF
+< Age: 0
+< Content-Type: text/html;charset=utf-8

@@ -1,0 +1,11 @@
+GET http://peaceinnovationlab.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 03:32:21 GMT
+< Location: https://peaceinnovationlab.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Be/g+7EKhq6IMDIzNmNlOWEyNjk4ZmRkODA5Y2VhNTMxNzY1NGFi;Path=/
+< X-Contextid: 8hmyQdJf/JG98Swkt
+< Age: 78668
+< Content-Length: 0

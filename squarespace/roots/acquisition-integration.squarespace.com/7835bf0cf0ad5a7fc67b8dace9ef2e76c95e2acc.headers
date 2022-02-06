@@ -1,0 +1,10 @@
+GET https://acquisition-integration.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:22:15 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcR+7nWXdCaXYTM1NjhlZTI4NDhhMjVjMDM4NzViYTc2MTRlMjI5;Path=/
+< X-Contextid: OIQeUu2S/rxoMAqrG

@@ -1,0 +1,14 @@
+GET https://plums-iris-kpe2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:20:07 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Frame-Options: SAMEORIGIN
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSPMh/43PWMhNmQ4NGQwOTRlZGJlMGEyYTQ0Nzg3MDYzOGU3Mjlm;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: tKx3Lm3b/6w4OL3PU

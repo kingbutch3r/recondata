@@ -1,0 +1,12 @@
+GET http://hhcla30.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800
+< Server: Squarespace
+< Set-Cookie: crumb=BQOwyNwTo1MhOWIwOWQwMWU3OTkyYzViMDY5MzI4ZTNiOWQ2M2Fk;Path=/
+< Date: Tue, 01 Feb 2022 23:50:20 GMT
+< Location: https://hhcla30.squarespace.com/
+< X-Contextid: vTG7fon5/JsrsP7HI
+< Content-Length: 0

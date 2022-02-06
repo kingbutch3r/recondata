@@ -1,0 +1,17 @@
+GET https://jonathangarciaphotography.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=5lgjkpk1qrh938bruldckhci6o; expires=Fri, 04-Mar-2022 00:46:09 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=53d2b889-4f50-4029-b148-218f11c23029; expires=Fri, 02-Feb-2024 00:46:10 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:46:10 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0

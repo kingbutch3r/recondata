@@ -1,0 +1,15 @@
+GET http://nxtdesign.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BacjdXIBHVP/ODQ4NDRlYzkwODM5YzFiZTM4MDI5YjRmNjcyNDdl;Path=/
+< X-Contextid: gReo88Xr/EOnxEuup
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 01:07:18 GMT
+< Etag: W/"5973cafc85da6be8f1dc21101417cde5--gzip"
+< Server: Squarespace
+< Age: 0
+< Content-Type: text/html;charset=utf-8

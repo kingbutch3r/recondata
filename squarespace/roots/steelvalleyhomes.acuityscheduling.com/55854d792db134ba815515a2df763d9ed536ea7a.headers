@@ -1,0 +1,15 @@
+GET https://steelvalleyhomes.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:33:02 GMT
+< Set-Cookie: PHPSESSID=81i1ik9h3d5bckb6jhk8fbrgoe; expires=Fri, 04-Mar-2022 00:33:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=13c9b2d7-9026-469f-9fcb-defdc0bd7bad; expires=Fri, 02-Feb-2024 00:33:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent

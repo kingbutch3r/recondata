@@ -1,0 +1,10 @@
+GET http://register.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://register.payoneer.com/
+< Content-Length: 227
+< Date: Tue, 01 Feb 2022 23:25:44 GMT

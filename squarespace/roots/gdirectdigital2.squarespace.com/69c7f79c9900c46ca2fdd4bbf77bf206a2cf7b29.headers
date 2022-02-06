@@ -1,0 +1,11 @@
+GET https://gdirectdigital2.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Location: http://gdirectdigital2.squarespace.com/;jsessionid=84D220543E4702670F75429F45F5CFEB.v5-web014
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=84D220543E4702670F75429F45F5CFEB.v5-web014; Path=/; HttpOnly
+< X-Contextid: VUATH4cA/IEmkNFP4
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:21:41 GMT

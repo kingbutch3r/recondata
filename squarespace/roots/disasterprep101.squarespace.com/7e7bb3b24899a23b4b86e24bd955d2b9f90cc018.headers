@@ -1,0 +1,16 @@
+GET https://disasterprep101.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Fri, 28 Jan 2022 01:17:51 GMT
+< Set-Cookie: crumb=BUcK+azXSNyYYjc3Y2FjNTU3Mzc2ZDYwN2MzN2U0ZDIxZjNhNjg1;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: xhZLUnAR/v39iMbT3
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Age: 431707
+< Etag: W/"6284620ca9b463522decb61f527f9d61--gzip"
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8

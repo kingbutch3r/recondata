@@ -1,0 +1,17 @@
+GET https://longwoodwritingcenter.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=j5ivvbesk4ik1f1omqfqmdgh1g; expires=Fri, 04-Mar-2022 00:29:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d530a3bd-9a89-4978-bdf2-dbc92e76da22; expires=Fri, 02-Feb-2024 00:29:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:29:48 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

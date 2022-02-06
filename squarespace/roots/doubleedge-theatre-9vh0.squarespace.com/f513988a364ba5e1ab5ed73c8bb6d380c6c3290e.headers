@@ -1,0 +1,14 @@
+GET https://doubleedge-theatre-9vh0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Content-Length: 3208
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Wed, 02 Feb 2022 01:12:08 GMT
+< Set-Cookie: crumb=BZIBCHrH0EjEMTk3YjE0MGI4ZmY4OGIxM2ZmYTM0OWQ4YjMxOTY5;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: nVdKro0d/UwghR2di
+< Age: 0
+< Content-Type: text/html;charset=utf-8

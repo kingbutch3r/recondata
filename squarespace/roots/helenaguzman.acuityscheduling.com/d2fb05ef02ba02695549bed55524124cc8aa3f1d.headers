@@ -1,0 +1,15 @@
+GET https://helenaguzman.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:20:30 GMT
+< Set-Cookie: PHPSESSID=q6k6i93ifb4p2de59une171chb; expires=Fri, 04-Mar-2022 00:20:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=305b5ecd-3dd8-4a45-b8c6-668df28f1940; expires=Fri, 02-Feb-2024 00:20:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8

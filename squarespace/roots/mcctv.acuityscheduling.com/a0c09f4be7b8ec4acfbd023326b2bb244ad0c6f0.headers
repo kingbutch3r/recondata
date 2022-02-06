@@ -1,0 +1,15 @@
+GET https://mcctv.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:43:54 GMT
+< Set-Cookie: PHPSESSID=bjmtauv5v8hp8j9g0is7lq09fs; expires=Fri, 04-Mar-2022 00:43:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7904eeb0-622b-4b26-88c2-c755d2f714dd; expires=Fri, 02-Feb-2024 00:43:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

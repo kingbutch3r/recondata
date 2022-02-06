@@ -1,0 +1,16 @@
+GET https://wells-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 298609
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 13:59:37 GMT
+< Etag: W/"cf1666fcbf01e19bfc5b168a0b20fdea"
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BYXZuv/+iTY5NDA5ZGIwNDk1OTNiZTQ0NTg1YWRkMGYxMWRjNmMz;Path=/
+< Strict-Transport-Security: max-age=0
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: AbBXws2p/S4B5sMoa

@@ -1,0 +1,16 @@
+GET https://adelyn-tomlinson-zcl0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BeyPJDPhlTPkZDhjODBmM2Q1NWNkMjE4YjAwM2Q1OTA0MWYzMTU2;Path=/
+< Vary: Accept-Encoding
+< Date: Sat, 29 Jan 2022 08:51:59 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: LPvHIlok/UNTAOGqb
+< Accept-Ranges: bytes
+< Age: 318013
+< Etag: W/"2f29a048732c58a91a6caaf18bb0ba8b--gzip"
+< Server: Squarespace

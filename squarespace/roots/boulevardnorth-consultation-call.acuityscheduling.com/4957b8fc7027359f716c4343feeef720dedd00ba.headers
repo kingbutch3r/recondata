@@ -1,0 +1,17 @@
+GET https://boulevardnorth-consultation-call.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:17:47 GMT
+< Content-Length: 0
+< Location: /schedule.php
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=kdo7d5g25ear5gsaq2s2r90d3b; expires=Fri, 04-Mar-2022 00:17:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=375c5312-7f78-4e30-adbe-797c7759e03f; expires=Fri, 02-Feb-2024 00:17:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

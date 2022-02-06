@@ -1,0 +1,17 @@
+GET https://nell-rose.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:07:12 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=8tan7dn80tlktv6g4volvtqq6m; expires=Fri, 04-Mar-2022 00:07:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ad3ef428-ea03-4e9a-99ef-b2e5e1951e8c; expires=Fri, 02-Feb-2024 00:07:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent

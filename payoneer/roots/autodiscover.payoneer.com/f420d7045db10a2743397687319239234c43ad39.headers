@@ -1,0 +1,16 @@
+GET http://autodiscover.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Request-Id: 6eb0d6ed-9c9d-5f8e-c71c-dd1d3e7fa5f1
+< X-Requestid: 39d5529d-0ee0-4ea6-9fe3-7cdd5e7cd88c
+< Ms-Cv: 7dawbp2cjl/HHN0dPn+l8Q.0
+< Content-Length: 0
+< Location: https://outlook.office365.com/owa/?realm=payoneer.com&vd=autodiscover
+< Server: Microsoft-IIS/10.0
+< X-Feserver: PN3PR01CA0097
+< X-Feserver: PN3PR01CA0097
+< X-Powered-By: ASP.NET
+< Date: Tue, 01 Feb 2022 23:25:44 GMT
+< Cache-Control: no-cache
+< Pragma: no-cache

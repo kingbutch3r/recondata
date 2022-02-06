@@ -1,0 +1,17 @@
+GET https://redroomrecordings.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=6e3abp71muqehnbfv1h3lm4rqa; expires=Fri, 04-Mar-2022 00:33:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9e8411a6-5812-4962-9c7e-78f731f4f5fa; expires=Fri, 02-Feb-2024 00:33:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:33:43 GMT
+< Content-Length: 0
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate

@@ -1,0 +1,11 @@
+GET http://thewhitehart-inn.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 18:36:03 GMT
+< Location: https://thewhitehart-inn.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTU71ogf2Rg4ZTI2MTM1NjU1Y2Q2YTRjZTU4ZjgzZDRhY2QzNDFm;Path=/
+< X-Contextid: joZ9L42q/MsG469Ev
+< Age: 24492

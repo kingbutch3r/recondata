@@ -1,0 +1,11 @@
+GET http://www.kevin-haub-3hr1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BUxXnVVFh3VBNDUwYmJlMDNmZmNhOGIwMDM0OWY4Yjg2MzYxOWNm;Path=/
+< X-Contextid: B7WTRFOR/IgaLDJ2w
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:01 GMT
+< Location: http://kevin-haub-3hr1.squarespace.com/

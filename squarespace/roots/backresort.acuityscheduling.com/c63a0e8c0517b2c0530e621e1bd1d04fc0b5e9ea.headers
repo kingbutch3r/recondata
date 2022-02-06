@@ -1,0 +1,17 @@
+GET https://backresort.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:42:43 GMT
+< Set-Cookie: PHPSESSID=8i2ktpq85m3j5ugvmlfa4on5j9; expires=Fri, 04-Mar-2022 00:42:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c58826a1-fcb1-467a-87fe-0fdf7943991a; expires=Fri, 02-Feb-2024 00:42:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Length: 0

@@ -1,0 +1,12 @@
+GET https://fromsmash-en-2020.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Cache-Control: no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Server: Squarespace
+< Content-Length: 77576
+< Date: Wed, 02 Feb 2022 01:01:56 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: e9NecBO7/3iw0tQWq

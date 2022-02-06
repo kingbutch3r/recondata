@@ -1,0 +1,14 @@
+GET https://james-smith-wlx0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Set-Cookie: crumb=BXVx4fRwwKlEMDZkNTlhYTI2NGQxYWE5MDg1ZWZhZDcxYjk3ZGNm;Path=/
+< Date: Wed, 02 Feb 2022 00:50:14 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: FTOTJsNq/kQeWE6TS
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8

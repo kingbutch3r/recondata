@@ -1,0 +1,11 @@
+GET https://www.christopher-diaz-v282.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:18:25 GMT
+< Location: https://christopher-diaz-v282.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdcJ+/mozEqJNGIxYjdiODA3Y2VlNzlmNTZkNTQwZmExN2U5OTA5;Path=/
+< X-Contextid: doA4WZNd/FDiqYQdP

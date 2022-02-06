@@ -1,0 +1,9 @@
+GET https://dock580.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: 7GpcSYwC/U88ihhBu
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:11:38 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=E164F6564E6C238A504A4454F653831F.v5-web015; Path=/; HttpOnly

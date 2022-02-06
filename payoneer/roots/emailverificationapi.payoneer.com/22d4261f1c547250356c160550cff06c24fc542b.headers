@@ -1,0 +1,15 @@
+GET https://emailverificationapi.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Server: rhino-core-shield
+< Content-Type: text/html; charset=utf-8
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:26:31 GMT
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Via: 1.1 google
+< Set-Cookie: GCLB=CMLo6PGOtJO6Vw; path=/; HttpOnly
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Alt-Svc: clear

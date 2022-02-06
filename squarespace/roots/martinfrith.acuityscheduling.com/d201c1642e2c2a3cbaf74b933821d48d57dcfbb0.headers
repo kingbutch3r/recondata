@@ -1,0 +1,17 @@
+GET https://martinfrith.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Pragma: no-cache
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:14:29 GMT
+< Set-Cookie: PHPSESSID=trechugc0snr8f3dgda2dp4dqu; expires=Fri, 04-Mar-2022 00:14:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=facfbc83-4074-4b40-a81a-b0d43c5a6372; expires=Fri, 02-Feb-2024 00:14:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php

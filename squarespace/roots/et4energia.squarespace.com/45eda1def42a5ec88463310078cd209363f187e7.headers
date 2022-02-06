@@ -1,0 +1,10 @@
+GET https://et4energia.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:24:54 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BX4eJ6Yz2lFgNGIxNzY1N2VkZjExYTE2MmY1MGUyNTIyZjA4NGQz;Path=/
+< X-Contextid: ZfiobAUT/swrWINdw

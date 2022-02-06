@@ -1,0 +1,11 @@
+GET http://andy-fish-um10.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://andy-fish-um10.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSiyz6f91jXVYjk0YmQ1ODAyNTA1YmQ5MmIxYzc0MGZhYTU2NmVk;Path=/
+< X-Contextid: fmHpeZe1/fJ02mRNL
+< Age: 10124
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 21:01:23 GMT

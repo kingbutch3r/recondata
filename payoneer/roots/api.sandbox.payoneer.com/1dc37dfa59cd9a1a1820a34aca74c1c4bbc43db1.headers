@@ -1,0 +1,12 @@
+GET http://api.sandbox.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:26:14 GMT
+< Content-Length: 190
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Server: rhino-core-shield
+< Content-Type: text/html
+< Location: https://api.sandbox.payoneer.com/
+< Cache-Control: max-age=0, no-cache, no-store
+< Pragma: no-cache

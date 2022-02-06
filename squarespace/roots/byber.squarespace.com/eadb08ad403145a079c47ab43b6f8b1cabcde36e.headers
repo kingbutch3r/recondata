@@ -1,0 +1,16 @@
+GET https://byber.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"b46a84e7193be2a35ad3ac94e31f27ab--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=BRbRrOHjz5x8ZDQxZTkwMjBiN2ViM2EyZDdiODNkOTM3ZTQ3YTUx;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 22:15:57 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 355174
+< X-Contextid: BLENseBc/Y82JYYNa

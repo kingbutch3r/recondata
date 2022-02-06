@@ -1,0 +1,13 @@
+GET https://boxwood360.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:51 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: AOSx2SdT/8olmFIKv
+< Age: 0
+< Server: Squarespace
+< Set-Cookie: crumb=Baayfc/lhUMxMTg3MmEzNTE2MWNjMTA1ZTJlZmExMTI0MGVkMjI1;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff

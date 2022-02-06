@@ -1,0 +1,17 @@
+GET https://thosewhitewalls.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Cache-Control: max-age=172800, s-maxage=172800
+< Set-Cookie: crumb=BYRV8w7olv5yODMwZjkwNWNjMTc4MjUzY2U0YTYyYzllZGU5Mzc4;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"b57e0a801392f33026731e2443fb5082--gzip"
+< Vary: Accept-Encoding
+< X-Contextid: wKtNWH4K/GtfeLHM7
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:05:59 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

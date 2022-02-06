@@ -1,0 +1,15 @@
+GET https://thecitysidewalks.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:34:28 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=mlfl4b5uc1ds72j1nan69cmc55; expires=Fri, 04-Mar-2022 00:34:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0f3a3634-b065-4d0c-b16e-25c97513aaee; expires=Fri, 02-Feb-2024 00:34:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

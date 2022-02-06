@@ -1,0 +1,17 @@
+GET https://memphisspeech.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:13:36 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=62tb4itq1jocv347ut60fuu8d0; expires=Fri, 04-Mar-2022 00:13:35 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=25b7a74b-b22c-4e25-9d93-c30d001e839e; expires=Fri, 02-Feb-2024 00:13:36 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8

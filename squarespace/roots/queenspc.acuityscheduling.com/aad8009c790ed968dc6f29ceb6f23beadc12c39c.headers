@@ -1,0 +1,17 @@
+GET https://queenspc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:53:27 GMT
+< Set-Cookie: PHPSESSID=akf6g6bj9pm6cenin6855f4ob5; expires=Fri, 04-Mar-2022 00:53:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dae5e9de-fb20-47d3-ae04-7b35c2a1e4ae; expires=Fri, 02-Feb-2024 00:53:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

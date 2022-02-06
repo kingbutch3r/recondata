@@ -1,0 +1,11 @@
+GET http://teams.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=3600
+< Expires: Wed, 02 Feb 2022 00:29:37 GMT
+< Location: https://teams.krisp.ai/
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Cf-Ray: 6d6ef683985731ff-BOM
+< Date: Tue, 01 Feb 2022 23:29:37 GMT

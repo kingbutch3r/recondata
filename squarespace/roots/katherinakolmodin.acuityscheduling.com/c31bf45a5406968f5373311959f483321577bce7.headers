@@ -1,0 +1,15 @@
+GET https://katherinakolmodin.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=8dstndm7bms97lfh6gh78vb38p; expires=Fri, 04-Mar-2022 00:21:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b570f2b0-e243-410e-9f14-8cb508fd6fa7; expires=Fri, 02-Feb-2024 00:21:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:21:44 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

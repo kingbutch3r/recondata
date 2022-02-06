@@ -1,0 +1,17 @@
+GET https://markbalogcpa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=ta6b3khanhgh23gbeeqoujrfj4; expires=Thu, 03-Mar-2022 23:55:32 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=38f20a10-69b0-4315-9729-c660ed316267; expires=Thu, 01-Feb-2024 23:55:33 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:55:33 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

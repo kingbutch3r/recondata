@@ -1,0 +1,10 @@
+GET https://rick-abbott-rar1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:15:31 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bb5/nKGnghMdMGQyZjAyY2MzODY2MTYyOTQ4OTIwNWYxMDdkMDIw;Path=/
+< X-Contextid: 8Y5CGrlY/VuMK4eoU

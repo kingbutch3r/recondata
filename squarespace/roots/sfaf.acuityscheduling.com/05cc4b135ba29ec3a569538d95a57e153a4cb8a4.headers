@@ -1,0 +1,15 @@
+GET https://sfaf.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:08:34 GMT
+< Set-Cookie: PHPSESSID=es8bnvdkgqqg6lspsvq3rvolet; expires=Fri, 04-Mar-2022 00:08:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=701a9b22-b682-4e92-b384-6966d4ca0e5f; expires=Fri, 02-Feb-2024 00:08:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

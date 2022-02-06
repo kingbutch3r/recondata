@@ -1,0 +1,17 @@
+GET https://kjp.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=fc1jacv2skdufp12vbvjt4lbh9; expires=Fri, 04-Mar-2022 00:26:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2a8b93fb-36e3-4d26-bb68-4960a10e381b; expires=Fri, 02-Feb-2024 00:26:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:26:52 GMT
+< Pragma: no-cache

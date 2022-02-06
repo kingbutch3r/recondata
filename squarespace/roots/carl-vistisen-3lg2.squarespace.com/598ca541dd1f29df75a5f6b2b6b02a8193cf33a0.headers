@@ -1,0 +1,11 @@
+GET http://carl-vistisen-3lg2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BbbyK5Cep2VgYzhiMTgzMzUyMzg0OWY2NzNhMGRlZDI4YjczZDdm;Path=/
+< X-Contextid: Vz7L34at/u1KPR6EB
+< Age: 433767
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 00:51:04 GMT
+< Location: https://carl-vistisen-3lg2.squarespace.com/
+< Server: Squarespace

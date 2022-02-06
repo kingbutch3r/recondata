@@ -1,0 +1,11 @@
+GET http://www.lourdes-garcia-2z82.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:18:32 GMT
+< Location: http://lourdes-garcia-2z82.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRa89aHtm74GOTk4ODdjZDBlZmU0N2I0ZWM2MzZjNjIzOTQ2NjI0;Path=/
+< X-Contextid: KkhaddBE/EWRwiiFR
+< Age: 0

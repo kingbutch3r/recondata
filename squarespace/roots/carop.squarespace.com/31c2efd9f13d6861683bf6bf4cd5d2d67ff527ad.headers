@@ -1,0 +1,12 @@
+GET http://carop.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:55:21 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BbFtBVTZiKCZZjc2NDIzZjhlMGFmNmUwNTJmYzZjNzVjYTQ0NGIz;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: r6PV9Oh8/447oVJVq
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace

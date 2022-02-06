@@ -1,0 +1,17 @@
+GET https://healthcaresolutionscentersllc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=th7jghb0s77tbebuspnrknkrj3; expires=Thu, 03-Mar-2022 23:58:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b3d377ae-b5d1-4496-a20e-59901ed5ea89; expires=Thu, 01-Feb-2024 23:58:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:58:13 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

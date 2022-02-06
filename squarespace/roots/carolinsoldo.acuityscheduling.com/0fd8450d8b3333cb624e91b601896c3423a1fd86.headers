@@ -1,0 +1,17 @@
+GET https://carolinsoldo.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=kr9ka1ng32i4138fipm4j9n4hk; expires=Fri, 04-Mar-2022 00:24:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fdfe34ee-f489-4a9a-b669-d54522d0785f; expires=Fri, 02-Feb-2024 00:24:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:24:56 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent

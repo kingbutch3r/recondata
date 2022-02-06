@@ -1,0 +1,9 @@
+GET http://console.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: application/octet-stream
+< Content-Length: 0
+< Location: https://unfold.com
+< Server: awselb/2.0
+< Date: Wed, 02 Feb 2022 00:54:47 GMT

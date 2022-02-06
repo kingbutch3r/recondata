@@ -1,0 +1,17 @@
+GET https://easyecommercewins.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:35:28 GMT
+< Set-Cookie: PHPSESSID=sue3sjptt0620qkol51nmqu451; expires=Fri, 04-Mar-2022 00:35:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c41c3446-e495-40d1-9a03-8e9b7540bbaa; expires=Fri, 02-Feb-2024 00:35:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0

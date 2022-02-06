@@ -1,0 +1,11 @@
+GET http://jason-hughes-8dj2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 282948
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 18:45:12 GMT
+< Location: https://jason-hughes-8dj2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcEhMe8Oqg07MThlZDJjYjM5Y2EzZTAxNjJlODI4MjlhYzAxN2Vk;Path=/
+< X-Contextid: DB92NUp2/0Os0Rzq9

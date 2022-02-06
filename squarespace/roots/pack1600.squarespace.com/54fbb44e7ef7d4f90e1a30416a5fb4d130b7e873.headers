@@ -1,0 +1,15 @@
+GET http://pack1600.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=Bbx8ltri+r6EYmE3MjlhNjBmNmJkM2VhMmU3ZmJmMmQxOTQxYjdi;Path=/
+< Vary: Accept-Encoding
+< Age: 125062
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Mon, 31 Jan 2022 13:07:27 GMT
+< Etag: W/"ea0b68ca8394d2fa80d8e75ee5ccd692--gzip"
+< Accept-Ranges: bytes
+< Server: Squarespace
+< X-Contextid: Z9ol2IUc/u1fcNBrW

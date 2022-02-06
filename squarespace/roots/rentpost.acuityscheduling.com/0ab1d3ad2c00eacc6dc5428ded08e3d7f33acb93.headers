@@ -1,0 +1,17 @@
+GET https://rentpost.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=eki7b69rupqkl881n9obogch99; expires=Fri, 04-Mar-2022 00:43:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6a085ff5-252e-4942-a1e2-b96dd817fa04; expires=Fri, 02-Feb-2024 00:43:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:43:03 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php

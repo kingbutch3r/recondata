@@ -1,0 +1,17 @@
+GET https://phoneinfridayswithmark.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:16:22 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=06stqbrsnfgkb8oeh1ame5cg7r; expires=Fri, 04-Mar-2022 00:16:21 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0ab13d95-6dd9-466c-bc7b-f78c8453c7ec; expires=Fri, 02-Feb-2024 00:16:22 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

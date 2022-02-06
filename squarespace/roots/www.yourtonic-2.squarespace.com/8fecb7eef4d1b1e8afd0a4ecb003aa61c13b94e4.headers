@@ -1,0 +1,11 @@
+GET https://www.yourtonic-2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: CnqNZuef/QxXj5XPz
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:15 GMT
+< Location: https://yourtonic-2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRLuBUf9/DyIYTdkNzhjZThhYzI2ODQ5ZGMzMzY2NzkyMTM5NzJl;Path=/

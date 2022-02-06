@@ -1,0 +1,15 @@
+GET https://infinityfitness.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=pq8e231fak75ndond9rm5rkj6c; expires=Fri, 04-Mar-2022 00:38:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b10a2e34-8370-47bb-b4bd-1e73096352dc; expires=Fri, 02-Feb-2024 00:38:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:38:47 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8

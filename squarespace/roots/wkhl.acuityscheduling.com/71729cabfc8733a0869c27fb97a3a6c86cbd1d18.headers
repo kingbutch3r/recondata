@@ -1,0 +1,17 @@
+GET https://wkhl.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:17:37 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=cs939u884h17kgfka2h89e93r7; expires=Fri, 04-Mar-2022 00:17:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1d5a690f-54eb-4918-9276-f4b082509ebb; expires=Fri, 02-Feb-2024 00:17:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

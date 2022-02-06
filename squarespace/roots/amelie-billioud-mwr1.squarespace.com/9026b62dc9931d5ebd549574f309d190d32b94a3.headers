@@ -1,0 +1,16 @@
+GET https://amelie-billioud-mwr1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 09:56:34 GMT
+< Set-Cookie: crumb=BY9UGnoLzoW9ZTcwMTM0NDU5OWI3MWUwY2VlZjJjMTgzYzljZTZl;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 312869
+< Etag: W/"62f42ff5dcfc4feb44fe968b3e495b62--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: ygLLPsra/z7UWAPbK
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

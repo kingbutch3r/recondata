@@ -1,0 +1,15 @@
+GET https://sageandsoulhealthcoaching.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:09:44 GMT
+< Set-Cookie: PHPSESSID=ck3ttjpmt9p1ocmcfp6dr4eig9; expires=Fri, 04-Mar-2022 00:09:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=90fe5015-3878-45eb-a7af-9fcccc01d99b; expires=Fri, 02-Feb-2024 00:09:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8

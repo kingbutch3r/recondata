@@ -1,0 +1,13 @@
+GET http://es.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< X-Server: Smartling
+< X-Sl-Notranslate: 1
+< X-Sl-Norewrite: 1
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:31:56 GMT
+< Content-Type: text/html; charset=UTF-8
+< Location: https://es.acuityscheduling.com/

@@ -1,0 +1,19 @@
+GET https://www.harrys.com
+
+
+< HTTP/1.1 301 /en/us
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 17:39:26 GMT
+< X-Timer: S1643477967.633512,VS0,VE1
+< Location: /en/us
+< X-Served-By: cache-bom4723-BOM
+< X-Cache: HIT
+< Strict-Transport-Security: max-age=31536000
+< Server: Varnish
+< Retry-After: 0
+< Via: 1.1 varnish
+< X-Cache-Hits: 0
+< Set-Cookie: h_redirected_from=; Path=/
+< Set-Cookie: h_geoip=IN; Path=/
+< Content-Length: 0
+< X-Frame-Options: DENY

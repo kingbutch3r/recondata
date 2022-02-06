@@ -1,0 +1,16 @@
+GET https://nick-small.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Last-Modified: Wed, 02 Feb 2022 01:23:15 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BawoC+6UNGoBY2E0NmVjNjc4YmZhZGFlZDMzYjFiNDI1NjA5ZmQ2;Path=/
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:23:21 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"577569b6b84be715dd5b70dff41681bd"
+< Vary: Accept-Encoding
+< X-Contextid: Gego8bvA/vu6qEyaH

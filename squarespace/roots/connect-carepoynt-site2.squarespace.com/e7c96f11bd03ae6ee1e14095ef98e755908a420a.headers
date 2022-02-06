@@ -1,0 +1,12 @@
+GET http://connect-carepoynt-site2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:20:09 GMT
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BY88bFPgWlEBNWIyMWI5ZTUxMjZkZTI4NTg5M2VlMDc4YzNmMmJh;Path=/
+< X-Contextid: bTDmaQeb/NqvfRzo1

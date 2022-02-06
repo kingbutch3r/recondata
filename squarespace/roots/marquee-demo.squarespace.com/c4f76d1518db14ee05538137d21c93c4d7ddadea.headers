@@ -1,0 +1,12 @@
+GET https://marquee-demo.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Server: Squarespace
+< X-Contextid: xbQVdq2M/gAUKyIDh
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:22:38 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Cache-Control: no-cache, must-revalidate

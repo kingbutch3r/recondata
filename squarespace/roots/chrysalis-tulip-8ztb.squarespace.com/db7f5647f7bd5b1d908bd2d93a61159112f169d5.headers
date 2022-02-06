@@ -1,0 +1,16 @@
+GET https://chrysalis-tulip-8ztb.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: UhqBNbpY/M5UZlPUq
+< Age: 52974
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 10:19:30 GMT
+< Etag: W/"9cf0164e1d44ec731cb5a62e8bce7c14--gzip"
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYJR5uj5eOLeMzU2MDBkNzhhYTg5ZjNjNDFkZmI5ZjM1N2EwMmFj;Path=/
+< Strict-Transport-Security: max-age=0

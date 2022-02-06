@@ -1,0 +1,11 @@
+GET http://flatiron-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 223501
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 11:21:11 GMT
+< Location: https://flatiron-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BYcxmDFeA4QGNmQzNzEyNGYwY2EyZTNjOGI4YzBhMmY4MjE0M2I3;Path=/
+< X-Contextid: Oyu5l2RW/pHBtYBPg

@@ -1,0 +1,17 @@
+GET https://boss-mom.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=nbn1tfd8e4it0939jfbbjmkvq3; expires=Fri, 04-Mar-2022 00:19:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4ff14799-6f34-4d86-82b5-56e8f61b0ccc; expires=Fri, 02-Feb-2024 00:19:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:19:29 GMT
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0

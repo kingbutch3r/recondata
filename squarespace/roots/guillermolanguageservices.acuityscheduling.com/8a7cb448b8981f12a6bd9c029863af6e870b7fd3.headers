@@ -1,0 +1,17 @@
+GET https://guillermolanguageservices.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=9l02jkhjeudqt0gdqrkorc5q6u; expires=Fri, 04-Mar-2022 00:32:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b0020aca-7310-4090-ac25-ae9d0c692ae7; expires=Fri, 02-Feb-2024 00:32:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:32:05 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

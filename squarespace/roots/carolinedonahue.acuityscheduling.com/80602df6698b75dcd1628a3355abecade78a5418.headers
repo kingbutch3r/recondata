@@ -1,0 +1,17 @@
+GET https://carolinedonahue.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:07:52 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=hf0l4kd1hk3pprbbhduae20egc; expires=Fri, 04-Mar-2022 00:07:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1d7a8887-50de-49bc-8cb7-e935b0d83fce; expires=Fri, 02-Feb-2024 00:07:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

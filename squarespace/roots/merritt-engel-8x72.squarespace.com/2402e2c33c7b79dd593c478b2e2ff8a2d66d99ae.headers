@@ -1,0 +1,11 @@
+GET http://merritt-engel-8x72.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://merritt-engel-8x72.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BY53G7gQT1r5ZmJmODQzZmE4OTc1ZDkwZjYyYmY4MjQ1ZTg1YmQ5;Path=/
+< X-Contextid: RUQnyECW/2qFjlXw0
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:18:16 GMT

@@ -1,0 +1,16 @@
+GET https://onepass-scim.squarespace.net
+
+
+< HTTP/1.1 307 Temporary Redirect
+< Referrer-Policy: no-referrer
+< Request-Id: c7sta79059oinmv6me80
+< X-Xss-Protection: 1; mode=block
+< Content-Length: 41
+< Cache-Control: no-store, private
+< Content-Security-Policy: default-src 'none'; connect-src 'self' https:; script-src 'self'; img-src 'self'; style-src 'self'; frame-ancestors 'none'; form-action 'none'; manifest-src 'self'
+< Location: /app/
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: DENY
+< Date: Wed, 02 Feb 2022 00:49:33 GMT
+< Content-Type: text/html; charset=utf-8
+< Expires: 0

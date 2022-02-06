@@ -1,0 +1,18 @@
+GET https://analytics.krisp.ai
+
+
+< HTTP/1.1 403 Forbidden
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Cf-Ray: 6d6ef6861f1f6ecb-BOM
+< Content-Length: 23
+< X-Amz-Apigw-Id: M4tPeFiFIAMFkLw=
+< X-Amz-Cf-Id: HCKYh8EYSGlBVAB_RE2RaE26jBN7A1hu6z2lB_hoxQdEfu2AnfgHAw==
+< Server: cloudflare
+< X-Amzn-Errortype: ForbiddenException
+< X-Amz-Cf-Pop: BOM51-C2
+< Date: Tue, 01 Feb 2022 23:29:38 GMT
+< Content-Type: application/json
+< X-Amzn-Requestid: 0677167d-c020-44b4-946c-7ebbcfee2de8
+< X-Cache: Error from cloudfront
+< Via: 1.1 80770456312ba85426e0f3af4e996bbc.cloudfront.net (CloudFront)

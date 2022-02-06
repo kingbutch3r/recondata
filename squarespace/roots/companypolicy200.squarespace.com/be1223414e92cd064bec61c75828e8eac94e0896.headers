@@ -1,0 +1,12 @@
+GET https://companypolicy200.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< X-Contextid: pMpkssG3/RMHR5rM5
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:07:09 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache

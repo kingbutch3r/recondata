@@ -1,0 +1,16 @@
+GET https://orange-apricots-6lkg.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: 6Qk809P8/chWrAIxu
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Etag: W/"8d73cb040a3c144d912ef5bfd75a99d4--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Age: 302256
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 13:27:42 GMT
+< Set-Cookie: crumb=BVojFisJGJAMMDY5MWVmOGI5MDdlNTI3ZDA4NGRiNjAyOTNhNjFm;Path=/

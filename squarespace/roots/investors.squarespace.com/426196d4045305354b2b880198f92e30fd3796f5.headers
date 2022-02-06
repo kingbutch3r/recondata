@@ -1,0 +1,18 @@
+GET https://investors.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Vary: Accept-Encoding
+< Cf-Cache-Status: EXPIRED
+< X-Content-Type-Options: nosniff
+< X-Xss-Protection: 1; mode=block
+< Set-Cookie: __cf_bm=gUnCBftq3nrJ0RBInxgxwYO4IkDMHX_P7nf40fUsj2A-1643763297-0-AcbLlUYcgsxP90bC3Y21YCe24hLw3nnkXsmd3l017FtkkwUVvHP2By6q48bkDKW+2DG9DbK4NVNs307LsSZJ6y4=; path=/; expires=Wed, 02-Feb-22 01:24:57 GMT; domain=.investors.squarespace.com; HttpOnly; Secure; SameSite=None
+< Cf-Ray: 6d6f737d38c36efb-BOM
+< Server: cloudflare
+< Date: Wed, 02 Feb 2022 00:54:57 GMT
+< Content-Type: text/html; charset=utf-8
+< Location: /home/default.aspx
+< Cache-Control: public, max-age=120, stale-if-error=86400, stale-while-revalidate=86400
+< Strict-Transport-Security: max-age=31536000
+< X-Frame-Options: SAMEORIGIN
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"

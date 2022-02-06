@@ -1,0 +1,17 @@
+GET https://a7956feecc.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Accept-Ranges: bytes
+< X-Served-By: cache-iad-kjyo7100157-IAD, cache-hnd18736-HND
+< X-Cache-Hits: 0, 0
+< Cache-Control: private
+< Content-Type: text/html
+< X-Cluster-Name: ap-northeast-1-prod-eks-15
+< Via: 1.1 varnish, 1.1 varnish
+< Content-Length: 166
+< Location: https://discover.payoneer.com/
+< X-Cache: MISS, MISS
+< X-Timer: S1643757940.578015,VS0,VE209
+< Server: openresty
+< Date: Tue, 01 Feb 2022 23:25:39 GMT

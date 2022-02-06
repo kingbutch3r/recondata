@@ -1,0 +1,15 @@
+GET https://eathappynutrition.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=ovrevvu73fitk7g3jr2utopcva; expires=Fri, 04-Mar-2022 00:23:21 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1e4ee2b3-587e-477a-aafe-98be42d86122; expires=Fri, 02-Feb-2024 00:23:22 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:23:22 GMT
+< P3p: CP="CAO PSA OUR"

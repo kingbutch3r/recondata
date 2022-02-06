@@ -1,0 +1,17 @@
+GET https://monrendezvousenligne.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=1jb7vi8c383taa5uqulb6035dc; expires=Fri, 04-Mar-2022 00:05:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=aa1663c3-d716-4055-a14e-3dfbc17ba763; expires=Fri, 02-Feb-2024 00:05:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:05:23 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

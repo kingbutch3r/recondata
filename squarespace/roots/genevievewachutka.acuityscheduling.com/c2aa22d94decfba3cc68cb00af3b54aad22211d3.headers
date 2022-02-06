@@ -1,0 +1,17 @@
+GET https://genevievewachutka.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:47 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=c7n2ok5ph2nlcin5n2s6025rvi; expires=Thu, 03-Mar-2022 23:54:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=92609357-d0fd-44e0-b589-c26959340313; expires=Thu, 01-Feb-2024 23:54:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

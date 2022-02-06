@@ -1,0 +1,14 @@
+GET https://iap.unfold.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Origin, Accept-Encoding
+< Content-Length: 19
+< Content-Type: text/plain; charset=utf-8
+< X-Request-Id: c7stcla23akg00c7m5o0
+< X-Served-By: cache-mdw17382-MDW, cache-bom4743-BOM
+< X-Cache: MISS, MISS
+< X-Cache-Hits: 0, 0
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 00:54:45 GMT

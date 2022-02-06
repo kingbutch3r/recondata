@@ -1,0 +1,17 @@
+GET https://jenny-ko.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 98462
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Set-Cookie: crumb=BedPIfvY98V8ZjFjYzJkYTA4YWZhZmVmMTEyNDQ1NWY1ZWM1MzBm;Path=/
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"e548d695a215e104a235addf464dec09--gzip"
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: ravi3bJp/PFKNgway
+< Accept-Ranges: bytes
+< Date: Mon, 31 Jan 2022 21:34:57 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

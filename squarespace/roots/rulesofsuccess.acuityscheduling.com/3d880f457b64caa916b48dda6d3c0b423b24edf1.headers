@@ -1,0 +1,15 @@
+GET https://rulesofsuccess.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=qkh5abj93euqih383bejcob2nr; expires=Fri, 04-Mar-2022 00:37:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b402a792-886c-4b8c-ae3f-3cdf3650896d; expires=Fri, 02-Feb-2024 00:37:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:37:47 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate

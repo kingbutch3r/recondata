@@ -1,0 +1,12 @@
+GET http://guppy-red-sxln.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BRX9OZrycZDgNmI1NDA1YzE4YTkwYTllYmE2MmJlMGFjZmU2MTJi;Path=/
+< Age: 0
+< Location: https://guppy-red-sxln.squarespace.com/
+< Server: Squarespace
+< X-Contextid: mM3YREXE/vWncw48f
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:49:50 GMT

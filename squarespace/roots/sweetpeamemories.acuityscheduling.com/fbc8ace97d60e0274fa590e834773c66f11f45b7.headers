@@ -1,0 +1,17 @@
+GET https://sweetpeamemories.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:32:48 GMT
+< Set-Cookie: PHPSESSID=uev68p7q1s4oqgt8ns0uormbg2; expires=Fri, 04-Mar-2022 00:32:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=23501fc3-493a-4a98-b69d-33d67f6b924c; expires=Fri, 02-Feb-2024 00:32:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

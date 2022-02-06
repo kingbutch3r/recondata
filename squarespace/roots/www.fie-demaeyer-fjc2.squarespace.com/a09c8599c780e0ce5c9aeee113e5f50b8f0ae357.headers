@@ -1,0 +1,11 @@
+GET https://www.fie-demaeyer-fjc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BYgFo5iFFVc2YzlhNzRkMDY2YWNhMjBjMzVmMDYyODA4ZjAwN2Ew;Path=/
+< X-Contextid: z8kNKKTP/gnB1Rtou
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:11 GMT
+< Location: https://fie-demaeyer-fjc2.squarespace.com/

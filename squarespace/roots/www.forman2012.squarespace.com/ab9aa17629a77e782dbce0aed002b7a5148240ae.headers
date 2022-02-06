@@ -1,0 +1,12 @@
+GET http://www.forman2012.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace
+< X-Contextid: uDNt7Dr5/xwRcYxaw
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:16:17 UTC
+< Pragma: no-cache
+< Cache-Control: no-cache, must-revalidate

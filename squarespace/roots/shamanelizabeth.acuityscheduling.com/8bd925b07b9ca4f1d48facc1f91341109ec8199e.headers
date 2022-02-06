@@ -1,0 +1,17 @@
+GET https://shamanelizabeth.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:14:20 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=2ra9ahf1b4svn9qndr5a2pct59; expires=Fri, 04-Mar-2022 00:14:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5daa24bb-18d0-49a0-8677-e6f2d66b00ee; expires=Fri, 02-Feb-2024 00:14:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

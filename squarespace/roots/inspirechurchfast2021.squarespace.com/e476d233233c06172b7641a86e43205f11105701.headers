@@ -1,0 +1,11 @@
+GET http://inspirechurchfast2021.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:50:25 GMT
+< Location: https://inspirechurchfast2021.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bd0IXHGWE2yeMWY3YmE2MTgyOWZiZmM5ZmVkYmM3YzZhMTZmYTQ0;Path=/
+< X-Contextid: EC9bwXZ6/uLoyLXIF
+< Age: 0

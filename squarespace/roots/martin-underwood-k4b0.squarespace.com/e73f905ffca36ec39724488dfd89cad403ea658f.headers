@@ -1,0 +1,16 @@
+GET https://martin-underwood-k4b0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BX6VSlGRBEgQMTJlOTY1YjZiYTI4ZWM5YzRiZjg5OTRhY2Q1MTZj;Path=/
+< Age: 160730
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: mUjzEXmg/2nnFDPyG
+< Etag: W/"498a91245a1e503c76dde39b13659717--gzip"
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 04:11:11 GMT
+< Server: Squarespace

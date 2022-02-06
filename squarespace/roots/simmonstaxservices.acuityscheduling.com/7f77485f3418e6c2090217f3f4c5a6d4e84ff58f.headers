@@ -1,0 +1,17 @@
+GET https://simmonstaxservices.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=esbv8s3mnjnarer54gui5qgcdr; expires=Fri, 04-Mar-2022 00:32:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5c7eef4f-b362-4357-8e10-a60f235e1cbc; expires=Fri, 02-Feb-2024 00:32:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:32:20 GMT
+< Content-Type: text/html; charset=UTF-8

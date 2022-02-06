@@ -1,0 +1,17 @@
+GET https://centreforsurgery.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=t6249k9gfo62h8clbbsm99l8v3; expires=Fri, 04-Mar-2022 00:48:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c7cbcddb-2407-41c8-8f5f-c7c9f0168aa3; expires=Fri, 02-Feb-2024 00:48:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:48:21 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

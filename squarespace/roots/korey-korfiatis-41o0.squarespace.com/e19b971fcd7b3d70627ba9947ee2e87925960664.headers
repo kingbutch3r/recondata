@@ -1,0 +1,11 @@
+GET http://korey-korfiatis-41o0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 425422
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 03:01:52 GMT
+< Location: https://korey-korfiatis-41o0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSX0SHpCB2nqNGViYzY5OGRiNGRiYzU3ZDNhOTU1MDBlOGRjNTE0;Path=/
+< X-Contextid: xL37erSU/je6Y2YHk

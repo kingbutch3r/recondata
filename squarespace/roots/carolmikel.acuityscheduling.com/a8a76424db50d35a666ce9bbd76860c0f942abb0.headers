@@ -1,0 +1,15 @@
+GET https://carolmikel.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=faif7th76uv39pm6mtnn275bbv; expires=Fri, 04-Mar-2022 00:17:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=01f5a6d7-58e2-44f3-9a89-3c7aad3de4ec; expires=Fri, 02-Feb-2024 00:17:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:17:27 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

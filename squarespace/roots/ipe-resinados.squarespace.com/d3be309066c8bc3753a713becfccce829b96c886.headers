@@ -1,0 +1,11 @@
+GET http://ipe-resinados.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 18:46:21 GMT
+< Location: https://ipe-resinados.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWh6qFGiUVATODI1YmI5NjVlZGI1MDgzNWZmZDUwMDAxZmYwODc0;Path=/
+< X-Contextid: QT5UwXW8/AFeaikO1
+< Age: 108932

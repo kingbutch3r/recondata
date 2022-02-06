@@ -1,0 +1,17 @@
+GET https://alexis-santos-h492.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"af1f692093e589a3e36806a65827a122"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 97322
+< Content-Type: text/html;charset=utf-8
+< Accept-Ranges: bytes
+< Last-Modified: Mon, 31 Jan 2022 21:49:51 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: mcLAtDWt/AcuD3YES
+< Date: Mon, 31 Jan 2022 21:49:51 GMT
+< Set-Cookie: crumb=BRj/K6PKn1dyNjY3ZTg1MmFkODU2MWZjZDY3MTYxNjA0YzBmY2Yx;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

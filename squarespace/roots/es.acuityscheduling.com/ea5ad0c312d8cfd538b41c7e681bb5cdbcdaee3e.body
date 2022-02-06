@@ -1,0 +1,1040 @@
+<!DOCTYPE html><html lang="es-LA">
+<head>
+	<script src="//consent.trustarc.com/notice?domain=squarespace.com&amp;c=teconsent&amp;js=nj&amp;noticeType=bb&amp;text=true&amp;pn=2&amp;gtm=1&amp;pcookie" crossorigin="">
+	</script>
+		<!-- Google Tag Manager -->
+<script nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5G77WWT');
+</script>
+<!-- End Google Tag Manager -->
+
+			<!-- Start Visual Website Optimizer Asynchronous Code -->
+		<script nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+		
+		var _vwo_code = (function () {
+			var account_id = 37352,
+				settings_tolerance = 4000,
+				library_tolerance = 4000,
+				use_existing_jquery = false,
+				/* DO NOT EDIT BELOW THIS LINE */
+				f = false, d = document; return {
+					use_existing_jquery: function () { return use_existing_jquery; }, library_tolerance: function () { return library_tolerance; }, finish: function () {
+						if (!f) {
+							f = true; var a = d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var
+			b = d.createElement('script'); b.src = a; b.type = 'text/javascript'
+								; b.innerText; b.onerror = function () { _vwo_code.finish(); }; d.getElementsByTagName('head')[0].appendChild(b);
+						}, init: function() {
+							settings_timer = setTimeout('_vwo_code.finish()', settings_tolerance); var
+								a = d.createElement('style'), b = 'body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}'
+								, h = d.getElementsByTagName('head')[0]; a.setAttribute('id', '_vis_opt_path_hides'); a.setAttribute('type', 'text/css'); if (a.styleSheet) a.styleSheet.cssText = b; else
+								a.appendChild(d.createTextNode(b)); h.appendChild(a); this.load('//dev.visualwebsiteoptimizer.com/j.php?a=' + account_id + '&u=' + encodeURIComponent(d.URL) + '&r=' + Math.random()); return
+							settings_timer;
+						}
+					};
+				}()); _vwo_settings_timer = _vwo_code.init();
+		
+		</script>
+		<!-- End Visual Website Optimizer Asynchronous Code -->
+		<meta charset="UTF-8" />
+	<title>Acuity — Reserva de citas online</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+	<meta name="description" content="Software para programar citas en línea. Los clientes programan sus citas, pagan y completan los formularios de admisión en línea, las 24 horas, todos los días. ¡Regístrate de forma gratuita!" />
+
+	<link rel="preload" href="https://cdn-marketing.acuityscheduling.com/font/Clarkson-Light.woff2" as="font" type="font/woff2" crossorigin="" />
+	<link rel="preload" href="https://cdn-marketing.acuityscheduling.com/font/Clarkson-Medium.woff2" as="font" type="font/woff2" crossorigin="" />
+
+	<link rel="stylesheet" type="text/css" href="https://cdn-marketing.acuityscheduling.com/css/marketingsquarespace.min.css?v=9c2424" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://AcuityScheduling.com" />
+	<meta property="og:title" content="Acuity Scheduling: software para reservar citas online" />
+	<meta property="og:description" content="Los clientes pueden ver tu disponibilidad rápidamente en tiempo real y reservar sus propias citas e, incluso, pagar en línea, reprogramar con un solo clic y eliminar el 100 % de las tareas pesadas. (Condición oficial)." />
+	<meta property="og:image" content="https://cdn-marketing.acuityscheduling.com/img/brand/logo-og.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:url" content="https://AcuityScheduling.com" />
+	<meta name="twitter:title" value="Acuity Scheduling - Online Appointment Scheduling Software" />
+	<meta name="twitter:description" value="Clients can quickly view your real-time availability and self-book their own appointments—and even pay online, reschedule with a click, and eliminate 100% of the drudgery. (Official term.)" />
+	<meta name="twitter:image" content="https://cdn-marketing.acuityscheduling.com/img/brand/logo-og.png" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="theme-color" content="#1B2737" />
+	<meta name="msapplication-navbutton-color" content="#1B2737" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="#1B2737" />
+	<meta name="p:domain_verify" content="8805a28ffef393ccdcacf1cc7d9a2dae" />
+
+	<link href="https://plus.google.com/+AcuityschedulingAppointmentCalendar" rel="publisher" />
+	<!-- TODO: remove -->
+	<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-iphone-6s-7-8.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-iphone-6s-7-8-plus.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-iphone-x-xs.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-iphone-xr.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-iphone-xs-max.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-ipad-mini-9.7.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-ipad-pro-10.5.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-ipad-pro-11.png" />
+	<link rel="apple-touch-startup-image" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" href="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/launch-ipad-pro-12.9.png" />
+	<link href="https://secure.acuityscheduling.com/login.php" rel="prerender" />
+
+	
+		<link rel="canonical" href="https://es.acuityscheduling.com/" /> <style nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">html { display:none; }</style><script nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">if (self === top) { document.documentElement.style.display = 'block'; } else { top.location = self.location; }</script>
+
+	<script type="text/javascript">
+	
+		if (typeof window.amplitude === 'undefined') {
+			(function(e, t) {
+				var n = e.amplitude || { _q: [], _iq: {} };
+				var r = t.createElement("script");
+				r.type = "text/javascript";
+				r.async = true;
+				r.src = "https://cdn.amplitude.com/libs/amplitude-8.9.0-min.gz.js";
+				r.onload = function() {
+					if (e.amplitude.runQueuedFunctions) {
+						e.amplitude.runQueuedFunctions()
+					} else {
+						console.log("[Amplitude] Error: could not load SDK")
+					}
+				}
+				var i = t.getElementsByTagName("script")[0];
+				i.parentNode.insertBefore(r, i);
+
+				function s(e, t) {
+					e.prototype[t] = function() {
+						this._q.push([t].concat(Array.prototype.slice.call(arguments, 0)));
+						return this
+					}
+				}
+
+				var o = function() {
+					this._q = [];
+					return this;
+				}
+				var a = ["add", "append", "clearAll", "prepend", "set", "setOnce", "unset"];
+				for (var u = 0; u < a.length; u++) {
+					s(o, a[u]);
+				}
+				n.Identify = o;
+				var c = function() {
+					this._q = [];
+					return this;
+				}
+				var l = ["setProductId", "setQuantity", "setPrice", "setRevenueType", "setEventProperties"];
+				for (var p = 0; p < l.length; p++) {
+					s(c, l[p]);
+				}
+				n.Revenue = c;
+				var d = ["init", "logEvent", "logRevenue", "setUserId", "setUserProperties", "setOptOut", "setVersionName", "setDomain", "setDeviceId", "setGlobalUserProperties", "identify", "clearUserProperties", "setGroup", "logRevenueV2", "regenerateDeviceId", "groupIdentify", "logEventWithTimestamp", "logEventWithGroups", "setSessionId", "resetSessionId"];
+
+				function v(e) {
+					function t(t) {
+						e[t] = function() {
+							e._q.push([t].concat(Array.prototype.slice.call(arguments, 0)))
+						}
+					}
+
+					for (var n = 0; n < d.length; n++) {
+						t(d[n])
+					}
+				}
+
+				v(n);
+				n.getInstance = function(e) {
+					e = (!e || e.length === 0 ? "$default_instance" : e).toLowerCase()
+					;
+					if (!n._iq.hasOwnProperty(e)) {
+						n._iq[e] = { _q: [] };
+						v(n._iq[e])
+					}
+					return n._iq[e]
+				}
+				e.amplitude = n;
+			})(window, document);
+		}
+		var curSess = 0;
+
+		function createAmplitudeInstance(name, apiKey) {
+			if (!apiKey) return false;
+			amplitude.getInstance(name).init(apiKey, null, {
+				includeUtm: true,
+				includeReferrer: true,
+				includeGclid: true
+			});
+		}
+		var AMPLITUDE_SQUARESPACE = 'squarespace';
+		var AMPLITUDE_ACUITY = 'acuity';
+		createAmplitudeInstance(AMPLITUDE_ACUITY, '5bf377fa898a63e32d803ce376dbf310');
+		createAmplitudeInstance(AMPLITUDE_SQUARESPACE, '5a3ff558f94046c39fc523057b78e7d5');
+	
+</script>
+
+<script type="text/javascript">
+	
+		var WHITELISTED_SQUARESPACE_EVENTS = ["marketing_pricing","marketing_home","marketing_lp","signup","revenue","signup_viewed","User Views Signup","login"];
+		window.analytics = {
+			regenerateDeviceId: function() {
+				amplitude.getInstance(AMPLITUDE_ACUITY).regenerateDeviceId();
+				amplitude.getInstance(AMPLITUDE_SQUARESPACE).regenerateDeviceId();
+			},
+			setUserId: function(userId) {
+				amplitude.getInstance(AMPLITUDE_ACUITY).setUserId(userId);
+				amplitude.getInstance(AMPLITUDE_SQUARESPACE).setUserId(userId);
+			},
+			sendEvent: function(name, properties) {
+				try {
+					if (WHITELISTED_SQUARESPACE_EVENTS.indexOf(name) !== -1 && false !== true ) {
+						window.amplitude.getInstance(AMPLITUDE_SQUARESPACE).logEvent(name, properties)
+					}
+					window.amplitude.getInstance(AMPLITUDE_ACUITY).logEvent(name, properties)
+				} catch (_) {
+					// no-op
+				}
+			},
+			setUserProperties: function(userProperties) {
+				amplitude.getInstance(AMPLITUDE_ACUITY).setUserProperties(userProperties);
+				amplitude.getInstance(AMPLITUDE_SQUARESPACE).setUserProperties(userProperties);
+			}
+		};
+	
+</script>
+	<script src="https://cdn-marketing.acuityscheduling.com/js/tippy.js" nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d"></script>
+	<script src="https://cdn-marketing.acuityscheduling.com/js/swipe.js" nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d"></script>
+	<meta property="og:locale" content="es_LA" />
+</head>
+
+<body class="home smartling-es">
+	
+						
+		<nav class="dark">
+					<a href="/">
+				<img src="https://acuityscheduling.com/img/marketing/squarespace/logo.svg" alt="Acuity Scheduling, una empresa de Squarespace" class="logo-large inversable" id="header-logo" />
+				<img src="https://acuityscheduling.com/img/marketing/squarespace/logo.svg" alt="Squarespace" class="logo-small inversable" />
+			</a>
+							<ul class="nav-menu">
+				<li><a href="/">Inicio</a></li>
+				<li><a href="/signup.php">Precios</a></li>
+				<li><a href="https://support.squarespace.com/hc/articles/360034560592">Ayuda</a></li>
+				<li class="mobile-menu">
+					<a href="#" class="mobile-dropdown">
+						<img src="https://acuityscheduling.com/img/marketing/squarespace/hamburger.svg" alt="Navegación" class="inversable" />
+					</a>
+				</li>
+				<li class="login"><a href="https://es.acuityscheduling.com/login.php?nav=1" data-qa="log-in-link">Iniciar sesión</a></li>
+				<li>
+					<a class="try amp-external" href="/signup.php?action=form&amp;type=professional&amp;freeTrial=1&amp;lite=1&amp;btn=nav" id="sign-up-nav-button">Probar ahora</a>
+				</li>
+			</ul>
+			</nav>
+	
+<script type="text/javascript" nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+
+window.addEventListener('load', function () {
+	$("#loginPopupLink").on("click", (function() {
+		showUrlPopup('login.php?popup=1');
+		return false;
+	}));
+	$(".mobileSiteLink").on("click", (function() {
+		document.location.href = this.href;
+		return false;
+	}));
+}, false);
+
+</script>
+ 
+<div id="open-modal" class="modal-window">
+	<div class="modal-content">
+		<div class="modal-cta-bar">
+			Empieza a reservar tus propias citas hoy <a href="/signup.php?action=form&amp;type=professional&amp;freeTrial=1&amp;lite=1&amp;btn=gallery" class="modal-cta amp-external">Regístrate ahora »</a> o <a href="#" class="modal-close-link">regresa</a>
+		</div>
+		<span title="Cerrar" class="modal-close">✕</span>
+		<div class="iframe-container"></div>
+	</div>
+</div>
+
+<section class="hero">
+	<div class="container-fluid">
+		<div class="hero-content">
+			<h1>Lo único que tienes que hacer es ser puntual.</h1>
+							<h2>Tu asistente en línea que trabaja las 24 horas, todos los días<span> para completar tu agenda.</span></h2>
+						<a id="signup-main-button" class="cta-btn amp-external " data-qa="try-now-button" href="/signup.php?action=form&amp;type=professional&amp;freeTrial=1&amp;lite=1&amp;btn=home-hero">Tómate 2 minutos. Pruébalo ahora</a>
+			<p class="hero-note">
+				Es sencillo y fácil de usar para los usuarios. Sin tarjetas de crédito ni compromisos. <span>¡Te prometemos que te va a encantar!</span>
+			</p>
+		</div>
+	</div>
+</section>
+
+<section class="feature ask">
+	<div class="container-fluid">
+		<div class="feature-container">
+			<div class="feature-image">
+				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/ask.png" srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/ask.png 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/ask@2x.png 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/ask@3x.png 3x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/ask@4x.png 4x" alt="Cliente que está programando una cita para una consulta" />
+			</div>
+			<div class="feature-content">
+				<h2>Nunca vuelvas a preguntar: &quot;¿En qué horario estás disponible?&quot;.</h2>
+				<p>Despídete de las llamadas. Con tu página de reserva de citas personalizada, los clientes pueden ver tu disponibilidad en tiempo real y programar sus citas ellos mismos fácilmente.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="simplicity">
+	<div class="container-fluid">
+		<h2>Simple<br />y potente</h2>
+		<div class="simplicity-container">
+			<div class="simplicity-item">
+				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-control.png" srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-control.png 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-control@2x.png 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-control@3x.png 3x" alt="Tu disponibilidad actualizada" />
+				<div class="simplicity-item-content">
+					<h3>Control de tu disponibilidad las 24 horas, todos los días</h3>
+					<p>Gestiona varias sedes y empleados, muestra a los clientes un calendario específico y deja que Scheduling haga el trabajo por ti.</p>
+				</div>
+			</div>
+			<div class="simplicity-item">
+				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-organize.png" srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-organize.png 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-organize@2x.png 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-organize@3x.png 3x" alt="Texto de la confirmación al cliente" />
+				<div class="simplicity-item-content">
+					<h3>Organiza tu agenda</h3>
+					<p>Tu agenda se adapta automáticamente a las distintas zonas horarias y los clientes pueden cancelar o cambiar sus citas ellos mismos con facilidad. Además, podrás enviarles recordatorios automáticos.</p>
+				</div>
+			</div>
+			<div class="simplicity-item">
+				<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-collect.png" srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-collect.png 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-collect@2x.png 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/screen-collect@3x.png 3x" alt="Formularios de admisión para los clientes" />
+				<div class="simplicity-item-content">
+					<h3>Organiza la información de los clientes</h3>
+					<p>Pide a los clientes que completen formularios al reservar. Así tendrás toda la información que necesites sobre ellos en un solo lugar.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<a id="example-sites" name="example-sites"></a>
+<section class="adapt">
+	<div class="container-fluid">
+		<div class="intro">
+			<h2>Se adapta a <span>cualquier negocio</span></h2>
+			<p>Mira estos negocios (falsos) para descubrir las funciones (realmente) potentes a las que tus clientes pueden acceder.</p>
+		</div>
+
+		<div class="site-controls">
+			<div class="site-controls-content">
+				<p><span class="current-page-number">0<span class="current-page"></span></span> / 0<span class="total-pages"></span></p>
+				<div class="control-arrows">
+					<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/left.svg" alt="Ejemplo anterior" class="left-arrow-carousel" />
+					<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/right.svg" alt="Próximo ejemplo" class="right-arrow-carousel" />
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="example-sites-container">
+		<div class="container-fluid">
+			<div class="sites">
+				<div class="sites-scrollable">
+					<div class="example-site">
+						<span url="https://carnation-cardioid-znps.squarespace.com/" class="load-iframe-03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d"><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/site-llama-ste.svg" alt="Llama-ste Yoga" /></span>
+						<ul class="carousel-features-0">
+							<li>Clases</li>
+							<li>Sesiones privadas</li>
+						</ul>
+					</div>
+					<div class="example-site">
+						<span url="https://sponge-dachshund-jd56.squarespace.com/" class="load-iframe-03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d"><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/site-gavins-goodies.svg" alt="Gavin's Goodies" /></span>
+						<ul class="carousel-features-1">
+							<li>Plantilla diaria</li>
+							<li>Entrevistas en persona</li>
+						</ul>
+					</div>
+					<div class="example-site">
+						<span url="https://fife-hawk-s476.squarespace.com/" class="load-iframe-03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d"><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/site-whiskey-business.svg" alt="Whiskey Business" /></span>
+						<ul class="carousel-features-2">
+							<li>Series de clases</li>
+							<li>Talleres</li>
+						</ul>
+					</div>
+					<div class="example-site">
+						<span url="https://pelican-orb-pnxf.squarespace.com/" class="load-iframe-03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d"><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/site-under-pressure.svg" alt="Under Pressure" /></span>
+						<ul class="carousel-features-3">
+							<li>Suscripciones</li>
+							<li>Vales regalo</li>
+						</ul>
+					</div>
+					<div class="example-site">
+						<span url="https://clover-trombone-al4y.squarespace.com/home" class="load-iframe-03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d"><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/site-schooner-coaching.svg" alt="Schooner Coaching" /></span>
+						<ul class="carousel-features-4">
+							<li>Plantilla mensual</li>
+							<li>Nuevos y habituales</li>
+						</ul>
+					</div>
+				</div>
+
+				<script nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+					
+					var loadIframes = document.getElementsByClassName("load-iframe-03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d");
+					for (var i = 0; i < loadIframes.length; i++) {
+						var url = loadIframes[i].getAttribute('url');
+						loadIframes[i].addEventListener('click', function() { loadIframe(this) }.bind(url));
+					}
+					
+				</script>
+
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="testimonial">
+	<div class="container-fluid">
+		<div class="testimonial-container">
+			<figure class="testimonial-quote">
+				<blockquote>&quot;Cuando empecé, recibía clientes que venían a mí no por mi experiencia, sino porque era más sencillo reservar citas conmigo&quot;</blockquote>
+				<figcaption>Kim, Peace and Healing for Women</figcaption>
+			</figure>
+		</div>
+	</div>
+</section>
+
+
+<section class="feature-list">
+	<div class="container-fluid">
+		<div class="intro">
+			<h2>Mucho más que una <span>herramienta de reserva de citas.</span></h2>
+			<p>Es un sistema cohesivo y fácil de usar para los usuarios que te permite <span>gestionar tu negocio de principio a fin.</span></p>
+		</div>
+	</div>
+	<div class="container-fluid">
+		<div class="feature-list-features swipe" id="slider">
+			<div class="swipe-wrap">
+				<div class="feature-item feature-0 feature-active"><span class="feature-list-number">01</span> <span class="feature-list-name">Sincroniza tus calendarios</span> <span class="feature-list-content">y recibe notificaciones sobre las nuevas reservas.</span></div>
+<div class="feature-item feature-1"><span class="feature-list-number">02</span> <span class="feature-list-name">Acepta pagos en línea</span> <span class="feature-list-content">mediante las integraciones con Stripe, Square o PayPal.</span></div>
+<div class="feature-item feature-2"><span class="feature-list-number">03</span> <span class="feature-list-name">Ofrece más que citas,</span> <span class="feature-list-content">por ejemplo, vales regalo, paquetes, membresías o clases grupales.</span></div>
+<div class="feature-item feature-3"><span class="feature-list-number">04</span> <span class="feature-list-name">Ten confianza</span> <span class="feature-list-content">sabiendo que la información del cliente es privada, de acuerdo con las disposiciones de la HIPAA.</span></div>
+<div class="feature-item feature-4"><span class="feature-list-number">05</span> <span class="feature-list-name">Reduce las ausencias sin aviso</span> <span class="feature-list-content">enviando recordatorios por correo electrónico y mensajes de texto a los clientes.</span></div>
+<div class="feature-item feature-5"><span class="feature-list-number">06</span> <span class="feature-list-name">Reúnete con los clientes en cualquier lugar</span> <span class="feature-list-content">gracias a las integraciones con sistemas de videoconferencias.</span></div>
+<div class="feature-item feature-6"><span class="feature-list-number">07</span> <span class="feature-list-name">Comparte fácilmente tu calendario</span> <span class="feature-list-content">en Facebook, Instagram, tu sitio web o por correo electrónico.</span></div>
+<div class="feature-item feature-7"><span class="feature-list-number">08</span> <span class="feature-list-name">Personaliza todo</span> <span class="feature-list-content">para que coincida con tu experiencia de marca.</span></div>			</div>
+		</div>
+		<div class="feature-list-features large-list">
+			<div class="feature-item feature-0 feature-active"><span class="feature-list-number">01</span> <span class="feature-list-name">Sincroniza tus calendarios</span> <span class="feature-list-content">y recibe notificaciones sobre las nuevas reservas.</span></div>
+<div class="feature-item feature-1"><span class="feature-list-number">02</span> <span class="feature-list-name">Acepta pagos en línea</span> <span class="feature-list-content">mediante las integraciones con Stripe, Square o PayPal.</span></div>
+<div class="feature-item feature-2"><span class="feature-list-number">03</span> <span class="feature-list-name">Ofrece más que citas,</span> <span class="feature-list-content">por ejemplo, vales regalo, paquetes, membresías o clases grupales.</span></div>
+<div class="feature-item feature-3"><span class="feature-list-number">04</span> <span class="feature-list-name">Ten confianza</span> <span class="feature-list-content">sabiendo que la información del cliente es privada, de acuerdo con las disposiciones de la HIPAA.</span></div>
+<div class="feature-item feature-4"><span class="feature-list-number">05</span> <span class="feature-list-name">Reduce las ausencias sin aviso</span> <span class="feature-list-content">enviando recordatorios por correo electrónico y mensajes de texto a los clientes.</span></div>
+<div class="feature-item feature-5"><span class="feature-list-number">06</span> <span class="feature-list-name">Reúnete con los clientes en cualquier lugar</span> <span class="feature-list-content">gracias a las integraciones con sistemas de videoconferencias.</span></div>
+<div class="feature-item feature-6"><span class="feature-list-number">07</span> <span class="feature-list-name">Comparte fácilmente tu calendario</span> <span class="feature-list-content">en Facebook, Instagram, tu sitio web o por correo electrónico.</span></div>
+<div class="feature-item feature-7"><span class="feature-list-number">08</span> <span class="feature-list-name">Personaliza todo</span> <span class="feature-list-content">para que coincida con tu experiencia de marca.</span></div>		</div>
+		<div class="feature-list-mobile-controls">
+			<span data-item="0" class="mobile-carousel-dot mobile-carousel-0 mobile-carousel-dot-active"></span>
+			<span data-item="1" class="mobile-carousel-dot mobile-carousel-1"></span>
+			<span data-item="2" class="mobile-carousel-dot mobile-carousel-2"></span>
+			<span data-item="3" class="mobile-carousel-dot mobile-carousel-3"></span>
+			<span data-item="4" class="mobile-carousel-dot mobile-carousel-4"></span>
+			<span data-item="5" class="mobile-carousel-dot mobile-carousel-5"></span>
+			<span data-item="6" class="mobile-carousel-dot mobile-carousel-6"></span>
+			<span data-item="7" class="mobile-carousel-dot mobile-carousel-7"></span>
+		</div>
+	</div>
+</section>
+
+<section class="integration-apps">
+	<div class="container-fluid">
+		<h2>Intégralo con potentes aplicaciones de terceros</h2>
+		<ul>
+			<li><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/logo-stripe.svg" alt="Integración con Stripe" /></li>
+			<li><img style="max-width:100%" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/logo-square-white.png" alt="Integración con Square" /></li>
+			<li><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/logo-zapier.svg" alt="Integración con Zapier" /></li>
+			<li><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/logo-paypal.svg" alt="Integración con PayPal" /></li>
+			<li><img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/logo-ga.svg" alt="Integración con Google Analytics" /></li>
+		</ul>
+	</div>
+</section>
+
+<section class="feature support">
+	<div class="container-fluid">
+		<div class="feature-container">
+			<div class="feature-image">
+					<img src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support.jpg" srcset="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support.jpg 1x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support@2x.jpg 2x, https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/support@3x.jpg 3x" alt="Notificaciones con tu marca enviadas a los clientes y a ti" />
+			</div>
+			<div class="feature-content">
+				<h2>Conocer tu nombre es solo el comienzo</h2>
+				<p>Nuestro excelente equipo de Atención al Cliente ofrece ayuda a más de 100 000 empresas. No importa lo que necesites: estamos a tu disposición para ayudarte a conquistar el mundo con cada conversación.</p>
+				<div class="links">
+					<a href="https://support.squarespace.com/hc/articles/360034560592">Visita nuestro Centro de ayuda</a>
+					<a href="https://support.squarespace.com/hc/en-us/requests/new">Contacta con Atención al Cliente</a>
+					<a href="https://learning.squarespace.com/webinars">Regístrate en un webinar</a>
+					<a href="/blog">Blog</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+<script nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+	
+	function makeSwipeable() {
+		var element = document.getElementById('slider');
+		window.swiper = new Swipe(element, {
+			startSlide: 0,
+			auto: 5000,
+			draggable: true,
+			continuous: true,
+			disableScroll: true,
+			stopPropagation: true,
+			transitionEnd: function(index, element) {
+				var nextItemIndex = index;
+				var currentActiveElement = document.getElementsByClassName('mobile-carousel-dot-active')[0];
+				var currentActiveIndex = currentActiveElement.getAttribute('data-item');
+
+				// Dots
+				currentActiveElement.classList.remove('mobile-carousel-dot-active');
+				document.getElementsByClassName('mobile-carousel-' + nextItemIndex)[0].classList.add('mobile-carousel-dot-active');
+				// Content
+				document.getElementsByClassName('feature-' + currentActiveIndex)[0].classList.remove('feature-active')
+				document.getElementsByClassName('feature-' + nextItemIndex)[0].classList.add('feature-active')
+			}
+		});
+	}
+	makeSwipeable();
+
+	function initCarousel() {
+		var leftArrow = document.getElementsByClassName('left-arrow-carousel')[0];
+		var rightArrow = document.getElementsByClassName('right-arrow-carousel')[0];
+
+		// Set total example sites
+		var exampleSites = document.getElementsByClassName('example-site');
+		var totalExampleSites = exampleSites.length;
+		var totalPagesElem = document.getElementsByClassName('total-pages')[0];
+		totalPagesElem.innerHTML = totalExampleSites
+
+		// Set current page
+		var sitesContainerElem = document.getElementsByClassName('sites-scrollable')[0];
+		var siteWidth = exampleSites[0].offsetWidth;
+		var currentPageElem = document.getElementsByClassName('current-page')[0];
+		var page = 0;
+		currentPageElem.innerHTML = page + 1;
+
+		function goToPage(e, page) {
+			e.preventDefault();
+			sitesContainerElem.scrollLeft = siteWidth * page;
+			currentPageElem.innerHTML = page + 1;
+		}
+
+		// Change pages
+		leftArrow.addEventListener("click", function() {
+			if (page === 0) {
+				page = totalExampleSites - 1;
+			} else {
+				page -= 1;
+			}
+			sitesContainerElem.scrollLeft = siteWidth * page;
+			currentPageElem.innerHTML = page + 1;
+		});
+
+		rightArrow.addEventListener("click", function() {
+			if (page === totalExampleSites - 1) {
+				page = 0;
+			} else {
+				page += 1;
+			}
+			sitesContainerElem.scrollLeft = siteWidth * page;
+			currentPageElem.innerHTML = page + 1;
+		});
+	}
+	initCarousel();
+
+	function updateLocation(name) {
+		var hash = '#' + name;
+		if (typeof history != 'undefined' && history.pushState) {
+			history.pushState(null, null, hash);
+		} else {
+			location.hash = hash;
+		}
+	}
+
+	document.getElementsByClassName('modal-close')[0].addEventListener('click', function(ev) {
+		close();
+		updateLocation('')
+	});
+
+	document.getElementsByClassName('modal-close-link')[0].addEventListener('click', function(ev) {
+		ev.preventDefault();
+		close();
+		updateLocation('')
+	});
+
+	function close() {
+		document.getElementsByTagName('html')[0].style.overflow = 'auto';
+		document.getElementsByClassName('modal-window-visible')[0].classList.remove('modal-window-visible');
+	}
+
+	function loadIframe(url, doNotPush) {
+		if (!doNotPush) {
+			updateLocation(url);
+		}
+		analytics.sendEvent("gallery_viewed", {url: url});
+		document.getElementsByTagName('body')[0].style.overflow = 'hidden';
+		document.getElementsByTagName('html')[0].style.overflow = 'hidden';
+		document.getElementsByClassName('modal-window')[0].classList.add('modal-window-visible');
+		document.getElementsByClassName('iframe-container')[0].innerHTML = '<iframe src="'+url+'" class="home-gallery-iframe"></iframe>';
+	}
+
+	analytics.sendEvent('marketing_home', {
+		variation: 'redesign20',
+		language: 'es-ES',
+	});
+	
+</script>
+
+<footer>
+		<div class="container">
+							<div class="language">
+					<div class="language-selector-container">
+                        						<a href="https://acuityscheduling.com/language-select.php" class="sl_norewrite" id="marketing-domain"></a>
+						<select class="language-selector">
+																						<option value="en-US">Inglés</option>
+															<option value="de-DE">Alemán</option>
+															<option value="es-ES" selected="selected">Español</option>
+															<option value="fr-FR">Français</option>
+															<option value="it-IT">Italiano</option>
+															<option value="pt-BR">Português</option>
+													</select>
+						<span class="arrow">↓</span>
+					</div>
+				</div>
+
+				<div class="nav-container">
+					<div class="footer-links-container quick-links" id="quick-links">
+						<div class="footer-link-title">
+							<h3>Enlaces rápidos</h3>
+							<div class="footer-links-nav-item-button" role="button" data-item="quick-links">
+								<img data-item="quick-links" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/down.svg" alt="Ampliar" />
+							</div>
+						</div>
+						<div class="footer-links">
+                            <ul>
+	<li><a href="/">Inicio</a></li>
+	<li><a href="/signup.php">Planes y registro</a></li>
+	<li><a href="https://support.squarespace.com/hc/articles/360034560592">Ayuda</a></li>
+		<li><a href="https://es.acuityscheduling.com/login.php">Inicio de sesión</a></li>
+	<li><a href="https://developers.acuityscheduling.com/">Documentación de la API</a></li>
+	<li><a href="https://www.squarespace.com/privacy">Política de privacidad y de cookies </a></li>
+	<li><a href="https://www.squarespace.com/terms-of-service">Condiciones de Uso</a></li>
+	<li><a href="http://status.acuityscheduling.com/" target="_blank">Estado del servicio</a></li>
+	<li><a href="https://www.squarespace.com/?utm_source=acuityscheduling.com&amp;utm_medium=referral&amp;utm_campaign=homepage&amp;utm_content=footer" target="_blank">Crea una página web atractiva »</a></li>
+	<li><div id="teconsent"></div></li>
+</ul>						</div></div>
+
+					<div class="footer-links-container follow-links" id="follow-links">
+						<div class="footer-link-title">
+							<h3>Síguenos</h3>
+							<div class="footer-links-nav-item-button" role="button" data-item="follow-links">
+								<img data-item="follow-links" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/down.svg" alt="Ampliar" />
+							</div>
+						</div>
+						<div class="footer-links">
+                            <ul>
+	<li><a href="https://www.squarespace.com/blog/tag/Scheduling" alt="Squarespace Scheduling Blog">Blog</a></li>
+	<li><a href="https://www.instagram.com/squarespace/" alt="Squarespace en Instagram">Instagram</a></li>
+	<li><a href="https://www.facebook.com/squarespace/" alt="Squarespace en Facebook">Facebook</a></li>
+	<li><a href="https://twitter.com/squarespace" alt="Squarespace en Twitter">Twitter</a></li>
+</ul>
+						</div>
+					</div>
+
+					<div class="footer-links-container stay-in-touch" id="stay-in-touch">
+						<div class="footer-link-title">
+							<h3>Contacta con nosotros</h3>
+							<div class="footer-links-nav-item-button" role="button" data-item="stay-in-touch">
+								<img data-item="stay-in-touch" src="https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/v3/down.svg" alt="Ampliar" />
+							</div>
+						</div>
+						<div class="footer-links stay-in-touch">
+                            <ul>
+	<li><a href="https://support.squarespace.com/hc/requests/new">Contactar con Acuity Scheduling</a></li>
+</ul>						</div>
+					</div>
+				</div>
+
+					</div>
+
+		<p class="tagline">
+			<a href="https://www.squarespace.com/?source=acuityfooter" target="_blank">
+				<img src="https://acuityscheduling.com/img/marketing/squarespace/logo.svg" alt="Acuity Scheduling, una empresa de Squarespace" class="logo-large" />
+				<img src="https://acuityscheduling.com/img/marketing/squarespace/logo.svg" alt="Acuity Scheduling, una empresa de Squarespace" class="logo-small" />
+			</a>
+</p></footer>
+
+<script src="https://cdn-marketing.acuityscheduling.com/js/jquery-3.6.0.min.js" id="jqueryLoad" defer=""></script>
+<script nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+	
+	function initNav() {
+		var siteNav = document.querySelector("nav");
+		var referralBlock = document.getElementsByClassName("referral-offer")[0];
+		if (referralBlock) {
+				siteNav.style.top = referralBlock.offsetHeight  + 'px';
+				document.body.style.paddingTop = referralBlock.offsetHeight + 'px';
+		}
+
+		var navMenu = document.getElementsByClassName('nav-menu')[0];
+		if (!navMenu) return false;
+		tippy('.mobile-menu', {
+				interactive: true,
+				content: navMenu.outerHTML,
+				arrow: true,
+				placement: 'bottom-end',
+				trigger: 'click'
+		});
+
+		var mobileDropdown = document.getElementsByClassName('mobile-dropdown')[0];
+		mobileDropdown.addEventListener('click', function(e) { e.preventDefault() });
+		var logo = document.getElementsByClassName('logo-image')[0];
+		var inversable = document.getElementsByClassName('inversable');
+
+		window.onscroll = function() {
+			"use strict";
+
+			const headerNavIsDark = document.querySelector('nav.dark');
+
+			if (document.body.scrollTop >= 40 || document.documentElement.scrollTop >= 40) {
+				if (referralBlock) {
+					referralBlock.style.display = 'none';
+				}
+				siteNav.classList.add("nav-scrolled");
+				if (!siteNav.classList.contains('dark')) {
+					[].forEach.call(inversable, function(item) {
+						item.src = item.src.replace('_inverse', '');
+					});
+				}
+				siteNav.style.top = "0";
+			} else {
+				if (referralBlock) {
+					referralBlock.style.display = 'block';
+				}
+
+				siteNav.classList.remove("nav-scrolled");
+
+				[].forEach.call(inversable, function(item) {
+					if (!siteNav.classList.contains('dark') && !item.src.includes('_inverse')) {
+						item.src = item.src.replace('.svg', '_inverse.svg');
+					}
+				});
+				if (referralBlock) {
+					siteNav.style.top = referralBlock.offsetHeight + 'px';
+				}
+			}
+		};
+	}
+	initNav();
+
+function deferLoaded() {
+	$(document).ready(function(){
+
+		//loadIframeInitially();
+
+		// Pseudo selectors for mobile
+		$('a, input[type=submit]').on('touchstart', function (){});
+
+	// Signup
+		$(window).on("resize",function() {
+			if ($('.feature-break-wrap').length == 0) {
+				return;
+			}
+
+			var stickyOffset = $('.feature-break-wrap').offset().top;
+			var headerHieght = $('nav').outerHeight();
+
+			$(window).scroll(function(){
+				var sticky = $('.feature-break'),
+						scroll = $(window).scrollTop();
+
+				if (scroll >= stickyOffset - headerHieght) {
+					sticky.addClass('fixed');
+				} else {
+					sticky.removeClass('fixed');
+				}
+			});
+
+			var stickyadOffset = $('.table-section:nth-of-type(2) .row:last-of-type').offset().top;
+			var featureHieght = $('.feature-break').outerHeight();
+			$(window).scroll(function(){
+				var stickyad = $('.feature-break'),
+						scrollad = $(window).scrollTop();
+
+				if (scrollad >= stickyadOffset - featureHieght) {
+					stickyad.removeClass('fixed');
+				}
+			});
+
+
+			if ($(window).width() > 670) {
+				$('.plan-f,.plan-ee, .plan-gb, .plan-pp').css("display","block");
+				$('.th-row').css('width','28%');
+				$('.cell').css('width','18%');
+			} else {
+
+				if ($('.toggle-plan-f').hasClass("mobile-table-nav-active")) {
+					$('.plan-ee, .plan-gb, .plan-pp').css("display","none");
+				}
+
+				if ($('.toggle-plan-ee').hasClass("mobile-table-nav-active")) {
+					$('.plan-f, .plan-gb, .plan-pp').css("display","none");
+				}
+
+				if ($('.toggle-plan-gb').hasClass("mobile-table-nav-active")) {
+					$('.plan-f, .plan-ee, .plan-pp').css("display","none");
+				}
+
+				if ($('.toggle-plan-pp').hasClass("mobile-table-nav-active")) {
+					$('.plan-f, .plan-ee, .plan-gb').css("display","none");
+				}
+				//$('.plan-ee, .plan-gb, .plan-pp').css("display","none");
+				$('.th-row').css('width','50%');
+				$('.cell').css('width','50%');
+			}
+		}).resize();
+
+		$('.toggle-plan-f').on("click", function(e){
+			$(this).addClass('mobile-table-nav-active');
+			$('.toggle-plan-ee,.toggle-plan-gb,.toggle-plan-pp').removeClass('mobile-table-nav-active');
+			$('.plan-f').css("display","block");
+			$('.plan-ee, .plan-gb, .plan-pp').css("display","none");
+			$('.mobile-table p a').attr("href", "#free").text('Free Signup >');
+			e.preventDefault();
+		});
+
+		$('.toggle-plan-ee').on("click", function(e){
+			$(this).addClass('mobile-table-nav-active');
+			$('.toggle-plan-f,.toggle-plan-gb,.toggle-plan-pp').removeClass('mobile-table-nav-active');
+			$('.plan-ee').css("display","block");
+			$('.plan-f, .plan-gb, .plan-pp').css("display","none");
+			$('.mobile-table p a').attr("href", "#emerging").text('Start Free 7-day Trial >');
+			e.preventDefault();
+		});
+
+		$('.toggle-plan-gb').on("click", function(e){
+			$(this).addClass('mobile-table-nav-active');
+			$('.toggle-plan-f,.toggle-plan-ee,.toggle-plan-pp').removeClass('mobile-table-nav-active');
+			$('.plan-gb').css("display","block");
+			$('.plan-f, .plan-ee, .plan-pp').css("display","none");
+			$('.mobile-table p a').attr("href", "#growing").text('Start Free 7-day Trial >');
+			e.preventDefault();
+		});
+
+		$('.toggle-plan-pp').on("click", function(e){
+			$(this).addClass('mobile-table-nav-active');
+			$('.toggle-plan-f,.toggle-plan-ee,.toggle-plan-gb').removeClass('mobile-table-nav-active');
+			$('.plan-pp').css("display","block");
+			$('.plan-f, .plan-ee, .plan-gb').css("display","none");
+			$('.mobile-table p a').attr("href", "#power").text('Start Free 7-day Trial >');
+			e.preventDefault();
+		});
+	});
+}
+
+// Load jQuery onload
+if (document.getElementById('jqueryLoad')) {
+	document.getElementById('jqueryLoad').onload = function() {
+		deferLoaded();
+	};
+}
+
+
+</script>
+
+<!-- VWO to Amplitude -->
+<script type="text/javascript" nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+
+(function() {
+	window.VWO = window.VWO || [];
+	window.integrationCallbacks = window.integrationCallbacks || [];
+
+	var identify = null,
+		config = {
+			campaignTypesToPushDataFor: [
+				'VISUAL_AB', // AB Campaign
+				'VISUAL', // MVT Campaign
+				'SPLIT_URL', // Split Campaign
+				'SURVEY' // Survey Campaign
+			]
+		};
+
+	window.integrationCallbacks.push({
+			callback: function (campaignData, isABatchProcessed) {
+					// Amplitude Integration code follows
+					identify = identify || new window.amplitude.Identify();
+					var amplitude = window.amplitude;
+
+					// Once a campaign is processed
+					if (campaignData) {
+							identify.set('VWO-Test-ID-' + campaignData.id, campaignData.combinationName);
+					} else if (isABatchProcessed) { // When all campaigns are processed
+							amplitude.getInstance(AMPLITUDE_ACUITY).identify(identify);
+							amplitude.getInstance(AMPLITUDE_ACUITY).logEvent('VWO');
+							//To handle SPA, and avoid logging of events multiple times where, on url change
+							//amplitude does not loses context of campaigns from previous page.
+							identify = null;
+					}
+			},
+			apiAvailabilityCheck: function () {
+					return window.amplitude;
+			}
+	});
+
+	//DO NOT CHANGE BELOW THIS LINE
+	var integrationCallbacks = window.integrationCallbacks,
+		tryPushingDataTimer;
+
+	// Poll for the integration library API and then call the callback to send data
+	function checkAndIntegrate(apiAvailabilityCheck, callback, campaignMetaInfo, isABatchProcessed) {
+		if (!callback) {
+				throw 'callback not defined';
+		}
+		var timeout = 1;
+		if (!apiAvailabilityCheck()) {
+			clearTimeout(tryPushingDataTimer);
+			tryPushingDataTimer = setTimeout(function() {
+				checkAndIntegrate(apiAvailabilityCheck, callback, campaignMetaInfo, isABatchProcessed);
+			}, timeout);
+			return;
+		}
+		if (isABatchProcessed) {
+		 setTimeout(function () {
+				 callback(campaignMetaInfo, isABatchProcessed);
+		 }, timeout);
+		} else {
+				callback(campaignMetaInfo, isABatchProcessed);
+		}
+	}
+
+	function whenABatchProcessed() {
+		for (var i = 0; i < integrationCallbacks.length; i++) {
+				checkAndIntegrate(integrationCallbacks[i].apiAvailabilityCheck, integrationCallbacks[i].callback, null, true);
+		}
+	}
+
+	var debouncedWhenABatchProcessed;
+
+	window.VWO.push([
+		'onVariationApplied',
+		function(data) {
+			try {
+				var campaignId = data[1],
+					campaignDetailedInfo = window._vwo_exp[campaignId],
+					combinationChosen = data[2];
+
+				var campaignMetaInfo = {
+					id: data[1],
+					type: campaignDetailedInfo.type,
+					combinationName: campaignDetailedInfo.comb_n[combinationChosen]
+				};
+
+				debouncedWhenABatchProcessed = debouncedWhenABatchProcessed || VWO._.utils.debounce(function () {
+						whenABatchProcessed();
+				}, 1);
+
+				if (
+					typeof combinationChosen !== 'undefined' &&
+					config.campaignTypesToPushDataFor.indexOf(campaignMetaInfo.type) > -1
+				) {
+					 for (var i = 0; i < integrationCallbacks.length; i++) {
+								checkAndIntegrate(integrationCallbacks[i].apiAvailabilityCheck, integrationCallbacks[i].callback, campaignMetaInfo);
+						}
+						debouncedWhenABatchProcessed();
+				}
+			} catch (e) {}
+		}
+	]);
+})();
+
+</script>
+<!-- End VWO to Amplitude -->
+
+				<script type="text/javascript">
+		
+		typeof dataLayer !== 'undefined' && dataLayer.push({
+			event: 'impact.load',
+			impactIdentifyData: {
+				impactId: '',
+				impactEmail: ''
+			}
+		});
+		
+	</script>
+				<script type="text/javascript">
+			
+				typeof dataLayer !== 'undefined' && dataLayer.push({
+					event: 'impact.generateClickId',
+					impactDomain: 'acuityscheduling.com'
+				});
+			
+		</script>
+	
+<script type="text/javascript" nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+
+var sessLog = function () {
+	if (typeof amplitude.getInstance(AMPLITUDE_ACUITY).getSessionId === 'function') {
+		(new Image()).src = '/help.php?action=sess&amplitude_sess=' + amplitude.getInstance(AMPLITUDE_ACUITY).getSessionId();
+	} else {
+		setTimeout(sessLog, 200);
+	}
+}
+sessLog();
+
+
+</script>
+
+	<script type="text/javascript" nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+		(new Image()).src = '/help.php?action=sess&test_server=1&amplitude_sess=' + Date.now();
+	</script>
+
+<script type="text/javascript" nonce="03adeaf44388365512775fd805a44bbaeb7355b94df7034517d9c4de99cf0de720a71ea59ee0533e8c3c7e18a0f866282a83540de65eeffb45f279823f6a653d">
+
+	var languageSelector = document.getElementsByClassName("language-selector")[0];
+	languageSelector.addEventListener("change", function() {
+		var path = window.location.pathname;
+		var lang = languageSelector.value;
+		var marketingDomain = document.getElementById('marketing-domain').href;
+		window.location.replace(marketingDomain + '?lang=' + lang + '&back=' + path);
+	});
+
+
+document.querySelectorAll('.footer-links-nav-item-button').forEach(function (item) {
+	item.addEventListener('click', function(event) {
+		var link = event.target.getAttribute('data-item');
+		var clickedElement = document.getElementById(link);
+
+		if (clickedElement.classList.contains('active')) {
+			clickedElement.classList.remove('active');
+		} else {
+			clickedElement.classList.add('active');
+		}
+	});
+});
+
+</script>
+
+<script type="text/javascript">
+	
+	(function() {
+		var buttonIds = [
+			{ id: 'signup-main-button', type: 'generic-center' },
+			{ id: 'sign-up-nav-button', type: 'generic-nav-bar' },
+			{ id: 'free-signup-button', type: 'pricing-page-free' },
+			{ id: 'emerging-signup-button', type: 'pricing-page-emerging' },
+			{ id: 'growing-signup-button', type: 'pricing-page-growing' },
+			{ id: 'powerhouse-signup-button', type: 'pricing-page-powerhouse' }
+		];
+		buttonIds.forEach(function(item) {
+			var button = document.getElementById(item.id)
+			if (!button) return;
+			button.addEventListener('click', function() {
+				analytics.sendEvent('User Clicks Trial CTA', { type: item.type });
+			});
+		});
+	})();
+	
+</script>
+
+<!-- TrustArc -->
+<div id="consent_blackbar" style="z-index: 200; position: fixed; bottom: 0; width: 100%;"></div>
+</body>
+</html>

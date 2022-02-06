@@ -1,0 +1,16 @@
+GET https://kapsi.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Etag: W/"ba1e251156308b07187d1799ec5367d4--gzip"
+< Set-Cookie: crumb=BWuuoBPJFJsNODczZmVmMWE3YzFhOGNiZGQxZmQ1M2Q0ZjZjODZl;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: Ehet4Ncv/5geAlKto
+< Age: 166252
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 02:44:14 GMT

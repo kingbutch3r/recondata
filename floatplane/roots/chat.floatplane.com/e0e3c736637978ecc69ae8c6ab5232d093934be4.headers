@@ -1,0 +1,16 @@
+GET https://chat.floatplane.com
+
+
+< HTTP/1.1 404 Not Found
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Cf-Ray: 6d652adb18d62e16-BOM
+< Date: Mon, 31 Jan 2022 18:57:44 GMT
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 9
+< Set-Cookie: sails.sid=s%3AaDIGe6es4ibpm0g0j0FPWLATbjemJr6b.YEIYc2D4Dx9R6dwrjHzGU%2Bqkgns92zowQpSoWqBJuBs; Domain=floatplane.com; Path=/; Expires=Mon, 07 Feb 2022 18:57:44 GMT; HttpOnly; Secure
+< X-Powered-By: Sails <sailsjs.com>
+< Cf-Cache-Status: DYNAMIC
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Etag: W/"9-0gXL1ngzMqISxa6S1zx3F4wtLyg"
+< Vary: Accept-Encoding
+< Server: cloudflare

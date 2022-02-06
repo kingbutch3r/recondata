@@ -1,0 +1,13 @@
+GET http://uptownpilates.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< X-Content-Type-Options: nosniff
+< X-Contextid: 17HBy2PN/EElyzBSW
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:28 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcFU3p3tKcO5ZjMzOGZmYzg4MGMxMWQxNDAyNzY4YjBjMmE0NWFh;Path=/

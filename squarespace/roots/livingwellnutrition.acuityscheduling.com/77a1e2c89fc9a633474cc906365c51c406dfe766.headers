@@ -1,0 +1,15 @@
+GET https://livingwellnutrition.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:23:19 GMT
+< Set-Cookie: PHPSESSID=to29h07avdq7f75qnqh61isl9q; expires=Fri, 04-Mar-2022 00:23:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e4a494c8-3b67-4154-aa13-5f007e2dea76; expires=Fri, 02-Feb-2024 00:23:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

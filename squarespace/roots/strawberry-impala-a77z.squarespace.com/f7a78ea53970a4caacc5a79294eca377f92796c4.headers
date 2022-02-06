@@ -1,0 +1,14 @@
+GET https://strawberry-impala-a77z.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 3208
+< Date: Wed, 02 Feb 2022 01:02:45 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BQ7t/G2xZGOfN2RmM2MxNmVkMzcwNGM5YmU0YmViNjNmYTcxZjBm;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: 0f4f327O/eOx9il27

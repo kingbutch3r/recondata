@@ -1,0 +1,16 @@
+GET https://laura-scanlon-ygd0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 170037
+< Date: Mon, 31 Jan 2022 01:58:01 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: ccVLWcNL/T6gy4AML
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Etag: W/"2c38c3d976ff8e21bad3c45fe033e420--gzip"
+< Set-Cookie: crumb=BduCcldtj9T4MWVlNTM0ZmZlMjY2MTBjNmM3NGIwMzlkNWFhMmFm;Path=/

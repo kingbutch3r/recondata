@@ -1,0 +1,15 @@
+GET https://cybersquad.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=8uh5584g4673jmokfb6t0i7cje; expires=Thu, 03-Mar-2022 23:59:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e672c3b0-2329-47fe-9a7c-4203217abefd; expires=Thu, 01-Feb-2024 23:59:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Date: Tue, 01 Feb 2022 23:59:06 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload

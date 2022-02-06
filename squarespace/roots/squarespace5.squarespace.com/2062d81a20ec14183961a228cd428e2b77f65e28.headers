@@ -1,0 +1,9 @@
+GET https://squarespace5.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:56:00 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=FE6F410AC7317A5641478CC6FD484464.v5-web016; Path=/; HttpOnly
+< X-Contextid: FeRkS9yn/LUnOJOcP

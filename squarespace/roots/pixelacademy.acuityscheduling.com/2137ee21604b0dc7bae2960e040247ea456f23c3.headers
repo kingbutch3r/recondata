@@ -1,0 +1,17 @@
+GET https://pixelacademy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=e2k7t4giltrbbu7chs8jphnone; expires=Fri, 04-Mar-2022 00:47:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=acb013c7-f623-4009-b62f-b55796ab4b9b; expires=Fri, 02-Feb-2024 00:47:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:47:24 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff

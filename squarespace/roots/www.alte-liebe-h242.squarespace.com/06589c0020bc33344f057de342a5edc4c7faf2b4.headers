@@ -1,0 +1,11 @@
+GET https://www.alte-liebe-h242.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BQ1rGf3E2j7AMDQ4NTU1NWE0ZjYwMTg1ODFjNjU4NDEwNTQ4MWE3;Path=/
+< X-Contextid: 30JRWBnf/ZtyNWDsf
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:17:15 GMT
+< Location: https://alte-liebe-h242.squarespace.com/
+< Server: Squarespace

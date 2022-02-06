@@ -1,0 +1,15 @@
+GET https://register.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Via: 1.1 google
+< Vary: Accept-Encoding
+< Date: Tue, 01 Feb 2022 23:25:46 GMT
+< Content-Type: text/html; charset=utf-8
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache
+< Set-Cookie: GCLB=CKrqjpielNTxNg; path=/; HttpOnly
+< Alt-Svc: clear
+< Server: rhino-core-shield

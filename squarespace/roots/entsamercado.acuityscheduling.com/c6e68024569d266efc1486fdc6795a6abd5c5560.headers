@@ -1,0 +1,17 @@
+GET https://entsamercado.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=25131slruldtuktr20q311o2k4; expires=Fri, 04-Mar-2022 00:24:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b4db0908-a108-46ed-989a-50553d72247e; expires=Fri, 02-Feb-2024 00:24:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:24:54 GMT
+< Strict-Transport-Security: max-age=63072000; preload

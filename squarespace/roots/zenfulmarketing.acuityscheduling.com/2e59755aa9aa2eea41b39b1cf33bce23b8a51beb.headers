@@ -1,0 +1,17 @@
+GET https://zenfulmarketing.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=sakmecnmu04r36ocu9ia8niq9t; expires=Fri, 04-Mar-2022 00:12:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c1684e28-ab31-49b7-90f1-4719bcf8655e; expires=Fri, 02-Feb-2024 00:12:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:12:12 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent

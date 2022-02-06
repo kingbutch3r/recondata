@@ -1,0 +1,17 @@
+GET https://gerrygavin.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:21:58 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=icj0sons46he64hb32arv5pupv; expires=Fri, 04-Mar-2022 00:21:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c65ad13a-2800-4b71-9c66-76011095cc1c; expires=Fri, 02-Feb-2024 00:21:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

@@ -1,0 +1,16 @@
+GET https://thomas-koeppl-f7nb.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 02:03:05 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Age: 342023
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BcSQQy//+vpdMTY0MjZmNDIzYWM4YmZiMTE1ZDFiYzNiNzIyMmY5;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Etag: W/"3b538fbebd7d4012d465be98c4d74c8c--gzip"
+< X-Contextid: s5OUddnB/JrmIb2XX

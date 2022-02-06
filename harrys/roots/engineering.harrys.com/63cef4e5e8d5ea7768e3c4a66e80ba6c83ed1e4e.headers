@@ -1,0 +1,13 @@
+GET http://engineering.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Cache: Hit from cloudfront
+< Via: 1.1 e7dacb0efeeed58e9fdd0c9cd774981a.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: SIN52-C2
+< X-Amz-Cf-Id: lZxe6JI3s7zseiFclmTH841Y8PRe8bcwkn5BRjeHweKpBOnUMRQHIA==
+< Content-Length: 0
+< Location: https://medium.com/harrys-engineering/
+< Date: Fri, 28 Jan 2022 18:14:39 GMT
+< Server: AmazonS3
+< Age: 84289

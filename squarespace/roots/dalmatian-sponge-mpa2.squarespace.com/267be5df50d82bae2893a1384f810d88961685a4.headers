@@ -1,0 +1,11 @@
+GET http://dalmatian-sponge-mpa2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=Bdjijf1KLEFBYTYyYzJiYzZlZTkwMjc3Y2MzOTIwMzkzYTYzYTUx;Path=/
+< X-Contextid: Tw0qSnYo/pUwaeJjo
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:02 GMT
+< Location: https://dalmatian-sponge-mpa2.squarespace.com/
+< Server: Squarespace

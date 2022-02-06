@@ -1,0 +1,17 @@
+GET https://apac.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:56:55 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=1lll9oe0dfg0bgoc5937aemjco; expires=Thu, 03-Mar-2022 23:56:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4ad49e88-4faa-4e36-a896-5315718b8c31; expires=Thu, 01-Feb-2024 23:56:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

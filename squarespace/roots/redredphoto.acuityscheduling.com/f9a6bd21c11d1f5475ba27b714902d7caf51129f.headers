@@ -1,0 +1,17 @@
+GET https://redredphoto.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=gsjl2lp34pmiv041rp3s5sa3kd; expires=Fri, 04-Mar-2022 00:26:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a6d956b4-6be7-4cf5-881a-fea23fc03f95; expires=Fri, 02-Feb-2024 00:26:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:26:19 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php

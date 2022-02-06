@@ -1,0 +1,15 @@
+GET https://payouts.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache
+< Content-Type: text/html; charset=utf-8
+< Set-Cookie: GCLB=CJPqr9WswdfiHw; path=/; HttpOnly
+< Alt-Svc: clear
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Via: 1.1 google
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:26:23 GMT
+< Vary: Accept-Encoding

@@ -1,0 +1,10 @@
+GET http://doctorwhoseason7episode1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: jVJh84tU/c1MoslGD
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:45 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZE/G2OnH5tfN2JlYzJmY2U5ZTU0MzU4NTI0ZDEzYTk4ZjU2ZjMz;Path=/

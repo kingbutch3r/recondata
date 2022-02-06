@@ -1,0 +1,11 @@
+GET https://developer.payoneer.com
+
+
+< HTTP/1.1 403 Forbidden
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:26:37 GMT
+< Content-Type: text/html
+< Vary: Accept-Encoding
+< Via: 1.1 google
+< Set-Cookie: GCLB=CIz3t8XinJCU6gE; path=/; HttpOnly
+< Alt-Svc: clear

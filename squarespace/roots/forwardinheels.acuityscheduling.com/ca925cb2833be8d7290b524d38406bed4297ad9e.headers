@@ -1,0 +1,17 @@
+GET https://forwardinheels.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 01:10:33 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=hjvqa5pjfnir5om8o8m361q4s7; expires=Fri, 04-Mar-2022 01:10:32 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1aa82a51-cf75-4411-a08d-59efcd315d45; expires=Fri, 02-Feb-2024 01:10:33 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

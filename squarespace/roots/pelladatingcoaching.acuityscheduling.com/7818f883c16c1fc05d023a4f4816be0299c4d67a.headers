@@ -1,0 +1,15 @@
+GET https://pelladatingcoaching.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=42mntbrdbqipa2shr72ij6mtda; expires=Fri, 04-Mar-2022 00:09:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5564a7d8-93b0-45bc-842d-aa4695f173ad; expires=Fri, 02-Feb-2024 00:09:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:09:42 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

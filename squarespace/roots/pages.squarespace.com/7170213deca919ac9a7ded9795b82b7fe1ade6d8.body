@@ -1,0 +1,312 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>PushPlanet.com</title>
+
+    <!--JS-->
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdn.pushplanet.com/static/lz-string-1.4.4-mod.min.js"></script>
+
+    <script type="text/javascript">
+        var PP_MODE = 'hosted';
+        var PP_CACHE_VERSION = '637793600969324670';
+        var PP_STAGE = '';
+        var IS_DEV = false;
+        var IS_PREVIEW = false;
+        var GEO = JSON.parse('{}');
+        var DEVICE = "";
+        var USER_ID = '';
+        var USER_GUID = '';
+        var PAGE_ID = '';
+        var PAGE_GUID = '';
+        var PAGE_NAME = '';
+        var DEVICE_TYPE = '';
+        var USER_SOURCE = 'UserCustomDomainNameCache';
+        var PAGE_SOURCE = '';
+        var CLIENT_GUID = '';
+        var PP_DATA = {};
+        var KEEN_SCHEMA = {};
+        var KEEN_CLIENT = null;
+
+        var PP_STEP = '2b';
+        var HOSTED_PAGES_NAME = 'NotFound';
+        var IS_PAUSED = 'na';
+        var IS_ARCHIVED = 'na';
+        var IS_DELETED = 'na';
+
+        if ('2b' !== 'success') {
+            console.log('Controller Failure Step: ' + '2b');
+            console.log('HostedPagesName: ' + 'NotFound');
+        }
+
+
+
+
+        console.log('CacheBreakerSource: ');
+        console.log('UserSource: UserCustomDomainNameCache');
+        console.log('PageSource: ');
+
+
+        //function setCookie(cname, cvalue, exdays) {
+        //    var d = new Date();
+        //    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        //    var expires = "expires=" + d.toUTCString();
+        //    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        //}
+
+        //function getCookie(name) {
+        //    var value = "; " + document.cookie;
+        //    var parts = value.split("; " + name + "=");
+        //    if (parts.length == 2) return parts.pop().split(";").shift();
+        //}
+
+        var COOKIE =
+            {
+                set: function (name, value, days) {
+                    COOKIE.trySet(name, value, true, days);
+                },
+
+                setPlain: function (name, value, days) {
+                    COOKIE.trySet(name, value, false, days);
+                },
+
+                trySet: function (name, value, encode, days) {
+                    var domain, domainParts, date, expires, host;
+
+                    var enc = '';
+                    if (value) {
+                        if (typeof value === 'object' && Object.prototype.toString.call({}) === Object.prototype.toString.call(value)) {
+                            value = JSON.stringify(value);
+                        }
+
+                        if (encode) {
+                            enc = LZString.compressToBase64(value);
+                        } else {
+                            enc = value;
+                        }
+                    }
+
+                    if (typeof days === 'undefined') {
+                        days = 3650;
+                    }
+                    date = new Date();
+                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                    expires = "; expires=" + date.toGMTString();
+
+                    host = location.host;
+                    if (host.split('.').length === 1) {
+                        // no "." in a domain - it's localhost or something similar
+                        document.cookie = name + "=" + enc + expires + "; path=/";
+                    }
+                    else {
+                        domainParts = host.split('.').reverse();
+                        var wasWritten = false;
+                        var idx = 1;
+                        var cv = '';
+
+                        while (!wasWritten && idx < domainParts.length) {
+                            domain = "";
+                            for (var i = idx; i >= 0; i--) {
+                                domain += '.' + domainParts[i];
+                            }
+                            document.cookie = name + "=" + enc + expires + "; path=/; domain=" + domain;
+                            cv = COOKIE.getPlain(name);
+                            wasWritten = (cv != null && cv == enc);
+                            idx++;
+
+                            //if (!wasWritten) {
+                            //    logger('PP Cookie Skipped (' + name + '): ' + domain);
+                            //}
+                        }
+                    }
+                },
+
+                get: function (name) {
+                    var enc = COOKIE.getPlain(name);
+                    if (enc !== null && typeof enc !== 'undefined' && enc) {
+                        var v = LZString.decompressFromBase64(enc);
+                        if (v.indexOf('{') === 0 && v.substring(v.length - 1) === '}') {
+                            return JSON.parse(v);
+                        } else {
+                            return v;
+                        }
+                    }
+                    return null;
+                },
+
+                getPlain: function (name) {
+                    var nameEQ = name + "=";
+                    var ca = document.cookie.split(';');
+                    for (var i = 0; i < ca.length; i++) {
+                        var c = ca[i];
+                        while (c.charAt(0) == ' ') {
+                            c = c.substring(1, c.length);
+                        }
+
+                        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                    }
+                    return null;
+                },
+
+                erase: function (name) {
+                    COOKIE.setPlain(name, 'hi', -1);
+                },
+
+                eraseWithoutDomain: function (name) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (-1 * 24 * 60 * 60 * 1000));
+                    var expires = "; expires=" + date.toGMTString();
+                    document.cookie = name + "=" + 'hi' + expires + "; path=/";
+                },
+
+                eraseWithSpecificDomain: function (name, domain) {
+                    var date = new Date();
+                    date.setTime(date.getTime() + (-1 * 24 * 60 * 60 * 1000));
+                    var expires = "; expires=" + date.toGMTString();
+                    document.cookie = name + "=" + 'hi' + expires + "; path=/; domain=" + domain;
+                }
+            };
+
+        function generateGuid() {
+            var ts = new Date().getTime();
+            var uuid = 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                var r = Math.random() * 16 | 0, v = c == 'x' ? r : (r & 0x3 | 0x8);
+                return v.toString(16);
+            });
+            return uuid + '-' + ts;
+        }
+
+        function loadClientGuid() {
+            try {
+                var cookieVal = COOKIE.get('pp_data');
+                if (typeof cookieVal === 'object' && cookieVal !== null) {
+                    PP_DATA = cookieVal;
+                }
+
+                if (typeof PP_DATA === 'object' && PP_DATA !== null && PP_DATA.client_guid) {
+                    CLIENT_GUID = PP_DATA.client_guid;
+                } else {
+                    CLIENT_GUID = generateGuid();
+                    PP_DATA.client_guid = CLIENT_GUID;
+                    COOKIE.set('pp_data', PP_DATA, 3650);
+                }
+            }
+            catch (e) {
+                console.log('ERROR (loadClientGuid)', e);
+            }
+        }
+
+        //Load Keen Tracker
+        !function (name, path, ctx) {
+            var latest, prev = name !== 'Keen' && window.Keen ? window.Keen : false; ctx[name] = ctx[name] || { ready: function (fn) { var h = document.getElementsByTagName('head')[0], s = document.createElement('script'), w = window, loaded; s.onload = s.onerror = s.onreadystatechange = function () { if ((s.readyState && !(/^c|loade/.test(s.readyState))) || loaded) { return } s.onload = s.onreadystatechange = null; loaded = 1; latest = w.Keen; if (prev) { w.Keen = prev } else { try { delete w.Keen } catch (e) { w.Keen = void 0 } } ctx[name] = latest; ctx[name].ready(fn) }; s.async = 1; s.src = path; h.parentNode.insertBefore(s, h) } }
+        }('KeenAsync', 'https://d26b395fwzu5fz.cloudfront.net/keen-tracking-1.1.3.min.js', this);
+
+        //Init Keen Tracker
+        KeenAsync.ready(function () {
+            KEEN_CLIENT = new KeenAsync({
+                projectId: '5d83f4fac9e77c0001eef013',
+                writeKey: 'E10EB82EDF693BE8C83776159A76A2523D9A1394A616F6F94A2B930D0B09DDE957E73A9D0B8D519AF2F58D8B3FD003100D60C04FF918AF0C57FF2C340546969FC00798F0DBC78D39941470781CD24C82D4638F2AC1B3A57B5AC74D1C1907AA79'
+            });
+        });
+
+        function logKeenErrorPage() {
+            if (typeof KeenAsync !== 'undefined' && KeenAsync && KEEN_CLIENT !== null) {
+                initKeenSchema();
+                keenPageError();
+            } else {
+                setTimeout(logKeenErrorPage, 300);
+            }
+        }
+
+        function keenPageError() {
+            try {
+                if (!KEEN_CLIENT) {
+                    setTimeout(keenPageError, 1000);
+                } else {
+                    var display_error = KEEN_SCHEMA;
+                    display_error.event_guid = generateGuid();
+
+                    KEEN_CLIENT.recordEvent("display_error", display_error);
+                }
+            }
+            catch (e) {
+                console.log('ERROR (keenPageErrorJSONP_EXCEPTION)', e);
+            }
+        }
+
+        function initKeenSchema() {
+            try {
+                KEEN_SCHEMA = {
+                    user_id: USER_ID,
+                    user_guid: USER_GUID,
+                    page_id: PAGE_ID,
+                    page_guid: PAGE_GUID,
+                    page_name: PAGE_NAME,
+                    client_guid: CLIENT_GUID,
+                    device_type: DEVICE_TYPE,
+                    is_preview: IS_PREVIEW,
+                    is_dev: IS_DEV,
+                    ip_address: "${keen.ip}",
+                    user_agent: "${keen.user_agent}",
+                    referrer_url: document.referrer,
+                    page_url: window.location.href,
+                    pp_mode: PP_MODE,
+                    pp_cache_version: PP_CACHE_VERSION,
+                    pp_stage: PP_STAGE,
+                    pp_step: PP_STEP,
+                    hosted_pages_name: HOSTED_PAGES_NAME,
+                    is_paused: IS_PAUSED,
+                    is_archived: IS_ARCHIVED,
+                    is_deleted: IS_DELETED,
+                    user_source: USER_SOURCE,
+                    page_source: PAGE_SOURCE
+                };
+
+                KEEN_SCHEMA.keen = {};
+
+                KEEN_SCHEMA.keen.addons = [
+                    {
+                        name: "keen:ip_to_geo",
+                        input: {
+                            ip: "ip_address"
+                        },
+                        output: "ip_to_geo_addon"
+                    },
+                    {
+                        name: "keen:ua_parser",
+                        input: {
+                            ua_string: "user_agent"
+                        },
+                        output: "ua_parser_addon"
+                    },
+                    {
+                        name: "keen:url_parser",
+                        input: {
+                            url: "page_url"
+                        },
+                        output: "url_parser_addon"
+                    },
+                    {
+                        name: "keen:referrer_parser",
+                        input: {
+                            referrer_url: "referrer_url",
+                            page_url: "page_url"
+                        },
+                        output: "referrer_parser_addon"
+                    }
+                ];
+            }
+            catch (e) {
+                console.log('ERROR (initKeenSchema)', e);
+            }
+        }
+
+        loadClientGuid();
+        logKeenErrorPage();
+    </script>
+</head>
+<body style="margin: 0; padding: 0;">
+    <div id="main" class="main">There seems to be a problem accessing the intended page.  Make sure to click the full url from your email.</div>
+</body>
+</html>

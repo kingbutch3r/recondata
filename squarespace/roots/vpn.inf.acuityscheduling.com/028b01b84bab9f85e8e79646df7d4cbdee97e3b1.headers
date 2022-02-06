@@ -1,0 +1,15 @@
+GET https://vpn.inf.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:08:52 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=bgkkqt1uefc2j3p02euehn93dt; expires=Fri, 04-Mar-2022 00:08:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=899edad4-f201-4a83-8c17-1ca735e726d3; expires=Fri, 02-Feb-2024 00:08:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent

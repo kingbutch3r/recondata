@@ -1,0 +1,11 @@
+GET http://owl-point-2df4.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:00:18 GMT
+< Location: https://owl-point-2df4.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BeyjZAc/fumOOWNjYjE0MTQ4ODAwZjg1MjNiNmQ4MmVmNmM1ZTFi;Path=/
+< X-Contextid: 5dChwmI8/L8tNReUV
+< Content-Length: 0
+< Age: 0

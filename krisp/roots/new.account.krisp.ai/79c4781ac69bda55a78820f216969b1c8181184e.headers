@@ -1,0 +1,17 @@
+GET https://new.account.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html
+< Server: cloudflare
+< Cf-Cache-Status: DYNAMIC
+< Vary: Accept-Encoding
+< X-Frame-Options: sameorigin
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Date: Tue, 01 Feb 2022 23:29:51 GMT
+< Last-Modified: Thu, 23 Dec 2021 08:13:44 GMT
+< Feature-Policy: vibrate none; geolocation none; camera 'none'; microphone 'none'
+< Access-Control-Allow-Origin: *
+< Cf-Ray: 6d6ef6d15d742e28-BOM
+< Referrer-Policy: no-referrer
+< X-Content-Type-Options: nosniff

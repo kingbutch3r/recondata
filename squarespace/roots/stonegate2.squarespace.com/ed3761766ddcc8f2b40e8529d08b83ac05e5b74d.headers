@@ -1,0 +1,15 @@
+GET http://stonegate2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 31 Jan 2022 13:20:07 GMT
+< Etag: W/"106a0e2e3c498eb9eab8978ddb220a8b--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Age: 129599
+< Set-Cookie: crumb=BRJw97hdFtB0NDFkMTk5MTYzYTYyOWNmNTUyOWNkOGJlMzFiYzQ2;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: 5NpVfZqP/bptGJy6H
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding

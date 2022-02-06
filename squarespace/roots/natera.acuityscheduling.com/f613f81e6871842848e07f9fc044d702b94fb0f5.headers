@@ -1,0 +1,17 @@
+GET https://natera.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=nq1i5868i2m8gqp217d6kuf8k6; expires=Thu, 03-Mar-2022 23:55:49 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f3c3d8ae-1de4-47e2-a9d6-fff252cc70ba; expires=Thu, 01-Feb-2024 23:55:50 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:55:50 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0

@@ -1,0 +1,17 @@
+GET https://estuaryclinicbooking.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=n6jgmgmphg9hl4cgfup7ahnt7u; expires=Fri, 04-Mar-2022 00:10:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=549e041f-213f-4562-8dac-7f5249293d94; expires=Fri, 02-Feb-2024 00:10:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:10:24 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php

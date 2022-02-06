@@ -1,0 +1,13 @@
+GET https://william-paterson-y8m2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:21:59 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BRnzyl800Ew7MDgxZDA3Nzk4NmQ1M2YzZWQwM2NjZDRkMzViNGMw;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: bSrMtUP4/1C4kH28M

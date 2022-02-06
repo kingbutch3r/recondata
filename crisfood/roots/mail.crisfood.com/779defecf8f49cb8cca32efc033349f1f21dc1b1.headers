@@ -1,0 +1,12 @@
+GET https://mail.crisfood.com
+
+
+< HTTP/1.1 200 OK
+< Etag: "aa01a3-7ab-5888cda7c9dc6-gzip"
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Server: Apache
+< Upgrade: h2,h2c
+< Last-Modified: Fri, 10 May 2019 18:37:05 GMT
+< Content-Type: text/html
+< Date: Sat, 29 Jan 2022 17:28:32 GMT

@@ -1,0 +1,10 @@
+GET http://web10620.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:58:09 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BS9UBf8SO2m7NGI1ZDQyZGVmNTk5N2RlOWIxNmFlNDRhOGQwYzU2;Path=/
+< X-Contextid: R84coeZX/ElIvhhRC

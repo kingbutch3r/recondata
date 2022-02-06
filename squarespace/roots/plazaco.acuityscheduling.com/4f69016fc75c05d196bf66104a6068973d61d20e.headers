@@ -1,0 +1,17 @@
+GET https://plazaco.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=eldoao9f36n7tp733kh9jv4i09; expires=Fri, 04-Mar-2022 00:24:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=20661751-3871-4c4e-9f17-7449a63c039c; expires=Fri, 02-Feb-2024 00:24:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:24:42 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

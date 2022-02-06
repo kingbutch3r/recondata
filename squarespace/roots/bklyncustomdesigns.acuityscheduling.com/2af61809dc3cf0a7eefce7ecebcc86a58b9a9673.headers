@@ -1,0 +1,17 @@
+GET https://bklyncustomdesigns.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:35:19 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=c5r9ldfk6ea1fgigio973nei80; expires=Fri, 04-Mar-2022 00:35:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5628946c-0d4e-47b0-b911-8cbcbcfed867; expires=Fri, 02-Feb-2024 00:35:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

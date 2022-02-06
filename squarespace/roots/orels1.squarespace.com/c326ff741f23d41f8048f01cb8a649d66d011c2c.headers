@@ -1,0 +1,15 @@
+GET http://orels1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: KNOhWZNC/VZaM8fa8
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 01:15:37 GMT
+< Set-Cookie: crumb=BdWJKjx1NikQNmIxMzYwMjI2YmZkOTQ2NzYzZjRhY2M3MmE1OTUy;Path=/
+< Vary: Accept-Encoding
+< Age: 0
+< Etag: W/"38863cf9ac1557039668438296f75629--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

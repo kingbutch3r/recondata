@@ -1,0 +1,16 @@
+GET https://elaine-davidson-3dt1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BQXxCaN2z4baNjc5MmU1NzE0NGY1Y2EzNDkyYTdlYWQ0OTY4NjIw;Path=/
+< Etag: W/"b8fc5390e04272df65fd8946248ab2a8--gzip"
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< X-Content-Type-Options: nosniff
+< X-Contextid: GMMhiOUP/lfAdtfgH
+< Date: Wed, 02 Feb 2022 01:15:47 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Content-Type: text/html;charset=utf-8

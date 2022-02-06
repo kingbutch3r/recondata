@@ -1,0 +1,16 @@
+GET https://bedriftshelse1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"31e0557f4f06139b8512b3382a1aed0a--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Set-Cookie: crumb=BXnD5EmCRvPJNTYxYWNjZDZkMzY4ZmE4YzUyOTI1MTI2ZDQ2YWYw;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 101308
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 21:06:32 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: si8eMImd/5qudXr8k
+< Accept-Ranges: bytes

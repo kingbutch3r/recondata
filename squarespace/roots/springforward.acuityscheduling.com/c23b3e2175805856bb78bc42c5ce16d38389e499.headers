@@ -1,0 +1,17 @@
+GET https://springforward.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:53:35 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=sllknd639t4nrn1fkls0dr8tvk; expires=Fri, 04-Mar-2022 00:53:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9db42f25-bf87-495b-ad15-d879406cd85e; expires=Fri, 02-Feb-2024 00:53:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0

@@ -1,0 +1,17 @@
+GET https://fmca.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:53:39 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=dkmtgrk6u6ij64vn537cgbv9i8; expires=Thu, 03-Mar-2022 23:53:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ee94df2f-b10d-4562-959d-ecdc94916849; expires=Thu, 01-Feb-2024 23:53:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8

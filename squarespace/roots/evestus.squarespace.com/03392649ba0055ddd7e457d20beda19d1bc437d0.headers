@@ -1,0 +1,15 @@
+GET http://evestus.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Mon, 31 Jan 2022 22:17:22 GMT
+< Server: Squarespace
+< X-Contextid: qRkMhX8C/v7kuars1
+< Age: 95920
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Etag: W/"21ce2783e9b92c73b08298f3922c1e72--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BU1xWgwgpEZ/MWViMTE2YTg1ODRhZDRmOTMxZDhlMDk4NGZhZDcw;Path=/
+< X-Content-Type-Options: nosniff

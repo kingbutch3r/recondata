@@ -1,0 +1,19 @@
+GET https://bors.inf.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: _bors_key=SFMyNTY.g3QAAAABbQAAABBhdXRoX3JlZGlyZWN0X3RvbQAAAAEv.1UU1bWRHyHBGEt1gHcW_XAa2cwBZHgMpHl3HesSsfSE; path=/; secure; HttpOnly
+< Location: /auth/github
+< X-Request-Id: Fs_Pfs04psUd02YAC--x
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:08:52 GMT
+< Strict-Transport-Security: max-age=31536000
+< X-Xss-Protection: 1; mode=block
+< X-Download-Options: noopen
+< X-Permitted-Cross-Domain-Policies: none
+< Content-Length: 78
+< Server: Cowboy
+< X-Frame-Options: SAMEORIGIN
+< Cross-Origin-Window-Policy: deny
+< Content-Type: text/html; charset=utf-8
+< Cache-Control: max-age=0, private, must-revalidate

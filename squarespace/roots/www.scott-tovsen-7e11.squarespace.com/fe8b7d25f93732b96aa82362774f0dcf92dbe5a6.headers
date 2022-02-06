@@ -1,0 +1,11 @@
+GET https://www.scott-tovsen-7e11.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:13:17 GMT
+< Location: https://scott-tovsen-7e11.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bf13IEEi8GMiOWU1MTI4ODU4MGFkZTAxNzZkNjc0YzMwNzJlM2Iy;Path=/
+< X-Contextid: Ur8Qu5Qu/izKAXivx
+< Age: 0
+< Content-Length: 0

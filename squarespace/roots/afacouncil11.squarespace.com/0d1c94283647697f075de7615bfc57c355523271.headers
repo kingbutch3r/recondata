@@ -1,0 +1,14 @@
+GET https://afacouncil11.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3136
+< Date: Wed, 02 Feb 2022 00:50:24 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: ZTa8B9wk/Ovep8eIv
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BZNT/u8Gm0IwYWU4ZTkyMmY2NTMxNmFhZDRlNDFlYzlkZDJlYTk3;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

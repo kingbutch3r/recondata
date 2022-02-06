@@ -1,0 +1,14 @@
+GET https://affiliates.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< X-Frame-Options: SAMEORIGIN
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Pragma: no-cache
+< Vary: Accept-Encoding
+< Server: Apache
+< Content-Type: text/html
+< Set-Cookie: EUcomp=1; expires=Wed, 01-Feb-2023 23:25:51 GMT
+< Set-Cookie: PHPSESSID=b7a27113940cbf7734572ca51ce7225d; path=/; HttpOnly
+< Date: Tue, 01 Feb 2022 23:25:51 GMT

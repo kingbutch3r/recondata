@@ -1,0 +1,15 @@
+GET https://tmelvingca.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:53:34 GMT
+< Set-Cookie: PHPSESSID=af5c72e87e82c0mki3qobths71; expires=Thu, 03-Mar-2022 23:53:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=22cdb188-b8f3-45ea-ae07-01509b5ebdb6; expires=Thu, 01-Feb-2024 23:53:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

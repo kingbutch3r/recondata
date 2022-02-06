@@ -1,0 +1,15 @@
+GET http://template-addons.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Set-Cookie: crumb=BfZL2bpmymzHOTdkYjQ0OGM4YTMzNGYyZDFjYzdiN2U2OWJhYmJi;Path=/
+< Date: Fri, 28 Jan 2022 11:47:12 GMT
+< Etag: W/"513f743569d1232af117e0df446d4aba--gzip"
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Contextid: YRxVAmMx/PLFOZV58
+< Accept-Ranges: bytes
+< Age: 394503

@@ -1,0 +1,15 @@
+GET https://drsandracamacho.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:25:08 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=d9trboskh5t76bg7g2l603sa1u; expires=Fri, 04-Mar-2022 00:25:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e16f2a1e-2f00-4082-8196-4e6a16033167; expires=Fri, 02-Feb-2024 00:25:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache

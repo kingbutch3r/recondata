@@ -1,0 +1,9 @@
+GET https://jira.squarespace.net
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://squarespace.atlassian.net/
+< Server: nginx/1.20.1
+< Date: Wed, 02 Feb 2022 00:49:35 GMT
+< Content-Type: text/html
+< Content-Length: 169

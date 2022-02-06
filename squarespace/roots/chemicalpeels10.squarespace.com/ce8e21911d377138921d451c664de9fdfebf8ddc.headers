@@ -1,0 +1,12 @@
+GET https://chemicalpeels10.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Pragma: no-cache
+< Server: Squarespace
+< X-Contextid: PslvE0o5/7VReyn88
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:01:04 UTC

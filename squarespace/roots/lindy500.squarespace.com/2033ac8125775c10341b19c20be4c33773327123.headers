@@ -1,0 +1,14 @@
+GET https://lindy500.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Set-Cookie: crumb=BQndXylUShNGNmVhZWYyYTA1NzMxNWI2NWQ0NzQ3Y2JlYWMyZjg2;Path=/
+< X-Contextid: 4ou10RGV/zRBN8Oo1
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:51:32 GMT
+< Etag: W/"7f4203fb5dbdfeb3dc96fc812c6f5d7b"
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

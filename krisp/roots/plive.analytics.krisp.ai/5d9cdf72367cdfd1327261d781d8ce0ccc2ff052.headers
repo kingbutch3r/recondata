@@ -1,0 +1,18 @@
+GET https://plive.analytics.krisp.ai
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Tue, 01 Feb 2022 23:29:48 GMT
+< X-Amz-Cf-Id: -wzxJUJnulJs44wQsLykO1CDkx-cIHj3G8hfk9ub31bBBjTJaTygog==
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Content-Type: application/json
+< X-Cache: Error from cloudfront
+< Via: 1.1 d477dc8323509a690adedbaa1afa1638.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM51-C2
+< Cf-Cache-Status: DYNAMIC
+< Server: cloudflare
+< Cf-Ray: 6d6ef6be8d398565-BOM
+< Content-Length: 23
+< X-Amzn-Requestid: 102439fb-ef21-4c54-8ce6-4d657d5e9b95
+< X-Amzn-Errortype: ForbiddenException
+< X-Amz-Apigw-Id: M4tQ5EDooAMFgEA=

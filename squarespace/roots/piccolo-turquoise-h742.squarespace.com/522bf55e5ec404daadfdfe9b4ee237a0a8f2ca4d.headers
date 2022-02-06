@@ -1,0 +1,11 @@
+GET http://piccolo-turquoise-h742.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 458350
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 17:58:01 GMT
+< Location: https://piccolo-turquoise-h742.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTD8jOZN8MtWN2VlYzg2NzFlYjViZmQ0MDg0NTc3N2MzMTlmYmNl;Path=/
+< X-Contextid: Iep3W3iq/AAJlLFqm

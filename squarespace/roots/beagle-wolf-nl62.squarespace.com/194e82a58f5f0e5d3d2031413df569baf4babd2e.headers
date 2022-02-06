@@ -1,0 +1,13 @@
+GET https://beagle-wolf-nl62.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:18:02 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcoImrmKCCY8MGM4MDU2YWM2MTI3ZDI1N2NiYWNkNmYyYzYwZGQ3;Path=/
+< X-Contextid: u9hYdgo2/VyhULPS0
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff

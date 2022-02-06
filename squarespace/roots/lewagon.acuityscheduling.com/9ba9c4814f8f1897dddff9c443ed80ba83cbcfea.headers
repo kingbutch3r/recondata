@@ -1,0 +1,17 @@
+GET https://lewagon.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:22:17 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=bkij260081vvr27pv0ktofv4ia; expires=Fri, 04-Mar-2022 00:22:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c52368d2-747a-4b4a-916b-08c1ca281a80; expires=Fri, 02-Feb-2024 00:22:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent

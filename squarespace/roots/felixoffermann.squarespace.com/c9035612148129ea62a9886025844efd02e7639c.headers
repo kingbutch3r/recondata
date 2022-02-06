@@ -1,0 +1,17 @@
+GET https://felixoffermann.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 294786
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: gLLDv9k4/4LfL6VpO
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"a49c1cf83f8c99ebde92511a39a64052--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bfoqs6wlBRaRN2M2OTBhOWU4ZGYwMTAxNGI3ZDMxODEyNzVjZmRk;Path=/
+< X-Frame-Options: SAMEORIGIN
+< Date: Sat, 29 Jan 2022 15:03:20 GMT
+< Vary: Accept-Encoding

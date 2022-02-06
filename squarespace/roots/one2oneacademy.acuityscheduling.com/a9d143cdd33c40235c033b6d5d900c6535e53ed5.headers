@@ -1,0 +1,17 @@
+GET https://one2oneacademy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=jbel2mvnnn0flk6imir3118c8k; expires=Fri, 04-Mar-2022 00:47:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bc495a03-e211-4080-a9b2-791dcce3312e; expires=Fri, 02-Feb-2024 00:47:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:47:20 GMT

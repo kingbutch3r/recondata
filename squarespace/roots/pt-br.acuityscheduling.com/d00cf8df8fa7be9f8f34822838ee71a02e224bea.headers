@@ -1,0 +1,13 @@
+GET http://pt-br.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: https://pt-br.acuityscheduling.com/
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Server: Smartling
+< X-Sl-Norewrite: 1
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< X-Sl-Notranslate: 1
+< Date: Wed, 02 Feb 2022 00:28:11 GMT

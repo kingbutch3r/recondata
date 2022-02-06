@@ -1,0 +1,17 @@
+GET https://apricity.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:48:47 GMT
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=l6acl99dkcdsgao229cji2jmha; expires=Fri, 04-Mar-2022 00:48:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=af50aac6-81da-4f33-aecb-916eabb6902d; expires=Fri, 02-Feb-2024 00:48:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

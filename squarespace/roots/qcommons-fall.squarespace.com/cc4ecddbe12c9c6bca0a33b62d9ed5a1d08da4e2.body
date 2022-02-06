@@ -1,0 +1,1153 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- qcommons-fall -->
+<base href="">
+<meta charset="utf-8" />
+<title>Q Commons</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="https://fall.qcommons.com"/>
+<meta property="og:site_name" content="Q Commons"/>
+<meta property="og:title" content="Q Commons"/>
+<meta property="og:url" content="https://fall.qcommons.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Q Commons"/>
+<meta itemprop="url" content="https://fall.qcommons.com"/>
+<meta name="twitter:title" content="Q Commons"/>
+<meta name="twitter:url" content="https://fall.qcommons.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/_DsMQVBzO7zM0kpxgOIJ7v3GjrLtx5kFMMH7QLaWSHXfeztffFHN4UJLFRbh52jhWDmKwemqwRboZQ4RjhbU52MuFebojhIawg7sMPG0SAFzdAuzd1wlZcBCdfoDSWmyScmDSeBRZPoRdhXCZcBCdfoUjhNldAN0SkoRdhXCdeNRjAUGdaFXOYBRdhuldhoDOAZyde30SaBujW48Sagyjh90jhNlOYiaikocjAUCO1BRdhuldhoDOcFzdPUaiaS0SAFzdAuzd1wlZcBCdfoDSWmyScmDSeBRZPoRdhXK2YgkdayTdAIldcNhjPJFjAlX-WjlZa4ziemD-kJYjhBCdYm0jPJsZe80OAFzdcs8d1F8ZfuaZAJ7fbKzMsMMeMb6MKG4fHXgIMMjgKMfH6qJXeXbMs6IJMJ7fbRPdsMgeMS6MKG4fFBlIMIj2KMfH6qJXhXbMs6sJMJ7fbKbwgMfeMw6MKG4fwXVIMJjgfMfH6qJD3vbMy6YJMJ7fbRb2UMfegI6MKGHfJ1vMsM2eMw6MKG4fVl9IMwjgfMfqMeh8NQZgb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"5b0ed249e2ccd18054d9ca70","identifier":"qcommons-fall","websiteType":1,"contentModifiedOn":1529964839803,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Chicago","machineTimeZoneOffset":-21600000,"timeZoneOffset":-21600000,"timeZoneAbbr":"CST","siteTitle":"Q Commons","fullSiteTitle":"Q Commons","siteDescription":"<p>Q Commons brings the Q learning experience to cities around the world by teaming up with host partners for a unique evening that combines global talks via broadcast with curated live local presentations.</p>","shareButtonOptions":{"2":true,"1":true,"7":true},"authenticUrl":"https://fall.qcommons.com","internalUrl":"https://qcommons-fall.squarespace.com","baseUrl":"https://fall.qcommons.com","primaryDomain":"fall.qcommons.com","sslSetting":3,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"c4b658ec38efababef2ee6245d0502e50118307374c7cd5b901538e2a742df7a","showOwnerLogin":false},"websiteSettings":{"id":"5b0ed249e2ccd18054d9ca73","websiteId":"5b0ed249e2ccd18054d9ca70","subjects":[],"country":"US","state":"TN","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":1,"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Home","id":"5b17048f575d1f4983bae58e","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"4:3 Four Thirds","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"700px","gridSpacing":"50px","tweak-blog-list-columns":"4","tweak-blog-list-item-image-aspect-ratio-grid":"2:3 Standard (Vertical)","tweak-blog-list-item-image-aspect-ratio-stacked":"1:1 Square","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"100px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Stacked","tweak-header-bottom-overlay-on-index-gallery":"false","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"2","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"Lines","tweak-index-gallery-layout":"Packed","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"None","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"false","tweak-overlay-parallax-new-math":"false","tweak-product-item-image-zoom-factor":"2.5","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"2","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-site-ajax-loading-enable":"false","tweak-site-border-show":"false","tweak-site-border-width":"40px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/","betaFeatureFlags":["campaigns_section_reorder_arrows","commerce_etsy_shipping_import","commerce_activation_experiment_add_payment_processor_card","reduce_general_search_api_traffic","campaigns_audience_card","campaigns_global_uc_ab","google_analytics_4_gtag_js","startup_checklist","commerce_product_review_etsy_import","commerce_clearpay","nested_categories_migration_enabled","commerce_product_composer_ab_test_all_users","campaigns_show_apply_website_styles_button","commerce_onboarding_tools_screen_test","viewer-role-contributor-invites","commerce_product_review_import_ga","category-delete-product-service-enabled","campaigns_blog_product_image_editor","commerce_etsy_product_import","campaigns_thumbnail_layout","campaigns_new_subscriber_search","commerce_afterpay_pdp","member_areas_schedule_interview","member_areas_spanish_interviews","campaigns_banner_reduce_size","commerce_pdp_layouts_ga","commerce_site_visitor_metrics","campaigns_hide_deleted_automations_panel","member_areas_pricing_options_discounts","commerce_product_branching","customer_account_creation_recaptcha","background_art_onboarding","commerce_restock_notifications","commerce_category_id_discounts_enabled"],"impersonatedSession":false,"tzData":{"zones":[[-360,"US","C%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://fall.qcommons.com/home?format=rss" />
+<script type="application/ld+json">{"url":"https://fall.qcommons.com","name":"Q Commons","description":"<p>Q Commons brings the Q learning experience to cities around the world by teaming up with host partners for a unique evening that combines global talks via broadcast with curated live local presentations.</p>","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5b0ed249e2ccd18054d9ca70/56/55f0aac0e4b0f0a5b7e0b22e/5b0ed249e2ccd18054d9ca87/347-05142015/1529964559322/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-5b17048f575d1f4983bae58e" class="tweak-social-icons-style-solid tweak-social-icons-shape-square tweak-site-width-option-full-background tweak-icon-weight-light   tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-stacked ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-hide ancillary-header-tagline-position-hide ancillary-header-primary-nav-position-bottom-center ancillary-header-secondary-nav-position-top-center ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-hide ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-fade tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square  tweak-header-secondary-nav-hover-style-fade tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-underlined tweak-header-search-placeholder-show tweak-header-cart-style-text tweak-header-account-style-text   tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-none  tweak-index-page-scroll-indicator-none tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-packed tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-fade tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-top-left tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-stacked tweak-footer-layout-columns-auto tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-center ancillary-mobile-bar-menu-icon-position-top-left tweak-mobile-bar-menu-icon-hamburger ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-top-right tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-left tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square   tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-center hide-album-share-link tweak-blog-meta-primary-category tweak-blog-meta-secondary-date tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-left tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-23-standard-vertical tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-inline tweak-blog-list-item-meta-position-below-title tweak-blog-list-pagination-link-label-show tweak-blog-list-pagination-link-icon-show tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-below-title tweak-blog-item-share-position-below-content tweak-blog-item-pagination-link-icon-show tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-category tweak-blog-item-pagination-link-icon-weight-light   event-thumbnails event-thumbnail-size-23-standard-vertical event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address event-list-icalgcal-links  event-icalgcal-links  event-excerpts event-list-cta-button event-item-back-link event-time-format   gallery-design-grid aspect-ratio-43-four-thirds lightbox-style-light gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-23-standard-vertical tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-overlay tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-left tweak-product-list-meta-alignment-overlay-center-left tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-top tweak-product-list-filter-alignment-center tweak-product-item-nav-show-pagination-only tweak-product-item-nav-pagination-style-titles tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-right tweak-product-item-gallery-position-right tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-34-three-four-vertical tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-add-to-cart-button tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-text-only tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-small tweak-product-item-image-zoom-enabled tweak-product-item-image-zoom-behavior-click tweak-product-item-lightbox-enabled tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-square tweak-product-badge-position-top-left tweak-product-badge-inset-floating newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-square large-button-style-outline large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-docked tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-hide tweak-product-quick-view-lightbox-show-arrows  tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show native-currency-code-usd collection-5b17048f575d1f4983bae58e collection-type-index collection-layout-default homepage view-list mobile-style-available sqs-has-custom-cart has-site-title has-parallax-images has-parallax-images enable-load-effects has-primary-nav has-footer-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            Q Commons
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          
+            <a href="/" class="Mobile-overlay-nav-item">
+              Home
+            </a>
+          
+        
+      
+    
+    
+  
+    
+    
+      <a href="/about" class="Mobile-overlay-nav-item">
+        About
+      </a>
+    
+  
+    
+    
+      <a href="/contact" class="Mobile-overlay-nav-item">
+        HOST
+      </a>
+    
+  
+    
+    
+      <a href="http://qideas.org/" target="_blank" class="Mobile-overlay-nav-item">
+        Q IDEAS
+      </a>
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+  
+
+  
+
+        
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5b0ed53faa4a99eda8c684c0"></div>
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5b0edaac758d46ca39204356"></div>
+                
+              
+            
+              
+              
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      
+        <header class="Header Header--top">
+          <div class="Header-inner Header-inner--top" data-nc-group="top">
+            <div data-nc-container="top-left">
+
+              <div class="Header-search" data-nc-element="search">
+                <form class="Header-search-form" action="/search" method="get">
+                  <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                  <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                    <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                    </svg>
+                    <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                    </svg>
+                  </button>
+                </form>
+              </div>
+
+            </div>
+            <div data-nc-container="top-center">
+              
+              
+            </div>
+            <div data-nc-container="top-right">
+
+              
+
+            </div>
+          </div>
+        </header>
+      
+
+      <div class="Site-inner Site-inner--index" data-controller="HeaderOverlay">
+
+        <header class="Header Header--bottom Header--overlay">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/" class="Header-nav-item Header-nav-item--active" data-test="template-nav">Home</a><a href="/about" class="Header-nav-item">About</a><a href="/contact" class="Header-nav-item">HOST</a><a href="http://qideas.org/" target="_blank" class="Header-nav-item">Q IDEAS</a>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    Q Commons
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+
+          <main class="Index" data-collection-id="5b17048f575d1f4983bae58e" data-controller="IndexFirstSectionHeight, Parallax, IndexNavigation">
+            
+              <section id="hero-image-1" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5b0ed53faa4a99eda8c684c0" data-parallax-id="5b0ed53faa4a99eda8c684c0" data-edit-main-image="Background">
+        
+          <div class="Index-page-scroll-indicator hidden" data-controller="ScrollIndicator">
+            <div class="Index-page-scroll-indicator-text">Scroll</div>
+            <svg class="Index-page-scroll-indicator-arrow Icon Icon--caretLarge--down" viewBox="0 0 48 23">
+              <use xlink:href="/assets/ui-icons.svg#caret-down-large-icon"></use>
+            </svg>
+            <div class="Index-page-scroll-indicator-line"></div>
+          </div>
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1529443786353" id="page-5b0ed53faa4a99eda8c684c0"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.1278772378516624" data-block-type="21" id="block-yui_3_17_2_2_1461612684347_15318"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.1152073732718894" data-block-type="21" id="block-yui_3_17_2_1_1527699780477_5058"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="23.529411764705884" data-block-type="21" id="block-yui_3_17_2_2_1461683042891_13230"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529948961043-SIA3RH9OY4BHSOUWLLU3/NEWWEB.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529948961043-SIA3RH9OY4BHSOUWLLU3/NEWWEB.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.5,0.5" alt="NEWWEB.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="about" class="Index-page"  data-collection-id="5b0ed98ef950b7742625ae36" data-parallax-id="5b0ed98ef950b7742625ae36" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1529964839801" id="page-5b0ed98ef950b7742625ae36"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_5_1460575443014_21978"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="10.941271118262268" data-block-type="21" id="block-yui_3_17_2_8_1460502315293_150122"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1460570819714_141508"><div class="sqs-block-content"><h1 class="text-align-center"><strong>A two-hour event gathering your community for a conversation on how we can advance good thinking, action and virtue in our cities.&nbsp;</strong></h1><p class="text-align-center"><strong>—</strong></p><p>We’ve reached a new boiling point in our cities. Trickle-down division is reaching us all. Neighbors, co-workers, church folk, families and friends. Differences are good. Disagreements are expected. But today’s divisions seem more severe.&nbsp;</p><p>Some say more government, education or religion is the answer. But what if the answer has always been right in front of us? Not over there or with them. What if the antidote to the division was more simple. What if we took personal responsibility that solving our problems is up to us? We would join together, welcome our neighbor, respectfully engage conversation, appreciate our differences and find common ground. It would give the world a witness of how love shows up in the chaos. It would no longer be me against you, or you against me, but the strength of us, together, the power of we.&nbsp;</p><p> </p><h1 class="text-align-center"><strong>ABOUT</strong></h1><p>Q Commons is a town-hall style meeting that connects artists, entrepreneurs, politicians, church leaders and anyone interested in how the Christian faith can advance good in their local city. Hosted in 150 locations around the United States and the World, no other gathering unifies this many Christians on one night to give witness to our belief that our way to peace is to love God and love others.&nbsp;Q Commons will demonstrate what’s possible when we do.</p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1529352450238_90858"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1529352450238_20225"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-overlap
+            
+            
+            
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353193927-1860ZIL9BCN8X5PR128U/IMG_4792.jpg" alt="Use Your Voice To Initiate Valuable Dialogue - You play a vital role in healing what’s broken, missing, lost and confused in your community. Empathy and listening are foundational to our approach for inspiring change, so we believe connecting with local stakeholders is a first step to advancing good." loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353193927-1860ZIL9BCN8X5PR128U/IMG_4792.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353193927-1860ZIL9BCN8X5PR128U/IMG_4792.jpg" data-image-dimensions="2000x1333" data-image-focal-point="0.5,0.5" alt="IMG_4792.jpg"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><p>Use Your Voice To Initiate Valuable Dialogue</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p>You play a vital role in healing what’s broken, missing, lost and confused in your community. Empathy and listening are foundational to our approach for inspiring change, so we believe connecting with local stakeholders is a first step to advancing good.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1529352450238_80026"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1529352450238_33276"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-overlap
+            
+            
+            
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353457294-1WU06YPG8E807XV0MODF/Q-Cmmns-2017-PY_1563-Propaganda.jpg" alt="Use Our Platform To Help Create A Great Experience - Our proven model for facilitating interactive conversation is supported by a host of resources and an extensive, accessible network of support for best practices in event production, curating ongoing conversation, and instigating action." loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353457294-1WU06YPG8E807XV0MODF/Q-Cmmns-2017-PY_1563-Propaganda.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353457294-1WU06YPG8E807XV0MODF/Q-Cmmns-2017-PY_1563-Propaganda.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Q-Cmmns-2017-PY_1563-Propaganda.jpg"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><p>Use Our Platform To Help Create A Great Experience</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p>Our proven model for facilitating interactive conversation is supported by a host of resources and an extensive, accessible network of support for best practices in event production, curating ongoing conversation, and instigating action.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1529352450238_80732"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1529352450238_38694"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-overlap
+            
+            
+            
+            image-position-left
+            
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353722094-P45E2I9NHIE7IM0CJWUG/Screen+Shot+2018-06-18+at+3.28.09+PM.png" alt="Faith-Based Perspective &amp; Insight On Important Topics - Your gathering will be based around a live webcast with talks from recognized experts and thought-leaders equipping Christians to engage their communities, focusing where Gospel-centered wisdom meets cultural climate." loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353722094-P45E2I9NHIE7IM0CJWUG/Screen+Shot+2018-06-18+at+3.28.09+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529353722094-P45E2I9NHIE7IM0CJWUG/Screen+Shot+2018-06-18+at+3.28.09+PM.png" data-image-dimensions="2500x1647" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-06-18 at 3.28.09 PM.png"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><p>Faith-Based Perspective &amp; Insight On Important Topics</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p>Your gathering will be based around a live webcast with talks from recognized experts and thought-leaders equipping Christians to engage their communities, focusing where Gospel-centered wisdom meets cultural climate.</p></div></div>
+              
+
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_5_1460575443014_23534"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1527703673256_24608"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block quote-block sqs-block-quote null" data-block-type="31" id="block-yui_3_17_2_1_1527700214058_21361"><div class="sqs-block-content">
+
+<figure >
+  <blockquote data-animation-role="quote"
+   data-animation-override>
+    <span>&#147;</span>Our partnership with Q Commons is a critical component of the ongoing Gospel movement in Portland. This gathering is helping unite us as we invest in the transformation and flourishing of our amazing city.<span>&#148;</span>
+  </blockquote>
+  <figcaption class="source">&mdash; Kevin Palau (Portland, Oregon)</figcaption>
+</figure>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1527703673256_25697"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1527700214058_40984"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+	<a
+    href="/contact"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    LEAD YOUR CITY
+  </a>
+</div>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1527700214058_41940"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="hero-image-2" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5b0edaac758d46ca39204356" data-parallax-id="5b0edaac758d46ca39204356" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1461621265549" id="page-5b0edaac758d46ca39204356"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="53.536977491961416" data-block-type="21" id="block-yui_3_17_2_2_1461188384070_373898"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529342018772-GO7NWZF12VTWCHHKBQ7R/Q+Commons+%2716_stevecowellphoto-27.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b0ed249e2ccd18054d9ca70/1529342018772-GO7NWZF12VTWCHHKBQ7R/Q+Commons+%2716_stevecowellphoto-27.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Q Commons '16_stevecowellphoto-27.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="contact" class="Index-page"  data-collection-id="5b0ee79a352f53bd7cf2a9fd" data-parallax-id="5b0ee79a352f53bd7cf2a9fd" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1529964421533" id="page-5b0ee79a352f53bd7cf2a9fd"><div class="row sqs-row"><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1461604366869_78050"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="10.504201680672269" data-block-type="21" id="block-yui_3_17_2_4_1461596293453_14213"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1461615598240_49771"><div class="sqs-block-content"><h1 class="text-align-center">Lead Your City</h1><p>Our hope is that by hosting this in your city, you will equip your community to care about topics that matter and engage conversation about advancing good. Talk to our Q Commons director to learn more about what this partnership could look like within your context.</p></div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" id="block-283412a219cfed3f968d"><div class="sqs-block-content">
+
+
+
+
+
+<div class="form-wrapper"
+  
+>
+  
+  <div class="form-inner-wrapper">
+    <form
+       data-form-id="5b0ee79a352f53bd7cf2a9fe"
+       data-success-redirect=""
+       autocomplete="on"
+       
+       method="POST"
+       action="https://qcommons-fall.squarespace.com"
+       novalidate
+       onsubmit="return (function (form) {
+  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
+    (new Y.Squarespace.FormSubmit(form)).submit({
+      formId: '5b0ee79a352f53bd7cf2a9fe',
+      collectionId: '5b0ee79a352f53bd7cf2a9fd',
+      objectName: 'page-5b0ee79a352f53bd7cf2a9fd'
+    });
+  });
+  return false;
+})(this);"
+       
+    >
+      
+        <div class="field-list clear">
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+              <fieldset id="name-yui_3_17_2_1_1529962362278_41456" class="form-item fields name required">
+                
+            <legend class="title">
+              Name
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </legend>
+          
+                
+                <div class="field first-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="fname"
+                        x-autocompletetype="given-name"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="First"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">First Name</span>
+                  </label>
+                </div>
+                <div class="field last-name">
+                  <label class="caption">
+                    <input
+                        class="field-element field-control"
+                        name="lname"
+                        x-autocompletetype="surname"
+                        type="text"
+                        spellcheck="false"
+                        maxlength="30"
+                        data-title="Last"
+                        aria-required="true"
+                    />
+                    <span class="caption-text">Last Name</span>
+                  </label>
+                </div>
+              </fieldset>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+
+            
+              <div id="email-yui_3_17_2_1_1460137402286_63514" class="form-item field email required">
+                
+            <label class="title" for="email-yui_3_17_2_1_1460137402286_63514-field">
+              Email Address
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element"
+                    id="email-yui_3_17_2_1_1460137402286_63514-field"
+                    name="email"
+                    type="email"
+                    autocomplete="email"
+                    spellcheck="false"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+              <div id="text-yui_3_17_2_1_1460137402286_63942" class="form-item field text required">
+                
+            <label class="title" for="text-yui_3_17_2_1_1460137402286_63942-field">
+              Phone Number
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <input
+                    class="field-element text"
+                    type="text"
+                    id="text-yui_3_17_2_1_1460137402286_63942-field"
+                    
+                    aria-required="true"
+                />
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+          
+
+          
+
+            
+
+            
+
+            
+
+            
+              <div id="textarea-yui_3_17_2_1_1460137402286_64370" class="form-item field textarea required">
+                
+            <label class="title" for="textarea-yui_3_17_2_1_1460137402286_64370-field">
+              City
+              
+                <span class="required" aria-hidden="true">*</span>
+              
+            </label>
+          
+                
+                <textarea
+                    class="field-element "
+                    id="textarea-yui_3_17_2_1_1460137402286_64370-field"
+                    
+                    aria-required="true"
+                ></textarea>
+              </div>
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+            
+
+        
+
+        </div>
+
+      
+
+      
+
+      
+      <div data-animation-role="button"
+        class="
+          form-button-wrapper
+          
+            form-button-wrapper--align-left
+          
+        "
+      >
+        <input
+          class="button sqs-system-button sqs-editable-button sqs-button-element--primary"
+          type="submit"
+          value="Submit"
+        />
+      </div>
+      
+
+      
+      <div class="hidden form-submission-text"><p>Thank you for your interest in leading Q Commons in your city. You will receive an email from Matt Hogan providing next steps and the process to schedule a call to further discuss the vision and how we can partner together this fall. For any immediate questions, please email matt@qideas.org or respond to the email you will soon receive.</p></div>
+      <div class="hidden form-submission-html" data-submission-html=""></div>
+    </form>
+  </div>
+</div>
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1461604366869_79149"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+  
+    <nav class="Index-nav">
+      <div class="Index-nav-inner">
+        
+          <a href="#hero-image-1" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Hero Image 1</span></div>
+          </a>
+        
+          <a href="#about" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>About</span></div>
+          </a>
+        
+          <a href="#hero-image-2" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Hero Image 2</span></div>
+          </a>
+        
+          <a href="#contact" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Contact</span></div>
+          </a>
+        
+      </div>
+    </nav>
+            
+          </main>
+
+        </div>
+      </div>
+
+      
+        <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1461608022382" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-0 span-0"></div><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1444930260041_6900"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+
+        
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+  <nav class="Footer-nav" data-content-field="navigation">
+
+    <div class="Footer-nav-group"><a href="http://twitter.com/qideas" target="_blank" class="Footer-nav-item">TWITTER</a><a href="http://www.facebook.com/qideas/" target="_blank" class="Footer-nav-item">Facebook</a><a href="http://instagram.com/qideas" target="_blank" class="Footer-nav-item">Instagram</a></div>
+
+  </nav>
+
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1529355870099" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_6_1445636299684_7092"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+
+  </div>
+
+</footer>
+
+      
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+  </body>
+</html>

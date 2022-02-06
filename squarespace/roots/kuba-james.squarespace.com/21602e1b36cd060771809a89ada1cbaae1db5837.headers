@@ -1,0 +1,11 @@
+GET http://kuba-james.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BQbvFLaNOpmxMmJmNzIzMDkxYjhlZmYyYjViZDMzYjY4N2JkZTA4;Path=/
+< X-Contextid: KuHQA0Ui/qDrNzMzG
+< Age: 428136
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 00:55:25 GMT
+< Location: https://kuba-james.squarespace.com/

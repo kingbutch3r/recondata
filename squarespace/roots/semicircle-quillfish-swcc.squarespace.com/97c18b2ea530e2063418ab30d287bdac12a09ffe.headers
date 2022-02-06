@@ -1,0 +1,11 @@
+GET http://semicircle-quillfish-swcc.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://semicircle-quillfish-swcc.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BaGwHMooRZPkMzZhMjgyYWJlYWQwY2IwODVjZGZiOTk4OGZlNDgx;Path=/
+< X-Contextid: Rjt5fdwX/R9MJ4plW
+< Age: 19327
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 19:41:22 GMT

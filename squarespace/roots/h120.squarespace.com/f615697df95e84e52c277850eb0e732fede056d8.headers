@@ -1,0 +1,10 @@
+GET http://h120.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: 6sVzZG5G/IzRIryFP
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:52:24 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXnOrYfJPtrLMmY4NjY2MDQ5MTU2MzBhYTlhZjhiODFhMjdjOTY0;Path=/

@@ -1,0 +1,11 @@
+GET http://oleander-bird-m4f2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 01:32:30 GMT
+< Location: https://oleander-bird-m4f2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUm9E8AZiS4UYjk0ZmEwNmQzZTEzZDM2YmY5MTA2ZTk1NjUzMThl;Path=/
+< X-Contextid: BceLcdzS/kGCRmNH7
+< Age: 83993

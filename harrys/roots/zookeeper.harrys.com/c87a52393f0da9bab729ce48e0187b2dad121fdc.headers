@@ -1,0 +1,15 @@
+GET https://zookeeper.harrys.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 17:39:33 GMT
+< Set-Cookie: JSESSIONID=fiohsfud1mkz51vwnlnbqatr;Path=/;Expires=Sun, 30-Jan-2022 17:39:33 GMT;Secure;HttpOnly
+< Set-Cookie: login=;Version=1;Path=/;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0;Secure
+< Set-Cookie: login=;Version=1;Path=/;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0;Secure
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Frame-Options: SAMEORIGIN
+< Server: nginx
+< X-Xss-Protection: 1; mode=block
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+< Content-Type: text/html;charset=utf-8

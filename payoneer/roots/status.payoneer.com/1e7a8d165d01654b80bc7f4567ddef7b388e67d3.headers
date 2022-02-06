@@ -1,0 +1,23 @@
+GET https://status.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< X-Statuspage-Skip-Logging: true
+< Age: 2571
+< X-Cache: HIT
+< X-Xss-Protection: 1; mode=block
+< Access-Control-Allow-Origin: *
+< Accept-Ranges: bytes
+< X-Statuspage-Version: fdfee86f28367c43b2fd8f4b4d5f6abb754dad8e
+< Referrer-Policy: strict-origin-when-cross-origin
+< Vary: Accept,Accept-Encoding,X-Forwarded-Host,X-Forwarded-Scheme,X-Forwarded-Proto,Fastly-SSL
+< Cache-Control: max-age=0, private, must-revalidate
+< Content-Type: text/html; charset=utf-8
+< X-Request-Id: a53f2065-2a9f-4435-8277-c0fe638a6436
+< Strict-Transport-Security: max-age=259200
+< Date: Tue, 01 Feb 2022 23:25:53 GMT
+< X-Content-Type-Options: nosniff
+< Etag: W/"gz[aa064bd608a35c685c98342f903f9cc0]"
+< X-Download-Options: noopen
+< X-Runtime: 0.085747
+< X-Permitted-Cross-Domain-Policies: none

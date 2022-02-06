@@ -1,0 +1,17 @@
+GET https://girlsguide2technology.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=r22nu0itjuhoqiqtqedvsajk2k; expires=Fri, 04-Mar-2022 00:46:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=edb7c5da-ba6c-469b-8d00-54f450f9dd85; expires=Fri, 02-Feb-2024 00:46:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:46:03 GMT
+< Pragma: no-cache
+< Vary: User-Agent

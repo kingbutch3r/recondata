@@ -1,0 +1,17 @@
+GET https://imlaurenac.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:56:55 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ojbv2b596c93jk2b2s2ip6fu8a; expires=Thu, 03-Mar-2022 23:56:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8b6a640b-fb39-4a23-a38b-7bc7c2e96aee; expires=Thu, 01-Feb-2024 23:56:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

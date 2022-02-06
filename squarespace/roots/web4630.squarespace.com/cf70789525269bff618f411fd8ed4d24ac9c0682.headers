@@ -1,0 +1,10 @@
+GET https://web4630.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:49:54 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BeppCTj5aEbuZmE5MDAyOGE2NTQxYWZjYWEzODQwMDc5MzRiYTZk;Path=/
+< X-Contextid: 122hBa4V/u1KXjsYv

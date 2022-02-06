@@ -1,0 +1,11 @@
+GET http://arlenlenceria.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:03:38 GMT
+< Location: https://arlenlenceria.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfO7EvFFKXX4MGQ1OGYxY2FmMDE3YzI1NTE0NjM3NmVmOWMyZTRh;Path=/
+< X-Contextid: uUBp4YeY/K9kiMC8i

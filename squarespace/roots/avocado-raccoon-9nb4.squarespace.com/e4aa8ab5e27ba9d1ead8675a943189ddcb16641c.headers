@@ -1,0 +1,18 @@
+GET https://avocado-raccoon-9nb4.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 419348
+< Date: Fri, 28 Jan 2022 04:55:41 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: rw3exhaJ/JoLNpefm
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"f2ec8cb9231bb7b9ca1cc3455598139f"
+< Server: Squarespace
+< Set-Cookie: crumb=BcrOrrWhzKgyMzA0MTVkZWU1MDZlNzhjZmFhOGY5OTQwMGQ4NzY4;Path=/
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN

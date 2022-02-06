@@ -1,0 +1,14 @@
+GET https://rfp000.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: CDQJBYeN/4G3RvriD
+< Age: 0
+< Content-Length: 3208
+< Date: Wed, 02 Feb 2022 00:49:40 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BRz+Qj63Qz4RMGRhYjNlNGFhNTA3MjU4MWE3MGI0MTAzOWZjMzky;Path=/
+< X-Content-Type-Options: nosniff

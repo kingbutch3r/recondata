@@ -1,0 +1,11 @@
+GET http://joshua-farmer-xs82.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BakeCpA1dZkMMmQxZDdhOTM1ZjQ3ZWRjOTUyYmRmODE4MDNiNmNh;Path=/
+< X-Contextid: VfXKx3h7/oX016jSN
+< Age: 483506
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 11:00:01 GMT
+< Location: https://joshua-farmer-xs82.squarespace.com/
+< Server: Squarespace

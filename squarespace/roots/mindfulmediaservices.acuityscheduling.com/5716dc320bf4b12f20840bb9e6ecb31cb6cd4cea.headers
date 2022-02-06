@@ -1,0 +1,17 @@
+GET https://mindfulmediaservices.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:32:01 GMT
+< Set-Cookie: PHPSESSID=gs224oa9f09j771h1n4so2tok2; expires=Fri, 04-Mar-2022 00:32:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c4cf7f67-aabd-478d-8c3e-39061eb2233b; expires=Fri, 02-Feb-2024 00:32:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

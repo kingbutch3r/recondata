@@ -1,0 +1,16 @@
+GET http://sweeps.harrys.com
+
+
+< HTTP/1.1 403 Forbidden
+< Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=lcYXNiyqfsiq9KixwO9MgNtP8rLxYba8zMSYYn%2BpDSI10vxUEwCtAuIRK8ay84MZpjjReBKVx4TQzzmi38vW%2B20O98j6usNTW7a4fQ34ySVLSVKVgVejijDyMbNKWSFkYLYwzdYkpU9KEQqpx0Gq"}],"group":"cf-nel","max_age":604800}
+< Cf-Ray: 6d543d9d8bfc6eb8-BOM
+< Content-Type: text/plain; charset=UTF-8
+< Referrer-Policy: same-origin
+< X-Frame-Options: SAMEORIGIN
+< Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Date: Sat, 29 Jan 2022 17:39:34 GMT
+< Content-Length: 16

@@ -1,0 +1,11 @@
+GET https://pc-ld2.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: JSESSIONID=596BB46BC4B894DB4E2290A86CFB3036.v5-web009; Path=/; HttpOnly
+< X-Contextid: IB0NrAxg/0ie3hQof
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:52:16 GMT
+< Location: http://pc-ld2.squarespace.com/;jsessionid=596BB46BC4B894DB4E2290A86CFB3036.v5-web009
+< Server: Squarespace

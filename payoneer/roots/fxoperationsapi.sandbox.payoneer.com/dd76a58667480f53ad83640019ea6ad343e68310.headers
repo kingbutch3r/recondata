@@ -1,0 +1,15 @@
+GET https://fxoperationsapi.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: GCLB=CPy5zayLrv3koAE; path=/; HttpOnly
+< Date: Tue, 01 Feb 2022 23:26:19 GMT
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache
+< Alt-Svc: clear
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Via: 1.1 google
+< Server: rhino-core-shield
+< Vary: Accept-Encoding

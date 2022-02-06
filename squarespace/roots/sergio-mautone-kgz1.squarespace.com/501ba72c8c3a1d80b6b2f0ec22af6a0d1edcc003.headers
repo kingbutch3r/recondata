@@ -1,0 +1,12 @@
+GET https://sergio-mautone-kgz1.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Pragma: no-cache
+< X-Contextid: RjIP56jP/sOd48XRb
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:16:09 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC

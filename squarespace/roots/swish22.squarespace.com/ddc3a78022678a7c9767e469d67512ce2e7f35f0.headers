@@ -1,0 +1,11 @@
+GET http://swish22.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 00:04:27 GMT
+< Location: https://swish22.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bdq7AMv7xYBbMTc4ZGYxYjk0NTIxYjlhOTcyYmRiN2FlMzY5OGY0;Path=/
+< X-Contextid: YaVdq6rY/Bq9f8xKR
+< Age: 436339

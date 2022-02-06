@@ -1,0 +1,17 @@
+GET https://daniellesimonecharles.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:32:55 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=6a3u536bn5rkumhqoni2kf2lkn; expires=Fri, 04-Mar-2022 00:32:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0e84f111-a78b-4f09-bb44-5a7e28c2c5b8; expires=Fri, 02-Feb-2024 00:32:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

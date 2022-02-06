@@ -1,0 +1,17 @@
+GET https://lightboxcoaching.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:10:14 GMT
+< Set-Cookie: PHPSESSID=377g8fsrt1mttmevo1pgmmani8; expires=Fri, 04-Mar-2022 00:10:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cab6ccc8-69c8-4d6a-8239-e600305a1553; expires=Fri, 02-Feb-2024 00:10:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

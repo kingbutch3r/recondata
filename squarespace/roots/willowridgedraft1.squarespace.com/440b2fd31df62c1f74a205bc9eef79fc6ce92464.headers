@@ -1,0 +1,11 @@
+GET http://willowridgedraft1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BV5A+kHkRCz7NDBkMTI0NDE2ZjZkNjg2ODVlMzUwZmM0N2JlYWY4;Path=/
+< X-Contextid: 0c4J3Fw3/YpRx7RDO
+< Age: 91351
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 23:28:35 GMT
+< Location: https://willowridgedraft1.squarespace.com/
+< Server: Squarespace

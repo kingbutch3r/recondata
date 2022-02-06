@@ -1,0 +1,11 @@
+GET http://bellabar365.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Location: https://bellabar365.acuityscheduling.com/
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:53:14 GMT
+< Content-Type: text/html; charset=UTF-8

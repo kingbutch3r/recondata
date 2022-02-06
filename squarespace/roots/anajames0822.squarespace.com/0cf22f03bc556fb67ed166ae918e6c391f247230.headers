@@ -1,0 +1,13 @@
+GET https://anajames0822.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BQp/dGTsgrQCNzcyZTU1YzA1ZTEwY2UzMmNkMDdiMmVjNTY1MmJk;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: 1MWOlP2F/oH4fCFFM
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:16:39 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Age: 0

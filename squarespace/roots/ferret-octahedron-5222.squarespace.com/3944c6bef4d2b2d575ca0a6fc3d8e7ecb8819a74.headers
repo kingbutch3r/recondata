@@ -1,0 +1,13 @@
+GET https://ferret-octahedron-5222.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 01:16:36 GMT
+< Set-Cookie: crumb=BZ82MAsIaHq4MWIwNTI2MTA0NTVmZDE4MjA0MjhlMWNkZDZmZjY1;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: jQEAk8Vg/0MRUz55D
+< Age: 0
+< Content-Type: text/html;charset=utf-8

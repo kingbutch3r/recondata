@@ -1,0 +1,11 @@
+GET http://aviator-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://aviator-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXbNIzcSFxZjYzM2MWJkZmFmYTAwMWMyYjRjZTZkOTI2ZmNmMjEy;Path=/
+< X-Contextid: gJOPgcz5/tAeZ39L8
+< Age: 490849
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 08:34:47 GMT

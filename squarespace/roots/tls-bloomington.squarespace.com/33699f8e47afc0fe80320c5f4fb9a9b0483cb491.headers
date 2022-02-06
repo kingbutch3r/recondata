@@ -1,0 +1,16 @@
+GET https://tls-bloomington.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 8190
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: HVI3DXYx/15dKfh43
+< Date: Tue, 01 Feb 2022 21:33:09 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BTIUej30Vi5ANjdlZWI0NjA2OWYwNDY0MGFjODNiZWY2MzRhNWNh;Path=/
+< Etag: W/"e39d4ed4ee7ffd019cd3c6b3036a1c53--gzip"
+< Server: Squarespace
+< Vary: Accept-Encoding

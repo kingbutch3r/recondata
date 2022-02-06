@@ -1,0 +1,17 @@
+GET https://nicolewendland.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:59:59 GMT
+< Set-Cookie: PHPSESSID=nur5aog1psced738ih68ntan8h; expires=Thu, 03-Mar-2022 23:59:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=597f11ac-f68c-4d10-8c42-a2c810c2a679; expires=Thu, 01-Feb-2024 23:59:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

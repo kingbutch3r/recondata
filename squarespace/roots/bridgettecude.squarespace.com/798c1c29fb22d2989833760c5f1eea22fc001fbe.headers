@@ -1,0 +1,18 @@
+GET https://bridgettecude.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 11185
+< Date: Tue, 01 Feb 2022 22:16:22 GMT
+< Accept-Ranges: bytes
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Tue, 01 Feb 2022 22:16:22 GMT
+< X-Contextid: aVut6nno/d78RQY4c
+< Etag: W/"f47b2a3c06a4ab7ec6f445bd82437572"
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Set-Cookie: crumb=BcTTq1wYyXlOMGY1ODQyOTEwMGI5MzVjNzk4ZjcxZDA1NjdjNmE0;Path=/
+< Vary: Accept-Encoding

@@ -1,0 +1,12 @@
+GET http://boulderathletics1.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Server: Squarespace
+< X-Contextid: Z4upg9Z7/A1OrxpLZ
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Date: Wed, 02 Feb 2022 01:15:34 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC

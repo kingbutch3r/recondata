@@ -1,0 +1,16 @@
+GET https://arlenlenceria.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"d3634c1ab74acf66a4e9698da9f8a9de--gzip"
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Date: Tue, 01 Feb 2022 10:16:12 GMT
+< Set-Cookie: crumb=BXbcjt29HkfMNTU3ODY3NDYzZGM4YTRkOGJmZmI1OGJlMjI0Mjll;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Age: 48907
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: dDrOx8s4/4ukqzl0A
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,15 @@
+GET https://designwithpride.harrys.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 17:39:28 GMT
+< Access-Control-Allow-Origin: *
+< Cache-Control: public, max-age=0, must-revalidate
+< Age: 6456585
+< Strict-Transport-Security: max-age=63072000
+< Content-Type: text/html; charset=utf-8
+< Content-Disposition: inline
+< Etag: W/"ded8d982a8c116b2d40becd766599432f0f420838a053a5b96c56253800a4113"
+< X-Vercel-Cache: HIT
+< X-Vercel-Id: bom1::g9snt-1643477968643-30c2a132e482
+< Server: Vercel

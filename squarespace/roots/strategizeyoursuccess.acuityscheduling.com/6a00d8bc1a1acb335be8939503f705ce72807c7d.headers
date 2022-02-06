@@ -1,0 +1,17 @@
+GET https://strategizeyoursuccess.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=73mlimpkfr5vnf5a27cis3k25p; expires=Fri, 04-Mar-2022 00:37:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=05a61015-7b68-4204-b62d-770371b9d69d; expires=Fri, 02-Feb-2024 00:37:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:37:47 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,13 @@
+GET http://vat.sandbox.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:26:20 GMT
+< Server: CloudFront
+< Content-Length: 183
+< Location: https://vat.sandbox.payoneer.com/
+< X-Cache: Redirect from cloudfront
+< Via: 1.1 411e22169754151eaf04e9edc28282d0.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM50-C1
+< X-Amz-Cf-Id: P1QGaB8tJERTQkdnfc2OvMk1KIgHDY5HCcpT3al_YgYk8IHDc0VG-Q==
+< Content-Type: text/html

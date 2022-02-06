@@ -1,0 +1,10 @@
+GET https://custhelp.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Apache
+< Strict-Transport-Security: max-age=31536000
+< Content-Type: text/html;charset=iso-8859-1
+< Rnt-Gk-Machine: 0.217
+< Date: Tue, 01 Feb 2022 23:25:50 GMT
+< Location: https://payoneer.custhelp.com/

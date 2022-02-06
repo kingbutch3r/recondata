@@ -1,0 +1,17 @@
+GET https://animalmagic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:57:14 GMT
+< Set-Cookie: PHPSESSID=b5fptcevdoetn717uom41ib1od; expires=Thu, 03-Mar-2022 23:57:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5d063419-c2ea-4b0d-b572-70c664f57bec; expires=Thu, 01-Feb-2024 23:57:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

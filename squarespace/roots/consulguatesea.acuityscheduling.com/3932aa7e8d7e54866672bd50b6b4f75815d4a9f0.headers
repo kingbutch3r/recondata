@@ -1,0 +1,17 @@
+GET https://consulguatesea.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:53:08 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=hbc1es67f5q84sot4pgdkb1n4j; expires=Fri, 04-Mar-2022 00:53:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f1f46e15-3692-4b1c-b149-907c6d080e55; expires=Fri, 02-Feb-2024 00:53:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

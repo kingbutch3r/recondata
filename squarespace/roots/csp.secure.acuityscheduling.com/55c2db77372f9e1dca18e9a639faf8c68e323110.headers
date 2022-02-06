@@ -1,0 +1,13 @@
+GET http://csp.secure.acuityscheduling.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Cache: Redirect from cloudfront
+< X-Amz-Cf-Pop: MXP63-P2
+< Date: Wed, 02 Feb 2022 00:55:08 GMT
+< Content-Type: text/html
+< Content-Length: 183
+< Via: 1.1 4c153ff0feed1a45db2039ce118ec77e.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: oYEc-omCmLAIHYWACCnOZuNmMwByNrB5PqknJH56n7LSD4OVqQAsWg==
+< Server: CloudFront
+< Location: https://csp.secure.acuityscheduling.com/

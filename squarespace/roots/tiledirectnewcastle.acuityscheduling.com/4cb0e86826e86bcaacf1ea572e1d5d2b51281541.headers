@@ -1,0 +1,15 @@
+GET https://tiledirectnewcastle.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=k63d74a7plndul6rjvt7c5k6v9; expires=Fri, 04-Mar-2022 00:04:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=aacaf4ca-4a23-47c1-9223-c409fca58c59; expires=Fri, 02-Feb-2024 00:04:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:04:42 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"

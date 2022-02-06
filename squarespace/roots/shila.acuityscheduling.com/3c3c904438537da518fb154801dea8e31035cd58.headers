@@ -1,0 +1,17 @@
+GET https://shila.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=it0kme8bfiqr3hndj0n4luoc8r; expires=Thu, 03-Mar-2022 23:54:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=56e6b06e-cafe-4964-9022-85d6db9d611b; expires=Thu, 01-Feb-2024 23:54:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:54:54 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

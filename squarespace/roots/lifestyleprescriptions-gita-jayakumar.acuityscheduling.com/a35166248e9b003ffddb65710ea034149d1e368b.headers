@@ -1,0 +1,17 @@
+GET https://lifestyleprescriptions-gita-jayakumar.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:28:08 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=2hmujgr6i7soch2afkb2ltr5l8; expires=Fri, 04-Mar-2022 00:28:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=429213ab-8f3a-4237-80d9-d737c580dd16; expires=Fri, 02-Feb-2024 00:28:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php

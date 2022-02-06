@@ -1,0 +1,11 @@
+GET https://www.terry-burrows-0mh1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:15:15 GMT
+< Location: https://terry-burrows-0mh1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWrRy8xGSF1YNTQxY2ExMTMwZTBjNjEzMWJiZjFiNmQ1Y2VlMDM3;Path=/
+< X-Contextid: YtT8MWWy/f4HMrCq6

@@ -1,0 +1,10 @@
+GET http://9999to1.harrys.com
+
+
+< HTTP/1.1 308 Permanent Redirect
+< Date: Sat, 29 Jan 2022 17:39:26 GMT
+< Content-Type: text/plain
+< Location: https://9999to1.harrys.com/
+< Refresh: 0;url=https://9999to1.harrys.com/
+< Server: Vercel
+< X-Vercel-Id: bom1::5qfcb-1643477966831-fb92e2a113d2

@@ -1,0 +1,10 @@
+GET http://aoplca2012.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BXffaspG8jiSYzI1MmQ3NTFiZTliNzc5YTVmMjUzZDFiNTk1YTQy;Path=/
+< X-Contextid: fON2vZoG/uy6sa4vZ
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:51:17 GMT
+< Server: Squarespace

@@ -1,0 +1,11 @@
+GET http://mail10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: JJ8n5st9/RgOwgSyg
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:51:09 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSA+rRYNFTaVMzFhNmQ3ZDIzYjQ4NGJlODNjMmU2ODA2NTY0Y2Q0;Path=/

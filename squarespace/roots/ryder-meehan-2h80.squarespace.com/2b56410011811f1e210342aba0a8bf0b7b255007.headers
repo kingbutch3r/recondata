@@ -1,0 +1,11 @@
+GET http://ryder-meehan-2h80.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:11:39 GMT
+< Location: https://ryder-meehan-2h80.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQPYH3zakKzCYzY1MDgyOWNmOTQ4M2U2MmVjMjQ2ODRjMTRjZDNh;Path=/
+< X-Contextid: uHeMFBDc/9frCOGup
+< Age: 0

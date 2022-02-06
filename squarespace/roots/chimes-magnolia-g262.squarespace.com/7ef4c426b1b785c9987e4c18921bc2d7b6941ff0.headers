@@ -1,0 +1,12 @@
+GET https://chimes-magnolia-g262.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< X-Contextid: 4UOPvCaQ/Mr3l7BNK
+< Content-Length: 77576
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 01:17:55 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,17 @@
+GET https://theevolveproject.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=v7cioniinkias6835qb9ocj4v8; expires=Fri, 04-Mar-2022 00:40:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4cd49fda-89a7-4200-b584-7f6e955f1f0a; expires=Fri, 02-Feb-2024 00:40:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:40:23 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8

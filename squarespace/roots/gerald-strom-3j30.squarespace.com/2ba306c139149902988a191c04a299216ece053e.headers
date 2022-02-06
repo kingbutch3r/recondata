@@ -1,0 +1,12 @@
+GET http://gerald-strom-3j30.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:57:51 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: OfgYy3yN/tk6XS4VO
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BbxdsfU/PVWBOGY2OWNjMDVkN2UzNmUzZWQ3ZTRjYWQwZDRmOGY3;Path=/

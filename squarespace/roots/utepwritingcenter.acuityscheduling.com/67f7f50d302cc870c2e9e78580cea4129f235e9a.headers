@@ -1,0 +1,17 @@
+GET https://utepwritingcenter.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=oi79svmv1bp4bahls53c2bntfm; expires=Fri, 04-Mar-2022 00:29:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=14f83bf5-ad02-49ae-bd2d-377cd7fa1855; expires=Fri, 02-Feb-2024 00:29:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:29:49 GMT
+< Content-Length: 0
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate

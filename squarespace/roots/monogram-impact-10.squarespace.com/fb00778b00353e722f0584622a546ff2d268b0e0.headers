@@ -1,0 +1,13 @@
+GET http://monogram-impact-10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BSCeRe3uNZikNTBiODhmZWE4NzYxMmYyMzMzOTZjOGQ4N2JkY2Q0;Path=/
+< Server: Squarespace
+< X-Contextid: TfWh8d2U/n2GESDvQ
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:57:06 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

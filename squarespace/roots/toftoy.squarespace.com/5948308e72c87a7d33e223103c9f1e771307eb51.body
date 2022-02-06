@@ -1,0 +1,1630 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-GB"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- toftoy -->
+<base href="">
+<meta charset="utf-8" />
+<title>driti.city</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5381ee0ee4b0b8104fba07d5/b9a9a429-78b6-42b1-b287-05c926f523a6/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://toftoy.squarespace.com"/>
+<meta property="og:site_name" content="driti.city"/>
+<meta property="og:title" content="driti.city"/>
+<meta property="og:url" content="https://toftoy.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="driti.city"/>
+<meta itemprop="url" content="https://toftoy.squarespace.com"/>
+<meta name="twitter:title" content="driti.city"/>
+<meta name="twitter:url" content="https://toftoy.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/dCL6-6Lv4I1dDC6fwsC65bVvvTjv96GZIQHpm4PuyOjfelw2fFHN4UJLFRbh52jhWD9D52B8ZQg8ZQsKweJtwQMXZc4yw2iqFsnHMKG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdP37O1szZ1szpPoDSWmyScmDSeBRZPoRdhXCjAFu-WsoShFGZAsude80ZkoRdhXCjAFu-WsoShFGZAsude80Zko0ZWbCjWw0dA9CdeNRjAUGdaFXOYFUiABkZWF3jAF8ShFGZAsude80ZkoRdhXCieNcieNoO1FUiABkZWF3jAF8OcFzdPUaiaS0jAFu-WsoShFGZAsude80ZkoRdhXCiaiaOcBRiA8XpWFR-emqiAUTdcS0dcmXOYiaikoySkolZPUaiaS0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPUaiaS0ieNcieNoO1FUiABkZWF3jAF8OcFzdPJVdcmupcmTifu1ScNXZWFnJygKjAl8SKuD-Ai0ZWblihmKH6qJUmtbMg62JMJ7fbReWyMMeMb6MKG4fwipIMMjgkMfH6qJkBtbMg64JMJ7fbRamgMgeMb6MTMgROx4R3j.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-6bf9aa2dcdef771c3f44a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-6bf9aa2dcdef771c3f44a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-151f739a57c49fbbc508b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-151f739a57c49fbbc508b-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-98fcec8fe4ac79d616790-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-98fcec8fe4ac79d616790-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-8af866c35746bff2a6575-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-8af866c35746bff2a6575-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-cc722a56a2db1e01cee25-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-d156217a5e6bc4bc7f846-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-a61164ed9cd7a9eb7bfce-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e6d055ed15b111bd6538f-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-cab32b9fecdae6ba6ebcb-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-119f397b3281ed3884445-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-708e41f40f57bdd166721-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-9b847e3cf9570958e77a8-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-8c06b3cd4fda755e3e4f3-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-08426cdfc77045a9462a8-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-03fe0045a50313e024895-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-37e6abe30ca783c1d89a7-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-d2c61be9b8f97e301a175-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-4be1ee041b08a625937bd-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-798317aed06c656945a2f-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-fa5f5d649a09b40da8aa4-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-49085558da5380a91b120-min.en-US.js"}},"pageType":1,"website":{"id":"5381ee0ee4b0b8104fba07d5","identifier":"toftoy","websiteType":1,"contentModifiedOn":1643274546655,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-GB","timeZone":"Europe/Oslo","machineTimeZoneOffset":3600000,"timeZoneOffset":3600000,"timeZoneAbbr":"CET","siteTitle":"driti.city","fullSiteTitle":"driti.city","siteTagLine":"f\u00E5 igjen for driten","siteDescription":"","location":{"mapZoom":12.0,"mapLat":58.9699756,"mapLng":5.733107300000029,"markerLat":58.9699756,"markerLng":5.733107300000029,"addressTitle":"","addressLine1":"","addressLine2":"Stavanger","addressCountry":"Norway"},"shareButtonOptions":{"7":true,"1":true,"2":true,"8":true,"3":true,"4":true,"6":true},"authenticUrl":"https://toftoy.squarespace.com","internalUrl":"https://toftoy.squarespace.com","baseUrl":"https://toftoy.squarespace.com","sslSetting":3,"isHstsEnabled":false,"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5381ee0ee4b0b8104fba07d6","websiteId":"5381ee0ee4b0b8104fba07d5","subjects":[{"systemSubject":"fine_art"},{"systemSubject":"design"},{"systemSubject":"music"},{"systemSubject":"photo"}],"country":"NO","state":"","simpleLikingEnabled":true,"popupOverlaySettings":{"style":1,"enabledPages":[]},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Home","id":"59dcefad6f4ca3f5bfd70a7a","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"3","tweak-blog-list-item-image-aspect-ratio-grid":"2:3 Standard (Vertical)","tweak-blog-list-item-image-aspect-ratio-stacked":"Auto","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"40px","tweak-blog-list-style":"Stacked","tweak-footer-layout":"Stacked","tweak-header-bottom-overlay-on-index-gallery":"false","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"2","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"true","tweak-index-gallery-height":"100vh","tweak-index-gallery-indicators":"Lines","tweak-index-gallery-layout":"Grid","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"500","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"First Page Only","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"true","tweak-product-item-image-zoom-factor":"2","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"3","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-site-ajax-loading-enable":"true","tweak-site-border-show":"false","tweak-site-border-width":"14px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/","betaFeatureFlags":["transactional_email_pipeline_v2_enabled","campaigns_show_apply_website_styles_button","customer_account_creation_recaptcha","campaigns_banner_reduce_size","category-delete-product-service-enabled","nested_categories_migration_enabled","commerce_etsy_shipping_import","campaigns_new_subscriber_search","commerce_product_branching","campaigns_global_uc_ab","commerce_product_review_import_ga","commerce_product_review_etsy_import","member_areas_schedule_interview","campaigns_section_reorder_arrows","reduce_general_search_api_traffic","commerce_activation_experiment_add_payment_processor_card","commerce_afterpay_pdp","campaigns_thumbnail_layout","member_areas_spanish_interviews","commerce_restock_notifications","background_art_onboarding","startup_checklist","commerce_etsy_product_import","google_analytics_4_gtag_js","commerce_site_visitor_metrics","product_composer_feedback_form_on_save","campaigns_blog_product_image_editor","commerce_clearpay","commerce_product_composer_ab_test_all_users","campaigns_hide_deleted_automations_panel","commerce_onboarding_tools_screen_test","commerce_pdp_layouts_ga","campaigns_audience_card","member_areas_pricing_options_discounts","commerce_category_id_discounts_enabled","viewer-role-contributor-invites"],"impersonatedSession":false,"demoCollections":[{"collectionId":"59de5da8a9db094459978ac4","deleted":false},{"collectionId":"59dcefad6f4ca3f5bfd70a7a","deleted":false},{"collectionId":"59dd22ade9bfdf92786ca1aa","deleted":false},{"collectionId":"59dd2437a9db091edabb01d9","deleted":false},{"collectionId":"59dd261d914e6b94c00e5754","deleted":true},{"collectionId":"59dd228ab7411c5687f51dfe","deleted":false},{"collectionId":"59dfa72bf9a61e58eb4cf051","deleted":false},{"collectionId":"59f8b1b4f9619afbcac22aaa","deleted":false},{"collectionId":"59e8d0db51a584116cad55e5","deleted":true},{"collectionId":"59f3474ed6839ab9dd636b9f","deleted":false},{"collectionId":"5a032cca085229909ddf9e19","deleted":false},{"collectionId":"59f8ba1f9140b7737be8a417","deleted":false},{"collectionId":"5a03325171c10badfd377566","deleted":false},{"collectionId":"5a03231d53450a590c6b879b","deleted":false},{"collectionId":"5a032323ec212d87830894ec","deleted":false}],"tzData":{"zones":[[60,"EU","CE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://toftoy.squarespace.com/home-pedro?format=rss" />
+<script type="application/ld+json">{"url":"https://toftoy.squarespace.com","name":"driti.city","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"Stavanger\nNorway","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"Stavanger\nNorway","name":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5381ee0ee4b0b8104fba07d5/18/55f0aac0e4b0f0a5b7e0b22e/61f25390315ea1010c69d43e/347-05142015/1643274546637/site.css"/><meta name="ROBOTS" content="NOINDEX">
+<script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-59dcefad6f4ca3f5bfd70a7a" class="tweak-social-icons-style-knockout tweak-social-icons-shape-circle tweak-site-width-option-full-width tweak-icon-weight-hairline  tweak-site-ajax-loading-enable tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-horizontal ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-bottom-center ancillary-header-tagline-position-hide ancillary-header-primary-nav-position-bottom-left ancillary-header-secondary-nav-position-bottom-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-bottom-right ancillary-header-account-position-bottom-right tweak-header-primary-nav-hover-style-active tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square tweak-header-secondary-nav-inherit-styles tweak-header-secondary-nav-hover-style-active tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-rectangle tweak-header-search-placeholder-show tweak-header-cart-style-cart-alternate tweak-header-account-style-icon tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-first-page-only  tweak-index-page-scroll-indicator-icon-only tweak-index-page-scroll-indicator-icon-line tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-grid tweak-index-gallery-spacing-sides-show tweak-index-gallery-spacing-top-bottom-show tweak-index-gallery-fixed-height tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-fade tweak-index-gallery-controls-small-arrows tweak-index-gallery-controls-icon-weight-hairline tweak-index-gallery-indicators-lines tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-top-left tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-stacked  tweak-footer-stacked-alignment-left tweak-footer-business-info-show   ancillary-mobile-bar-branding-position-top-left ancillary-mobile-bar-menu-icon-position-top-left tweak-mobile-bar-menu-icon-vertical-dots ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-top-right tweak-mobile-bar-cart-style-cart-alternate ancillary-mobile-bar-account-position-top-right tweak-mobile-bar-account-style-icon tweak-mobile-overlay-slide-origin-right tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square tweak-mobile-overlay-menu-secondary-inherit  tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-left hide-album-share-link tweak-blog-meta-primary-date tweak-blog-meta-secondary-category tweak-blog-list-style-stacked  tweak-blog-list-alignment-center tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-23-standard-vertical tweak-blog-list-item-image-aspect-ratio-stacked-auto tweak-blog-list-item-title-show  tweak-blog-list-item-body-show tweak-blog-list-item-readmore-inline tweak-blog-list-item-meta-position-above-title tweak-blog-list-pagination-link-label-show tweak-blog-list-pagination-link-icon-show tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-center tweak-blog-item-meta-position-above-title tweak-blog-item-share-position-below-content tweak-blog-item-pagination-link-icon-show tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-hide tweak-blog-item-pagination-link-icon-weight-hairline event-disable-item-pages event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address event-list-icalgcal-links    event-excerpts  event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   tweak-product-list-image-aspect-ratio-23-standard-vertical tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-left tweak-product-list-meta-alignment-overlay-center-left tweak-product-list-show-title tweak-product-list-show-price tweak-product-list-filter-display-hide tweak-product-list-filter-alignment-left tweak-product-item-nav-show-none tweak-product-item-nav-pagination-style-titles tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-right tweak-product-item-gallery-position-left tweak-product-item-gallery-design-slideshow tweak-product-item-gallery-aspect-ratio-23-standard-vertical tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-pill tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-solid tweak-product-item-details-add-to-cart-button-shape-square tweak-product-item-details-add-to-cart-button-padding-medium  tweak-product-item-image-zoom-behavior-click  tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-rectangle tweak-product-badge-position-bottom-right tweak-product-badge-inset-floating newsletter-style-light hide-opentable-icons opentable-style-dark small-button-style-raised small-button-shape-square medium-button-style-raised medium-button-shape-square large-button-style-raised large-button-shape-square image-block-poster-text-alignment-left image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-match image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-match image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-match image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-raised button-corner-style-square tweak-product-quick-view-button-style-bar tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-hairline tweak-share-buttons-style-icon-only tweak-share-buttons-icons-show tweak-share-buttons-labels-show tweak-share-buttons-counts-show native-currency-code-usd collection-type-index collection-59dcefad6f4ca3f5bfd70a7a collection-layout-default homepage view-list mobile-style-available sqs-has-custom-cart has-site-title has-tagline has-cart has-parallax-images has-parallax-images enable-load-effects has-primary-nav has-footer-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            driti.city
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+  <a href="/cart" class="Cart sqs-custom-cart" data-nc-element="cart" data-test="template-cart">
+    <span class="Cart-inner">
+      <span class="Cart-label">Cart</span>
+
+      <svg class="Icon Icon--bag-alt" viewBox="0 0 28 28">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon-alt--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon-alt--even"></use>
+      </svg>
+      <svg class="Icon Icon--bag" viewBox="0 0 34 38">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon--even"></use>
+      </svg>
+      <svg class="Icon Icon--cart-alt" viewBox="0 0 28 28">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#cart-icon-alt--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#cart-icon-alt--even"></use>
+      </svg>
+      <svg class="Icon Icon--cart" viewBox="0 0 31 26">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#cart-icon--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#cart-icon--even"></use>
+      </svg>
+
+      <span class="sqs-cart-quantity">0</span>
+    </span>
+  </a>
+
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+      
+        
+          <a href="/shop-pedro" class="Mobile-overlay-nav-item">
+            Shop
+          </a>
+        
+      
+    
+    
+  
+    
+      
+        
+          <a href="/blog-pedro" class="Mobile-overlay-nav-item">
+            Blog
+          </a>
+        
+      
+    
+    
+  
+    
+      
+        
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="info-pedro">
+            <span class="Mobile-overlay-nav-item--folder-label">Info</span>
+          </button>
+        
+      
+    
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+  
+    <div class="Mobile-overlay-folder" data-controller-folder="info-pedro">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="info-pedro">
+        <span class="Mobile-overlay-folder-item--toggle-label">Back</span>
+      </button>
+      
+        
+          <a href="/our-story-pedro" class="Mobile-overlay-folder-item">
+            Our Story
+          </a>
+        
+      
+        
+          <a href="/contact-pedro" class="Mobile-overlay-folder-item">
+            Contact
+          </a>
+        
+      
+        
+          <a href="/faqs-pedro" class="Mobile-overlay-folder-item">
+            FAQs
+          </a>
+        
+      
+    </div>
+  
+
+        
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+              
+                
+              
+            
+              
+              
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="5a03325171c10badfd377566"></div>
+                
+              
+            
+              
+              
+                
+                  <div class="Parallax-item" data-parallax-item data-parallax-id="59f3474ed6839ab9dd636b9f"></div>
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      
+        <header class="Header Header--top">
+          <div class="Header-inner Header-inner--top" data-nc-group="top">
+            <div data-nc-container="top-left">
+
+              <div class="Header-search" data-nc-element="search">
+                <form class="Header-search-form" action="/search" method="get">
+                  <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                  <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                    <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                    </svg>
+                    <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                    </svg>
+                  </button>
+                </form>
+              </div>
+
+            </div>
+            <div data-nc-container="top-center">
+              
+              
+            </div>
+            <div data-nc-container="top-right">
+
+              
+  <a href="/cart" class="Cart sqs-custom-cart" data-nc-element="cart" data-test="template-cart">
+    <span class="Cart-inner">
+      <span class="Cart-label">Cart</span>
+
+      <svg class="Icon Icon--bag-alt" viewBox="0 0 28 28">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon-alt--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon-alt--even"></use>
+      </svg>
+      <svg class="Icon Icon--bag" viewBox="0 0 34 38">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#bag-icon--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#bag-icon--even"></use>
+      </svg>
+      <svg class="Icon Icon--cart-alt" viewBox="0 0 28 28">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#cart-icon-alt--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#cart-icon-alt--even"></use>
+      </svg>
+      <svg class="Icon Icon--cart" viewBox="0 0 31 26">
+        <use class="use--odd" xlink:href="/assets/ui-icons.svg#cart-icon--odd"></use>
+        <use class="use--even" xlink:href="/assets/ui-icons.svg#cart-icon--even"></use>
+      </svg>
+
+      <span class="sqs-cart-quantity">0</span>
+    </span>
+  </a>
+
+
+            </div>
+          </div>
+        </header>
+      
+
+      <div class="Site-inner Site-inner--index">
+
+        <header class="Header Header--bottom">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="/shop-pedro" class="Header-nav-item" data-test="template-nav">Shop</a><a href="/blog-pedro" class="Header-nav-item" data-test="template-nav">Blog</a><span class="Header-nav-item Header-nav-item--folder">
+
+      <a href="/info-pedro" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Info</a>
+
+      <span class="Header-nav-folder">
+        
+          
+            <a href="/our-story-pedro" class="Header-nav-folder-item" data-test="template-nav">Our Story</a>
+          
+        
+          
+            <a href="/contact-pedro" class="Header-nav-folder-item" data-test="template-nav">Contact</a>
+          
+        
+          
+            <a href="/faqs-pedro" class="Header-nav-folder-item" data-test="template-nav">FAQs</a>
+          
+        
+      </span>
+    </span>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    driti.city
+                  
+                
+              </a>
+              <div class="Header-tagline" data-nc-element="tagline">få igjen for driten</div>
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+
+          <main class="Index" data-collection-id="59dcefad6f4ca3f5bfd70a7a" data-controller="IndexFirstSectionHeight, Parallax, IndexNavigation">
+            
+              <section id="hero-pedro" class="Index-page"  data-collection-id="61f25a5e986c781146463120" data-parallax-id="61f25a5e986c781146463120" data-edit-main-image="Background">
+        
+          <div class="Index-page-scroll-indicator hidden" data-controller="ScrollIndicator">
+            <div class="Index-page-scroll-indicator-text">Scroll</div>
+            <svg class="Index-page-scroll-indicator-arrow Icon Icon--caretLarge--down" viewBox="0 0 48 23">
+              <use xlink:href="/assets/ui-icons.svg#caret-down-large-icon"></use>
+            </svg>
+            <div class="Index-page-scroll-indicator-line"></div>
+          </div>
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1643273689988" id="page-61f25a5e986c781146463120"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-68b0ed75e02724d2fe20"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-collage
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-right
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fit
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510945218880-YE558OOXM63OIC9722O5/hero-image-04.jpg" alt=" me gjer gull av graps - få igjen for driten" loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510945218880-YE558OOXM63OIC9722O5/hero-image-04.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510945218880-YE558OOXM63OIC9722O5/hero-image-04.jpg" data-image-dimensions="1500x2000" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;"> me gjer gull av graps</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">få igjen for driten</p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/shop-pedro" class="sqs-button-element--primary">driti her</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-0 span-0"></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="0.07818608287724785" data-block-type="21" id="block-959cd193c47bc7e56803"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="featured-pedro" class="Index-page"  data-collection-id="61f253ae6d5f874dc3d853da" data-parallax-id="61f253ae6d5f874dc3d853da" data-edit-main-image="Background">
+        
+        <div class="Index-page-content ">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1643272732746" id="page-61f253ae6d5f874dc3d853da"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-afa89bd43f800b096384"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-poster
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fill has-aspect-ratio
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+                padding-bottom:66.66667175292969%;
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510596491012-6S8SAJDG67I84KX2PRDO/Plant_05_3x2_v02.gif" alt="driti liti - Ein avtale for deg som bare treng drita litt i blant. På hytta kanskje? " loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510596491012-6S8SAJDG67I84KX2PRDO/Plant_05_3x2_v02.gif" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510596491012-6S8SAJDG67I84KX2PRDO/Plant_05_3x2_v02.gif" data-image-dimensions="810x540" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">driti liti</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">Ein avtale for deg som bare treng drita litt i blant. På hytta kanskje? </p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/shop-pedro" class="sqs-button-element--primary">drit lite</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-7f48378d3f36d2d01383"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-poster
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fill has-aspect-ratio
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+                padding-bottom:100%;
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510176997655-KUJC00TPJ3A6NISFAWNW/texture-home-pencil.jpg" alt="driti alt - For deg som har mykje å fara med20,- per m² BRA**forutsett over 500L/mnd" loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510176997655-KUJC00TPJ3A6NISFAWNW/texture-home-pencil.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510176997655-KUJC00TPJ3A6NISFAWNW/texture-home-pencil.jpg" data-image-dimensions="2500x2500" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">driti alt</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">For deg som har mykje å fara med</p><p class="" style="white-space:pre-wrap;">20,- per m² BRA*</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><p class="" style="white-space:pre-wrap;">*forutsett over 500L/mnd</p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/shop-pedro" class="sqs-button-element--primary">Drit mye</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-d68c468b3e5f22197fd7"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-981b5ae50813bd5e031c"><div class="sqs-block-content"><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p><h2 style="text-align:center;white-space:pre-wrap;">Har me driti nær deg?</h2></div></div><div class="sqs-block search-block sqs-block-search" data-block-type="33" id="block-4b5e6781601f63ce77af"><div class="sqs-block-content">
+
+<div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-light" data-source="block" data-preview="true" data-collection="59dd228ab7411c5687f51dfe">
+  <div class="spinner-wrapper"></div>
+  <input
+    type="search"
+    class="search-input"
+    value=""
+    placeholder="Search"
+    aria-label="Search"
+  />
+</div>
+</div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-4d49de23f073b66fe7e7"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="small"
+  data-button-type="tertiary"
+>
+	<a
+    href="/shop-pedro"
+    class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element"
+    
+  >
+    View Collection
+  </a>
+</div>
+</div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-aspect-ratio="4.280155642023346" data-block-type="21" id="block-2ff0e73a613b614828cc"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-c9207a46a9f7059f0436"><div class="sqs-block-content">&nbsp;</div></div></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-06b7ea00b833c001d247"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-poster
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fill has-aspect-ratio
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+                padding-bottom:150%;
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510174730750-47QW28Y4RNVS15FFADED/image-asset.jpeg" alt="driti det - Ein avtale for vanlege folk. Har du inga spesielle behov er det denne du vil ha.30,- per m² BRA" loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510174730750-47QW28Y4RNVS15FFADED/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510174730750-47QW28Y4RNVS15FFADED/image-asset.jpeg" data-image-dimensions="2500x3750" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">driti det</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">Ein avtale for vanlege folk. Har du inga spesielle behov er det denne du vil ha.</p><p class="" style="white-space:pre-wrap;">30,- per m² BRA</p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/shop-pedro" class="sqs-button-element--primary">DRit nok</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-90995306d09c61508707"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-poster
+            combination-animation-none
+            individual-animation-none
+            individual-text-animation-none
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fill has-aspect-ratio
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+                padding-bottom:66.66667175292969%;
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510328418043-YF2PXMX91TN53GF2CDB7/Plant_04_3x2_v02.gif" alt="ikkje ein drit - Here is a description of your product. Adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis." loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510328418043-YF2PXMX91TN53GF2CDB7/Plant_04_3x2_v02.gif" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510328418043-YF2PXMX91TN53GF2CDB7/Plant_04_3x2_v02.gif" data-image-dimensions="810x540" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">ikkje ein drit</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  
+><p class="" style="white-space:pre-wrap;">Here is a description of your product. Adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis.</p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/shop-pedro" class="sqs-button-element--primary">drit ut</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div></div></div>
+        </div>
+        
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="content-pedro" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="5a03325171c10badfd377566" data-parallax-id="5a03325171c10badfd377566" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1510774355755" id="page-5a03325171c10badfd377566"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.058823529411764705" data-block-type="21" id="block-yui_3_17_2_41_1510586087053_19821"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_2_1510341230487_24811"><div class="sqs-block-content"><hr /></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_44_1510155724584_5618"><div class="sqs-block-content"><h3>Follow us <a target="_blank" href="https://www.instagram.com/plantsbypedro/">@plantsbypedro</a></h3></div></div><div class="sqs-block instagram-block sqs-block-instagram" data-block-json="&#123;&quot;title&quot;:true,&quot;thumbnail&quot;:true,&quot;excerpt&quot;:true,&quot;pageSize&quot;:9,&quot;filter&quot;:&#123;&#125;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;pageCollectionId&quot;:&quot;5a03325171c10badfd377566&quot;,&quot;containingItemId&quot;:null,&quot;connectedAccountId&quot;:&quot;5a05f00ed55b419f08e45927&quot;,&quot;enable-search&quot;:false,&quot;enable-search-disabled&quot;:null,&quot;socialCollectionId&quot;:&quot;&quot;,&quot;previewCollectionId&quot;:&quot;&quot;,&quot;status&quot;:&quot;undefined&quot;,&quot;searchId&quot;:&quot;undefined&quot;,&quot;searchTerm&quot;:&quot;&quot;,&quot;refresh&quot;:null,&quot;show-meta-only-title&quot;:false,&quot;newWindow&quot;:true,&quot;unsafeSearch&quot;:null,&quot;design&quot;:&quot;grid&quot;,&quot;aspect-ratio&quot;:&quot;square&quot;,&quot;aspectRatio&quot;:null,&quot;auto-crop&quot;:true,&quot;square-thumbs&quot;:true,&quot;show-meta&quot;:true,&quot;thumbnails-per-row&quot;:3,&quot;padding&quot;:10,&quot;lightbox&quot;:false,&quot;lightboxTheme&quot;:&quot;dark&quot;,&quot;collectionId&quot;:&quot;5a05f00ed55b419f08e45927&quot;,&quot;vSize&quot;:null&#125;" data-block-type="25" id="block-yui_3_17_2_46_1510155724584_9936"><div class="sqs-block-content">
+
+
+
+
+  
+
+  
+    
+<div class="sqs-blockStatus sqs-blockStatus--overlayMode" data-state="uninitialized">
+
+  <div class="sqs-blockStatus-disclosure">
+    
+  </div>
+
+  <div class="sqs-blockStatus-box">
+    <div class="sqs-blockStatus-box-title">Gallery Block</div>
+    
+      <div class="sqs-blockStatus-box-message">
+        These are example images. Double-click here to replace these images with your own content.
+        
+          <a class="sqs-blockStatus-box-kbArticleLink" href="https://support.squarespace.com/hc/articles/206543367" target="_blank">Learn more</a>
+        
+      </div>
+    
+  </div>
+
+</div>
+
+
+  
+
+
+<div class="
+  sqs-gallery-container
+  sqs-gallery-block-grid
+  sqs-gallery-aspect-ratio-square
+  sqs-gallery-thumbnails-per-row-3
+  
+  
+
+  
+    
+    
+  
+  
+  
+  
+
+  
+  sqs-block-is-clone
+
+  
+  
+  clear"
+  data-block-state="uninitialized"
+  
+>
+  <div class="sqs-gallery">
+    
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxszMFqWa/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574815-IEALKR0GG8TN8LP7D74K/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa6f9" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574815-IEALKR0GG8TN8LP7D74K/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574815-IEALKR0GG8TN8LP7D74K/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa6f9" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxsIVlIAO/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574885-K69S93D5LJT83LO112A1/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa6fa" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574885-K69S93D5LJT83LO112A1/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574885-K69S93D5LJT83LO112A1/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa6fa" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxrd2FYVc/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575126-EEIM8MNKJTEQ1CK61ZS5/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa6fb" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575126-EEIM8MNKJTEQ1CK61ZS5/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575126-EEIM8MNKJTEQ1CK61ZS5/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa6fb" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxqsdlE3J/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575208-FI9WD0LIX2VJEIP1GAYZ/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa6fc" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575208-FI9WD0LIX2VJEIP1GAYZ/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575208-FI9WD0LIX2VJEIP1GAYZ/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa6fc" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxp8BlkgP/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575282-MXM3Y1L1DGIKJBKAEZ3W/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa6fd" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575282-MXM3Y1L1DGIKJBKAEZ3W/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338575282-MXM3Y1L1DGIKJBKAEZ3W/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa6fd" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxpVLFzhu/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574852-VMY4HJU9T1Z7OLJ3U2S5/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa6fe" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574852-VMY4HJU9T1Z7OLJ3U2S5/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574852-VMY4HJU9T1Z7OLJ3U2S5/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa6fe" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxotTl0lg/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574879-OFDTPRPIDSE0Z7N41KY6/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa6ff" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574879-OFDTPRPIDSE0Z7N41KY6/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574879-OFDTPRPIDSE0Z7N41KY6/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa6ff" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxn9GlE5_/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574848-4AX797QRZJZR84Y93QJ9/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa700" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574848-4AX797QRZJZR84Y93QJ9/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574848-4AX797QRZJZR84Y93QJ9/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa700" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+
+        
+
+        
+
+        
+          
+            <div class="slide" data-type="image" data-animation-role="image">
+              <div class="margin-wrapper">
+                
+                <a
+                  
+                    
+                      href="https://www.instagram.com/p/BbUxnEClSK6/" target="_blank"
+                    
+                  
+
+                  class="
+                    image-slide-anchor
+                    
+                    content-fill
+                  "
+                >
+                  
+                  <noscript><img src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574838-AAWTTNDWEQV3II18MXY3/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-component-key="idv1.i.5a05f00e448c8a0be11aa701" data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574838-AAWTTNDWEQV3II18MXY3/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510338574838-AAWTTNDWEQV3II18MXY3/image-asset.jpeg" data-image-dimensions="640x640" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="5a05f00e448c8a0be11aa701" data-type="image" />
+                </a>
+                
+              </div>
+            </div>
+          
+
+          
+        
+
+      
+    
+  </div>
+
+  
+
+</div>
+
+
+
+
+<style type="text/css" id="design-grid-css">
+#block-yui_3_17_2_46_1510155724584_9936 .sqs-gallery-block-grid .sqs-gallery-design-grid { margin-right: -10px; }
+#block-yui_3_17_2_46_1510155724584_9936 .sqs-gallery-block-grid .sqs-gallery-design-grid-slide .margin-wrapper { margin-right: 10px; margin-bottom: 10px; }
+</style>
+
+
+
+</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_44_1510155724584_4627"><div class="sqs-block-content"><h3>Visit the store</h3></div></div><div class="sqs-block map-block sqs-block-map" data-aspect-ratio="65.5241935483871" data-block-json="&#123;&quot;location&quot;:&#123;&quot;mapLat&quot;:40.7291707,&quot;mapLng&quot;:-74.0057607,&quot;mapZoom&quot;:12,&quot;addressTitle&quot;:&quot;Pedro&quot;,&quot;addressLine1&quot;:&quot;8 Clarkson Street&quot;,&quot;addressLine2&quot;:&quot;New York, NY, 10014&quot;,&quot;addressCountry&quot;:&quot;United States&quot;,&quot;markerLat&quot;:40.7291707,&quot;markerLng&quot;:-74.0057607&#125;,&quot;vSize&quot;:null,&quot;style&quot;:1,&quot;labels&quot;:true,&quot;terrain&quot;:true,&quot;controls&quot;:true,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;aspectRatio&quot;:65.5241935483871&#125;" data-block-type="4" id="block-yui_3_17_2_46_1510155724584_6262"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1510165454621_19595"><div class="sqs-block-content"><h3>About us</h3><p>Describe your company's values here.&nbsp;Accumsan mollis eros. Pellentesque a diam sit amet mi ullamcorper vehicula. Integer adipiscing risus a sem. Nullam quis massa sit amet nibh viverra malesuada. Nunc sem lacus, accumsan quis, faucibus non, congue vel, arcu.</p></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_2_1510165454621_35195"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--left"
+  data-animation-role="button"
+  data-alignment="left"
+  data-button-size="small"
+  data-button-type="tertiary"
+>
+	<a
+    href="/our-story-pedro"
+    class="sqs-block-button-element--small sqs-button-element--tertiary sqs-block-button-element"
+    
+  >
+    Learn More
+  </a>
+</div>
+</div></div></div></div><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="0.058823529411764705" data-block-type="21" id="block-yui_3_17_2_41_1510586087053_20423"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510180121960-9OB62HWQH1HLXWCVWT89/texture-banner.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510180121960-9OB62HWQH1HLXWCVWT89/texture-banner.jpg" data-image-dimensions="2500x1666" data-image-focal-point="0.5,0.5" alt="texture-banner.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+    
+
+      <section id="subscribe-pedro" class="Index-page Index-page--has-image"  data-parallax-original-element data-collection-id="59f3474ed6839ab9dd636b9f" data-parallax-id="59f3474ed6839ab9dd636b9f" data-edit-main-image="Background">
+        
+        <div class="Index-page-content  sqs-alternate-block-style-container">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1509116347157" id="page-59f3474ed6839ab9dd636b9f"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="13.071065989847716" data-block-type="21" id="block-yui_3_17_2_5_1509115717447_4258"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="14.086294416243655" data-block-type="21" id="block-yui_3_17_2_5_1509115717447_6322"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-59f3474ed6839ab9dd636ba0"><div class="sqs-block-content"><p>&nbsp;</p></div></div></div></div></div>
+        </div>
+        
+          
+            <figure class="Index-page-image" data-parallax-image-wrapper>
+              
+  <img data-src="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510173824556-2HHX4RQCFG1A3WT5RJC3/Header_02_022.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59dce94549fc2b64d089a33b/1510173824556-2HHX4RQCFG1A3WT5RJC3/Header_02_022.jpg" data-image-dimensions="2500x1667" data-image-focal-point="0.5,0.5" alt="Header_02_022.jpg"  data-load="false" />
+
+            </figure>
+          
+        
+      </section>
+
+    
+
+  
+
+  
+    <nav class="Index-nav">
+      <div class="Index-nav-inner">
+        
+          <a href="#hero-pedro" class="Index-nav-item active">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Hero</span></div>
+          </a>
+        
+          <a href="#featured-pedro" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Featured</span></div>
+          </a>
+        
+          <a href="#content-pedro" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Content</span></div>
+          </a>
+        
+          <a href="#subscribe-pedro" class="Index-nav-item">
+            <div class="Index-nav-indicator"></div>
+            <div class="Index-nav-text"><span>Subscribe</span></div>
+          </a>
+        
+      </div>
+    </nav>
+            
+          </main>
+
+        </div>
+      </div>
+
+      
+        <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container empty" data-layout-label="Footer Top Blocks" data-type="block-field" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+          <div class="Footer-business-info">
+            
+              
+                
+                
+                <div class="Footer-business-info-item">Stavanger,</div>
+                <div class="Footer-business-info-item Footer-business-info-item--country">Norway</div>
+              
+            
+            
+              
+              
+            
+          </div>
+        
+
+        
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+  <nav class="Footer-nav" data-content-field="navigation">
+
+    <div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Info</div>
+
+      
+
+        
+          <a href="/shipping-returns-pedro" class="Footer-nav-folder-item">Shipping & Returns</a>
+        
+
+      
+
+        
+          <a href="/privacy-policy-pedro" class="Footer-nav-folder-item">Privacy Policy</a>
+        
+
+      
+
+        
+          <a href="/terms-conditions-pedro" class="Footer-nav-folder-item">Terms & Conditions</a>
+        
+
+      
+
+    </div><div class="Footer-nav-group"></div>
+
+  </nav>
+
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container" data-layout-label="Footer Bottom Blocks" data-type="block-field" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-1 span-1"></div><div class="col sqs-col-11 span-11"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-a87e1e05d9c02c3a80e5"><div class="sqs-block-content"><p class="text-align-right">Powered by Squarespace</p></div></div></div></div></div></div></div>
+
+  </div>
+
+</footer>
+
+      
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+  </body>
+</html>

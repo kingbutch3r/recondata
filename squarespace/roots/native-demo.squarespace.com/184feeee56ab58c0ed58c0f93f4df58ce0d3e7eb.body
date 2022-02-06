@@ -1,0 +1,1062 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+	<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	  
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
+		<!-- This is Squarespace. --><!-- native-demo -->
+<base href="">
+<meta charset="utf-8" />
+<title>Native</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="https://native-demo.squarespace.com"/>
+<meta property="og:site_name" content="Native"/>
+<meta property="og:title" content="Native"/>
+<meta property="og:url" content="https://native-demo.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Native"/>
+<meta itemprop="url" content="https://native-demo.squarespace.com"/>
+<meta name="twitter:title" content="Native"/>
+<meta name="twitter:url" content="https://native-demo.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/nvG0scSfCBarZKHpuEEoGi-qWQHJMA193k1M3tz19KIfeTqffFHN4UJLFRbh52jhWDscFRSo5eBcZQsKw2qawDboZQbUwebX5sT2deNRjAUGdaFXOeoyie8hZPuqZAuzO1FUiABkZWF3jAF8OcFzdP37Ocoyie8hZPuqZAuzO1FUiABkZWF3jAF8OcFzdPJwSY4zpe8ljPu0daZyH6qJ73IbMg6gJMJ7fbKCMsMMeMC6MKG4f5J7IMMjMkMfH6qJtkGbMg6FJMJ7fbKzMsMMeMb6MKG4fOMgIMMj2KMfH6qJnbIbMg6eJMJ7fbK0MsMMegM6MKG4fJCgIMMjgkMfH6qJRMIbMg6sJMJ7fbKTMsMMeM66MKG4fHGgIMMjIKMfH6qJKbIbMg64JMJ7fbKHMsMMegw6MTMgktrtn69.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-2443790b78f767c2ba201-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-2443790b78f767c2ba201-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/sign-up-pill-4db8cdf8d4382d5efae0e-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-sign_up_pill');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/sign-up-pill-4db8cdf8d4382d5efae0e-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/error-reporter-554ae6ed88f41fbb0d0ea-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-error_reporter');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/error-reporter-554ae6ed88f41fbb0d0ea-min.en-US.js" ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"4f6798afe4b097349e410d49","identifier":"native-demo","websiteType":1,"contentModifiedOn":1524499414288,"cloneable":true,"hasBeenCloneable":false,"developerMode":true,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Native","fullSiteTitle":"Native","siteTagLine":"","siteDescription":"","location":{"mapZoom":12.0,"mapLat":40.7207559,"mapLng":-74.00076130000002,"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"shareButtonOptions":{"3":true,"8":true,"4":true,"6":true,"2":true,"1":true,"7":true},"authenticUrl":"https://native-demo.squarespace.com","internalUrl":"https://native-demo.squarespace.com","baseUrl":"https://native-demo.squarespace.com","sslSetting":3,"typekitId":"","statsMigrated":true,"imageMetadataProcessingEnabled":false,"screenshotId":"a5979f76deb3e73c5a05d05e56bca730812ea3a0c64e3905487777094c7ba047","showOwnerLogin":false},"websiteSettings":{"id":"4f6798afe4b097349e410d4a","websiteId":"4f6798afe4b097349e410d49","subjects":[],"country":"US","state":"","simpleLikingEnabled":true,"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":false,"isShippingPhoneRequired":false,"showBillingPhoneNumber":false,"isBillingPhoneRequired":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"orderConfirmationInjectCode":"","showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":true,"collection":{"title":"Blog","id":"527d3781e4b05acc5f1bb99c","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"Circular","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"true","gallery-navigation":"Circles","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"320px","gridSpacing":"20px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","tweak-v1-related-products-title-spacing":"50px"},"templateId":"4f6a1392e4b07090d46e7ec9","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/4f6798afe4b097349e410d49/1598/scripts/","betaFeatureFlags":["viewer-role-contributor-invites","campaigns_hide_deleted_automations_panel","google_analytics_4_gtag_js","commerce_afterpay_pdp","commerce_site_visitor_metrics","campaigns_banner_reduce_size","campaigns_thumbnail_layout","campaigns_section_reorder_arrows","member_areas_pricing_options_discounts","background_art_onboarding","commerce_clearpay","campaigns_audience_card","commerce_restock_notifications","member_areas_spanish_interviews","commerce_pdp_layouts_ga","category-delete-product-service-enabled","commerce_product_review_import_ga","member_areas_schedule_interview","nested_categories_migration_enabled","commerce_product_composer_ab_test_all_users","campaigns_global_uc_ab","commerce_category_id_discounts_enabled","campaigns_new_subscriber_search","customer_account_creation_recaptcha","commerce_etsy_shipping_import","commerce_product_review_etsy_import","startup_checklist","commerce_product_branching","campaigns_blog_product_image_editor","campaigns_show_apply_website_styles_button","commerce_activation_experiment_add_payment_processor_card","reduce_general_search_api_traffic","commerce_etsy_product_import"],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://native-demo.squarespace.com/blog-native?format=rss" />
+<script type="application/ld+json">{"url":"https://native-demo.squarespace.com","name":"Native","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","name":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/4f6798afe4b097349e410d49/289/4f6a1392e4b07090d46e7ec9/4f6a1392e4b07090d46e7ee2/1598-05142015/1490632401516/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script
+  async="async"
+  src="//consent.trustarc.com/notice?domain=squarespace.com&c=teconsent&js=nj&noticeType=bb&text=true&pn=2&gtm=1&pcookie"
+  crossorigin=""
+></script><!-- End of Squarespace Headers -->
+
+	</head>
+	
+	<body class="underline-body-links blog-meta-data-split  hide-author   social-icon-style-round  show-products-category-navigation    event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts      gallery-design-grid aspect-ratio-auto lightbox-style-light gallery-navigation-circles gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-circular gallery-transitions-fade gallery-show-arrows gallery-auto-crop  gallery-loop product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-blog collection-layout-default collection-527d3781e4b05acc5f1bb99c homepage view-list mobile-style-available" id="collection-527d3781e4b05acc5f1bb99c">
+
+	<div id="site">
+		<div id="canvas">
+
+			<div id="headerWrapper">
+				<header id="header">
+
+					<div id="headerInfo">
+						
+						<h1 class="logo site-title">
+							<a href="/" title="Native" role="bookmark" data-content-field="site-title">
+							  <span class="placed-site-title">Native</span>
+							</a>
+						</h1>
+						
+		      	<script>
+			        Y.use('squarespace-ui-base', function(Y) {
+			          	Y.one("h1.logo").plug(Y.Squarespace.TextShrink, {
+			            	parentEl: Y.one('#header'),
+			            	minFontSize: 16
+			          	});
+			          	if (Y.one('p.site-tagline')){
+				          	Y.one("p.site-tagline").plug(Y.Squarespace.TextShrink, {
+				            	parentEl: Y.one('#header'),
+				            	minFontSize: 12
+				          	});
+				          }
+			        });
+		      	</script>
+						
+						
+						<div id="navBlock" role="navigation">
+							
+<nav class="main-nav" data-content-field="navigation">
+
+  <ul>
+  
+    
+      
+        <li class="blog-collection active-link">
+          <a href="/">Blog</a>
+        </li>
+      
+      
+    
+  
+    
+      
+        <li class="page-collection">
+          <a href="/about-native">About</a>
+        </li>
+      
+      
+    
+  
+    
+      
+        <li class="gallery-collection">
+          <a href="/images-native">Images</a>
+        </li>
+      
+      
+    
+  
+  </ul>
+
+  <select id="mobileSelect" name="mobileSelect">
+    <option class="mobile-select-label" value="">Navigation</option>
+    
+      
+        
+          <option class="blog-collection" value="/" selected="selected">Blog</option>
+        
+        
+      
+    
+      
+        
+          <option class="page-collection" value="/about-native">About</option>
+        
+        
+      
+    
+      
+        
+          <option class="gallery-collection" value="/images-native">Images</option>
+        
+        
+      
+    
+  </select>
+
+</nav>
+
+
+					  </div>
+
+						<!-- CATEGORY NAV -->
+						
+
+					</div>
+
+				</header>
+			</div><!-- / headerWrapper -->
+
+			<div id="pageWrapper" class="hfeed" role="main">
+				<section id="page" data-content-field="main-content">
+					<article class="hentry promoted promoted-block-image category-streets author-josh-kill post-type-text article-index-1" id="article-527d3882e4b098dc4f427401" data-item-id="527d3882e4b098dc4f427401">
+    <div class="content-wrapper">
+
+    <!--SPECIAL CONTENT-->
+      
+
+        
+        <div class="special-content">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-527d3882e4b098dc4f427401"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-32467f06994d3e77128d"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.66667175292969%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068682526-31MPZNFLURK8RYN7U3R2/20130731_Trade+100_0196.jpg" alt="20130731_Trade 100_0196.jpg" /></noscript><img class="thumb-image" data-component-key="idv1.i.52f9484ae4b0309f5b0f9581" data-src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068682526-31MPZNFLURK8RYN7U3R2/20130731_Trade+100_0196.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068682526-31MPZNFLURK8RYN7U3R2/20130731_Trade+100_0196.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="20130731_Trade 100_0196.jpg" data-load="false" data-image-id="52f9484ae4b0309f5b0f9581" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div></div></div></div>
+        </div>
+        
+
+      
+
+      <div class="post">
+
+        <!--POST HEADER-->
+  			<header>
+  				<h1 class="entry-title" data-content-field="title" itemprop="headline"><a href="/blog-native/v0hrvftow3hvilwe84if1eym7slkol">SoHo, NYC</a></h1>
+
+          <div class="article-meta-top">
+            <div class="location"><a href="//maps.google.com/maps?q=40.71932400000001,-74.00064399999997" target="_blank" title="View map in new window"><i class="icon-map-marker"></i>SoHo</a></div>
+            <span class="date"><a href="/blog-native/v0hrvftow3hvilwe84if1eym7slkol"><time class="published" datetime="2013-11-09" itemprop="datePublished">November 09, 2013</time></a></span>
+             <span class="author"><a href="/?author=4ea0d61ad09ad8e9c6e20880" rel="author">by Josh Kill</a></span>
+            <span class="categories">in <a href="/blog-native/category/Streets" rel="tag">Streets</a></span>
+          </div>
+
+
+  			</header>
+
+        <!--POST BODY-->
+
+        
+
+        <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1392068685910" id="item-527d3882e4b098dc4f427401"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-f85a6b73479802df62dd"><div class="sqs-block-content"><p>SoHo is home to the world’s greatest collection of cast-iron architecture. But more than that, SoHo is unique among New York’s neighborhoods for its classical French and Italian architectural designs. It simply doesn’t look like anywhere else, not even the neighboring West Village or Lower East Side.&nbsp;</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-4bdc75b2e39d2a4e6c1b"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:53.20000076293945%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938243666-9MBKJFLKBMMPSU6IS9LL/20130731_Trade+100_0202.jpg" alt="20130731_Trade 100_0202.jpg" /></noscript><img class="thumb-image" data-component-key="idv1.i.527d38c3e4b05acc5f1bbb26" data-src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938243666-9MBKJFLKBMMPSU6IS9LL/20130731_Trade+100_0202.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938243666-9MBKJFLKBMMPSU6IS9LL/20130731_Trade+100_0202.jpg" data-image-dimensions="1500x798" data-image-focal-point="0.5,0.5" alt="20130731_Trade 100_0202.jpg" data-load="false" data-image-id="527d38c3e4b05acc5f1bbb26" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-3f07a96b3a987f2c4c07"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:48.400001525878906%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938258564-Q33MNN1H07259JC2TN63/20130731_Trade+100_0220.jpg" alt="20130731_Trade 100_0220.jpg" /></noscript><img class="thumb-image" data-component-key="idv1.i.527d38d2e4b0e46aebbeebaa" data-src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938258564-Q33MNN1H07259JC2TN63/20130731_Trade+100_0220.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938258564-Q33MNN1H07259JC2TN63/20130731_Trade+100_0220.jpg" data-image-dimensions="1500x726" data-image-focal-point="0.5,0.5" alt="20130731_Trade 100_0220.jpg" data-load="false" data-image-id="527d38d2e4b0e46aebbeebaa" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-49e681d6a3c678885134"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.66667175292969%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938279746-UO50MY6TGZCRX1GQ4CSJ/20130731_Trade+100_0229.jpg" alt="20130731_Trade 100_0229.jpg" /></noscript><img class="thumb-image" data-component-key="idv1.i.527d38e7e4b0e46aebbeebcc" data-src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938279746-UO50MY6TGZCRX1GQ4CSJ/20130731_Trade+100_0229.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938279746-UO50MY6TGZCRX1GQ4CSJ/20130731_Trade+100_0229.jpg" data-image-dimensions="1500x1000" data-image-focal-point="0.5,0.5" alt="20130731_Trade 100_0229.jpg" data-load="false" data-image-id="527d38e7e4b0e46aebbeebcc" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5fde628be845bc55fd86"><div class="sqs-block-content"><p>For one thing, the colors are much more distinct in SoHo. They’re brighter. Perhaps that’s a reflection on the people living here. But for many of the cast-iron buiildings that give SoHo it’s unmistakable character, the reason for their bright coloring is actually pretty obvious: whenever you construct anything from wrought iron, it’s going to look like, well, wrought iron.</p><p>So the colors of SoHo as they’re known, or at least as they ought to be known, the colors that are just a street photographers dream come true (where else can you find so many amazing backdrops?), are actually the result of many, many coats of bright paints. And they light up a photo in ways even a flash cannot.</p></div></div></div></div></div></div>
+
+        
+
+
+        <!--POST FOOTER-->
+
+        <footer class="article-meta">
+          <div>
+
+            <span class="date"><a href="/blog-native/v0hrvftow3hvilwe84if1eym7slkol"><i class="icon-calendar"></i><time class="published" datetime="2013-11-09" itemprop="datePublished">November 09, 2013</time></a></span>
+            <span class="author"><span class="delimiter">/</span><a href="/?author=4ea0d61ad09ad8e9c6e20880" rel="author"><i class="icon-user"></i>Josh Kill</a></span>
+            
+            
+            <div class="categories"><i class="icon-bookmark"></i><a href="/blog-native/category/Streets" rel="tag">Streets</a></div>
+
+            <div class="shareLoveButtons">
+              <span class="comments"><a href="/blog-native/v0hrvftow3hvilwe84if1eym7slkol#comments-527d3882e4b098dc4f427401"><i class="icon-comment"></i>Comment</a></span>
+              
+  <span class="sqs-simple-like" data-item-id="527d3882e4b098dc4f427401" data-like-count="3298">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+              <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/4f6798afe4b097349e410d49/527d3781e4b05acc5f1bb99c/527d3882e4b098dc4f427401/1458655651599/" data-record-type="1" data-full-url="/blog-native/v0hrvftow3hvilwe84if1eym7slkol" data-title="SoHo, NYC"></span>
+            </div>
+
+          	<!-- <div class="post-entry-injection"></div> -->
+            
+
+          </div>
+        </footer>
+
+  	</div> <!-- / post -->
+
+    </div><!-- / content-wrapper -->
+  </article>
+
+
+
+  <article class="hentry promoted promoted-block-image category-nyc category-streets author-josh-kill post-type-text article-index-2" id="article-527d39b7e4b07ed7f733e51c" data-item-id="527d39b7e4b07ed7f733e51c">
+    <div class="content-wrapper">
+
+    <!--SPECIAL CONTENT-->
+      
+
+        
+        <div class="special-content">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-527d39b7e4b07ed7f733e51c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-f7d3b8d4c34ae6ba4366"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:61.06666946411133%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068625021-X7HG2YN1986UAYL4PDKM/20130731_Trade+100_0275.jpg" alt="20130731_Trade 100_0275.jpg" /></noscript><img class="thumb-image" data-component-key="idv1.i.52f94811e4b0a41caba7514a" data-src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068625021-X7HG2YN1986UAYL4PDKM/20130731_Trade+100_0275.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068625021-X7HG2YN1986UAYL4PDKM/20130731_Trade+100_0275.jpg" data-image-dimensions="1500x916" data-image-focal-point="0.5,0.5" alt="20130731_Trade 100_0275.jpg" data-load="false" data-image-id="52f94811e4b0a41caba7514a" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div></div></div></div>
+        </div>
+        
+
+      
+
+      <div class="post">
+
+        <!--POST HEADER-->
+  			<header>
+  				
+
+          <div class="article-meta-top">
+            <div class="location"></div>
+            <span class="date"><a href="/blog-native/bridge-looks"><time class="published" datetime="2013-11-08" itemprop="datePublished">November 08, 2013</time></a></span>
+             <span class="author"><a href="/?author=4ea0d61ad09ad8e9c6e20880" rel="author">by Josh Kill</a></span>
+            <span class="categories">in <a href="/blog-native/category/NYC" rel="tag">NYC</a>, <a href="/blog-native/category/Streets" rel="tag">Streets</a></span>
+          </div>
+
+
+  			</header>
+
+        <!--POST BODY-->
+
+        
+
+        <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1392068631859" id="item-527d39b7e4b07ed7f733e51c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-30aecbcde459a1e3ee2a"><div class="sqs-block-content"><p>For me, it’s all about New York streets. They’ve been immortalized in who knows how many songs and poems, movies and books, but even though I’ve spent years documenting them with my photography, I don’t think I’m any closer to understanding them than I was when I started. They are their own kind of art, and for a photographer, all you need to do is setup the shot and take it. I have lived in New York for only five years, but I have been a working, professional photographers for fifteen years now.</p></div></div></div></div></div></div>
+
+        
+
+
+        <!--POST FOOTER-->
+
+        <footer class="article-meta">
+          <div>
+
+            <span class="date"><a href="/blog-native/bridge-looks"><i class="icon-calendar"></i><time class="published" datetime="2013-11-08" itemprop="datePublished">November 08, 2013</time></a></span>
+            <span class="author"><span class="delimiter">/</span><a href="/?author=4ea0d61ad09ad8e9c6e20880" rel="author"><i class="icon-user"></i>Josh Kill</a></span>
+            
+            
+            <div class="categories"><i class="icon-bookmark"></i><a href="/blog-native/category/NYC" rel="tag">NYC</a>, <a href="/blog-native/category/Streets" rel="tag">Streets</a></div>
+
+            <div class="shareLoveButtons">
+              <span class="comments"><a href="/blog-native/bridge-looks#comments-527d39b7e4b07ed7f733e51c"><i class="icon-comment"></i>Comment</a></span>
+              
+  <span class="sqs-simple-like" data-item-id="527d39b7e4b07ed7f733e51c" data-like-count="2771">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+              <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/4f6798afe4b097349e410d49/527d3781e4b05acc5f1bb99c/527d39b7e4b07ed7f733e51c/1445889395450/" data-record-type="1" data-full-url="/blog-native/bridge-looks" data-title=""></span>
+            </div>
+
+          	<!-- <div class="post-entry-injection"></div> -->
+            
+
+          </div>
+        </footer>
+
+  	</div> <!-- / post -->
+
+    </div><!-- / content-wrapper -->
+  </article>
+
+
+
+  <article class="hentry promoted promoted-block-image category-streets author-josh-kill post-type-text article-index-3" id="article-527d3936e4b033140e4a07d1" data-item-id="527d3936e4b033140e4a07d1">
+    <div class="content-wrapper">
+
+    <!--SPECIAL CONTENT-->
+      
+
+        
+        <div class="special-content">
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-527d3936e4b033140e4a07d1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-034a8c1867e01b8ecc17"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1500px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:52.60000228881836%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068654679-KUSSQ5HMGVQBJ3C3FR1H/20130731_Trade+100_0452.jpg" alt="Street Corner, NYC" /></noscript><img class="thumb-image" data-component-key="idv1.i.52f9482ee4b06cb48fbf41b1" data-src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068654679-KUSSQ5HMGVQBJ3C3FR1H/20130731_Trade+100_0452.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1392068654679-KUSSQ5HMGVQBJ3C3FR1H/20130731_Trade+100_0452.jpg" data-image-dimensions="1500x789" data-image-focal-point="0.5,0.5" alt="Street Corner, NYC" data-load="false" data-image-id="52f9482ee4b06cb48fbf41b1" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p>Street Corner, NYC</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div></div></div></div>
+        </div>
+        
+
+      
+
+      <div class="post">
+
+        <!--POST HEADER-->
+  			<header>
+  				<h1 class="entry-title" data-content-field="title" itemprop="headline"><a href="/blog-native/street-scenes">Street Scenes</a></h1>
+
+          <div class="article-meta-top">
+            <div class="location"></div>
+            <span class="date"><a href="/blog-native/street-scenes"><time class="published" datetime="2013-11-08" itemprop="datePublished">November 08, 2013</time></a></span>
+             <span class="author"><a href="/?author=4ea0d61ad09ad8e9c6e20880" rel="author">by Josh Kill</a></span>
+            <span class="categories">in <a href="/blog-native/category/Streets" rel="tag">Streets</a></span>
+          </div>
+
+
+  			</header>
+
+        <!--POST BODY-->
+
+        
+
+        <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1392068660923" id="item-527d3936e4b033140e4a07d1"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image sqs-col-5 span-5 float float-left" data-block-type="5" id="block-156eaa38b0e1f8091598"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1000px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              
+            " style="
+                position: relative;
+                
+                  padding-bottom:150%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938421102-ET04XM9X9GH2E62XJQZS/20130731_Trade+100_0260.jpg" alt="20130731_Trade 100_0260.jpg" /></noscript><img class="thumb-image" data-component-key="idv1.i.527d3975e4b04d1c0c14e228" data-src="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938421102-ET04XM9X9GH2E62XJQZS/20130731_Trade+100_0260.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4f6798afe4b097349e410d49/1383938421102-ET04XM9X9GH2E62XJQZS/20130731_Trade+100_0260.jpg" data-image-dimensions="1000x1500" data-image-focal-point="0.5,0.5" alt="20130731_Trade 100_0260.jpg" data-load="false" data-image-id="527d3975e4b04d1c0c14e228" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fb782bcc7895e186f3bd"><div class="sqs-block-content"><p>You never know what you’ll find on the streets. And if you happen to be a photographer working in New York, that’s doubly true. I’ve had the good fortune to shoot all over the world, and when I come back to New York, I’m always reminded of why I started my career here.</p><p>The New York street scene is, for better or for worse, the street scene. It’s the one that is the most iconoclastic, and because of the backdrop of New York, it’s the one that I think people from just about anywhere imagine when they think of the idea of a street scene—whatever a “street scene” happens to be.</p><p>I created this album to showcase some of my favorite street scenes that I’ve captured in New York. This is nothing that I’ve done on contract or in my studio, just real life moments captured by me with my Mark III when I had some time to kick it around the city. I hope you like what you see. I did.</p></div></div></div></div></div></div>
+
+        
+
+
+        <!--POST FOOTER-->
+
+        <footer class="article-meta">
+          <div>
+
+            <span class="date"><a href="/blog-native/street-scenes"><i class="icon-calendar"></i><time class="published" datetime="2013-11-08" itemprop="datePublished">November 08, 2013</time></a></span>
+            <span class="author"><span class="delimiter">/</span><a href="/?author=4ea0d61ad09ad8e9c6e20880" rel="author"><i class="icon-user"></i>Josh Kill</a></span>
+            
+            
+            <div class="categories"><i class="icon-bookmark"></i><a href="/blog-native/category/Streets" rel="tag">Streets</a></div>
+
+            <div class="shareLoveButtons">
+              <span class="comments"><a href="/blog-native/street-scenes#comments-527d3936e4b033140e4a07d1"><i class="icon-comment"></i>Comment</a></span>
+              
+  <span class="sqs-simple-like" data-item-id="527d3936e4b033140e4a07d1" data-like-count="3348">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+              <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/4f6798afe4b097349e410d49/527d3781e4b05acc5f1bb99c/527d3936e4b033140e4a07d1/1445889418075/" data-record-type="1" data-full-url="/blog-native/street-scenes" data-title="Street Scenes"></span>
+            </div>
+
+          	<!-- <div class="post-entry-injection"></div> -->
+            
+
+          </div>
+        </footer>
+
+  	</div> <!-- / post -->
+
+    </div><!-- / content-wrapper -->
+  </article>
+
+
+
+<!--PAGINATION-->
+				</section>
+			</div><!-- / pageWrapper -->
+
+			<div id="footerWrapper">
+				<footer id="footer">
+			   
+					  
+					
+					<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1456895756081" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b4c586d9d5f1be28bd21"><div class="sqs-block-content"><p class="text-align-center">Powered by <a href="http://www.squarespace.com?channel=word_of_mouth&amp;subchannel=customer&amp;source=footer&amp;campaign=4fd1028ee4b02be53c65dfb3">Squarespace</a></p></div></div></div></div></div>
+				</footer>
+			</div><!-- / footerWrapper -->
+
+		</div><!-- / canvas -->
+	</div><!-- / site -->
+
+	<!-- EU cookie banner code (begin) -->
+<script type="text/javascript" src="https://www.squarespace.com/s/cookie-banner.js"></script>
+<!-- EU cookie banner code (end) --><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+	<script type="text/javascript" src="https://static1.squarespace.com/static/ta/4f6798afe4b097349e410d49/1598/scripts/combo/?site.js"></script>
+
+	
+
+	</body>
+</html>

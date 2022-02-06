@@ -1,0 +1,11 @@
+GET https://darwin150.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< X-Contextid: Evw7MCez/3pTpuhBQ
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:49:50 GMT
+< Location: http://darwin150.squarespace.com/;jsessionid=19DAA6BA4D1DD8544CCDB5CF590278DC.v5-web020
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=19DAA6BA4D1DD8544CCDB5CF590278DC.v5-web020; Path=/; HttpOnly

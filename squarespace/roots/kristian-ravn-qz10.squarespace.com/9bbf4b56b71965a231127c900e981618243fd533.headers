@@ -1,0 +1,12 @@
+GET http://kristian-ravn-qz10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:49:40 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: evSSNYWi/apEA837Z
+< Age: 0
+< Server: Squarespace
+< Set-Cookie: crumb=BROA1DIOM7YFOTg2NjJmYmFjYmUyMWNkODVkODA0ZWI1YjkyZWQ5;Path=/
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8

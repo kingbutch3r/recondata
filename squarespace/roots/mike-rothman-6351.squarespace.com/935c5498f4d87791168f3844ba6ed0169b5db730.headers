@@ -1,0 +1,11 @@
+GET http://mike-rothman-6351.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://mike-rothman-6351.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQiwQfxvtXVPOTNiZmI1OWVkMTRkOGM5YWE5M2E4YzFkMzg2OTRh;Path=/
+< X-Contextid: XmNfhAtE/9RejAPL5
+< Age: 53915
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 10:15:18 GMT

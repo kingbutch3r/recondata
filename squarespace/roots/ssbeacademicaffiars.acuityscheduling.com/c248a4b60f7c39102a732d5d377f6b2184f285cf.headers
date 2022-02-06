@@ -1,0 +1,15 @@
+GET https://ssbeacademicaffiars.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=7mksafp5grf7pgn1u4v2245aiq; expires=Fri, 04-Mar-2022 00:36:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=66be926e-4fbd-4fc1-a773-d826cc08b7f7; expires=Fri, 02-Feb-2024 00:36:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:36:53 GMT
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

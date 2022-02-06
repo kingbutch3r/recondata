@@ -1,0 +1,11 @@
+GET http://impala-hen-eaj6.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:50:00 GMT
+< Location: https://impala-hen-eaj6.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZ9mSgToRScxMzA1MWYzNGI2YTdjZWFiZjhiNTMxNGQ0MzZkOGNl;Path=/
+< X-Contextid: fDoFB3uD/fUr0tIvE
+< Age: 0
+< Content-Length: 0

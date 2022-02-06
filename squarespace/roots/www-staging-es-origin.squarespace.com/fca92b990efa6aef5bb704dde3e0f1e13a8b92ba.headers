@@ -1,0 +1,13 @@
+GET http://www-staging-es-origin.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Sl-Notranslate: 1
+< X-Sl-Norewrite: 1
+< Date: Wed, 02 Feb 2022 00:54:59 GMT
+< Location: https://www-staging-es-origin.squarespace.com/
+< Set-Cookie: crumb=BUeaQuXTmstZNzZkMWM0N2I3ZmMwOTBiZGNhYWIzMjdmMmUzODlj;Path=/
+< X-Server: Smartling
+< Age: 15762
+< Server: Squarespace
+< X-Contextid: 9XdiO80A/2LBVx5kU

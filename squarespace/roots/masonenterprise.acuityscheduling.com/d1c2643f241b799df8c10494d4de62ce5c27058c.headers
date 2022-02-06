@@ -1,0 +1,15 @@
+GET https://masonenterprise.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:54:02 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ig2sgoqi7btndie2bj3tu3u7ee; expires=Fri, 04-Mar-2022 00:54:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=12403e66-e93b-48ab-8323-dfcf7d9f5caa; expires=Fri, 02-Feb-2024 00:54:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

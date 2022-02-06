@@ -1,0 +1,13 @@
+GET https://cdn-vod-drm2.floatplane.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Mon, 31 Jan 2022 18:57:40 GMT
+< Content-Type: text/plain;charset=UTF-8
+< Content-Length: 9
+< X-Debug: Token url parameter is missing.
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Vary: Accept-Encoding
+< Cf-Ray: 6d652ac2085984b6-BOM

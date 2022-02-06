@@ -1,0 +1,11 @@
+GET http://www-staging-de.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:54:58 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BfswGBCCmEk2OThkMzg5NjQzMjg0MDk5MGQxNGJhYWI2OGRlNzQx;Path=/
+< X-Contextid: cXG4IDAt/RLp5LziW

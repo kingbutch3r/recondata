@@ -1,0 +1,15 @@
+GET https://lizlockwoodappointments.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:39:16 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=iskul63mib0bsuth65b7estchu; expires=Fri, 04-Mar-2022 00:39:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=aa2bfe23-22eb-4214-828d-99ca94695b2a; expires=Fri, 02-Feb-2024 00:39:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

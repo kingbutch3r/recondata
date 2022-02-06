@@ -1,0 +1,15 @@
+GET https://christinemhenderson.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=5vo665hcfq06ii44t5t5mrej9t; expires=Fri, 04-Mar-2022 00:24:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b11eaa5f-53d7-4bec-aa42-79011227aa65; expires=Fri, 02-Feb-2024 00:24:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:24:03 GMT
+< Content-Type: text/html; charset=UTF-8

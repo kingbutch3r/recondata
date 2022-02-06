@@ -1,0 +1,11 @@
+GET https://aagdc.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:51:22 GMT
+< Location: http://aagdc.squarespace.com/;jsessionid=B2F57AA17B0BA4D430053685F75F2D3F.v5-web019
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=B2F57AA17B0BA4D430053685F75F2D3F.v5-web019; Path=/; HttpOnly
+< X-Contextid: iBONYbJm/0V96ZrIk

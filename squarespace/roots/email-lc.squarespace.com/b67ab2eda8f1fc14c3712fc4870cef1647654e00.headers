@@ -1,0 +1,12 @@
+GET https://email-lc.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/plain
+< Set-Cookie: AWSALB=N1R5Pat70uwNE647THstV9A6l4rR3LK/97/dymoHuuspRQvZfIp+Nr7b0ijORKqDjDKzMqAHaudz3Om5SSdXOvKK5qG9DgyTp9FRyzNEl4QHBHaMtOe2C7PUgC/Y; Expires=Wed, 09 Feb 2022 00:55:06 GMT; Path=/
+< Set-Cookie: AWSALBCORS=N1R5Pat70uwNE647THstV9A6l4rR3LK/97/dymoHuuspRQvZfIp+Nr7b0ijORKqDjDKzMqAHaudz3Om5SSdXOvKK5qG9DgyTp9FRyzNEl4QHBHaMtOe2C7PUgC/Y; Expires=Wed, 09 Feb 2022 00:55:06 GMT; Path=/; SameSite=None; Secure
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:55:06 GMT
+< Pragma: no-cache
+< Cache-Control: no-cache
+< X-Xss-Protection: 1; mode=block

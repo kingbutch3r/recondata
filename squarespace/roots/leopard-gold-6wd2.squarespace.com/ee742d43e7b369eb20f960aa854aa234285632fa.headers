@@ -1,0 +1,16 @@
+GET https://leopard-gold-6wd2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: haTYxgiM/TM7IujIo
+< Age: 578331
+< Set-Cookie: crumb=BZVP9ytnUwdOMzE5NDFlZDI2MWRlNjFmYjkzYmM4M2U1NjcxM2Rh;Path=/
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Date: Wed, 26 Jan 2022 08:47:45 GMT
+< Etag: W/"18027258bca48efa109b55931bd53841"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

@@ -1,0 +1,11 @@
+GET https://bm2.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:22:02 GMT
+< Location: http://bm2.squarespace.com/;jsessionid=CA4B0C1714A6BD50885A0B2C804A4C59.v5-web019
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=CA4B0C1714A6BD50885A0B2C804A4C59.v5-web019; Path=/; HttpOnly
+< X-Contextid: ezlWAEKr/gGX45iQ2
+< Content-Length: 0

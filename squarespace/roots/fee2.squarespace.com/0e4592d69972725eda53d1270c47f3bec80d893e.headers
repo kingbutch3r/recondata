@@ -1,0 +1,16 @@
+GET https://fee2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Date: Tue, 01 Feb 2022 13:54:13 GMT
+< X-Contextid: ErWiPIpr/K6m0ZW3T
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTnE62XC6t1jZTc5MWUxMzdhNzUyYmU0M2Q4ODNjOWFkMDUzZTcx;Path=/
+< Age: 41147
+< Etag: W/"6c2ad9e37094cf018ec966f1c7485268"
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,17 @@
+GET https://eatwellconsulting.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=g5soa91r3b5is3cj342lbc4v47; expires=Fri, 04-Mar-2022 00:12:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4761814e-b490-42cc-9d7b-ca5a37cc0a6a; expires=Fri, 02-Feb-2024 00:12:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:12:24 GMT
+< Content-Type: text/html; charset=UTF-8

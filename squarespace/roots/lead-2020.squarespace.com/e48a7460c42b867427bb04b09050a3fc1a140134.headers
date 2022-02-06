@@ -1,0 +1,16 @@
+GET https://lead-2020.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"2267896c5ea8db408bcbef8dd0ffb832--gzip"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: kXHW4W7o/4a8DL5BI
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:08:04 GMT
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BXCAsJvsH6ScYTdkM2ZlOTQwZDg2NmM4YTRhNWI4NDgyYzg0Zjkx;Path=/

@@ -1,0 +1,12 @@
+GET http://mary-brucciani-y6i1.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:15:10 UTC
+< Content-Length: 77576
+< X-Contextid: akIAhPYE/4FC17pAf

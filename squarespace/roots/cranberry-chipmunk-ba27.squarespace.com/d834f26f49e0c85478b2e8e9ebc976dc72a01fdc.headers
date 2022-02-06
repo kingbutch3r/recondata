@@ -1,0 +1,16 @@
+GET https://cranberry-chipmunk-ba27.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Set-Cookie: crumb=BRIEmq5ESHZ8MjJjMGNlODY4MTU5NjE3NmE1Y2VmNTJkNjkwN2Zm;Path=/
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Contextid: N5VqEnvJ/yMr3vwt1
+< Age: 386368
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 14:06:52 GMT
+< Accept-Ranges: bytes
+< Etag: W/"0611bc9e449229e2571c639b14e5b342--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

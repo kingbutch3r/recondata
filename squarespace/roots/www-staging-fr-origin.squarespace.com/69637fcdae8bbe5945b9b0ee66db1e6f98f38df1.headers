@@ -1,0 +1,18 @@
+GET https://www-staging-fr-origin.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 14938
+< Set-Cookie: crumb=Bd4fObkHVGNhNTY2ZDY1ZTA0NTkxODJkZDk2YThjNTE4MzY3ZjE2;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Sl-Notranslate: 1
+< Date: Wed, 02 Feb 2022 00:55:03 GMT
+< Content-Type: text/html; charset=utf-8
+< X-Content-Type-Options: nosniff
+< X-Sl-Norewrite: 1
+< X-Server: Smartling
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Server: Squarespace
+< Content-Language: fr-FR
+< X-Contextid: zUK6vvyZ/mVawCCz9

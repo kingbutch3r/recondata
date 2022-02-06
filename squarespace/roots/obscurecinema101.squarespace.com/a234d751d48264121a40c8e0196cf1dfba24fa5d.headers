@@ -1,0 +1,9 @@
+GET http://obscurecinema101.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: oOPYvwGl/6irVuJWi
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:50:16 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=8DE61ECB4D03F08C64D12006E48A542C.v5-web014; Path=/; HttpOnly

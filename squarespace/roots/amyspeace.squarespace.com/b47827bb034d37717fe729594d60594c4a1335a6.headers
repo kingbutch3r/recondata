@@ -1,0 +1,11 @@
+GET http://amyspeace.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BUgndvdrGFX2MDhlZGU2MzAyMzA3NTdiMWQ3OTQ5ZjY2MGIwNGFk;Path=/
+< X-Contextid: dXgMuAk9/XYsX48VF
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:58:54 GMT
+< Location: https://amyspeace.squarespace.com/

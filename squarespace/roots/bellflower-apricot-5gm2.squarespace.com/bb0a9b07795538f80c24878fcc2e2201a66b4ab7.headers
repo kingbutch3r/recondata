@@ -1,0 +1,11 @@
+GET http://bellflower-apricot-5gm2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Server: Squarespace
+< Set-Cookie: crumb=BYMx3JR5nCasNTllZmEwMTg3MWJlOWU1ZjkzMmFhYTgyYmIyYzYy;Path=/
+< X-Contextid: 9eiUhMxk/AnZ1UBIM
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:22:00 GMT

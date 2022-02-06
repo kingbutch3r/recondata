@@ -1,0 +1,16 @@
+GET https://savoybeachclub.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Age: 0
+< Last-Modified: Wed, 02 Feb 2022 01:22:24 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"75ff882a0cdff6eb0ab08ab7825d1d99"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Date: Wed, 02 Feb 2022 01:22:24 GMT
+< Set-Cookie: crumb=BZif3VMhU8oKODc0MTY4ODYxNGZjNmMzOTZkNWM0ZTcxMDYwYzVk;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: 0nFQA6b7/kVPNhgwa

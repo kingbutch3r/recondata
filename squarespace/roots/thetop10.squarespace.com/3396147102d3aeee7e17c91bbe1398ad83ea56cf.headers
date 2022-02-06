@@ -1,0 +1,10 @@
+GET http://thetop10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:05:48 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BfgahC8qvEDnZmZhN2ZjZTVmZDc5MjMyNDljMTQ5YTJmZGM5MDZl;Path=/
+< X-Contextid: 4nuRLrtn/vmITfjgI
+< Age: 0
+< Content-Type: text/html;charset=utf-8

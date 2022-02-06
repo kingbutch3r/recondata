@@ -1,0 +1,10 @@
+GET http://apie.sandbox.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Referrer-Policy: no-referrer
+< Location: https://apie.sandbox.payoneer.com/
+< Content-Length: 231
+< Date: Tue, 01 Feb 2022 23:26:12 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8

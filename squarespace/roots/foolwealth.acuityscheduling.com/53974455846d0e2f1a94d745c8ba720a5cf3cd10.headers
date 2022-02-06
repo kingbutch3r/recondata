@@ -1,0 +1,15 @@
+GET https://foolwealth.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:14:46 GMT
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=d5egd3jmbjq6o0v2acfi2d88jk; expires=Fri, 04-Mar-2022 00:14:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d33e7b3d-1cbd-41e7-9636-5ea92cc9c0d9; expires=Fri, 02-Feb-2024 00:14:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

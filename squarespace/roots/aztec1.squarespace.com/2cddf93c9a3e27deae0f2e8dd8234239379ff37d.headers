@@ -1,0 +1,14 @@
+GET https://aztec1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 3136
+< Date: Wed, 02 Feb 2022 00:50:43 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcswyQdoEzTVODIxNjg1MWUzMWI5OWI4ZGMyYjY3ZjM5ZGFiMTFl;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: aK26BzkA/I7q2cvm8
+< Age: 0
+< Content-Type: text/html;charset=utf-8

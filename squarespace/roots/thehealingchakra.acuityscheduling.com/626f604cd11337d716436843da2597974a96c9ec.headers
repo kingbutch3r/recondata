@@ -1,0 +1,17 @@
+GET https://thehealingchakra.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:55:53 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=g79phvcprsh79lgagh6p4l6qst; expires=Thu, 03-Mar-2022 23:55:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fffb7569-d841-43e5-aa5e-79ffc9b662e0; expires=Thu, 01-Feb-2024 23:55:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,10 @@
+GET http://swsmag2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: hmN5NqZ3/acYUWymh
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:28 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUVYRjiRVUG7OWNjY2FmZDRjODFhOGU4NjBmZDFiNjA4NTY5MGNm;Path=/

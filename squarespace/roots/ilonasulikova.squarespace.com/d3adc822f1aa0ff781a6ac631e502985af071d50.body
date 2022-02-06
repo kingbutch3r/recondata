@@ -1,0 +1,723 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <!-- This is Squarespace. --><!-- ilonasulikova -->
+<base href="">
+<meta charset="utf-8" />
+<title>Ilona Sulikova Raku Ceramics</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="http://ilonasulikova.squarespace.com"/>
+<meta property="og:site_name" content="Ilona Sulikova Raku Ceramics"/>
+<meta property="og:title" content="Ilona Sulikova Raku Ceramics"/>
+<meta property="og:url" content="http://ilonasulikova.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Ilona Sulikova Raku Ceramics"/>
+<meta itemprop="url" content="http://ilonasulikova.squarespace.com"/>
+<meta name="twitter:title" content="Ilona Sulikova Raku Ceramics"/>
+<meta name="twitter:url" content="http://ilonasulikova.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/23l9_4F2iAHMYI6QiTMTdo8_phpmER6eb83aF50ps9bfeTj2fFHN4UJLFRbh52jhWD9ujcZRwRwhZQsKw29UZQjawRqtFem8FyTYdeNRjAUGdaFXOe8CdhoySamC-AlzicI0SaBujW48Sagyjh90jhNlOfG0-AUzdcBDiAUT-hNhjPoDSWmyScmDSeBRZPoRdhXK2YgkdayTdAIldcNhjPJ4Z1mXiW4yOWgXH6qJ73IbMg6gJMJ7fbKCMsMMeMC6MKG4f5J7IMMjMkMfH6qJtkGbMg6FJMJ7fbKzMsMMeMb6MKG4fOMgIMMj2KMfH6qJnbIbMg6eJMJ7fbK0MsMMegM6MKG4fJCgIMMjgkMfH6qJRMIbMg6sJMJ7fbKTMsMMeM66MKG4fHGgIMMjIKMfH6qJKbIbMg64JMJ7fbKHMsMMegw6MKG4fJZmIMIjMkMfH6qJ6u9bMs6FJMJ7fbKImsMgeMb6MKG4fJmmIMIj2KMfH6qJxubbMs6BJMJ7fbKMmsMgeMv6MKG4fJBmIMIjgkMfH6qJ689bMs6sJMJ7fbKYmsMgeM66MKG4fJymIMIjIKMfqMYLKxrlgb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"55bfc236e4b051e672984ee6","identifier":"ilonasulikova","websiteType":1,"contentModifiedOn":1642178510527,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/London","machineTimeZoneOffset":0,"timeZoneOffset":0,"timeZoneAbbr":"GMT","siteTitle":"Ilona Sulikova Raku Ceramics","fullSiteTitle":"Ilona Sulikova Raku Ceramics","siteTagLine":"","siteDescription":"","location":{"mapZoom":12.0,"mapLat":53.9427023,"mapLng":-1.0489661999999953,"markerLat":53.9427023,"markerLng":-1.0489661999999953,"addressTitle":"Ilona Sulikova Ceramics","addressLine1":"29 Turner's Croft","addressLine2":"York, YO10 5EL","addressCountry":"United Kingdom"},"shareButtonOptions":{"1":true,"3":true,"4":true,"7":true,"6":true,"8":true,"2":true},"authenticUrl":"http://ilonasulikova.squarespace.com","internalUrl":"http://ilonasulikova.squarespace.com","baseUrl":"http://ilonasulikova.squarespace.com","typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"showOwnerLogin":false},"websiteSettings":{"id":"55bfc236e4b051e672984ee8","websiteId":"55bfc236e4b051e672984ee6","type":"Business","subjects":[],"country":"GB","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"GB","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Work","id":"55d4db04e4b03492c76d28bb","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"TGutter":"3%","TMaxWidth":"400","TPerRow":"3","gallery-auto-play":"false","galleryPlaySpeed":"3","hide-thumbnail-titles":"false","outerPadding":"75px","pagePadding":"50px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","thumbnail-layout":"Basic Grid","topPadding":"10px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"4fd11f32c4aad9b01c9e624c","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/4fd1028ee4b02be53c65dfb3/1356/scripts/","betaFeatureFlags":["scheduling_block_schema_editor","commerce_category_id_discounts_enabled","customer_account_creation_recaptcha","commerce_etsy_product_import","campaigns_global_uc_ab","google_analytics_4_gtag_js","category-delete-product-service-enabled","member_areas_schedule_interview","campaigns_thumbnail_layout","commerce_pdp_layouts_ga","commerce_activation_experiment_add_payment_processor_card","reduce_general_search_api_traffic","campaigns_new_subscriber_search","commerce_product_composer_ab_test_all_users","member_areas_pricing_options_discounts","campaigns_blog_product_image_editor","background_art_onboarding","startup_checklist","product_composer_feedback_form_on_save","commerce_etsy_shipping_import","commerce_onboarding_tools_screen_test","campaigns_section_reorder_arrows","viewer-role-contributor-invites","commerce_product_review_import_ga","commerce_site_visitor_metrics","campaigns_audience_card","campaigns_banner_reduce_size","commerce_restock_notifications","campaigns_hide_deleted_automations_panel","member_areas_spanish_interviews","campaigns_show_apply_website_styles_button","commerce_product_branching","nested_categories_migration_enabled","commerce_clearpay","commerce_afterpay_pdp","commerce_product_review_etsy_import"],"impersonatedSession":false,"tzData":{"zones":[[0,"EU","GMT/BST",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://ilonasulikova.squarespace.com/work?format=rss" />
+<script type="application/ld+json">{"url":"http://ilonasulikova.squarespace.com","name":"Ilona Sulikova Raku Ceramics","description":"","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"Ilona Sulikova Ceramics","address":"29 Turner's Croft\nYork, YO10 5EL\nUnited Kingdom","telephone":"","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"29 Turner's Croft\nYork, YO10 5EL\nUnited Kingdom","name":"Ilona Sulikova Ceramics","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/55bfc236e4b051e672984ee6/27/4fd11f32c4aad9b01c9e624c/55bfc236e4b051e672984eef/1356/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+</head>
+
+<body class="blog-sidebar-display-auto index-thumb-title-position-below index-item-layout-auto thumbnail-layout-basic-grid thumbnails-on-open-page-show-all   layout-style-left page-borders-none underline-body-links gallery-page-controls-tiny-thumbnails  social-icon-style-normal   show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-index collection-layout-default collection-55d4db04e4b03492c76d28bb homepage view-list mobile-style-available site-title has-primary-nav" id="collection-55d4db04e4b03492c76d28bb">
+
+  <div id="canvas">
+
+      
+  <div id="mobileNav" class="">
+    <div id="mobileNavWrapper" class="wrapper">
+      <nav class="main-nav mobileNav">
+        <ul>
+          
+
+            
+              <li class="index-collection active-link">
+                
+                  <a href="/">Work</a>
+                
+              </li>
+            
+
+          
+
+            
+              <li class="page-collection">
+                
+                  <a href="/about">About</a>
+                
+                
+              </li>
+            
+
+          
+
+            
+              <li class="page-collection">
+                
+                  <a href="/new-page">Stockists</a>
+                
+                
+              </li>
+            
+
+          
+
+            
+              <li class="blog-collection">
+                
+                  <a href="/exhibition-news">News</a>
+                
+                
+              </li>
+            
+
+          
+          
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <div id="mobileMenuLink"><a>Menu</a></div>
+
+
+
+    <header id="header">
+      <div id="logo" data-content-field="site-title">
+        
+        <h1 class="logo"><a href="/">Ilona Sulikova Raku Ceramics</a></h1>
+        
+        
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.all("#header .logo, #header .logo-subtitle").each(function (text) {
+            text.plug(Y.Squarespace.TextShrink, {
+              parentEl: Y.one('#header'),
+              triggerWidth: 750
+            });
+          });
+        });
+
+        // Show spinner on page load if loading bookmarked url
+        if (window.location.hash && window.location.hash !== '#') {
+          document.querySelector('body').className += ' index-loading';
+        }
+      </script>
+      <div id="topNav" data-content-field="navigation">
+<nav class="main-nav">
+  <ul>
+  
+  
+
+      <li class="index-collection active-link">
+
+        
+          
+            <a href="/">Work</a>
+          
+        
+
+      </li>
+
+  
+
+      <li class="page-collection">
+
+        
+
+          
+            <a href="/about">About</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="page-collection">
+
+        
+
+          
+            <a href="/new-page">Stockists</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="blog-collection">
+
+        
+
+          
+            <a href="/exhibition-news">News</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+  
+  
+  </ul>
+</nav>
+</div>
+
+    </header>
+
+    <div class="page-divider"></div>
+
+    <div class="extra-wrapper page-header">
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Header Content: Work" data-type="block-field" data-updated-on="1440013214460" id="page-header-55d4db04e4b03492c76d28bb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+    </div>
+
+    <section id="page" role="main" data-content-field="main-content">
+      <!-- CATEGORY NAV -->
+      
+      <div id="projectPages" data-collection-id="">
+  
+    
+      <div class="project gallery-project" data-url="/raku-fired-/-black/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Raku fired / black & white</h2>
+          <div class="project-description"><p>All pieces are raku fired and then completed by smoking in a reduction chamber.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879470046-66XXO3QAWWJR05ILFKQY/_DSC8430a+copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879470046-66XXO3QAWWJR05ILFKQY/_DSC8430a+copy.jpg" data-image-dimensions="2500x2353" data-image-focal-point="0.5,0.5" alt="_DSC8430a copy.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879470046-66XXO3QAWWJR05ILFKQY/_DSC8430a+copy.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879516478-S2WZQEX0KH3TUGEW3N7O/_DSC8428a+copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879516478-S2WZQEX0KH3TUGEW3N7O/_DSC8428a+copy.jpg" data-image-dimensions="2500x2429" data-image-focal-point="0.5,0.5" alt="_DSC8428a copy.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879516478-S2WZQEX0KH3TUGEW3N7O/_DSC8428a+copy.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879520636-13UAD0S5Y71P1NHHPCDS/_DSC8437a+copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879520636-13UAD0S5Y71P1NHHPCDS/_DSC8437a+copy.jpg" data-image-dimensions="2500x2390" data-image-focal-point="0.5,0.5" alt="_DSC8437a copy.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879520636-13UAD0S5Y71P1NHHPCDS/_DSC8437a+copy.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879540056-4E2DL0JJAUF5XFM1KPC4/_DSC8431a+copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879540056-4E2DL0JJAUF5XFM1KPC4/_DSC8431a+copy.jpg" data-image-dimensions="2500x2304" data-image-focal-point="0.5,0.5" alt="_DSC8431a copy.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879540056-4E2DL0JJAUF5XFM1KPC4/_DSC8431a+copy.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879540832-UK5HSCS13OPPQE4MWDBG/_DSC7926ah+copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879540832-UK5HSCS13OPPQE4MWDBG/_DSC7926ah+copy.jpg" data-image-dimensions="2500x2364" data-image-focal-point="0.5,0.5" alt="_DSC7926ah copy.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879540832-UK5HSCS13OPPQE4MWDBG/_DSC7926ah+copy.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879550383-7MJJIRWAII1WJJ10N9CL/Geometric%2C+ceramics%2C+Ilona+Sulikova.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879550383-7MJJIRWAII1WJJ10N9CL/Geometric%2C+ceramics%2C+Ilona+Sulikova.jpg" data-image-dimensions="2500x2347" data-image-focal-point="0.5,0.5" alt="Geometric, ceramics, Ilona Sulikova.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879550383-7MJJIRWAII1WJJ10N9CL/Geometric%2C+ceramics%2C+Ilona+Sulikova.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014398355-ZG56VSXIOSXLZGT37X8S/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014398355-ZG56VSXIOSXLZGT37X8S/image-asset.jpeg" data-image-dimensions="1050x1135" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014398355-ZG56VSXIOSXLZGT37X8S/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014347367-UDG47ODK3J0KHN1LDEBV/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014347367-UDG47ODK3J0KHN1LDEBV/image-asset.jpeg" data-image-dimensions="1107x1050" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014347367-UDG47ODK3J0KHN1LDEBV/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014311554-QW5GWKFRM4V5W60G2PX4/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014311554-QW5GWKFRM4V5W60G2PX4/image-asset.jpeg" data-image-dimensions="1050x1088" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440014311554-QW5GWKFRM4V5W60G2PX4/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/raku-fired-black-black/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Raku fired / black & black - archive</h2>
+          <div class="project-description"><p>All pieces are burnished before application of copper carbonate to create shiny and matte contrast.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880004145-39KKN90EFRM70DROXB17/BandB1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880004145-39KKN90EFRM70DROXB17/BandB1.jpg" data-image-dimensions="1000x926" data-image-focal-point="0.5,0.5" alt="BandB1.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880004145-39KKN90EFRM70DROXB17/BandB1.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880003412-3HDF6VYXWU2YGPK7HMPJ/bandb2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880003412-3HDF6VYXWU2YGPK7HMPJ/bandb2.jpg" data-image-dimensions="1000x891" data-image-focal-point="0.5,0.5" alt="bandb2.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880003412-3HDF6VYXWU2YGPK7HMPJ/bandb2.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880006793-S8TYIMN8RX84NEVM5IHG/bandb3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880006793-S8TYIMN8RX84NEVM5IHG/bandb3.jpg" data-image-dimensions="1000x872" data-image-focal-point="0.5,0.5" alt="bandb3.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880006793-S8TYIMN8RX84NEVM5IHG/bandb3.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/raku-fired-dry-copper-glaze-/2/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Raku fired dry copper glaze - archive</h2>
+          
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017202226-8K07JZAL17JLD0WQXADP/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017202226-8K07JZAL17JLD0WQXADP/image-asset.jpeg" data-image-dimensions="2500x2376" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017202226-8K07JZAL17JLD0WQXADP/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017283221-QL9QYH0F50IUXMJQYGWO/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017283221-QL9QYH0F50IUXMJQYGWO/image-asset.jpeg" data-image-dimensions="2500x2250" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017283221-QL9QYH0F50IUXMJQYGWO/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017328246-LDWUIMB48MPQZ5PY3AEH/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017328246-LDWUIMB48MPQZ5PY3AEH/image-asset.jpeg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017328246-LDWUIMB48MPQZ5PY3AEH/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017368737-OL4N0SLZ1PALMQF6TJUI/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017368737-OL4N0SLZ1PALMQF6TJUI/image-asset.jpeg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017368737-OL4N0SLZ1PALMQF6TJUI/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017427215-4QTP4WL1X7OORRII3H01/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017427215-4QTP4WL1X7OORRII3H01/image-asset.jpeg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017427215-4QTP4WL1X7OORRII3H01/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017470020-K044D4DTFX0VQ0FAM5KK/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017470020-K044D4DTFX0VQ0FAM5KK/image-asset.jpeg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017470020-K044D4DTFX0VQ0FAM5KK/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/working-process/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Working Process</h2>
+          
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634748489-N1BTTZR89LSP43QQ7MXI/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634748489-N1BTTZR89LSP43QQ7MXI/image-asset.jpeg" data-image-dimensions="990x1400" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634748489-N1BTTZR89LSP43QQ7MXI/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438633565601-QTDJWT8M8PK4FKV0AFXV/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438633565601-QTDJWT8M8PK4FKV0AFXV/image-asset.jpeg" data-image-dimensions="1400x990" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438633565601-QTDJWT8M8PK4FKV0AFXV/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634010925-XD2IA3JX48FU9TJOU9SE/17.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634010925-XD2IA3JX48FU9TJOU9SE/17.jpg" data-image-dimensions="1400x990" data-image-focal-point="0.5,0.5" alt="17.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634010925-XD2IA3JX48FU9TJOU9SE/17.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634495572-LOU6NUTS7RT6SJ6BVWZT/18.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634495572-LOU6NUTS7RT6SJ6BVWZT/18.jpg" data-image-dimensions="1400x990" data-image-focal-point="0.5,0.5" alt="18.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1438634495572-LOU6NUTS7RT6SJ6BVWZT/18.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/raku-firing/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Raku firing process</h2>
+          
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015873017-712I73PSBWTDG5X4VHDK/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015873017-712I73PSBWTDG5X4VHDK/image-asset.jpeg" data-image-dimensions="2244x3239" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015873017-712I73PSBWTDG5X4VHDK/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016073412-0YCLI3W431PHEJBO55JG/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016073412-0YCLI3W431PHEJBO55JG/image-asset.jpeg" data-image-dimensions="2500x1853" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016073412-0YCLI3W431PHEJBO55JG/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016112476-56222QUGZ32KX770XFCE/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016112476-56222QUGZ32KX770XFCE/image-asset.jpeg" data-image-dimensions="2445x3730" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016112476-56222QUGZ32KX770XFCE/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016139154-TL1JO5GJ34T3WR0M9BHU/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016139154-TL1JO5GJ34T3WR0M9BHU/image-asset.jpeg" data-image-dimensions="2500x3308" data-image-focal-point="0.9902912991718181,0.0" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440016139154-TL1JO5GJ34T3WR0M9BHU/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015984145-PEFZLNK0O6YLJHQB1QD4/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015984145-PEFZLNK0O6YLJHQB1QD4/image-asset.jpeg" data-image-dimensions="2500x3413" data-image-focal-point="0.5,0.5" alt=""  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015984145-PEFZLNK0O6YLJHQB1QD4/image-asset.jpeg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project page-project" data-url="/new-page-1/" >
+      
+        <!-- Will be fetched on-demand -->
+      
+      </div>
+    
+  
+
+  <div class="project-controls">
+    <div>
+      <div id="projectNav"><span class="prev-project">prev</span> / <span class="next-project">next</span></div>
+      <a href="#">Back to Work</a>
+    </div>
+  </div>
+
+</div>
+
+
+
+<div id="projectThumbs" >
+  <div class="wrapper">
+    
+      
+        <a class="project" href="/raku-fired-/-black/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879470046-66XXO3QAWWJR05ILFKQY/_DSC8430a+copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879470046-66XXO3QAWWJR05ILFKQY/_DSC8430a+copy.jpg" data-image-dimensions="2500x2353" data-image-focal-point="0.5,0.5" alt=""  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518879470046-66XXO3QAWWJR05ILFKQY/_DSC8430a+copy.jpg?format=500w"></noscript></div></div><div class="project-item-count">9</div></div>
+            <div class="project-title">Raku fired / black & white</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/raku-fired-black-black/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880004145-39KKN90EFRM70DROXB17/BandB1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880004145-39KKN90EFRM70DROXB17/BandB1.jpg" data-image-dimensions="1000x926" data-image-focal-point="0.5,0.5" alt=""  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1518880004145-39KKN90EFRM70DROXB17/BandB1.jpg?format=500w"></noscript></div></div><div class="project-item-count">3</div></div>
+            <div class="project-title">Raku fired / black & black - archive</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/raku-fired-dry-copper-glaze-/2/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017202226-8K07JZAL17JLD0WQXADP/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017202226-8K07JZAL17JLD0WQXADP/image-asset.jpeg" data-image-dimensions="2500x2376" data-image-focal-point="0.5,0.5" alt=""  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440017202226-8K07JZAL17JLD0WQXADP/image-asset.jpeg?format=500w"></noscript></div></div><div class="project-item-count">6</div></div>
+            <div class="project-title">Raku fired dry copper glaze - archive</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/working-process/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1442872238496-L2F83R1GIX64RRH83W4A/1438634684606.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1442872238496-L2F83R1GIX64RRH83W4A/1438634684606.jpg" data-image-dimensions="750x1061" data-image-focal-point="0.5,0.5" alt="1438634684606.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1442872238496-L2F83R1GIX64RRH83W4A/1438634684606.jpg?format=500w"></noscript></div></div><div class="project-item-count">4</div></div>
+            <div class="project-title">Working Process</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/raku-firing/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015873017-712I73PSBWTDG5X4VHDK/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015873017-712I73PSBWTDG5X4VHDK/image-asset.jpeg" data-image-dimensions="2244x3239" data-image-focal-point="0.5,0.5" alt=""  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1440015873017-712I73PSBWTDG5X4VHDK/image-asset.jpeg?format=500w"></noscript></div></div><div class="project-item-count">5</div></div>
+            <div class="project-title">Raku firing process</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/new-page-1/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1595944485521-A8YE0NAU08OIX9HYZ9O6/IMG_2252.jpg" data-image="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1595944485521-A8YE0NAU08OIX9HYZ9O6/IMG_2252.jpg" data-image-dimensions="2019x2188" data-image-focal-point="0.5,0.5" alt="IMG_2252.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/55bfc236e4b051e672984ee6/1595944485521-A8YE0NAU08OIX9HYZ9O6/IMG_2252.jpg?format=500w"></noscript></div></div><div class="project-item-count">0</div></div>
+            <div class="project-title">New work available now</div>
+          </div>
+        </a>
+      
+    
+
+  </div>
+</div>
+    </section>
+
+    <div class="extra-wrapper page-footer">
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content: Work" data-type="block-field" id="page-footer-55d4db04e4b03492c76d28bb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+    </div>
+
+    <div class="page-divider"></div>
+
+    <footer id="footer">
+      <div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1398831422803" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-179f8c9da7aa428c1198"><div class="sqs-block-content"><p>Powered by <a href="http://www.squarespace.com">Squarespace</a></p></div></div></div></div></div>
+      
+        
+      
+    </footer>
+
+  </div>
+
+  <div></div>
+
+  <script src="https://static1.squarespace.com/static/ta/4fd1028ee4b02be53c65dfb3/1356/scripts/site-bundle.js" type="text/javascript"></script>
+
+  <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+
+
+</body>
+
+</html>

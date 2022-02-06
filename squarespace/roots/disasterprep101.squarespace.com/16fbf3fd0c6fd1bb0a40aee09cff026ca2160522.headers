@@ -1,0 +1,11 @@
+GET http://disasterprep101.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: SDV91Lr0/fUCLUfC2
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:50:18 GMT
+< Location: https://disasterprep101.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfldrYJzNYnZOTAyMzdmN2FkNTQ1MmZlZWY2ZjVlY2YxZmIyYWFl;Path=/

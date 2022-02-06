@@ -1,0 +1,16 @@
+GET https://momentum-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< X-Content-Type-Options: nosniff
+< X-Contextid: 59k3oiXU/5MyGrxrI
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 21:47:04 GMT
+< Age: 358561
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Etag: W/"1e7e7492e670a015a8efdaa1e64c6ff4--gzip"
+< Set-Cookie: crumb=BeeMl0bQee8RMjkyYmMyYWY5ZGI3ZTAxMDVlMzU0YjlhODJkNWQ5;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

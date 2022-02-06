@@ -1,0 +1,10 @@
+GET http://whuszti1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BQ5f82Fx4KGpNzZlODAyMDVmMWZjN2E3YjBjZTRlMjg1MDAxYzEx;Path=/
+< X-Contextid: 1xdIaobR/cNdSmvYq
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:15:14 GMT
+< Server: Squarespace

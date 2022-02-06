@@ -1,0 +1,17 @@
+GET https://daniellemercurio.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:25:36 GMT
+< Set-Cookie: PHPSESSID=9926esfaok754149vvqgju3cvf; expires=Fri, 04-Mar-2022 00:25:35 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dae5cd83-87bf-46b7-b086-7dc94505719d; expires=Fri, 02-Feb-2024 00:25:36 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

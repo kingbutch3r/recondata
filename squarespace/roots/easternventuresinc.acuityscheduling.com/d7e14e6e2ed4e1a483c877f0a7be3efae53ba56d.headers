@@ -1,0 +1,15 @@
+GET https://easternventuresinc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=hjniaseq4bacudpobtt6vffbg7; expires=Thu, 03-Mar-2022 23:58:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=186815c7-e852-44fa-8190-4b3fafd32715; expires=Thu, 01-Feb-2024 23:58:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:58:35 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

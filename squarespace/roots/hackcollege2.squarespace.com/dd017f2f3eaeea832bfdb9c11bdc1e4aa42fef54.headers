@@ -1,0 +1,11 @@
+GET https://hackcollege2.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:20:04 GMT
+< Location: http://hackcollege2.squarespace.com/;jsessionid=06AF8958B15703C2AA3F5E5825A0C111.v5-web020
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=06AF8958B15703C2AA3F5E5825A0C111.v5-web020; Path=/; HttpOnly
+< X-Contextid: 0QoMNssx/RtGOMTcW

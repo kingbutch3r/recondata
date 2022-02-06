@@ -1,0 +1,11 @@
+GET http://fcai.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 3449
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:58:11 GMT
+< Location: https://fcai.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXyqNZm34aPDMGFmMTM4ZDA5Zjk2ZWE4NDYyNmY0NTRhYTNkOWMx;Path=/
+< X-Contextid: bkiiMjKB/0ZpiXuza

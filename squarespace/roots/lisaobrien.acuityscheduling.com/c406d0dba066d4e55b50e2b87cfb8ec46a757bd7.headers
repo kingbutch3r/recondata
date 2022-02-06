@@ -1,0 +1,15 @@
+GET https://lisaobrien.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:20:56 GMT
+< Set-Cookie: PHPSESSID=g9n56fgstija2v4kdfplk730jk; expires=Fri, 04-Mar-2022 00:20:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7ae3f6a3-ad62-4482-aeb6-e24f9fd1e08b; expires=Fri, 02-Feb-2024 00:20:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

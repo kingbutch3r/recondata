@@ -1,0 +1,17 @@
+GET https://locsandkinks.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=6jdnq3l4pd45ij1ca8igvmr2i4; expires=Fri, 04-Mar-2022 00:34:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b5ddf191-a7d6-4501-ac8c-eb09bf2a9703; expires=Fri, 02-Feb-2024 00:34:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:34:30 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

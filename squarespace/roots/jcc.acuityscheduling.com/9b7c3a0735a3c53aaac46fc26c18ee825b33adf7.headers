@@ -1,0 +1,17 @@
+GET https://jcc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:02 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=tbbajv7ftd238g1anfbkgdo9sk; expires=Thu, 03-Mar-2022 23:57:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=933a37ed-660f-424b-b238-8a9b41099b20; expires=Thu, 01-Feb-2024 23:57:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Location: /schedule.php

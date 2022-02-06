@@ -1,0 +1,27 @@
+GET http://help.acuityscheduling.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: no-cache
+< X-Zendesk-Origin-Server: classic-app-server-66bdf8fd94-wbrtv
+< X-Content-Type-Options: nosniff
+< Set-Cookie: __cfruid=4fb1e464d64a96e46e432b3b3df5cf1afd3bf4f3-1643764211; path=/; domain=.help.acuityscheduling.com; HttpOnly
+< Date: Wed, 02 Feb 2022 01:10:11 GMT
+< Location: https://help.acuityscheduling.com/hc
+< Zendesk-Api-Version: 2022-01-01
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< Zendesk-Ep: 10
+< Cf-Cache-Status: DYNAMIC
+< Cf-Ray: 6d6f89cefbdc0e98-BOM
+< Content-Length: 102
+< X-Request-Id: 6d6f89cefbdc0e98-SEA
+< X-Request-Id: 6d6f89cefbdc0e98-SEA
+< Server: cloudflare
+< Vary: Accept
+< X-Xss-Protection: 1; mode=block
+< X-Runtime: 0.057531
+< X-Zendesk-Zorg: yes
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=gYQ9%2B3qRiJ8V126%2ByZtAqxpjC%2FYaSrR170AFLc%2F2Fjzh9K1leb33W1Ht0RpdSUgFMUeWA9lI%2BClI6oWay5ul1YGI8hiKZa5yUjMeS1Pb7XQst8hTz90nNw9oQd04ymVo323xEwjWO7GaBUM%3D"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Content-Type: text/html; charset=UTF-8
+< Content-Security-Policy: frame-ancestors 'self' help.acuityscheduling.com;

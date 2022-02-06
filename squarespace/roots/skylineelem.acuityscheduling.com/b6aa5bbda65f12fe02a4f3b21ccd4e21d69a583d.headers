@@ -1,0 +1,15 @@
+GET https://skylineelem.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=mpjsmmbqmh07d1erl8087u68lo; expires=Fri, 04-Mar-2022 00:19:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=71756514-6b04-4144-a073-48b859e45951; expires=Fri, 02-Feb-2024 00:19:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:19:03 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

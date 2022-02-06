@@ -1,0 +1,11 @@
+GET http://peter-rouse-xbi1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:15:11 GMT
+< Location: https://peter-rouse-xbi1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTXfKmDT3wTyMWM1ODBiNWMxNmRmNzE2ZWI0MmNjYmMzYzYxOGVh;Path=/
+< X-Contextid: muoo3yUY/0lrSGSHC
+< Content-Length: 0
+< Age: 0

@@ -1,0 +1,17 @@
+GET https://output.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:43:19 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=g21rm3bkgods70or95fsd4vhap; expires=Fri, 04-Mar-2022 00:43:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fe39d9e2-d99e-4e9f-9ae2-e1c50bd39678; expires=Fri, 02-Feb-2024 00:43:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

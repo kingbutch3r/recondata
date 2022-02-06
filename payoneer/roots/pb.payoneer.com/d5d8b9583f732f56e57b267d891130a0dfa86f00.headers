@@ -1,0 +1,15 @@
+GET https://pb.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=0, no-cache, no-store
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Set-Cookie: GCLB=CN-G0Z_sr8qCeg; path=/; HttpOnly
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:26:27 GMT
+< Content-Type: text/html
+< Content-Length: 190
+< Location: https://myaccount.payoneer.com/login/login.aspx?pid=100010910&langid=2
+< Pragma: no-cache
+< Via: 1.1 google

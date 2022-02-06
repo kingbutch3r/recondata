@@ -1,0 +1,6 @@
+GET https://social.payoneer.com
+
+
+< HTTP/1.0 302 Found
+< Location: http://www.oracle.com/splash/cloud/index.html
+< Connection: close

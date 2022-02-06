@@ -1,0 +1,10 @@
+GET http://voipa020.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:09 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BVkRN2EIuLAoNWVlMWEwMTk0OTY1MzZjMmJkNzUwM2NhMjk4MmEw;Path=/
+< X-Contextid: 8JTZ0JKa/lEL2zAb8

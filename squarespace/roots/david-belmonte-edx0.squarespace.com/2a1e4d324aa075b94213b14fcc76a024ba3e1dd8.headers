@@ -1,0 +1,16 @@
+GET http://david-belmonte-edx0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Last-Modified: Tue, 01 Feb 2022 00:48:45 GMT
+< Age: 86487
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Date: Tue, 01 Feb 2022 00:48:45 GMT
+< Etag: W/"0f5b0ec8fe9643a5be1efef3d560bc06"
+< Set-Cookie: crumb=Bf7QGDwQh/d4OGM4NzJhNGQyZDQxMWYyMGI1NjI5M2I0NzRmNmNi;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: vuszWcce/DYCYbjGN

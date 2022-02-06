@@ -1,0 +1,15 @@
+GET https://photoloco.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ljduseecorn68siu98s9q1r5ke; expires=Fri, 04-Mar-2022 00:24:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=65f1a9e6-99ac-4178-8e4b-92cc36ceb137; expires=Fri, 02-Feb-2024 00:24:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:24:51 GMT
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

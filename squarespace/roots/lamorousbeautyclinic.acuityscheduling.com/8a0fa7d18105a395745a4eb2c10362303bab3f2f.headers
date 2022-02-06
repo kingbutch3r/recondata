@@ -1,0 +1,17 @@
+GET https://lamorousbeautyclinic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=rhsllsdipll2p95dojv0bd8h9j; expires=Thu, 03-Mar-2022 23:57:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b7c63f47-06f9-48b9-a68d-f9f589afcd08; expires=Thu, 01-Feb-2024 23:57:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:57:25 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate

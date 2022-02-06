@@ -1,0 +1,12 @@
+GET http://gestalthinking.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< X-Contextid: 4ibeE2wo/fEWxcAUq
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 01:22:33 UTC
+< Pragma: no-cache

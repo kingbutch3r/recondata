@@ -1,0 +1,17 @@
+GET https://jamesjustin.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=sna8rkpg98r6lbqnob8a0tofha; expires=Fri, 04-Mar-2022 00:21:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=666c7e81-c281-4d9c-8657-7b562af95bf5; expires=Fri, 02-Feb-2024 00:21:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:21:58 GMT
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache

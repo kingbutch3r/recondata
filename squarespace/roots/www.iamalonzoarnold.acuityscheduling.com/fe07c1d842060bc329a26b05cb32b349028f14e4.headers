@@ -1,0 +1,17 @@
+GET https://www.iamalonzoarnold.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Content-Length: 0
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:59:51 GMT
+< Set-Cookie: PHPSESSID=0c21lbpjqh5iiiho8b66icgc66; expires=Thu, 03-Mar-2022 23:59:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7b4e3603-89d6-4840-a972-c4ebd9c4f433; expires=Thu, 01-Feb-2024 23:59:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

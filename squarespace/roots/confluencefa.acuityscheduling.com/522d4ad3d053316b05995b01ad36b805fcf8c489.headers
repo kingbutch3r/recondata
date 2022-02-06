@@ -1,0 +1,17 @@
+GET https://confluencefa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=j2ecrh58pj6idch24ue0j00hsj; expires=Thu, 03-Mar-2022 23:53:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=05a532e3-dc62-4da1-9435-c90561c8b675; expires=Thu, 01-Feb-2024 23:53:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:53:58 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8

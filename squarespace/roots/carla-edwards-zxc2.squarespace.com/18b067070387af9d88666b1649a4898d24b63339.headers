@@ -1,0 +1,13 @@
+GET https://carla-edwards-zxc2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: py0RwjGC/HcWyG0eD
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:19:41 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BVQfb9NoKe5OYWVmNzZhOGI5NjQ4NTUzZmQ5OWU4YjY0ZGRiM2Rj;Path=/

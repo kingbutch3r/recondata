@@ -1,0 +1,13 @@
+GET https://betania2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQu1RUo1/9X1MTlhM2IxYjlmMjc2NmZhNzE2Yjk1ZjY3NjA4ZWEy;Path=/
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:19:05 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: yE6VAZxs/a4JiSM8l

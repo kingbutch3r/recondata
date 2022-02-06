@@ -1,0 +1,11 @@
+GET http://wexley-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://wexley-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BYUVUxJETWhRZTk5ODcyODg3YjBkNmIxNWU4OGZiMTliMGE2NWVj;Path=/
+< X-Contextid: aK0FkL7f/qOia9m9b
+< Age: 95708
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 22:20:07 GMT

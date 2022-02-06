@@ -1,0 +1,16 @@
+GET https://ab-kurk-7aw1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Thu, 27 Jan 2022 02:05:36 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< Etag: W/"79be190837df943cd889329643fabdfe--gzip"
+< Set-Cookie: crumb=BfP8/W7tdOaeZmZjZDUzNzU1ODdiMjhhYWZmZTEwYjljYTBlNWYz;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 515419
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: BdgstqaC/ec602GIY

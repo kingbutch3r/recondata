@@ -1,0 +1,13 @@
+GET http://fr-fr.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< X-Sl-Norewrite: 1
+< Date: Wed, 02 Feb 2022 00:30:19 GMT
+< Location: https://fr-fr.acuityscheduling.com/
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Server: Smartling
+< X-Sl-Notranslate: 1

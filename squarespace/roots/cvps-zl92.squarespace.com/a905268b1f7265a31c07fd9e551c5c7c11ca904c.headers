@@ -1,0 +1,11 @@
+GET http://cvps-zl92.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://cvps-zl92.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdnKknPsvVhGYWYzYWE3YzY3MzhjNzE1NDhiZWVlYmRlZDI4MDM2;Path=/
+< X-Contextid: xqIcZCun/fkF68raD
+< Age: 88536
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 00:43:05 GMT

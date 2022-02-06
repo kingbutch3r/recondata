@@ -1,0 +1,17 @@
+GET https://milllanewineryreservations.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=neu2aj3v6t096q72is843js20t; expires=Fri, 04-Mar-2022 00:35:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a5b1d350-e933-4b16-acd8-4b9a7e861f91; expires=Fri, 02-Feb-2024 00:35:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:35:46 GMT
+< Content-Length: 0

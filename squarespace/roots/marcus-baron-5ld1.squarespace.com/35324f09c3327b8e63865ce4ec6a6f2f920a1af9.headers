@@ -1,0 +1,15 @@
+GET http://marcus-baron-5ld1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< X-Contextid: 6xUQLyH9/jitSblGI
+< Etag: W/"7633010957a6d4c794b8c47568daf55d"
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 64043
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 07:27:20 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbdMvmWN20I8MGMxZDBiYThhYjI2ODU2NjlkYTA2MmJkZDBjZjI0;Path=/

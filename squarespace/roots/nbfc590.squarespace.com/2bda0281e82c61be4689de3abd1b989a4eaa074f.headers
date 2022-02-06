@@ -1,0 +1,11 @@
+GET http://nbfc590.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 489259
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 08:55:38 GMT
+< Location: https://nbfc590.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWEjF9I+GcrVYWMxN2VlNGRhNDliYmQ3YjdlNDQ4ZDIyMzQyMTUy;Path=/
+< X-Contextid: cmZPe3Rg/y2pzs2SM

@@ -1,0 +1,17 @@
+GET https://curlupanddyejanet.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:40:37 GMT
+< Set-Cookie: PHPSESSID=q41evnm7pmt8g0nno49osdcfco; expires=Fri, 04-Mar-2022 00:40:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a06244f4-bd4b-45b5-9ea8-e1c998d9b8a4; expires=Fri, 02-Feb-2024 00:40:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

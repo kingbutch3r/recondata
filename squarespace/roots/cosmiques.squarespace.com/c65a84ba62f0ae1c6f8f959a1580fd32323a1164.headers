@@ -1,0 +1,18 @@
+GET https://cosmiques.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"cad7488e339481275a34998337587b4a"
+< Last-Modified: Wed, 02 Feb 2022 01:24:39 GMT
+< Set-Cookie: crumb=BZv/a66zmspoNDc4Mzk3ODZmNTQ4M2Y3OWI4NWY0YjcwMjJkOTBh;Path=/
+< X-Contextid: 01VJajt5/C0R9G0Hx
+< Date: Wed, 02 Feb 2022 01:24:39 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes

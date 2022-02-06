@@ -1,0 +1,13 @@
+GET https://login.squarespace.com
+
+
+< HTTP/1.1 303 See Other
+< Content-Security-Policy: default-src https://report.s.csp.squarespace.com; script-src https://static3.squarespace.com https://www.google.com https://www.gstatic.com; style-src https://static3.squarespace.com https://assets.squarespace.com 'unsafe-inline'; img-src data: 'self' https://static1.squarespace.com https://static3.squarespace.com; base-uri 'none'; form-action support.squarespace.com squarespace.zendesk.com forum.squarespace.com forum-staging.squarespace.com; font-src data:; connect-src 'self' https://o109687.ingest.sentry.io https://www.squarespace.com https://events.squarespace.com https://clanker-events.squarespace.com; report-uri https://o109687.ingest.sentry.io/api/5583338/security/?sentry_key=4dba181ad62646399908cff3c90305be; frame-src https://www.google.com; child-src https://www.google.com; frame-ancestors 'none';
+< Set-Cookie: ANONYMOUS_ID=sentinel-9e74bd27-e224-44f4-93ae-249c0290db4d;Version=1;Path=/
+< Date: Wed, 02 Feb 2022 00:55:10 GMT
+< Location: https://www.squarespace.com/login
+< Server: Squarespace
+< X-Contextid: h3bLGREQ/PO33AFKT
+< X-Frame-Options: DENY
+< Cache-Control: no-cache, no-store, must-revalidate
+< Content-Length: 0

@@ -1,0 +1,1312 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head>
+		<title>Forums - Squarespace Staging</title>
+      	<!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+
+        {'gtm.start': new Date().getTime(),event:'gtm.js'}
+        );var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-BCCP');</script>
+        <!-- End Google Tag Manager -->
+		
+			<script async="async" src="//consent.trustarc.com/notice?domain=squarespace.com&c=teconsent&js=nj&noticeType=bb&text=true&pn=2&gtm=1&pcookie" crossorigin=""></script>
+		
+        
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-91901-26"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+    gtag('config', 'UA-91901-26' );
+
+</script>
+		<!--[if lt IE 9]>
+			
+		    <script src="//forum-staging.squarespace.com/applications/core/interface/html5shiv/html5shiv.js"></script>
+		<![endif]-->
+		
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+	
+	
+
+
+	<meta name="twitter:card" content="summary" />
+
+
+	
+		<meta name="twitter:site" content="@SquarespaceHelp" />
+	
+
+
+	
+		
+			
+				<meta property="og:title" content="Squarespace Staging">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:type" content="website">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:url" content="https://forum-staging.squarespace.com">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:site_name" content="Squarespace Staging">
+			
+		
+	
+
+	
+		
+			
+				<meta property="og:locale" content="en_US">
+			
+		
+	
+
+
+	
+		<link rel="canonical" href="https://forum-staging.squarespace.com" />
+	
+
+
+
+
+<link rel="manifest" href="https://forum-staging.squarespace.com/manifest.webmanifest/">
+<meta name="msapplication-config" content="https://forum-staging.squarespace.com/browserconfig.xml/">
+<meta name="msapplication-starturl" content="/">
+<meta name="application-name" content="Squarespace Staging">
+
+<meta name="apple-mobile-web-app-title" content="Squarespace Staging">
+
+	<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+
+
+
+
+<link rel="preload" href="//forum-staging.squarespace.com/applications/core/interface/font/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin="anonymous">
+		
+
+
+
+
+	<link rel='stylesheet' href='//content.invisioncic.com/h286439/css_built_7/341e4a57816af3ba440d891ca87450ff_framework.css.gz?v=d815db93211638970978' media='all'>
+
+	<link rel='stylesheet' href='//content.invisioncic.com/h286439/css_built_7/05e81b71abe4f22d6eb8d1a929494829_responsive.css.gz?v=d815db93211638970978' media='all'>
+
+	<link rel='stylesheet' href='//content.invisioncic.com/h286439/css_built_7/90eb5adf50a8c640f633d47fd7eb1778_core.css.gz?v=d815db93211638970978' media='all'>
+
+	<link rel='stylesheet' href='//content.invisioncic.com/h286439/css_built_7/5a0da001ccc2200dc5625c3f3934497d_core_responsive.css.gz?v=d815db93211638970978' media='all'>
+
+	<link rel='stylesheet' href='//content.invisioncic.com/h286439/css_built_7/62e269ced0fdab7e30e026f1d30ae516_forums.css.gz?v=d815db93211638970978' media='all'>
+
+	<link rel='stylesheet' href='//content.invisioncic.com/h286439/css_built_7/76e62c573090645fb99a15a363d8620e_forums_responsive.css.gz?v=d815db93211638970978' media='all'>
+
+
+
+
+
+<link rel='stylesheet' href='//content.invisioncic.com/h286439/css_built_7/258adbb6e4f3e83cd3b355f84e3fa002_custom.css.gz?v=d815db93211638970978' media='all'>
+
+
+
+
+		
+		
+
+	
+	<link rel='shortcut icon' href='//content.invisioncic.com/h286439/monthly_2019_09/sqsp-favicon.ico' type="image/x-icon">
+
+      	<script async="async" src="//consent.trustarc.com/notice?domain=squarespace.com&c=teconsent&js=nj&noticeType=bb&text=true&pn=2&gtm=1&pcookie" crossorigin=""></script>
+	</head>
+	<body class='ipsApp ipsApp_front ipsJS_none ipsClearfix' data-controller='core.front.core.app' data-message="" data-pageApp='forums' data-pageLocation='front' data-pageModule='forums' data-pageController='index' >
+		<a href='#elContent' class='ipsHide' title='Go to main content on this page' accesskey='m'>Jump to content</a>
+		<div id='ipsLayout_header' class='ipsClearfix'>
+			
+
+
+
+
+
+			
+<div class='squareSpace_mobileLogo ipsResponsive_hideDesktop  ipsResponsive_block'>
+  	
+<div class='elLogo'>
+  
+  
+  
+  <a href='https://forum-staging.squarespace.com/' class='elLogo__imageWrapper' accesskey='1'>
+    
+    	<img class='elLogo__image fullsize' src="//content.invisioncic.com/h286439/set_resources_7/d0e70b4cbb9ab8afb1bc1065a3f8487a_sqsp-forum.svg" alt='Squarespace Staging'>
+    
+  </a>
+  
+</div>
+
+</div>
+<ul id='elMobileNav' class='ipsList_inline ipsResponsive_hideDesktop' data-controller='core.front.core.mobileNav'>
+	
+	
+	
+	<li >
+		<a data-action="defaultStream" class='ipsType_light'  href='https://forum-staging.squarespace.com/discover/'><i class='icon-newspaper'></i></a>
+	</li>
+
+	
+		<li class='ipsJS_show'>
+			<a href='https://forum-staging.squarespace.com/search/'><i class='fa fa-search'></i></a>
+		</li>
+	
+	<li data-ipsDrawer data-ipsDrawer-drawerElem='#elMobileDrawer'>
+		<a href='#'>
+			
+			
+				
+			
+			
+			
+			<i class='fa fa-navicon'></i>
+		</a>
+	</li>
+</ul>
+			<header>
+				<div class='ipsLayout_container'>
+					
+<div class='elLogo'>
+  
+  
+  
+  <a href='https://forum-staging.squarespace.com/' class='elLogo__imageWrapper' accesskey='1'>
+    
+    	<img class='elLogo__image fullsize' src="//content.invisioncic.com/h286439/set_resources_7/d0e70b4cbb9ab8afb1bc1065a3f8487a_sqsp-forum.svg" alt='Squarespace Staging'>
+    
+  </a>
+  
+</div>
+
+					
+
+	<ul id="elUserNav" class="ipsList_inline cSignedOut ipsClearfix ipsResponsive_hidePhone ipsResponsive_block">
+<li>
+			
+
+	<nav class='ipsNavBar_noSubBars'>
+		<div class='ipsNavBar_primary ipsNavBar_noSubBars ipsClearfix'>
+			<ul data-role="primaryNavBar" class='squareSpace_links'>
+              	<li id='elNavSecondary_ss1' data-role="navBarItem">
+                    <a href="https://learning.squarespace.com/forum" rel="noopener" target='_blank'>
+                        About
+                    </a>
+                </li>
+                <li id='elNavSecondary_ss2' data-role="navBarItem">
+                    <a href="https://support.squarespace.com/hc/en-us/categories/200352188-Knowledge-Base" rel="noopener" target='_blank'>
+                        Help Guides
+                    </a>
+                </li>
+             	<li id='elNavSecondary_ss3' data-role="navBarItem">
+                    <a href="https://forum-staging.squarespace.com/guidelines/" rel="noopener" target='_blank'>
+                        Guidelines
+                    </a>
+                </li>
+                <li id='elNavSecondary_ss4' data-role="navBarItem">
+                    <a href="https://support.squarespace.com/hc/en-us/requests/new#choose-topic" rel="noopener" target='_blank'>
+                        Contact Us
+                    </a>
+                </li>
+				
+
+
+	
+	
+
+			</ul>
+		</div>
+	</nav>
+
+		</li>
+		<!--<li id='elSignInLink'>
+			<a href='https://forum-staging.squarespace.com/login/' data-ipsMenu-closeOnClick="false" data-ipsMenu id='elUserSignIn'>
+				Existing user? Sign In &nbsp;<i class='fa fa-caret-down'></i>
+			</a>
+			
+<div id='elUserSignIn_menu' class='ipsMenu ipsMenu_auto ipsHide'>
+	<form accept-charset='utf-8' method='post' action='https://forum-staging.squarespace.com/login/'>
+		<input type="hidden" name="csrfKey" value="e7f4f49c8d2356af6a359d86c7d2828b">
+		<input type="hidden" name="ref" value="aHR0cHM6Ly9mb3J1bS1zdGFnaW5nLnNxdWFyZXNwYWNlLmNvbS8=">
+		<div data-role="loginForm">
+			
+			
+			
+				
+<div class="ipsPad ipsForm ipsForm_vertical">
+	<h4 class="ipsType_sectionHead">Sign In</h4>
+	<br><br>
+	<ul class='ipsList_reset'>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			
+			
+				<input type="text" placeholder="Display Name or Email Address" name="auth" autocomplete="email">
+			
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_noLabel ipsFieldRow_fullWidth">
+			<input type="password" placeholder="Password" name="password" autocomplete="current-password">
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_checkbox ipsClearfix">
+			<span class="ipsCustomInput">
+				<input type="checkbox" name="remember_me" id="remember_me_checkbox" value="1" checked aria-checked="true">
+				<span></span>
+			</span>
+			<div class="ipsFieldRow_content">
+				<label class="ipsFieldRow_label" for="remember_me_checkbox">Remember me</label>
+				<span class="ipsFieldRow_desc">Not recommended on shared computers</span>
+			</div>
+		</li>
+		<li class="ipsFieldRow ipsFieldRow_fullWidth">
+			<button type="submit" name="_processLogin" value="usernamepassword" class="ipsButton ipsButton_primary ipsButton_small" id="elSignIn_submit">Sign In</button>
+			
+				<p class="ipsType_right ipsType_small">
+					
+						<a href='https://forum-staging.squarespace.com/lostpassword/' data-ipsDialog data-ipsDialog-title='Forgot your password?'>
+					
+					Forgot your password?</a>
+				</p>
+			
+		</li>
+	</ul>
+</div>
+			
+		</div>
+	</form>
+</div>
+		</li>-->
+		
+			<li>
+				
+					<a href="https://forum-staging.squarespace.com/login/" id="elRegisterButton" class="ipsButton ipsButton_normal ipsButton_primary">Sign Up / Login</a>
+				
+			</li>
+		
+	</ul>
+
+				</div>
+			</header>
+		</div>
+		<main id='ipsLayout_body' class='ipsLayout_container'>
+			<div class='ipsClearfix ipsSpacer_bottom ipsSpacer_double squareSpace_breadcrumbBar ipsResponsive_hideTablet ipsResponsive_hidePhone'>
+				
+<nav class="ipsBreadcrumb ipsBreadcrumb_top ipsFaded_withHover ipsPos_left">
+	
+
+	
+	
+  	
+</nav>
+				
+
+
+	<div id="elSearchWrapper" class='ipsClearfix ipsPos_right'>
+		<div id='elSearch' class='' data-controller='core.front.core.quickSearch'>
+			<form accept-charset='utf-8' action='//forum-staging.squarespace.com/search/?do=quicksearch' method='post'>
+				<button class='cSearchSubmit' type="submit"><i class="fa fa-search"></i></button>
+				<input type='search' id='elSearchField' placeholder='Search' name='q' autocomplete='off'>
+				<div id="elSearchExpanded">
+					<div class="ipsMenu_title">
+						Search In
+					</div>
+					<ul class="ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-role="searchContexts">
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="type" value="all" checked id="elQuickSearchRadio_type_all">
+								<label for='elQuickSearchRadio_type_all' id='elQuickSearchRadio_type_all_label'>Everywhere</label>
+							</span>
+						</li>
+						
+						
+							<li>
+								<span class='ipsSideMenu_item' data-ipsMenuValue='forums_topic'>
+									<input type="radio" name="type" value="forums_topic" id="elQuickSearchRadio_type_forums_topic">
+									<label for='elQuickSearchRadio_type_forums_topic' id='elQuickSearchRadio_type_forums_topic_label'>Topics</label>
+								</span>
+							</li>
+						
+						
+						<li data-role="showMoreSearchContexts">
+							<span class='ipsSideMenu_item' data-action="showMoreSearchContexts" data-exclude="forums_topic">
+								More options...
+							</span>
+						</li>
+					</ul>
+					<div class="ipsMenu_title">
+						Find results that contain...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='andOr'>
+						
+							<li>
+								<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='or'>
+									<input type="radio" name="search_and_or" value="or" checked id="elRadio_andOr_or">
+									<label for='elRadio_andOr_or' id='elField_andOr_label_or'><em>Any</em> of my search term words</label>
+								</span>
+							</li>
+						
+							<li>
+								<span class='ipsSideMenu_item ' data-ipsMenuValue='and'>
+									<input type="radio" name="search_and_or" value="and"  id="elRadio_andOr_and">
+									<label for='elRadio_andOr_and' id='elField_andOr_label_and'><em>All</em> of my search term words</label>
+								</span>
+							</li>
+						
+					</ul>
+					<div class="ipsMenu_title">
+						Find results in...
+					</div>
+					<ul class='ipsSideMenu_list ipsSideMenu_withRadios ipsSideMenu_small ipsType_normal' role="radiogroup" data-ipsSideMenu data-ipsSideMenu-type="radio" data-ipsSideMenu-responsive="false" data-filterType='searchIn'>
+						<li>
+							<span class='ipsSideMenu_item ipsSideMenu_itemActive' data-ipsMenuValue='all'>
+								<input type="radio" name="search_in" value="all" checked id="elRadio_searchIn_and">
+								<label for='elRadio_searchIn_and' id='elField_searchIn_label_all'>Content titles and body</label>
+							</span>
+						</li>
+						<li>
+							<span class='ipsSideMenu_item' data-ipsMenuValue='titles'>
+								<input type="radio" name="search_in" value="titles" id="elRadio_searchIn_titles">
+								<label for='elRadio_searchIn_titles' id='elField_searchIn_label_titles'>Content titles only</label>
+							</span>
+						</li>
+					</ul>
+                  	
+                  	<a href='//forum-staging.squarespace.com/search/' class="ipsButton ipsButton_fullWidth ipsButton_link ipsButton_small ipsSpacer_top ipsSpacer_double">Advanced Search <i class='fa fa-angle-right'></i></a>
+				</div>
+			</form>
+		</div>
+	</div>
+
+			</div>
+			<div id='ipsLayout_contentArea'>
+				<div id='ipsLayout_contentWrapper'>
+					
+					<div id='ipsLayout_mainArea'>
+						<a id='elContent'></a>
+       					
+
+	
+
+
+
+
+						
+						
+						
+						
+
+
+<!-- Announcements -->
+
+    
+<div class='squareSpace_featuredTopics'>
+    <h3 class='ipsType_reset squareSpace_featuredTopics_title'>Announcements</h3>
+    <ul class='ipsList_reset squareSpace_featuredTopics_links ipsType_blendLinks'>
+        
+            <li>
+              	
+                	<span>ALL FORUMS Announcement</span>
+                
+            </li>
+        
+            <li>
+              	
+                	<span>Regular Forum Announcement</span>
+                
+            </li>
+        
+    </ul>
+</div>
+
+
+<section>
+	<ol class='ipsList_reset cForumList' data-controller='core.global.core.table, forums.front.forum.forumList' data-baseURL=''>
+		
+			
+			<li data-categoryID='1' class='cForumRow ipsSpacer_bottom'>
+				<!--<h2 class="ipsType_sectionTitle ipsType_reset cForumTitle">
+					<a href='#' class='ipsPos_right ipsJS_show ipsType_noUnderline cForumToggle' data-action='toggleCategory' data-ipsTooltip title='Toggle this category'></a>
+					<a href='https://forum-staging.squarespace.com/forum/1-squarespace-forum/'>Squarespace Forum</a>
+				</h2>-->
+				
+					<div data-role="forums" class='ipsSpacer_top'>
+						<div class='ipsGrid ipsGrid_collapsePhone' data-ipsGrid data-ipsGrid-minItemSize='250' data-ipsGrid-maxItemSize='500' data-ipsGrid-equalHeights='row'>
+							
+								
+									
+
+
+
+	<div class='ipsDataItem ipsGrid_span4 cForumGrid_wrapper'>
+        
+            <a href="https://forum-staging.squarespace.com/forum/3-news-announcements/" class="ipsAreaBackground_reset cForumGrid  ipsClearfix" data-forumID="3">
+        
+            <div class='cForumGrid_inner'>
+                <div class='ipsClearfix cForumGrid_forumInfo'>
+                    <h3 class='ipsType_reset ipsType_sectionHead ipsType_blendLinks cForumGrid_title'>
+                        News &amp; Announcements
+                    </h3>
+                </div>
+
+                <div>
+                    
+                        <div class='cForumGrid_desc'>
+                            
+
+
+
+<div class='ipsType_richText ipsType_normal ipsType_light' data-controller='core.front.core.lightboxedImages' >
+
+</div>
+
+                        </div>
+                    
+                </div>
+
+                <div class='cForumGrid_info ipsType_blendLinks'>
+                    
+                        
+                        <p class='ipsType_reset ipsType_light cForumGrid_postCount '>
+                            0 posts
+                        </p>
+                        
+                    
+                </div>
+            </div>
+        </a>
+        
+    </div>
+
+								
+							
+								
+									
+
+
+
+	<div class='ipsDataItem ipsGrid_span4 cForumGrid_wrapper'>
+        
+            <a href="https://forum-staging.squarespace.com/forum/2-getting-started/" class="ipsAreaBackground_reset cForumGrid  ipsClearfix" data-forumID="2">
+        
+            <div class='cForumGrid_inner'>
+                <div class='ipsClearfix cForumGrid_forumInfo'>
+                    <h3 class='ipsType_reset ipsType_sectionHead ipsType_blendLinks cForumGrid_title'>
+                        Getting Started
+                    </h3>
+                </div>
+
+                <div>
+                    
+                        <div class='cForumGrid_desc'>
+                            
+
+
+
+<div class='ipsType_richText ipsType_normal ipsType_light' data-controller='core.front.core.lightboxedImages' >
+<p>
+	A test forum that may be removed at any time.
+</p>
+</div>
+
+                        </div>
+                    
+                </div>
+
+                <div class='cForumGrid_info ipsType_blendLinks'>
+                    
+                        
+                        <p class='ipsType_reset ipsType_light cForumGrid_postCount '>
+                            10 posts
+                        </p>
+                        
+                    
+                </div>
+            </div>
+        </a>
+        
+    </div>
+
+								
+							
+								
+									
+
+
+
+	<div class='ipsDataItem ipsGrid_span4 cForumGrid_wrapper'>
+        
+            <a href="https://forum-staging.squarespace.com/forum/46-online-stores/" class="ipsAreaBackground_reset cForumGrid  ipsClearfix" data-forumID="46">
+        
+            <div class='cForumGrid_inner'>
+                <div class='ipsClearfix cForumGrid_forumInfo'>
+                    <h3 class='ipsType_reset ipsType_sectionHead ipsType_blendLinks cForumGrid_title'>
+                        Online Stores
+                    </h3>
+                </div>
+
+                <div>
+                    
+                        <div class='cForumGrid_desc'>
+                            
+
+
+
+<div class='ipsType_richText ipsType_normal ipsType_light' data-controller='core.front.core.lightboxedImages' >
+<p>
+	Questions and advice on creating online stores with our eCommerce platform.
+</p>
+</div>
+
+                        </div>
+                    
+                </div>
+
+                <div class='cForumGrid_info ipsType_blendLinks'>
+                    
+                        
+                        <p class='ipsType_reset ipsType_light cForumGrid_postCount '>
+                            894 posts
+                        </p>
+                        
+                    
+                </div>
+            </div>
+        </a>
+        
+    </div>
+
+								
+							
+								
+									
+
+
+
+	<div class='ipsDataItem ipsGrid_span4 cForumGrid_wrapper'>
+        
+            <a href="https://forum-staging.squarespace.com/forum/60-organizing-your-site/" class="ipsAreaBackground_reset cForumGrid  ipsClearfix" data-forumID="60">
+        
+            <div class='cForumGrid_inner'>
+                <div class='ipsClearfix cForumGrid_forumInfo'>
+                    <h3 class='ipsType_reset ipsType_sectionHead ipsType_blendLinks cForumGrid_title'>
+                        Organizing Your Site
+                    </h3>
+                </div>
+
+                <div>
+                    
+                        <div class='cForumGrid_desc'>
+                            
+
+
+
+<div class='ipsType_richText ipsType_normal ipsType_light' data-controller='core.front.core.lightboxedImages' >
+
+</div>
+
+                        </div>
+                    
+                </div>
+
+                <div class='cForumGrid_info ipsType_blendLinks'>
+                    
+                        
+                        <p class='ipsType_reset ipsType_light cForumGrid_postCount '>
+                            0 posts
+                        </p>
+                        
+                    
+                </div>
+            </div>
+        </a>
+        
+    </div>
+
+								
+							
+								
+									
+
+
+
+	<div class='ipsDataItem ipsGrid_span4 cForumGrid_wrapper'>
+        
+            <a href="https://forum-staging.squarespace.com/forum/5-questions/" class="ipsAreaBackground_reset cForumGrid  ipsClearfix" data-forumID="5">
+        
+            <div class='cForumGrid_inner'>
+                <div class='ipsClearfix cForumGrid_forumInfo'>
+                    <h3 class='ipsType_reset ipsType_sectionHead ipsType_blendLinks cForumGrid_title'>
+                        Questions?
+                    </h3>
+                </div>
+
+                <div>
+                    
+                        <div class='cForumGrid_desc'>
+                            
+
+
+
+<div class='ipsType_richText ipsType_normal ipsType_light' data-controller='core.front.core.lightboxedImages' >
+
+</div>
+
+                        </div>
+                    
+                </div>
+
+                <div class='cForumGrid_info ipsType_blendLinks'>
+                    
+                        
+                        <p class='ipsType_reset ipsType_light cForumGrid_postCount '>
+                            5 posts
+                        </p>
+                        
+                    
+                </div>
+            </div>
+        </a>
+        
+    </div>
+
+								
+							
+								
+									
+
+
+
+	<div class='ipsDataItem ipsGrid_span4 cForumGrid_wrapper'>
+        
+            <a href="https://forum-staging.squarespace.com/forum/62-styling-your-site/" class="ipsAreaBackground_reset cForumGrid  ipsClearfix" data-forumID="62">
+        
+            <div class='cForumGrid_inner'>
+                <div class='ipsClearfix cForumGrid_forumInfo'>
+                    <h3 class='ipsType_reset ipsType_sectionHead ipsType_blendLinks cForumGrid_title'>
+                        Styling Your Site
+                    </h3>
+                </div>
+
+                <div>
+                    
+                        <div class='cForumGrid_desc'>
+                            
+
+
+
+<div class='ipsType_richText ipsType_normal ipsType_light' data-controller='core.front.core.lightboxedImages' >
+
+</div>
+
+                        </div>
+                    
+                </div>
+
+                <div class='cForumGrid_info ipsType_blendLinks'>
+                    
+                        
+                        <p class='ipsType_reset ipsType_light cForumGrid_postCount '>
+                            0 posts
+                        </p>
+                        
+                    
+                </div>
+            </div>
+        </a>
+        
+    </div>
+
+								
+							
+						</div>
+                      
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+							
+						
+					</div>
+				
+			</li>
+			
+		
+		
+	</ol>
+</section>
+						
+
+
+					</div>
+					
+
+
+	<div id='ipsLayout_sidebar' class='ipsLayout_sidebarright ' data-controller='core.front.widgets.sidebar'>
+		
+		
+		
+
+
+	<div class='cWidgetContainer '  data-role='widgetReceiver' data-orientation='vertical' data-widgetArea='sidebar'>
+		<ul class='ipsList_reset'>
+			
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block' data-blockID='app_cms_Blocks_mcw6swjox' data-blockConfig="true" data-blockTitle="Custom Blocks" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page."  data-controller='core.front.widgets.block'>
+<a href='http://sqsp.link/1KUB83'>
+  <div class='squareSpace_hireDesigner'>
+    <h2>
+      Hire A Squarespace Web Designer 
+    </h2>
+    <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path d="M5.00006 2L3.00006 4H10.5858L2 12.5858L3.41421 14L12 5.41418V13L14 11V2H5.00006Z" fill="#313131"/>
+	  </svg>
+  </div>
+</a></li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block' data-blockID='app_forums_topicFeed_qoxtkxcvl' data-blockConfig="true" data-blockTitle="Topic Feed" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page."  data-controller='core.front.widgets.block'>
+
+	<h3 class='ipsWidget_title ipsType_reset'>Featured Posts</h3>
+	
+		<div class='ipsPad_half ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing'>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='4 replies'>4</div>
+							
+							<div class='ipsType_break ipsContained'>
+								
+									
+															
+								<a href="https://forum-staging.squarespace.com/topic/13-im-starting-my-new-site/?do=getNewComment" title='View the topic I&#039;m starting my new site!' class='ipsDataItem_title'>I&#039;m starting my new site!</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span class='ipsType_light squareSpace_containerTitle'><a href='https://forum-staging.squarespace.com/forum/2-getting-started/'>Getting Started</a></span><br>
+								<span class='ipsType_light'><time datetime='2019-08-29T21:24:16Z' title='08/29/2019 09:24  PM' data-short='2 yr'>August 29, 2019</time> by 
+
+
+<a href='https://forum-staging.squarespace.com/profile/15-chaz/' rel="nofollow" data-ipsHover data-ipsHover-width='370' data-ipsHover-target='https://forum-staging.squarespace.com/profile/15-chaz/?do=hovercard&amp;referrer=https%253A%252F%252Fforum-staging.squarespace.com%252F' title="Go to Chaz's profile" class="ipsType_break">Chaz</a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='2 replies'>2</div>
+							
+							<div class='ipsType_break ipsContained'>
+								
+									
+															
+								<a href="https://forum-staging.squarespace.com/topic/3-how-can-i-improve-my-seo/?do=getNewComment" title='View the topic How can I improve my SEO?' class='ipsDataItem_title'>How can I improve my SEO?</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span class='ipsType_light squareSpace_containerTitle'><a href='https://forum-staging.squarespace.com/forum/5-questions/'>Questions?</a></span><br>
+								<span class='ipsType_light'><time datetime='2019-05-23T16:24:26Z' title='05/23/2019 04:24  PM' data-short='2 yr'>May 23, 2019</time> by 
+
+
+<a href='https://forum-staging.squarespace.com/profile/1-admin/' rel="nofollow" data-ipsHover data-ipsHover-width='370' data-ipsHover-target='https://forum-staging.squarespace.com/profile/1-admin/?do=hovercard&amp;referrer=https%253A%252F%252Fforum-staging.squarespace.com%252F' title="Go to admin's profile" class="ipsType_break">admin</a></span>
+							</p>
+						</div>
+					</li>
+				
+			</ul>
+		</div>
+</li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ipsResponsive_block' data-blockID='app_cms_Blocks_nofha6evq' data-blockConfig="true" data-blockTitle="Custom Blocks" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page."  data-controller='core.front.widgets.block'>
+
+
+
+
+
+
+<!--  -->
+
+
+
+
+	
+
+	<h3 class='ipsWidget_title ipsType_reset'>Latest</h3>
+
+		<div class='ipsPad_half ipsWidget_inner'>
+			<ul class='ipsDataList ipsDataList_reducedSpacing'>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 reply'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum-staging.squarespace.com/topic/12479-switch-templates/?do=getNewComment" title='View the topic Switch templates' class='ipsDataItem_title'>Switch templates</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span class='ipsType_light'><a href='https://forum-staging.squarespace.com/forum/2-getting-started/'>Getting Started</a></span><br>
+								<span class='ipsType_light'><time datetime='2019-09-23T20:13:38Z' title='09/23/2019 08:13  PM' data-short='2 yr'>September 23, 2019</time> by 
+
+
+<a href='https://forum-staging.squarespace.com/profile/5-cnasuti/' rel="nofollow" data-ipsHover data-ipsHover-width='370' data-ipsHover-target='https://forum-staging.squarespace.com/profile/5-cnasuti/?do=hovercard&amp;referrer=https%253A%252F%252Fforum-staging.squarespace.com%252F' title="Go to cnasuti's profile" class="ipsType_break">cnasuti</a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 reply'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum-staging.squarespace.com/topic/14-how-do-i-set-up-a-site/?do=getNewComment" title='View the topic How do I set up a site?' class='ipsDataItem_title'>How do I set up a site?</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span class='ipsType_light'><a href='https://forum-staging.squarespace.com/forum/2-getting-started/'>Getting Started</a></span><br>
+								<span class='ipsType_light'><time datetime='2019-09-04T15:20:03Z' title='09/04/2019 03:20  PM' data-short='2 yr'>September 4, 2019</time> by 
+
+
+<a href='https://forum-staging.squarespace.com/profile/15-chaz/' rel="nofollow" data-ipsHover data-ipsHover-width='370' data-ipsHover-target='https://forum-staging.squarespace.com/profile/15-chaz/?do=hovercard&amp;referrer=https%253A%252F%252Fforum-staging.squarespace.com%252F' title="Go to Chaz's profile" class="ipsType_break">Chaz</a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='4 replies'>4</div>
+							
+							<div class='ipsType_break ipsContained'>
+								
+									
+															
+								<a href="https://forum-staging.squarespace.com/topic/13-im-starting-my-new-site/?do=getNewComment" title='View the topic I&#039;m starting my new site!' class='ipsDataItem_title'>I&#039;m starting my new site!</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span class='ipsType_light'><a href='https://forum-staging.squarespace.com/forum/2-getting-started/'>Getting Started</a></span><br>
+								<span class='ipsType_light'><time datetime='2019-08-29T21:24:16Z' title='08/29/2019 09:24  PM' data-short='2 yr'>August 29, 2019</time> by 
+
+
+<a href='https://forum-staging.squarespace.com/profile/15-chaz/' rel="nofollow" data-ipsHover data-ipsHover-width='370' data-ipsHover-target='https://forum-staging.squarespace.com/profile/15-chaz/?do=hovercard&amp;referrer=https%253A%252F%252Fforum-staging.squarespace.com%252F' title="Go to Chaz's profile" class="ipsType_break">Chaz</a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right ipsFaded" data-ipsTooltip title='0 replies'>0</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum-staging.squarespace.com/topic/11-test/?do=getNewComment" title='View the topic Test' class='ipsDataItem_title'>Test</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span class='ipsType_light'><a href='https://forum-staging.squarespace.com/forum/2-getting-started/'>Getting Started</a></span><br>
+								<span class='ipsType_light'><time datetime='2019-08-26T14:00:09Z' title='08/26/2019 02:00  PM' data-short='2 yr'>August 26, 2019</time> by 
+
+
+<a href='https://forum-staging.squarespace.com/profile/5-cnasuti/' rel="nofollow" data-ipsHover data-ipsHover-width='370' data-ipsHover-target='https://forum-staging.squarespace.com/profile/5-cnasuti/?do=hovercard&amp;referrer=https%253A%252F%252Fforum-staging.squarespace.com%252F' title="Go to cnasuti's profile" class="ipsType_break">cnasuti</a></span>
+							</p>
+						</div>
+					</li>
+				
+					<li class='ipsDataItem'>
+						<div class='ipsDataItem_main cWidgetComments'>
+							<div class="ipsCommentCount ipsPos_right " data-ipsTooltip title='1 reply'>1</div>
+							
+							<div class='ipsType_break ipsContained'>
+															
+								<a href="https://forum-staging.squarespace.com/topic/4-test-test/?do=getNewComment" title='View the topic Test test' class='ipsDataItem_title'>Test test</a>
+							</div>
+							<p class='ipsType_reset ipsType_medium ipsType_blendLinks ipsContained'>
+								<span class='ipsType_light'><a href='https://forum-staging.squarespace.com/forum/5-questions/'>Questions?</a></span><br>
+								<span class='ipsType_light'><time datetime='2019-05-23T19:51:48Z' title='05/23/2019 07:51  PM' data-short='2 yr'>May 23, 2019</time> by 
+
+
+<a href='https://forum-staging.squarespace.com/profile/1-admin/' rel="nofollow" data-ipsHover data-ipsHover-width='370' data-ipsHover-target='https://forum-staging.squarespace.com/profile/1-admin/?do=hovercard&amp;referrer=https%253A%252F%252Fforum-staging.squarespace.com%252F' title="Go to admin's profile" class="ipsType_break">admin</a></span>
+							</p>
+						</div>
+					</li>
+				
+			</ul>
+		</div>
+
+
+	</li>
+				
+					
+					<li class='ipsWidget ipsWidget_vertical ipsBox  ' data-blockID='app_core_topContributors_8qa7b9mw1' data-blockConfig="true" data-blockTitle="Popular Contributors" data-blockErrorMessage="This block cannot be shown. This could be because it needs configuring, is unable to show on this page, or will show after reloading this page."  data-controller='core.front.widgets.block'>
+<h3 class='ipsType_reset ipsWidget_title'><a href="https://forum-staging.squarespace.com/leaderboard/" class='ipsType_small ipsPos_right'>Leaderboard <i class='fa fa-angle-right'></i></a>Popular Contributors</h3>
+<section id='elTopContributors_content' class='ipsWidget_inner ipsPad_half'>
+	<div id="ipsTabs_elTopContributors_el_topContributorsWeek_panel" class='ipsTabs_panel'>
+		
+
+	<div>
+		<p class='ipsType_reset ipsType_light'>Nobody has received reputation this week.</p>
+	</div>
+
+	</div>
+</section></li>
+				
+			
+		</ul>
+	</div>
+
+	</div>
+
+				</div>
+			</div>
+			
+		</main>
+		<footer id='ipsLayout_footer' class='ipsClearfix'>
+			<div class='ipsLayout_container'>
+				
+              	
+			</div>
+          	<div id="consent_blackbar"></div>
+		</footer>
+		
+
+<div id="elMobileDrawer" class="ipsDrawer ipsHide">
+	<a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+	<div class="ipsDrawer_menu">
+		<div class="ipsDrawer_content">
+<ul id="elUserNav_mobile" class="ipsList_inline signed_in ipsClearfix">
+	
+
+
+</ul>
+
+			
+				<div class="ipsPadding">
+					<ul class="ipsToolList ipsToolList_vertical">
+<li>
+							<a href="https://forum-staging.squarespace.com/login/?ref=aHR0cHM6Ly9mb3J1bS1zdGFnaW5nLnNxdWFyZXNwYWNlLmNvbS8=" id="elSigninButton_mobile" class="ipsButton ipsButton_light ipsButton_small ipsButton_fullWidth">Existing user? Sign In</a>
+						</li>
+						
+							<li>
+								
+									<a href="https://forum-staging.squarespace.com/register/" data-ipsdialog data-ipsdialog-size="narrow" data-ipsdialog-title="Sign Up" data-ipsdialog-fixed="true"  id="elRegisterButton_mobile" class="ipsButton ipsButton_small ipsButton_fullWidth ipsButton_important">Sign Up</a>
+								
+							</li>
+						
+					</ul>
+</div>
+			
+
+			<ul class="ipsDrawer_list">
+				
+
+				
+				
+				
+				
+					
+				
+              	<li>
+                    <a href="https://learning.squarespace.com/forum" rel="noopener">
+                        About
+                    </a>
+                </li>
+                <li>
+                    <a href="https://support.squarespace.com/hc/en-us/categories/200352188-Knowledge-Base" rel="noopener">
+                        Help Guides
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.squarespace.com/designer/home/" rel="noopener">
+                        Hire A Designer
+                    </a>
+                </li>
+                <li>
+                    <a href="https://support.squarespace.com/hc/en-us/requests/new#choose-topic" rel="noopener">
+                        Contact Us
+                    </a>
+                </li>
+			</ul>
+</div>
+	</div>
+</div>
+
+<div id="elMobileCreateMenuDrawer" class="ipsDrawer ipsHide">
+	<a href="#" class="ipsDrawer_close" data-action="close"><span>×</span></a>
+	<div class="ipsDrawer_menu">
+		<div class="ipsDrawer_content ipsSpacer_bottom ipsPad">
+			<ul class="ipsDrawer_list">
+<li class="ipsDrawer_listTitle ipsType_reset">Create New...</li>
+				
+			</ul>
+</div>
+	</div>
+</div>
+
+		
+		
+
+	
+	<script type='text/javascript'>
+		var ipsDebug = false;		
+	
+		var CKEDITOR_BASEPATH = '//forum-staging.squarespace.com/applications/core/interface/ckeditor/ckeditor/';
+	
+		var ipsSettings = {
+			
+			
+			cookie_path: "/",
+			
+			cookie_prefix: "ips4_",
+			
+			
+			cookie_ssl: true,
+			
+			upload_imgURL: "",
+			message_imgURL: "",
+			notification_imgURL: "",
+			baseURL: "//forum-staging.squarespace.com/",
+			jsURL: "//forum-staging.squarespace.com/applications/core/interface/js/js.php",
+			csrfKey: "e7f4f49c8d2356af6a359d86c7d2828b",
+			antiCache: "d815db93211638970978",
+			jsAntiCache: "d815db93211643502828",
+			disableNotificationSounds: true,
+			useCompiledFiles: true,
+			links_external: true,
+			memberID: 0,
+			lazyLoadEnabled: true,
+			blankImg: "//forum-staging.squarespace.com/applications/core/interface/js/spacer.png",
+			googleAnalyticsEnabled: false,
+			matomoEnabled: false,
+			viewProfiles: true,
+			mapProvider: 'none',
+			mapApiKey: '',
+			pushPublicKey: null,
+			relativeDates: true
+		};
+		
+		
+		
+		
+			ipsSettings['maxImageDimensions'] = {
+				width: 1000,
+				height: 750
+			};
+		
+		
+	</script>
+
+
+
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_global/root_library.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_global/root_js_lang_1.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_global/root_framework.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_core/global_global_core.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_global/root_front.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_core/front_front_core.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_gallery/front_front_browse.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_forums/front_front_forum.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+<script type='text/javascript' src='//content.invisioncic.com/h286439/javascript_global/root_map.js.gz?v=d815db93211643502828' data-ips></script>
+
+
+
+	<script type='text/javascript'>
+		
+			ips.setSetting( 'date_format', jQuery.parseJSON('"mm\/dd\/yy"') );
+		
+			ips.setSetting( 'date_first_day', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'ipb_url_filter_option', jQuery.parseJSON('"none"') );
+		
+			ips.setSetting( 'url_filter_any_action', jQuery.parseJSON('"allow"') );
+		
+			ips.setSetting( 'bypass_profanity', jQuery.parseJSON('0') );
+		
+			ips.setSetting( 'emoji_style', jQuery.parseJSON('"disabled"') );
+		
+			ips.setSetting( 'emoji_shortcodes', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_ascii', jQuery.parseJSON('true') );
+		
+			ips.setSetting( 'emoji_cache', jQuery.parseJSON('1622096837') );
+		
+			ips.setSetting( 'image_jpg_quality', jQuery.parseJSON('85') );
+		
+			ips.setSetting( 'cloud2', jQuery.parseJSON('true') );
+		
+		
+	</script>
+
+
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "publisher": "https://forum-staging.squarespace.com/#organization",
+    "@type": "WebSite",
+    "@id": "https://forum-staging.squarespace.com/#website",
+    "mainEntityOfPage": "https://forum-staging.squarespace.com/",
+    "name": "Squarespace Staging",
+    "url": "https://forum-staging.squarespace.com/",
+    "potentialAction": {
+        "type": "SearchAction",
+        "query-input": "required name=query",
+        "target": "https://forum-staging.squarespace.com/search/?q={query}"
+    },
+    "inLanguage": [
+        {
+            "@type": "Language",
+            "name": "English (USA)",
+            "alternateName": "en-US"
+        }
+    ]
+}	
+</script>
+
+<script type='application/ld+json'>
+{
+    "@context": "http://www.schema.org",
+    "@type": "Organization",
+    "@id": "https://forum-staging.squarespace.com/#organization",
+    "mainEntityOfPage": "https://forum-staging.squarespace.com/",
+    "name": "Squarespace Staging",
+    "url": "https://forum-staging.squarespace.com/",
+    "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "8 Clarkson St.",
+        "addressLocality": "New York",
+        "addressRegion": "New York",
+        "postalCode": "10014",
+        "addressCountry": "US"
+    }
+}	
+</script>
+
+
+		
+		
+		<!--ipsQueryLog-->
+		<!--ipsCachingLog-->
+		
+		
+     
+      	
+<ul class='ipsMenu ipsMenu_narrow ipsHide' id='elSqspForumToggle'>
+    <li class='ipsMenu_item'>
+      <a href='https://forum.squarespace.com/'>Squarespace Forum</a>
+    </li>
+    <li class='ipsMenu_item'>
+      <a href='https://forum.squarespace.com/circle'>Circle Forum</a>
+    </li>
+</ul>
+      	
+
+
+      
+		<div class='squareSpace_footer'>
+          	<div class='squareSpace_footerLogo'>
+              	<a href='https://www.squarespace.com/'>
+                  <svg class="squarespace-mark is-fill notranslate" xmlns="http://www.w3.org/2000/svg" width="30px" height="24px" viewBox="0 0 90 72"><title>Squarespace Logo</title><g data-name="Logo"><path d="M18.49 38.15L46.67 10A10.16 10.16 0 0 1 61 10l2.19 2.19 4.39-4.39-2.19-2.2a16.38 16.38 0 0 0-23.14 0L14.09 33.76z"></path><path d="M56.11 19.27l-4.39-4.39-28.19 28.19A10.15 10.15 0 0 1 9.18 28.71L33.5 4.39 29.11 0 4.79 24.32a16.36 16.36 0 1 0 23.13 23.14zM84.17 24.32a16.39 16.39 0 0 0-23.14 0L32.84 52.51l4.39 4.39 28.19-28.19a10.15 10.15 0 0 1 17.32 7.18 10 10 0 0 1-3 7.18L55.45 67.39l4.4 4.39 24.32-24.32a16.38 16.38 0 0 0 0-23.14z"></path><path d="M70.47 33.63L42.28 61.81a10.17 10.17 0 0 1-14.36 0l-2.19-2.2L21.34 64l2.19 2.2a16.39 16.39 0 0 0 23.14 0L74.86 38z"></path></g></svg>
+              	</a>
+          	</div>
+          	<div class='squareSpace_footerLinksWrapper'>
+                <div class='squareSpace_footerSection'>
+                    <h3 class='ipsType_minorHeading'>Support <i class='fa fa-angle-down'></i></h3>
+                    <ul class='ipsList_reset squareSpace_footerLinks'>
+                        <li><a href='https://support.squarespace.com/hc/requests/new#choose-topic'>Contact Us</a></li>
+                        <li><a href='https://status.squarespace.com/'>Service Status</a></li>
+                        <li><a href='https://www.twitter.com/squarespacehelp?lang=en'>@SquareSpaceHelp</a></li>
+                        <li><a href='https://5help.squarespace.com/hc/'>SquareSpace 5</a></li>
+                    </ul>
+                </div>
+                <div class='squareSpace_footerSection'>
+                    <h3 class='ipsType_minorHeading'>Community <i class='fa fa-angle-down'></i></h3>
+                    <ul class='ipsList_reset squareSpace_footerLinks'>
+                        <li><a href='http://sqsp.link/1KUB83'>Hire A Designer</a></li>
+                        <li><a href='https://learning.squarespace.com/'>Webinars</a></li>
+                        <li><a href='https://www.squarespace.com/blog'>Blog</a></li>
+                    </ul>
+                </div>
+                <div class='squareSpace_footerSection'>
+                    <h3 class='ipsType_minorHeading'>Developers <i class='fa fa-angle-down'></i></h3>
+                    <ul class='ipsList_reset squareSpace_footerLinks'>
+                        <li><a href='https://developers.squarespace.com/commerce-api'>API Docs</a></li>
+                        <li><a href='https://circle.squarespace.com/'>Circle</a></li>
+                        <li><a href='https://developers.squarespace.com/'>Developer Platform</a></li>
+                    </ul>
+                </div>
+                <div class='squareSpace_footerSection'>
+                    <h3 class='ipsType_minorHeading'>Resources <i class='fa fa-angle-down'></i></h3>
+                    <ul class='ipsList_reset squareSpace_footerLinks'>
+                      	<li><a href='https://www.squarespace.com/templates'>Website Templates</a></li>
+                        <li><a href='https://www.squarespace.com/website-design'>Website Design</a></li>
+                        <li><a href='https://www.squarespace.com/domain-name-search'>Domain Name Search</a></li>
+                        <li><a href='https://www.squarespace.com/ecommerce-website'>Online Stores</a></li>
+                        <li><a href='https://www.squarespace.com/website-marketing'>Website Marketing</a></li>
+                        <li><a href='https://www.squarespace.com/terms-of-service'>Terms of Service</a></li>
+                        <li><a href='https://www.squarespace.com/privacy'>Privacy Policy</a></li>
+                        <li><div id="teconsent"></div></li>
+                    </ul>
+                </div>
+          	</div>
+		</div>
+		<script type='text/javascript'>
+			$(document).ready( function () {
+				$('.squareSpace_footer .ipsType_minorHeading').click( function () {
+					$( this ).toggleClass('squareSpace_footer_open');
+				});
+			});
+		</script>
+	</body>
+</html>

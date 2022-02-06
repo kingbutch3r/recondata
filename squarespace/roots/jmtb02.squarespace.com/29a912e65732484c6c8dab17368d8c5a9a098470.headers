@@ -1,0 +1,15 @@
+GET http://jmtb02.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"1f53962272f117c2ebaf599a26ad4705"
+< Server: Squarespace
+< Set-Cookie: crumb=Be0qI1zG/scdMzY1YjFhN2NiNDkyOGE2YjVlNmQ2ZjE3NTI4NjZk;Path=/
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 324592
+< X-Content-Type-Options: nosniff
+< X-Contextid: xBmWFaD0/oJbZ7iVk
+< Date: Sat, 29 Jan 2022 07:06:18 GMT
+< Vary: Accept-Encoding

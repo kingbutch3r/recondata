@@ -1,0 +1,15 @@
+GET http://nauticor.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 0
+< X-Contextid: p49yMLXj/LZqZBFHL
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BWfJZCDawZupMzVkN2FiZjUwZWRjZGIwN2E4MGFiZTlmMDczMzc3;Path=/
+< Date: Tue, 01 Feb 2022 23:49:49 GMT
+< Etag: W/"16ff00538104e6fc055dd777bc2b1e12"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

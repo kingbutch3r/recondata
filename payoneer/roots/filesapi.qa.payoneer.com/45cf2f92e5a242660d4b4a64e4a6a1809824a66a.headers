@@ -1,0 +1,13 @@
+GET http://filesapi.qa.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Amz-Cf-Pop: BOM50-C1
+< X-Amz-Cf-Id: qMkbPAdWoImehdnUk2QpKdJoekxLGt5kTmHKVDNovzuGoMcM9-H9YA==
+< Server: CloudFront
+< Content-Type: text/html
+< Content-Length: 183
+< Via: 1.1 3d195bdc26765310f9d7f504db6db340.cloudfront.net (CloudFront)
+< Date: Tue, 01 Feb 2022 23:25:36 GMT
+< Location: https://filesapi.qa.payoneer.com/
+< X-Cache: Redirect from cloudfront

@@ -1,0 +1,15 @@
+GET https://lakemedicalgroup.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=d6qdbec7nln3565gv6muh0tqpb; expires=Fri, 04-Mar-2022 00:27:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e112db5d-e4bc-47cc-8e04-d6b4d33a8f11; expires=Fri, 02-Feb-2024 00:27:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:27:29 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

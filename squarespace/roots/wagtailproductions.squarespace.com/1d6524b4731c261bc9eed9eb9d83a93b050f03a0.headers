@@ -1,0 +1,16 @@
+GET https://wagtailproductions.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 01:51:48 GMT
+< Etag: W/"382b081d06bc24c1c2b3b54280fa9ba1--gzip"
+< Set-Cookie: crumb=BVFVz9bbHYxON2JjMDk4ZjE0OWJhYTdhYzI5NGUwY2Y3ZmRkMjUy;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Age: 338435
+< Vary: Accept-Encoding
+< X-Contextid: J3yjLQfA/vsLkDJmP

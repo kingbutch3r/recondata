@@ -1,0 +1,17 @@
+GET https://halibutpointmarineservices.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=hv5jiuqc41uutfbf92i9fson3k; expires=Fri, 04-Mar-2022 00:32:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=38c8d167-a255-4349-be4a-9f05b7f5661e; expires=Fri, 02-Feb-2024 00:32:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:32:06 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php

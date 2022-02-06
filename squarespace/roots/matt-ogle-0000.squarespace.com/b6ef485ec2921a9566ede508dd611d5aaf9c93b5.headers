@@ -1,0 +1,16 @@
+GET https://matt-ogle-0000.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BQ0RU0TTakkcMzliMDgxNWFkYTk1NGIzZTkwMDkxOTEzZmMwZmMy;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 335304
+< Date: Sat, 29 Jan 2022 02:43:12 GMT
+< Etag: W/"73837da404d53cfbe63ee6ba8bc7ec26"
+< Strict-Transport-Security: max-age=0
+< X-Contextid: ZYGu7s4j/pnsn5PUP
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace

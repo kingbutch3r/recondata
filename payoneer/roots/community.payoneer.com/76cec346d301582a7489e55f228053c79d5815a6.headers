@@ -1,0 +1,19 @@
+GET https://community.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-App: 5ee08f363a3efc6c0466d6671fe1950a359585e7/cl40011
+< Location: https://community.payoneer.com/en
+< Server: cloudflare
+< Cf-Ray: 6d6ef1cc1b96845f-BOM
+< X-Backend: cl40011
+< X-Cache-Tag: resourceType:dynamic,deviceType:desktop
+< X-Backend-Time: 2022-02-01T23:26:25Z
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Date: Tue, 01 Feb 2022 23:26:25 GMT
+< X-Lookup-Mode: normal
+< X-Content-Type-Options: nosniff
+< Cache-Control: max-age=120
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding, Cookie
+< Cf-Cache-Status: EXPIRED

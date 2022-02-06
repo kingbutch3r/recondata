@@ -1,0 +1,17 @@
+GET https://nyw.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:44:31 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=4kfmdec2e1hmo6m2l3kl0ie9un; expires=Fri, 04-Mar-2022 00:44:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f5cd1567-1ad0-42c6-9a81-19f61757eabc; expires=Fri, 02-Feb-2024 00:44:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

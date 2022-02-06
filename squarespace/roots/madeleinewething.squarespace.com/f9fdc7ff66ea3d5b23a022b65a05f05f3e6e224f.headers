@@ -1,0 +1,12 @@
+GET http://madeleinewething.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:59:56 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQPaR6DIAifINDM0NDFkZDU3ZDVjYjVhYzc4MjE5MTIzNzEzMjU5;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: bmJZK5Hz/nIwZf6B0

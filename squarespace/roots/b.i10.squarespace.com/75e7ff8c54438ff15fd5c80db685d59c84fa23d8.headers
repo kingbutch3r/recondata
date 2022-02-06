@@ -1,0 +1,11 @@
+GET https://b.i10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 2868
+< Content-Type: text/html
+< Date: Wed, 02 Feb 2022 01:01:49 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BRm+ICNa8evRNTYzOWNmOWJmNjAyMzU3MmZlMmViMjZkNWY3ZDZl;Path=/
+< X-Contextid: vEy45ReW/Jh16XVb3

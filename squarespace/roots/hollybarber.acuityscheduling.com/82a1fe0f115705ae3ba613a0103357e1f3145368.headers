@@ -1,0 +1,17 @@
+GET https://hollybarber.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=871vmtf2p7gd9gtt43lmk2j6kh; expires=Fri, 04-Mar-2022 00:28:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c8a9b4db-7536-49de-af75-bc91c378898a; expires=Fri, 02-Feb-2024 00:28:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:28:16 GMT
+< Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,17 @@
+GET https://lafollies.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=fkjaalqmgkbq97qrs8j1oaatg8; expires=Fri, 04-Mar-2022 00:32:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b2d599aa-5a3e-44bc-a6d4-71456a277136; expires=Fri, 02-Feb-2024 00:32:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:32:42 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

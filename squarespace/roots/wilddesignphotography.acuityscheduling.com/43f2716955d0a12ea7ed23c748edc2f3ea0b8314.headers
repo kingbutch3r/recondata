@@ -1,0 +1,15 @@
+GET https://wilddesignphotography.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:46:32 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=d5smtnev568rvfk975k9qga89k; expires=Fri, 04-Mar-2022 00:46:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e754b554-6ffe-49e7-95f9-95f9d6307a51; expires=Fri, 02-Feb-2024 00:46:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

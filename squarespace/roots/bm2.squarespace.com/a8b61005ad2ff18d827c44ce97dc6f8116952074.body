@@ -1,0 +1,2165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+   <meta name="description" content="A complete theory of Business Models" /> 
+  
+  <!-- bm2 -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1689091&amp;RK=1427226955893&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "Bm2"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "12133593"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "1052980";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Bm² - Business Model Body Of Knowledge (BMBOK) - Home</title>
+    <meta property="og:title" content="Bm² - Business Model Body Of Knowledge (BMBOK) - Home" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage12133593"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/login/?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent5029823" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper12133593">
+
+    <div id="navigationTop-moduleContent12133593">
+
+              <a id="navigationTop-moduleLink12133593" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper12378893">
+
+    <div id="navigationTop-moduleContent12378893">
+
+              <a id="navigationTop-moduleLink12378893" class=" folder-link" href="javascript:toggleFolder(12378893);" ><span>Bm² - BMBOK</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent12378893">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper12440921">
+
+    <div id="navigationTop-moduleContent12440921">
+
+              <a id="navigationTop-moduleLink12440921" class=" " href="/bm-definition/" ><span>BM Definition</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12382974">
+
+    <div id="navigationTop-moduleContent12382974">
+
+              <a id="navigationTop-moduleLink12382974" class=" " href="/business-functions/" ><span>BUSINESS FUNCTIONS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12361146">
+
+    <div id="navigationTop-moduleContent12361146">
+
+              <a id="navigationTop-moduleLink12361146" class=" " href="/strategic-view/" ><span>BUSINESS ACTIVITY</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12361158">
+
+    <div id="navigationTop-moduleContent12361158">
+
+              <a id="navigationTop-moduleLink12361158" class=" " href="/tactical-view/" ><span>BUSINESS SYSTEM</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12133594">
+
+    <div id="navigationTop-moduleContent12133594">
+
+              <a id="navigationTop-moduleLink12133594" class=" " href="/blog/" ><span>Bm² Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12324422">
+
+    <div id="navigationTop-moduleContent12324422">
+
+              <a id="navigationTop-moduleLink12324422" class=" " href="/glossary/" ><span>Bm² Glossary</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper12378939">
+
+    <div id="navigationTop-moduleContent12378939">
+
+              <a id="navigationTop-moduleLink12378939" class=" folder-link" href="javascript:toggleFolder(12378939);" ><span>About</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent12378939">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper12378943">
+
+    <div id="navigationTop-moduleContent12378943">
+
+              <a id="navigationTop-moduleLink12378943" class=" " href="/about-the-theory/" ><span>About the theory</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12133595">
+
+    <div id="navigationTop-moduleContent12133595">
+
+              <a id="navigationTop-moduleLink12133595" class=" " href="/about-the-author/" ><span>About the author</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12133596">
+
+    <div id="navigationTop-moduleContent12133596">
+
+              <a id="navigationTop-moduleLink12133596" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper12378961">
+
+    <div id="navigationTop-moduleContent12378961">
+
+              <a id="navigationTop-moduleLink12378961" class=" folder-link" href="javascript:toggleFolder(12378961);" ><span>Access</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent12378961">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper12133605">
+
+    <div id="navigationTop-moduleContent12133605">
+
+              <a id="navigationTop-moduleLink12133605" class=" " href="/login/?returnUrl=%2F" ><span>Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper12378966">
+
+    <div id="navigationTop-moduleContent12378966">
+
+              <a id="navigationTop-moduleLink12378966" class=" " href="/register/" ><span>Register</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://www.bm2business.com/">Bm2</a></h1>
+           <div id="siteSubtitle" class="h1subtitle">Business Model Body Of Knowledge (BMBOK)</div> 
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent5029823" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper12133593">
+
+    <div id="navigationBottom-moduleContent12133593">
+
+              <a id="navigationBottom-moduleLink12133593" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper12378893">
+
+    <div id="navigationBottom-moduleContent12378893">
+
+              <a id="navigationBottom-moduleLink12378893" class=" folder-link" href="javascript:toggleFolder(12378893);" ><span>Bm² - BMBOK</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent12378893">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper12440921">
+
+    <div id="navigationBottom-moduleContent12440921">
+
+              <a id="navigationBottom-moduleLink12440921" class=" " href="/bm-definition/" ><span>BM Definition</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12382974">
+
+    <div id="navigationBottom-moduleContent12382974">
+
+              <a id="navigationBottom-moduleLink12382974" class=" " href="/business-functions/" ><span>BUSINESS FUNCTIONS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12361146">
+
+    <div id="navigationBottom-moduleContent12361146">
+
+              <a id="navigationBottom-moduleLink12361146" class=" " href="/strategic-view/" ><span>BUSINESS ACTIVITY</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12361158">
+
+    <div id="navigationBottom-moduleContent12361158">
+
+              <a id="navigationBottom-moduleLink12361158" class=" " href="/tactical-view/" ><span>BUSINESS SYSTEM</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12133594">
+
+    <div id="navigationBottom-moduleContent12133594">
+
+              <a id="navigationBottom-moduleLink12133594" class=" " href="/blog/" ><span>Bm² Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12324422">
+
+    <div id="navigationBottom-moduleContent12324422">
+
+              <a id="navigationBottom-moduleLink12324422" class=" " href="/glossary/" ><span>Bm² Glossary</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper12378939">
+
+    <div id="navigationBottom-moduleContent12378939">
+
+              <a id="navigationBottom-moduleLink12378939" class=" folder-link" href="javascript:toggleFolder(12378939);" ><span>About</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent12378939">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper12378943">
+
+    <div id="navigationBottom-moduleContent12378943">
+
+              <a id="navigationBottom-moduleLink12378943" class=" " href="/about-the-theory/" ><span>About the theory</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12133595">
+
+    <div id="navigationBottom-moduleContent12133595">
+
+              <a id="navigationBottom-moduleLink12133595" class=" " href="/about-the-author/" ><span>About the author</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12133596">
+
+    <div id="navigationBottom-moduleContent12133596">
+
+              <a id="navigationBottom-moduleLink12133596" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper12378961">
+
+    <div id="navigationBottom-moduleContent12378961">
+
+              <a id="navigationBottom-moduleLink12378961" class=" folder-link" href="javascript:toggleFolder(12378961);" ><span>Access</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent12378961">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper12133605">
+
+    <div id="navigationBottom-moduleContent12133605">
+
+              <a id="navigationBottom-moduleLink12133605" class=" " href="/login/?returnUrl=%2F" ><span>Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper12378966">
+
+    <div id="navigationBottom-moduleContent12378966">
+
+              <a id="navigationBottom-moduleLink12378966" class=" " href="/register/" ><span>Register</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent5029823" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper12133593">
+
+    <div id="moduleContent12133593">
+
+              <a id="moduleLink12133593" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper12378893">
+
+    <div id="moduleContent12378893">
+
+              <a id="moduleLink12378893" class=" folder-link" href="javascript:toggleFolder(12378893);" ><span>Bm² - BMBOK</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent12378893">
+            
+  <li class="module   " id="moduleContentWrapper12440921">
+
+    <div id="moduleContent12440921">
+
+              <a id="moduleLink12440921" class=" " href="/bm-definition/" ><span>BM Definition</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12382974">
+
+    <div id="moduleContent12382974">
+
+              <a id="moduleLink12382974" class=" " href="/business-functions/" ><span>BUSINESS FUNCTIONS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12361146">
+
+    <div id="moduleContent12361146">
+
+              <a id="moduleLink12361146" class=" " href="/strategic-view/" ><span>BUSINESS ACTIVITY</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12361158">
+
+    <div id="moduleContent12361158">
+
+              <a id="moduleLink12361158" class=" " href="/tactical-view/" ><span>BUSINESS SYSTEM</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12133594">
+
+    <div id="moduleContent12133594">
+
+              <a id="moduleLink12133594" class=" " href="/blog/" ><span>Bm² Blog</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12324422">
+
+    <div id="moduleContent12324422">
+
+              <a id="moduleLink12324422" class=" " href="/glossary/" ><span>Bm² Glossary</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper12378939">
+
+    <div id="moduleContent12378939">
+
+              <a id="moduleLink12378939" class=" folder-link" href="javascript:toggleFolder(12378939);" ><span>About</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent12378939">
+            
+  <li class="module   " id="moduleContentWrapper12378943">
+
+    <div id="moduleContent12378943">
+
+              <a id="moduleLink12378943" class=" " href="/about-the-theory/" ><span>About the theory</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12133595">
+
+    <div id="moduleContent12133595">
+
+              <a id="moduleLink12133595" class=" " href="/about-the-author/" ><span>About the author</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12133596">
+
+    <div id="moduleContent12133596">
+
+              <a id="moduleLink12133596" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper12378961">
+
+    <div id="moduleContent12378961">
+
+              <a id="moduleLink12378961" class=" folder-link" href="javascript:toggleFolder(12378961);" ><span>Access</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent12378961">
+            
+  <li class="module   " id="moduleContentWrapper12133605">
+
+    <div id="moduleContent12133605">
+
+              <a id="moduleLink12133605" class=" " href="/login/?returnUrl=%2F" ><span>Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12378966">
+
+    <div id="moduleContent12378966">
+
+              <a id="moduleLink12378966" class=" " href="/register/" ><span>Register</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent6375325" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Bm² Introduction</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   folder-closed" id="moduleContentWrapper15644152">
+
+    <div id="moduleContent15644152">
+
+              <a id="moduleLink15644152" class=" folder-link" href="javascript:toggleFolder(15644152);" ><span>BM Background</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15644152">
+            
+  <li class="module   " id="moduleContentWrapper15176898">
+
+    <div id="moduleContent15176898">
+
+              <a id="moduleLink15176898" class=" " href="/frame-of-reference/" ><span>Frame of Reference</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15627516">
+
+    <div id="moduleContent15627516">
+
+              <a id="moduleLink15627516" class=" " href="/from-business-to-bm/" ><span>From Business to BM</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15644419">
+
+    <div id="moduleContent15644419">
+
+              <a id="moduleLink15644419" class=" folder-link" href="javascript:toggleFolder(15644419);" ><span>Business Operations</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15644419">
+            
+  <li class="module   " id="moduleContentWrapper15644422">
+
+    <div id="moduleContent15644422">
+
+              <a id="moduleLink15644422" class=" " href="/business-activity/" ><span>- Business Activity</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15644437">
+
+    <div id="moduleContent15644437">
+
+              <a id="moduleLink15644437" class=" " href="/business-system/" ><span>- Business System</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15644165">
+
+    <div id="moduleContent15644165">
+
+              <a id="moduleLink15644165" class=" folder-link" href="javascript:toggleFolder(15644165);" ><span>Value Management</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15644165">
+            
+  <li class="module   " id="moduleContentWrapper15646314">
+
+    <div id="moduleContent15646314">
+
+              <a id="moduleLink15646314" class=" " href="/super-processes-page/" ><span>- Super-Processes</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15646317">
+
+    <div id="moduleContent15646317">
+
+              <a id="moduleLink15646317" class=" " href="/transactions-processes/" ><span>- Processes &amp; Transactions</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19346516">
+
+    <div id="moduleContent19346516">
+
+              <a id="moduleLink19346516" class=" " href="/value-network/" ><span>Value Network</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15644189">
+
+    <div id="moduleContent15644189">
+
+              <a id="moduleLink15644189" class=" folder-link" href="javascript:toggleFolder(15644189);" ><span>BM Fundamentals</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15644189">
+            
+  <li class="module   " id="moduleContentWrapper15627530">
+
+    <div id="moduleContent15627530">
+
+              <a id="moduleLink15627530" class=" " href="/the-big-picture/" ><span>The Big Picture</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15627553">
+
+    <div id="moduleContent15627553">
+
+              <a id="moduleLink15627553" class=" " href="/the-7-blocks/" ><span>The 7 Blocks</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19174438">
+
+    <div id="moduleContent19174438">
+
+              <a id="moduleLink19174438" class=" " href="/the-3-layers-of-analysis/" ><span>The 3 Layers of Analysis</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent5128808" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Search Section</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper12363400" class="widget-wrapper  widget-type-search"><div id="moduleContent12363400">
+
+
+<!-- <form method="get" action="/display/Search">
+	<div class="search-form-pt-wrapper">
+	  <div class="search-form-pt">
+	    <span class="queryFieldWrapper"><input type="text" class="text queryField" name="searchQuery" value=""/></span>
+	    <span class="queryButtonWrapper"><input type="submit" class="button queryButton" value="&raquo;"/></span>
+	    <input type="hidden" name="moduleId" value="12363400"/>
+	    <br class="clearer"/>
+	  </div>
+	</div>
+</form> -->
+
+<form method="get" action="/display/Search">
+	<input type="hidden" name="moduleId" value="12363400"/>
+	<table class="search-form-pt-wrapper search-form-table" border="0" cellpadding="0" cellspacing="0">
+		<tr class="search-form-pt search-form-row">
+			<td class="queryFieldCell search-form-cell">
+				<span class="queryFieldWrapper">
+					<input type="text" class="text queryField" name="searchQuery" value=""/>
+				</span>
+			</td>
+			<td class="queryButtonCell search-form-cell">
+				<span class="queryButtonWrapper">
+					<input type="submit" class="button queryButton" value="&rarr;"/>
+				</span>
+			</td>
+		</tr>
+	</table> 
+</form></div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent7344797" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">BUSINESS FUNCTIONS</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   folder-closed" id="moduleContentWrapper18531475">
+
+    <div id="moduleContent18531475">
+
+              <a id="moduleLink18531475" class=" folder-link" href="javascript:toggleFolder(18531475);" ><span>General View (The Theory)</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent18531475">
+            
+  <li class="module   " id="moduleContentWrapper15627528">
+
+    <div id="moduleContent15627528">
+
+              <a id="moduleLink15627528" class=" " href="/businessfunctions-presentation/" ><span>Presentation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18531476">
+
+    <div id="moduleContent18531476">
+
+              <a id="moduleLink18531476" class=" " href="/business-functions-as-bus/" ><span>Business Functions as BUs</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper17679278">
+
+    <div id="moduleContent17679278">
+
+              <a id="moduleLink17679278" class=" folder-link" href="javascript:toggleFolder(17679278);" ><span>Detailed View (The Method)</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent17679278">
+            
+  <li class="module   " id="moduleContentWrapper17679186">
+
+    <div id="moduleContent17679186">
+
+              <a id="moduleLink17679186" class=" " href="/market-function/" ><span>- Market Function</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper17679201">
+
+    <div id="moduleContent17679201">
+
+              <a id="moduleLink17679201" class=" " href="/capture-function/" ><span>- Capture Function</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper17679213">
+
+    <div id="moduleContent17679213">
+
+              <a id="moduleLink17679213" class=" " href="/industry-function/" ><span>- Industry Function</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent5128233" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">BUSINESS ACTIVITY</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   folder-closed" id="moduleContentWrapper12362048">
+
+    <div id="moduleContent12362048">
+
+              <a id="moduleLink12362048" class=" folder-link" href="javascript:toggleFolder(12362048);" ><span>General View (The Theory)</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent12362048">
+            
+  <li class="module   " id="moduleContentWrapper15664769">
+
+    <div id="moduleContent15664769">
+
+              <a id="moduleLink15664769" class=" " href="/business-activity-general/" ><span>Presentation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12362090">
+
+    <div id="moduleContent12362090">
+
+              <a id="moduleLink12362090" class=" " href="/setting/" ><span>Block 1 - SCOPE</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442713">
+
+    <div id="moduleContent12442713">
+
+              <a id="moduleLink12442713" class=" " href="/specifying/" ><span>Block 2 - MATTER</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442715">
+
+    <div id="moduleContent12442715">
+
+              <a id="moduleLink12442715" class=" " href="/quantifying/" ><span>Block 3 - RANGE</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442716">
+
+    <div id="moduleContent12442716">
+
+              <a id="moduleLink12442716" class=" " href="/qualifying/" ><span>Block 4 - MANNER</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper12362115">
+
+    <div id="moduleContent12362115">
+
+              <a id="moduleLink12362115" class=" folder-link" href="javascript:toggleFolder(12362115);" ><span>Detailed View (The Method)</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent12362115">
+            
+  <li class="module   " id="moduleContentWrapper15729310">
+
+    <div id="moduleContent15729310">
+
+              <a id="moduleLink15729310" class=" " href="/business-activity-detailed/" ><span>Presentation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper19158672">
+
+    <div id="moduleContent19158672">
+
+              <a id="moduleLink19158672" class=" folder-link" href="javascript:toggleFolder(19158672);" ><span>SCOPE - Setting</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent19158672">
+            
+  <li class="module   " id="moduleContentWrapper12362117">
+
+    <div id="moduleContent12362117">
+
+              <a id="moduleLink12362117" class=" " href="/nature/" ><span>Nature</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12362119">
+
+    <div id="moduleContent12362119">
+
+              <a id="moduleLink12362119" class=" " href="/domains/" ><span>Domains</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper19158673">
+
+    <div id="moduleContent19158673">
+
+              <a id="moduleLink19158673" class=" folder-link" href="javascript:toggleFolder(19158673);" ><span>MATTER - Specifying</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent19158673">
+            
+  <li class="module   " id="moduleContentWrapper12442741">
+
+    <div id="moduleContent12442741">
+
+              <a id="moduleLink12442741" class=" " href="/matter-processes/" ><span>Processes</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442744">
+
+    <div id="moduleContent12442744">
+
+              <a id="moduleLink12442744" class=" " href="/objectives/" ><span>Objectives</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper19158674">
+
+    <div id="moduleContent19158674">
+
+              <a id="moduleLink19158674" class=" folder-link" href="javascript:toggleFolder(19158674);" ><span>RANGE - Quantifying</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent19158674">
+            
+  <li class="module   " id="moduleContentWrapper12442749">
+
+    <div id="moduleContent12442749">
+
+              <a id="moduleLink12442749" class=" " href="/cycles/" ><span>Cycles</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442748">
+
+    <div id="moduleContent12442748">
+
+              <a id="moduleLink12442748" class=" " href="/scales/" ><span>Scales</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper19158676">
+
+    <div id="moduleContent19158676">
+
+              <a id="moduleLink19158676" class=" folder-link" href="javascript:toggleFolder(19158676);" ><span>MANNER - Qualifying</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent19158676">
+            
+  <li class="module   " id="moduleContentWrapper12442930">
+
+    <div id="moduleContent12442930">
+
+              <a id="moduleLink12442930" class=" " href="/competitiveness/" ><span>Competitiveness</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442931">
+
+    <div id="moduleContent12442931">
+
+              <a id="moduleLink12442931" class=" " href="/effectiveness/" ><span>Effectiveness</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442933">
+
+    <div id="moduleContent12442933">
+
+              <a id="moduleLink12442933" class=" " href="/efficiency/" ><span>Efficiency</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent5163393" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">BUSINESS SYSTEM</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   folder-closed" id="moduleContentWrapper15642730">
+
+    <div id="moduleContent15642730">
+
+              <a id="moduleLink15642730" class=" folder-link" href="javascript:toggleFolder(15642730);" ><span>General View (The Theory)</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15642730">
+            
+  <li class="module   " id="moduleContentWrapper15664819">
+
+    <div id="moduleContent15664819">
+
+              <a id="moduleLink15664819" class=" " href="/business-system-general/" ><span>Presentation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15642641">
+
+    <div id="moduleContent15642641">
+
+              <a id="moduleLink15642641" class=" " href="/structure/" ><span>Block 5 - STRUCTURE</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15642664">
+
+    <div id="moduleContent15642664">
+
+              <a id="moduleLink15642664" class=" " href="/mechanism/" ><span>Block 6 - MECHANISM</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15642666">
+
+    <div id="moduleContent15642666">
+
+              <a id="moduleLink15642666" class=" " href="/dynamics/" ><span>Block 7 - DYNAMICS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper12442815">
+
+    <div id="moduleContent12442815">
+
+              <a id="moduleLink12442815" class=" folder-link" href="javascript:toggleFolder(12442815);" ><span>Detailed View (The Method)</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent12442815">
+            
+  <li class="module   " id="moduleContentWrapper15729337">
+
+    <div id="moduleContent15729337">
+
+              <a id="moduleLink15729337" class=" " href="/business-system-detailed/" ><span>Presentation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15642972">
+
+    <div id="moduleContent15642972">
+
+              <a id="moduleLink15642972" class=" folder-link" href="javascript:toggleFolder(15642972);" ><span>STRUCTURE - Actors</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15642972">
+            
+  <li class="module   " id="moduleContentWrapper15643121">
+
+    <div id="moduleContent15643121">
+
+              <a id="moduleLink15643121" class=" " href="/value-manager/" ><span>Value Manager</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15643135">
+
+    <div id="moduleContent15643135">
+
+              <a id="moduleLink15643135" class=" " href="/value-targets/" ><span>Value Targets</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15643148">
+
+    <div id="moduleContent15643148">
+
+              <a id="moduleLink15643148" class=" " href="/value-sources/" ><span>Value Sources</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15642985">
+
+    <div id="moduleContent15642985">
+
+              <a id="moduleLink15642985" class=" folder-link" href="javascript:toggleFolder(15642985);" ><span>STRUCTURE - Values</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15642985">
+            
+  <li class="module   " id="moduleContentWrapper12442829">
+
+    <div id="moduleContent12442829">
+
+              <a id="moduleLink12442829" class=" " href="/target-values/" ><span>Target Values</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442827">
+
+    <div id="moduleContent12442827">
+
+              <a id="moduleLink12442827" class=" " href="/operational-values/" ><span>Operational Values</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442830">
+
+    <div id="moduleContent12442830">
+
+              <a id="moduleLink12442830" class=" " href="/financial-values/" ><span>Financial Values</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15642977">
+
+    <div id="moduleContent15642977">
+
+              <a id="moduleLink15642977" class=" folder-link" href="javascript:toggleFolder(15642977);" ><span>MECHANISM - Channels</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15642977">
+            
+  <li class="module   " id="moduleContentWrapper15636891">
+
+    <div id="moduleContent15636891">
+
+              <a id="moduleLink15636891" class=" " href="/targeting-channels/" ><span>Targeting Channels</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15643231">
+
+    <div id="moduleContent15643231">
+
+              <a id="moduleLink15643231" class=" " href="/sourcing-channels/" ><span>Sourcing Channels</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442882">
+
+    <div id="moduleContent12442882">
+
+              <a id="moduleLink12442882" class=" " href="/operating-channels/" ><span>Operating Channels</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15642979">
+
+    <div id="moduleContent15642979">
+
+              <a id="moduleLink15642979" class=" folder-link" href="javascript:toggleFolder(15642979);" ><span>DYNAMICS - Schemes</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15642979">
+            
+  <li class="module   " id="moduleContentWrapper12442881">
+
+    <div id="moduleContent12442881">
+
+              <a id="moduleLink12442881" class=" " href="/targeting-schemes/" ><span>Targeting Schemes</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15643232">
+
+    <div id="moduleContent15643232">
+
+              <a id="moduleLink15643232" class=" " href="/sourcing-schemes/" ><span>Sourcing Schemes</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper12442885">
+
+    <div id="moduleContent12442885">
+
+              <a id="moduleLink12442885" class=" " href="/operating-schemes/" ><span>Operating Schemes</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+ 
+  
+    <h2 style="text-align: justify;"><span class="caps">Bm&sup2; </span>:&nbsp;A Complete Theory of&nbsp;Business Models</h2>
+<p>&nbsp;</p>
+<p>The concept of Business Model (<strong>BM</strong>) has been widely used for around 20 years, both by academics and practitioners. However, its very nature is often misunderstood.</p>
+<p>Bm&sup2; proposes a new theory of Business Models based on a comprehensive and universal framework to design, analyze and manage any business. It is also a "Body Of Knowledge" (BOK) to takle the subject of Business Models.</p>
+<p>The "<strong>Bm<span style="font-size: 70%; vertical-align: super;">2</span> - BMBOK</strong>" tab above gives access to the 3 different levels of the Bm<span style="font-size: 70%; vertical-align: super;">2</span> paradigm. The column on the right&nbsp;gives direct access to the details of&nbsp;each level.</p>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;">Bm<span style="font-size: 70%; vertical-align: super;">2</span> Levels</h3>
+<p style="text-align: justify;">The overall view of the&nbsp;Bm<span style="font-size: 70%; vertical-align: super;">2</span> framework can be depicted as follows:&nbsp;</p>
+<p style="text-align: center;"><img style="width: 400px;" alt="" src="/storage/home/BM%20Synthesis.png?__SQUARESPACE_CACHEVERSION=1380990841872" /></p>
+<p style="text-align: justify;">The general direction of&nbsp;the business is given by the&nbsp;<a href="/business-functions/"><strong>BUSINESS FUNCTIONS</strong></a></p>
+<p style="text-align: justify;">Business can then be&nbsp;analyzed at&nbsp;different&nbsp;levels:</p>
+<ul>
+<li>
+<div style="text-align: justify;">At a strategic level,&nbsp;the business is defined by the <a href="/strategic-view/"><strong>BUSINESS ACTIVITY</strong></a></div>
+</li>
+<li>
+<div style="text-align: justify;">At a tactical level, the business is defined by the <a href="/tactical-view/"><strong>BUSINESS SYSTEM</strong></a></div>
+</li>
+</ul>
+<p style="text-align: justify;">&nbsp;</p>
+<h3 style="text-align: justify;"><a style="color: #ffffff;" href="/business-functions/">BUSINESS FUNCTIONS - The General Direction</a></h3>
+<p>Every single business is about just 3 <a href="/business-functions/">BUSINESS FUNCTIONS</a>: the <a href="/market-function/">Market Function</a>, the <a href="/capture-function/">Capture Function</a> and the <a href="/industry-function/">Industry Function</a>.</p>
+<p><span class="full-image-block ssNonEditable"><a href="/market-function/"><img alt="" src="http://www.bm2business.com/storage/home/Market_Function.png?__SQUARESPACE_CACHEVERSION=1423072730256" /></a><a href="/capture-function/"><img alt="" src="http://www.bm2business.com/storage/home/Capture_Function.png?__SQUARESPACE_CACHEVERSION=1423072751737" /></a><a href="/industry-function/"><img alt="" src="http://www.bm2business.com/storage/home/Industry_Function.png?__SQUARESPACE_CACHEVERSION=1423072780224" /></a></span></p>
+<p>The foundation of any business model analysis is about characterizing those 3 Business Functions for the case in question. Most of the concepts of the Bm&sup2; theory are somehow related to this approach.</p>
+<p>&nbsp;</p>
+<h3><a style="color: #ffffff;" href="/strategic-view/">BUSINESS ACTIVITY - The Strategic Level</a></h3>
+<p>Bm<span style="font-size: 70%; vertical-align: super;">2</span> proposes <strong>9 fundamental concepts/tools</strong> to design or analyze the <a href="/strategic-view/">BUSINESS ACTIVITY</a>:</p>
+<p><span class="full-image-inline ssNonEditable"><a href="/nature/"><img alt="" src="http://www.bm2business.com/storage/concepts/Business%20Locus%20small.PNG?__SQUARESPACE_CACHEVERSION=1423062698257" /></a><a href="/domains/"><img alt="" src="http://www.bm2business.com/storage/concepts/Business%20Focus%20small.PNG?__SQUARESPACE_CACHEVERSION=1423062717782" /></a><a href="/competitiveness/"><img alt="" src="http://www.bm2business.com/storage/concepts/Competitive%20Advantage%20Profile%20small.PNG?__SQUARESPACE_CACHEVERSION=1423062751479" /></a></span></p>
+<p><span class="full-image-block ssNonEditable"><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><a href="/matter-processes/"><img alt="" src="http://www.bm2business.com/storage/concepts/Business%20Formula%20small.PNG?__SQUARESPACE_CACHEVERSION=1423063101162" /></a><a href="/objectives/"><img alt="" src="http://www.bm2business.com/storage/concepts/Business%20Rationale%20small.PNG?__SQUARESPACE_CACHEVERSION=1423062911371" /></a><a href="/effectiveness/"><img alt="" src="http://www.bm2business.com/storage/concepts/Operational%20Advantage%20Profile%20small.PNG?__SQUARESPACE_CACHEVERSION=1423062934452" /></a></span></span></span></p>
+<p><span class="full-image-block ssNonEditable"><a href="/cycles/"><img alt="" src="http://www.bm2business.com/storage/concepts/Business%20Velocity%20small.PNG?__SQUARESPACE_CACHEVERSION=1423062965354" /></a><a href="/scales/"><img alt="" src="http://www.bm2business.com/storage/concepts/Business%20Scalability%20small.PNG?__SQUARESPACE_CACHEVERSION=1423062988202" /></a><a href="/efficiency/"><img alt="" src="http://www.bm2business.com/storage/concepts/Performance%20Scheme%20small.PNG?__SQUARESPACE_CACHEVERSION=1423063008269" /></a></span></p>
+<p><em>(Click on each one of 9 concepts/tools to access its associated&nbsp;component&nbsp;in the Business Activity)</em></p>
+<p>&nbsp;</p>
+<h3><a style="color: #ffffff;" href="/tactical-view/">BUSINESS SYSTEM - The Tactical Level</a></h3>
+<p>The Bm<span style="font-size: 70%; vertical-align: super;">2</span> framework is based on a universal description of the <a href="/tactical-view/">BUSINESS SYSTEM</a>:</p>
+<p><span class="full-image-inline ssNonEditable"><span><a href="/value-sources/"><img alt="" src="/storage/home/Sys%20-%20V%20Sources.png?__SQUARESPACE_CACHEVERSION=1522403715355" /></a></span></span><span><span class="full-image-inline ssNonEditable"><span><a href="/value-manager/"><img alt="" src="/storage/home/Sys%20-%20V%20Manager.png?__SQUARESPACE_CACHEVERSION=1522403802059" /></a></span></span><span><span class="full-image-inline ssNonEditable"><span><a href="/value-targets/"><img alt="" src="/storage/home/Sys%20-%20V%20Targets.png?__SQUARESPACE_CACHEVERSION=1522403765611" /></a></span></span></span></span></p>
+<p><span class="full-image-inline ssNonEditable"><span><a href="/operational-values/"><img alt="" src="/storage/home/Sys%20-%20Operational%20V.png?__SQUARESPACE_CACHEVERSION=1522405402078" /></a><a href="/financial-values/"><img alt="" src="/storage/home/Sys%20-%20Financial%20V.png?__SQUARESPACE_CACHEVERSION=1522405438893" /></a></span></span><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><span><a href="/target-values/"><img alt="" src="/storage/home/Sys%20-%20Target%20V.png?__SQUARESPACE_CACHEVERSION=1522403854334" /></a></span></span></span></p>
+<p><span class="full-image-inline ssNonEditable"><span><a href="/sourcing-channels/"><img alt="" src="/storage/home/Sys%20-%20Sourcing%20C.png?__SQUARESPACE_CACHEVERSION=1522403916328" /></a></span></span><span class="full-image-inline ssNonEditable"><span><span><span class="full-image-inline ssNonEditable"><span><a href="/operating-channels/"><img alt="" src="/storage/home/Sys%20-%20Operating%20C.png?__SQUARESPACE_CACHEVERSION=1522403934210" /></a></span></span></span></span></span><span><span class="full-image-inline ssNonEditable"><span><a href="/targeting-channels/"><img alt="" src="/storage/home/Sys%20-%20Targeting%20C.png?__SQUARESPACE_CACHEVERSION=1522403962862" /></a></span></span></span></p>
+<p><span class="full-image-block ssNonEditable"><span><span><span class="full-image-inline ssNonEditable"><span><a href="/sourcing-schemes/"><img alt="" src="/storage/home/Sys%20-%20Sourcing%20S.png?__SQUARESPACE_CACHEVERSION=1522403988257" /></a></span></span></span><span><span class="full-image-inline ssNonEditable"><span><a href="/operating-schemes/"><img alt="" src="/storage/home/Sys%20-%20Operating%20S.png?__SQUARESPACE_CACHEVERSION=1522404015918" /></a></span></span></span><span><span class="full-image-inline ssNonEditable"><span><a href="/targeting-schemes/"><img alt="" src="/storage/home/Sys%20-%20Targeting%20S.png?__SQUARESPACE_CACHEVERSION=1522404041675" /></a></span></span>&nbsp;</span></span></span>&nbsp;</p>
+<p><em>(Click on each component to access its detailed description in the Business System)</em></p>
+<p><span class="full-image-block ssNonEditable"><em>&nbsp;</em><br /></span></p>
+<h3 style="text-align: justify;">Synthesis: The 7 Blocks</h3>
+<p style="text-align: justify;">The Bm<span style="font-size: 70%; vertical-align: super;">2</span> theory, based on&nbsp;different&nbsp;<a href="/the-7-blocks/"><strong>fields of analysis</strong></a>, regroups the above components of the BUSINESS ACTIVITY and the BUSINESS SYSTEM according to the following "<strong>7 Blocks</strong>":&nbsp;</p>
+<p><span class="full-image-block ssNonEditable"><a href="/strategic-view/"><img alt="" src="/storage/home/Home%20-Business%20Activity.png?__SQUARESPACE_CACHEVERSION=1355307764018" /></a></span></p>
+<p><a href="/setting/"><img alt="" src="/storage/home/Home-Scope.png?__SQUARESPACE_CACHEVERSION=1355307849881" /></a><a href="/specifying/"><img alt="" src="/storage/home/Home-Matter.png?__SQUARESPACE_CACHEVERSION=1355307833423" /></a><a href="/quantifying/"><img alt="" src="/storage/home/Home-Range.png?__SQUARESPACE_CACHEVERSION=1355307869277" /></a><a href="/qualifying/"><img alt="" src="/storage/home/Home-Manner.png?__SQUARESPACE_CACHEVERSION=1355307973681" /></a></p>
+<p><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><a href="/structure/"><img alt="" src="/storage/home/Home-Structure.png?__SQUARESPACE_CACHEVERSION=1355307997846" /></a><a href="/mechanism/"><img alt="" src="/storage/home/Home-Mechanism.png?__SQUARESPACE_CACHEVERSION=1355308012018" /></a><a href="/dynamics/"><img alt="" src="/storage/home/Home-Dynamics.png?__SQUARESPACE_CACHEVERSION=1355308028222" /></a><img alt="" src="/storage/home/Home%20-The7Blocks.png?__SQUARESPACE_CACHEVERSION=1355308043854" /></span></span></span></span></p>
+<p><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><span class="full-image-inline ssNonEditable"><a href="/tactical-view/"><img alt="" src="/storage/home/Home%20-Business%20System.png?__SQUARESPACE_CACHEVERSION=1355308063151" /></a><br /></span></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<table style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p>Blocks at <strong>strategic level</strong> (Business Activity):</p>
+</td>
+<td>
+<p>Blocks at <strong>tactical level</strong> (Business System):</p>
+</td>
+</tr>
+<tr>
+<td>
+<ul>
+<li>1- the Business Activity's <strong><a href="/setting/">SCOPE</a></strong></li>
+<li>2- the Business Activity's <strong><a href="/specifying/">MATTER</a></strong></li>
+<li>3- the Business Activity's <strong><a href="/quantifying/">RANGE</a></strong></li>
+<li>4- the Business Activity's <strong><a href="/qualifying/">MANNER</a></strong></li>
+</ul>
+</td>
+<td>
+<ul>
+<li>5- the Business System's <strong><a href="/structure/">STRUCTURE</a></strong></li>
+<li>6- the Business System's <strong><a href="/mechanism/">MECHANISM</a></strong></li>
+<li>7- the Business System's <strong><a href="/dynamics/">DYNAMICS</a></strong></li>
+<p>&nbsp;</p>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>The Bm<span style="vertical-align: super; font-size: 70%;">2</span> theory explores in details the different components of the 7 Blocks. In order to analyze a BM, a comprehensive approach is not always required. A "Relevance Principle" should apply: depending on the business case, some components may be more useful than others.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+          
+      <strong><p style="text-align: center;"><a href="/home/"><span style="color: #224386;"><em>Bm<span style="font-size: 70%; vertical-align: super;">2</span>: Design, Analyze & Manage your Business</em></span></a></p></strong>
+<p style="text-align: center;"><span class="full-image-inline ssNonEditable"><span><a href="/setting/"><img style="width: 100px;" src="http://bm2.squarespace.com/storage/home/SmallBlock1-Scope.png?__SQUARESPACE_CACHEVERSION=1339160343941" alt="" /></a></span></span>&nbsp; <span class="full-image-inline ssNonEditable"><span><a href="/specifying/"><img style="width: 100px;" src="http://bm2.squarespace.com/storage/home/SmallBlock2-Matter.png?__SQUARESPACE_CACHEVERSION=1339160362887" alt="" /></a></span></span>&nbsp;<span class="full-image-inline ssNonEditable"><span><a href="/quantifying/"><img style="width: 100px;" src="http://bm2.squarespace.com/storage/home/SmallBlock3-Range.png?__SQUARESPACE_CACHEVERSION=1339160476908" alt="" /></a></span></span> <span class="full-image-inline ssNonEditable"><span><a href="/qualifying/"><img style="width: 100px;" src="http://bm2.squarespace.com/storage/home/SmallBlock4-Manner.png?__SQUARESPACE_CACHEVERSION=1339171663441" alt="" /></a></span></span>&nbsp;<span class="full-image-inline ssNonEditable"><span><img src="http://bm2.squarespace.com/storage/home/SmallBlock-Separator.png?__SQUARESPACE_CACHEVERSION=1339172106963" alt="" /></span></span>&nbsp;<span class="full-image-inline ssNonEditable"><span><a href="/structure/"><img style="width: 100px;" src="http://bm2.squarespace.com/storage/home/SmallBlock5-Structure.png?__SQUARESPACE_CACHEVERSION=1339160527886" alt="" /></a></span></span>&nbsp;<span class="full-image-inline ssNonEditable"><span><a href="/mechanism/"><img style="width: 100px;" src="http://bm2.squarespace.com/storage/home/SmallBlock6-Mechanism.png?__SQUARESPACE_CACHEVERSION=1339160388113" alt="" /></a></span></span>&nbsp;<span class="full-image-inline ssNonEditable"><span><a href="/dynamics/"><img style="width: 100px;" src="http://bm2.squarespace.com/storage/home/SmallBlock7-Dynamics.png?__SQUARESPACE_CACHEVERSION=1339160597950" alt="" /></a></span></span>&nbsp;&nbsp;&nbsp; <span class="full-image-inline ssNonEditable"><span><a href="/strategic-view/"><img src="http://bm2.squarespace.com/storage/what-is-a-bm/Footer%20Business%20Activity.png?__SQUARESPACE_CACHEVERSION=1339213680464" alt="" /></a></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="full-image-inline ssNonEditable"><span><a href="/tactical-view/"><img src="http://bm2.squarespace.com/storage/what-is-a-bm/Footer%20Business%20System.png?__SQUARESPACE_CACHEVERSION=1339213687292" alt="" /></a></span></span></p>
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              <strong>Copyright &copy; 2021, Stephane Rogeau.  All rights reserved.</strong>
+<p></p>
+
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

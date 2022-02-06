@@ -1,0 +1,17 @@
+GET https://en-ilumeo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BeR2JArfpGEvYWQ3MDgzZTEyZTExOTg4MDViNTM5YzI0MTIzZGIx;Path=/
+< X-Contextid: 5bV1jJ9B/FnLDy2LF
+< X-Frame-Options: SAMEORIGIN
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:47 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< Age: 0
+< Etag: W/"62324bc711d9a2b452d05df5ec68a5e7--gzip"

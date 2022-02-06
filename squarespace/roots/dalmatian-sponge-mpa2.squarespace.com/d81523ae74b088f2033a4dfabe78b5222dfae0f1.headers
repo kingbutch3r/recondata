@@ -1,0 +1,15 @@
+GET https://dalmatian-sponge-mpa2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: max-age=300, s-maxage=300
+< Set-Cookie: crumb=BVtytibyVtv+NTU4NGYzYzI1MWQ1YzNlMzJhZWQyOTcyODRhODAy;Path=/
+< X-Contextid: 19isoqe7/lR4xWhe8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Length: 3136
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:04 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

@@ -1,0 +1,11 @@
+GET http://uwci-100.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 09:29:17 GMT
+< Location: https://uwci-100.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcJuReKiNlEZNzVlNjIxMWViZmEyMDE3MjkwZDFlN2I0M2U5OGMw;Path=/
+< X-Contextid: BTVSJX4x/MA29l2V8
+< Age: 141991

@@ -1,0 +1,17 @@
+GET https://medicinedreamhealingschedule.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:04:49 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=8o61bne70j9ajmsjhlc4sot4e3; expires=Fri, 04-Mar-2022 00:04:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8a6376c5-9d5d-4579-937e-1d9d08ff5adf; expires=Fri, 02-Feb-2024 00:04:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent

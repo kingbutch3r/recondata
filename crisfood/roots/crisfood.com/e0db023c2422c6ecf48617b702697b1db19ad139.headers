@@ -1,0 +1,9 @@
+GET https://crisfood.com
+
+
+< HTTP/1.1 200 OK
+< X-Frame-Options: SAMEORIGIN
+< Date: Sat, 29 Jan 2022 17:28:33 GMT
+< Content-Type: text/html; charset=utf-8
+< Etag: W/"7071-PeUnnqj7D7HyUomkzhmjUePGJpg"
+< Server: Web Server

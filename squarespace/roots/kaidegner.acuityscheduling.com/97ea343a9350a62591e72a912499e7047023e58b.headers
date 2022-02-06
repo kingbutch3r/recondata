@@ -1,0 +1,15 @@
+GET https://kaidegner.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:29:21 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=iqd28dhsjk2n4sn340notm78e6; expires=Fri, 04-Mar-2022 00:29:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c95ac9aa-605e-49a8-83d5-2773fda72789; expires=Fri, 02-Feb-2024 00:29:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

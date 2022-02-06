@@ -1,0 +1,9 @@
+GET http://blog.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:29:38 GMT
+< Content-Type: text/html
+< Content-Length: 134
+< Location: https://krisp.ai:443/blog/
+< Server: awselb/2.0

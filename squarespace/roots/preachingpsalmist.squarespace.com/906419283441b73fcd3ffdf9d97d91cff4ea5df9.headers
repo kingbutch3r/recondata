@@ -1,0 +1,17 @@
+GET https://preachingpsalmist.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BSVlzci8XkI5Mzc5NGQxMzIxYWM1NmE3NGY2ODM5NzdhY2U2MjAw;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Frame-Options: SAMEORIGIN
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 26 Jan 2022 23:55:07 GMT
+< X-Contextid: r51CcB61/NhrHBMeM
+< Etag: W/"5bb989ae3a690710efd5a8a4f35ceefd--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 523627

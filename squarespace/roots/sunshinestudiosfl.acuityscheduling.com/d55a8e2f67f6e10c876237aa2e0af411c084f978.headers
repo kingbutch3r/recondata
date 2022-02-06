@@ -1,0 +1,17 @@
+GET https://sunshinestudiosfl.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:17:36 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=31q6bf5517i414v0nk38pmlguj; expires=Fri, 04-Mar-2022 00:17:35 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5ce4178a-676f-41d8-be87-ea349383be23; expires=Fri, 02-Feb-2024 00:17:36 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

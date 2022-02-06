@@ -1,0 +1,17 @@
+GET https://cr-crdl.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: eYRmtFi8/fd96aQ0C
+< Date: Wed, 02 Feb 2022 01:24:27 GMT
+< Etag: W/"4735559945a7d6c535df9312fb1bb4ed--gzip"
+< Set-Cookie: crumb=BZc2TmZLL46LOTU1MmY4NDQzYjZkYzEzOWQzY2VlM2MyOWY2ZDVk;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< X-Frame-Options: SAMEORIGIN
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

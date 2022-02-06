@@ -1,0 +1,17 @@
+GET https://wbc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:56:58 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=rccrljs8ife7oukdfko3h51hnt; expires=Thu, 03-Mar-2022 23:56:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e172e569-122a-458c-854a-cbc66c93a451; expires=Thu, 01-Feb-2024 23:56:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

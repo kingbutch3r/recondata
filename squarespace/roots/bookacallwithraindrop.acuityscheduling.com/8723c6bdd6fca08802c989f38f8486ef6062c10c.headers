@@ -1,0 +1,15 @@
+GET https://bookacallwithraindrop.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=evg2301nt5tgl375tb31bal42r; expires=Fri, 04-Mar-2022 00:27:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f556a988-ede0-4252-b91f-2af4314a6aa7; expires=Fri, 02-Feb-2024 00:27:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:27:09 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff

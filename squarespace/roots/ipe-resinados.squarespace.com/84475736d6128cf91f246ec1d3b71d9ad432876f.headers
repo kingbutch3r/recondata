@@ -1,0 +1,17 @@
+GET https://ipe-resinados.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Frame-Options: SAMEORIGIN
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"ca8df2c83c80d751757c55956e56f99b--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Contextid: fWeY4QKg/lHhlAk1u
+< Age: 108941
+< Server: Squarespace
+< Set-Cookie: crumb=BQzJMByI3Q7CYjQwMzFlMDUxMjAwZDE3NWZmYmU1YmEyMzg0YmI5;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< Date: Mon, 31 Jan 2022 18:46:21 GMT
+< Accept-Ranges: bytes

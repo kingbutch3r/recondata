@@ -1,0 +1,17 @@
+GET https://serenacurran1.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:53:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=6c4futfk9t6mfp866v23i9iufa; expires=Thu, 03-Mar-2022 23:52:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dcdbff58-adc5-4318-a515-87df63e15f2a; expires=Thu, 01-Feb-2024 23:53:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

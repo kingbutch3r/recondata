@@ -1,0 +1,10 @@
+GET http://arielle-mullen-hoa2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BXaggQnq6Fn8ZDMyZWRjZjNhNjBkMmViYzllN2Y5NzM5ZWJiZjEy;Path=/
+< X-Contextid: AyrLoS0k/XPW7wI5C
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:19:04 GMT
+< Server: Squarespace

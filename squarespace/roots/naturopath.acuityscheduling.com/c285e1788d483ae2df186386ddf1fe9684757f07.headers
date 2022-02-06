@@ -1,0 +1,17 @@
+GET https://naturopath.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:14:19 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=t3q5etmhlh7t3rtid97j97hk85; expires=Fri, 04-Mar-2022 00:14:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fbd4417e-5931-4b23-b4a8-1002d21e5876; expires=Fri, 02-Feb-2024 00:14:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

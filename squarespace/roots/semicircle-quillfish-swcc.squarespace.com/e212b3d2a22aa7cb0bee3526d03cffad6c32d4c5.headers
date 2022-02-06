@@ -1,0 +1,16 @@
+GET https://semicircle-quillfish-swcc.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Etag: W/"c827f7dc0e377651c65534667c18af95--gzip"
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 01:03:37 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BebQiWe7II0BOTUyM2JkNWY5OTZkNTJlOTNmOWEwODU1ZjI0ZGQ3;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: zbc2LioD/lVJUoxw1

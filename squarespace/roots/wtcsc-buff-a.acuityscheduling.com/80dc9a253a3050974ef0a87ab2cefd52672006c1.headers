@@ -1,0 +1,17 @@
+GET https://wtcsc-buff-a.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=pemt358gk3i7s8aavbl6okjkdm; expires=Thu, 03-Mar-2022 23:53:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=db539cd6-ff8d-424c-a284-bac5bfaa7c02; expires=Thu, 01-Feb-2024 23:53:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:53:28 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

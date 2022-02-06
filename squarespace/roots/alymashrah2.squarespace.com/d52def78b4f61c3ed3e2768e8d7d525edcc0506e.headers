@@ -1,0 +1,16 @@
+GET https://alymashrah2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"bf15c488648be46b088058e2a8519f3f--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: NJZys7cg/s54FMNGk
+< Age: 370753
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Set-Cookie: crumb=Bd8g1MBmLAL4MzYyNWQ5MGZjMjQ4N2U3MzIwZWE4NmFiZDI0NzJj;Path=/
+< Date: Fri, 28 Jan 2022 17:53:18 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

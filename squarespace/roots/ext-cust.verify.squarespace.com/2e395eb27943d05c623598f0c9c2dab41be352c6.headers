@@ -1,0 +1,11 @@
+GET https://ext-cust.verify.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html
+< Date: Tue, 01 Feb 2022 23:51:16 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcykXphn+vO8YWJkYWQwZjMwMzAzYjdhYTAwNWI3ZTJlOGUzNDE0;Path=/
+< X-Contextid: 7ebbINaJ/OauuyLRv
+< Age: 0
+< Content-Length: 2868

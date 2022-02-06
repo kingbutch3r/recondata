@@ -1,0 +1,10 @@
+GET http://jamie-collier-wyl2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:49 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbfGM6Bf5YhKYWE0MjZiNzc2ZWQ2NmZlMTEzYzFkOGQzNDRjNjcw;Path=/
+< X-Contextid: KfM5Xhsx/oSzizxlx
+< Age: 0

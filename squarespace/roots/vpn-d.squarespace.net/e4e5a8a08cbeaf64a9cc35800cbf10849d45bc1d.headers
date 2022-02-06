@@ -1,0 +1,7 @@
+GET http://vpn-d.squarespace.net
+
+
+< HTTP/1.0 301 Moved Permanently
+< Connection: close
+< Strict-Transport-Security: max-age=31536000
+< Location: https://vpn-d.squarespace.net/

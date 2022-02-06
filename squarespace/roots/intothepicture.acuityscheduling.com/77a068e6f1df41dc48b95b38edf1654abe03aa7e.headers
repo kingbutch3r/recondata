@@ -1,0 +1,17 @@
+GET https://intothepicture.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:06:46 GMT
+< Content-Length: 0
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=ks49amsgcq3704gf290r5h1f4r; expires=Fri, 04-Mar-2022 00:06:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0c6551d4-6364-484f-9fca-db0e6d243aaa; expires=Fri, 02-Feb-2024 00:06:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

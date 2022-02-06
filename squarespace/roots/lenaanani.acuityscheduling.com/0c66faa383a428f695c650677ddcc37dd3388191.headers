@@ -1,0 +1,17 @@
+GET https://lenaanani.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:15:25 GMT
+< Set-Cookie: PHPSESSID=5dsciofmsbll3nbnmki6ghfi7t; expires=Fri, 04-Mar-2022 00:15:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=98eb064e-5727-4b70-b4bb-27ea610d22f0; expires=Fri, 02-Feb-2024 00:15:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0

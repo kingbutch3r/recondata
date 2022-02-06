@@ -1,0 +1,12 @@
+GET https://daniel-kelly-cmv0.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Pragma: no-cache
+< X-Contextid: RILki6Lc/g5SyUwoU
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:12:32 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC

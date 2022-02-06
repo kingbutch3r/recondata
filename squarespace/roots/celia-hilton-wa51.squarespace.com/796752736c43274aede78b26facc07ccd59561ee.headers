@@ -1,0 +1,16 @@
+GET https://celia-hilton-wa51.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Age: 297813
+< Etag: W/"eb8e9b1f4d8b5ff7154a7089a11ad356--gzip"
+< Server: Squarespace
+< Date: Sat, 29 Jan 2022 14:30:31 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BaYE9WTjc/lhZjgzMjljNGIxOWI3NzViZjc2MWExY2YwYTZmZjYy;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: WSpfB3Zd/LYha9ePe

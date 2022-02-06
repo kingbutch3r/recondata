@@ -1,0 +1,11 @@
+GET http://holliston-children-qi90.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:49:58 GMT
+< Location: https://holliston-children-qi90.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQ0HTBeFEF/hN2JiMmVjYjNlY2E4YjBlM2U2NGIzZDczOWY0MjFj;Path=/
+< X-Contextid: a5bs04fT/6uJ39m3r
+< Content-Length: 0
+< Age: 0

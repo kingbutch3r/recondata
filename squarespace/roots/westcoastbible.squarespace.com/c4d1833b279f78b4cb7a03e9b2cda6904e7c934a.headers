@@ -1,0 +1,13 @@
+GET http://westcoastbible.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:26:34 GMT
+< Set-Cookie: crumb=BQ7vYRdMe8fJOTkxNzI0NWVkODkxNDZkYTU3NzU3MWZjZTgwZTEz;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: 2b5lQV8y/HMsrG7Ym
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

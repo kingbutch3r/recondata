@@ -1,0 +1,17 @@
+GET https://revfrancesappointments.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:39:25 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=dtnb5effdhf9onqc010in4sod9; expires=Fri, 04-Mar-2022 00:39:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=676662d7-e41f-4c9f-a43b-602eb4bf6fb1; expires=Fri, 02-Feb-2024 00:39:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

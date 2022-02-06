@@ -1,0 +1,17 @@
+GET https://nikkilward.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:00:37 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=ps133gdhh49f4lg2ec609ni2gp; expires=Fri, 04-Mar-2022 00:00:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=987c1cf8-c7c9-4a3c-8c1a-e9a879b75332; expires=Fri, 02-Feb-2024 00:00:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

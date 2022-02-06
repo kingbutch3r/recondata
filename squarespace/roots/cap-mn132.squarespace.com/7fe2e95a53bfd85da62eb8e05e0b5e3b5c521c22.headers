@@ -1,0 +1,13 @@
+GET http://cap-mn132.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:16:55 GMT
+< Etag: W/"d35b6e55393400bcadc09cc4f2d1a897"
+< Server: Squarespace
+< Set-Cookie: crumb=BfIxnGSrakBCMmM5NGI2MWRmMmNkODY0YmExN2FhNTIzY2E4Njhl;Path=/
+< X-Contextid: RahbSWhN/hjHJyBdS

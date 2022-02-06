@@ -1,0 +1,15 @@
+GET https://asapkids.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=4jng34igjcuu488mvubtm8ctob; expires=Fri, 04-Mar-2022 00:31:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7fa76058-2e90-40a2-81e7-0e62fda8ffb7; expires=Fri, 02-Feb-2024 00:31:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:31:46 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding,User-Agent

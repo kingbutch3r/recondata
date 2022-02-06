@@ -1,0 +1,15 @@
+GET http://opus-12.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"66bea8e49a76247fe796e32bc3a39d98--gzip"
+< X-Contextid: 73nZZKc9/4fLLxNHs
+< Date: Sat, 29 Jan 2022 00:27:27 GMT
+< Vary: Accept-Encoding
+< Age: 347029
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSTXBCVpTAG+YzY4ODBjNzdiMGUzMmZlNTJkZmMxZGU2YTg0NmIw;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes

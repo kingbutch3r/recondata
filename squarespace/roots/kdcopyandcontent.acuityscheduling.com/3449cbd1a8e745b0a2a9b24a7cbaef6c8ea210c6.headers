@@ -1,0 +1,17 @@
+GET https://kdcopyandcontent.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=jqmv7ab6gkevh756kgqe2ohob1; expires=Fri, 04-Mar-2022 00:41:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=21ba784a-23cf-45da-8337-fd680d728edf; expires=Fri, 02-Feb-2024 00:41:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:41:59 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"

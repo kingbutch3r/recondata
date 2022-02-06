@@ -1,0 +1,15 @@
+GET https://medialeaders.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=i2s458uf23og6bbqto3lgcljhk; expires=Fri, 04-Mar-2022 00:36:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5ae1fa4b-d086-4b7b-94ec-7a9d737d63dd; expires=Fri, 02-Feb-2024 00:36:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:36:58 GMT
+< Vary: Accept-Encoding,User-Agent

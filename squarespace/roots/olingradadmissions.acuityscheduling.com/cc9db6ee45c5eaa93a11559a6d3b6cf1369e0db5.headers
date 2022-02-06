@@ -1,0 +1,17 @@
+GET https://olingradadmissions.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=b2k4t7q23opvcheokjc1j3fom9; expires=Fri, 04-Mar-2022 00:35:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=35891812-0005-43af-9e6a-25e39b73902a; expires=Fri, 02-Feb-2024 00:35:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:35:37 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Vary: User-Agent

@@ -1,0 +1,24 @@
+GET https://answers.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:55:06 GMT
+< Server: Apache
+< X-Xss-Protection: 0
+< Referrer-Policy: strict-origin-when-cross-origin
+< X-Content-Type-Options: nosniff
+< X-Amz-Cf-Pop: CDG3-C2
+< X-Amz-Cf-Id: BpsPAWzX6vlOWyL1CnBcaCe_S0ogIGS_6XOnLxpkrciie0Ca42Hcyw==
+< Location: https://forum.squarespace.com/
+< X-Cache: Miss from cloudfront
+< Vary: Cookie
+< Content-Type: ;charset=UTF-8
+< Set-Cookie: AWSALB=zOg2+Pdhx5fMJauZ3CJSUuvQgtAbZ5i3vUiJ82nf1OfaKyDwid1XtLnKkYuQwtRZyaljP61V+J+uYtH/jQmSeljmq8kFFruoCfNp31z74fqrViWp3kNQNL4k1uqs; Expires=Wed, 09 Feb 2022 00:55:06 GMT; Path=/
+< Set-Cookie: AWSALBCORS=zOg2+Pdhx5fMJauZ3CJSUuvQgtAbZ5i3vUiJ82nf1OfaKyDwid1XtLnKkYuQwtRZyaljP61V+J+uYtH/jQmSeljmq8kFFruoCfNp31z74fqrViWp3kNQNL4k1uqs; Expires=Wed, 09 Feb 2022 00:55:06 GMT; Path=/; SameSite=None
+< Set-Cookie: ips4_IPSSessionFront=kirb5bvj0rnrkg615j466t88do; path=/; secure; HttpOnly
+< X-Ips-Loggedin: 0
+< X-Frame-Options: sameorigin
+< Expires: 0
+< Cache-Control: no-cache, no-store, must-revalidate, max-age=0, s-maxage=0
+< Via: 1.1 0b0cf39231f2e8a928723d3a28df13cc.cloudfront.net (CloudFront)

@@ -1,0 +1,17 @@
+GET https://gartrellgroup.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=rjge0om7vaf68ibifk5t3tfer1; expires=Fri, 04-Mar-2022 00:27:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fe5e0bb6-40d2-4a5d-82e5-b8085bd5ff63; expires=Fri, 02-Feb-2024 00:27:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:27:30 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

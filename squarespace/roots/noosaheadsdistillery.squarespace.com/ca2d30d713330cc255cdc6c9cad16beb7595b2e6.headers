@@ -1,0 +1,16 @@
+GET https://noosaheadsdistillery.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Fri, 28 Jan 2022 12:19:02 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 387067
+< Etag: W/"5c34525b2afef81b9cacfe739bc43262--gzip"
+< Strict-Transport-Security: max-age=0
+< Set-Cookie: crumb=BWfvysBLiG7UNzg5NjE0ZWM4OTFiNjMwOTQ4YTZiY2QzOGQ3Nzcx;Path=/
+< X-Contextid: wFMTlGyQ/RC8PjYoE
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding

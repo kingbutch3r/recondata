@@ -1,0 +1,17 @@
+GET https://glowthrivebreathe.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:03:37 GMT
+< Set-Cookie: PHPSESSID=d4af4reb8ci43a39mla8dha2kk; expires=Fri, 04-Mar-2022 00:03:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c3741fca-c9cc-4ab8-bc5d-073fffca230f; expires=Fri, 02-Feb-2024 00:03:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

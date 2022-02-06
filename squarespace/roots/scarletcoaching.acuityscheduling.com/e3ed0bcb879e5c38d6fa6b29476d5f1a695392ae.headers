@@ -1,0 +1,17 @@
+GET https://scarletcoaching.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=q9li4qj73dv715hf8b9fbno0cj; expires=Fri, 04-Mar-2022 00:10:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2a31c65e-61cf-4d3f-8914-604e50b6286b; expires=Fri, 02-Feb-2024 00:10:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:10:09 GMT

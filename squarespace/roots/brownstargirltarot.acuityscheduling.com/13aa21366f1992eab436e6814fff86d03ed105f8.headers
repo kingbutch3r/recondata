@@ -1,0 +1,15 @@
+GET https://brownstargirltarot.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=2f2hl9b1oopojs1kmc71jk7l7p; expires=Fri, 04-Mar-2022 00:42:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a2fe9c8a-0639-4fc4-9bf7-05d776ac8e7b; expires=Fri, 02-Feb-2024 00:42:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:42:13 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

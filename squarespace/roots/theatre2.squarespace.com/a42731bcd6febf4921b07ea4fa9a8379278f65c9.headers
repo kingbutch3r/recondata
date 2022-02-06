@@ -1,0 +1,17 @@
+GET https://theatre2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BXxH5H5FvkwLODMyNDU3MGQzYWMxOTE3MzhlNTQ3NmMyNzBjNzQy;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Last-Modified: Wed, 02 Feb 2022 01:20:11 GMT
+< Accept-Ranges: bytes
+< Age: 0
+< Vary: Accept-Encoding
+< X-Contextid: n8XubS8e/lXJUfRWN
+< Date: Wed, 02 Feb 2022 01:20:10 GMT
+< Etag: W/"b981ed2a8edba3cfe6337f4fa0b98db2"

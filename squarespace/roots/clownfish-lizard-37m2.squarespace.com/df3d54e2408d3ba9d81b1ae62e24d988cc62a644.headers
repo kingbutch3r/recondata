@@ -1,0 +1,10 @@
+GET http://clownfish-lizard-37m2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:21:49 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BU3o0bTf6acRZmU2NDI5ZTc2ODEzMjg5ZDI3MGY4MTllNjhmOWJi;Path=/
+< X-Contextid: LD3tVg5W/PP90ckRu
+< Age: 0

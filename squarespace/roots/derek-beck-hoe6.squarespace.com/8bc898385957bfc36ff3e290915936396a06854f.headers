@@ -1,0 +1,11 @@
+GET http://derek-beck-hoe6.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 03:13:49 GMT
+< Location: https://derek-beck-hoe6.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BftFYlHj0JNSNWVhYWFmYzg3N2M2OGYwMWM2MTE3ZDNhNWYzZDY3;Path=/
+< X-Contextid: 85i9bCbo/mJUY4PDj
+< Age: 79795

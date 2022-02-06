@@ -1,0 +1,16 @@
+GET https://savoymiami.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYmcqWMI7JOyMmI4MDRkMmJmM2FiYmRlODY3NDZiZjJhMmYwNmEx;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: PpH0z2bt/CwJj3jpM
+< Age: 346778
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 00:35:42 GMT
+< Etag: W/"2f70d9a063ca16ab1cf0286ad079df0d--gzip"
+< Strict-Transport-Security: max-age=0

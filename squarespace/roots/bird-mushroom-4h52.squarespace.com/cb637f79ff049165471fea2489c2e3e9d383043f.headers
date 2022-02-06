@@ -1,0 +1,13 @@
+GET https://bird-mushroom-4h52.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BbcgL35pdgpTMDRiMzcwM2M1Yjg3YTgxNjA5NGVlMzE5YzFlMDUx;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: U4FGyHP1/5CUIN5Iw
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:17:41 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

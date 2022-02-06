@@ -1,0 +1,15 @@
+GET https://kenyatawoods.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:31:54 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=gbig641c35qe49k5bs01eav8np; expires=Fri, 04-Mar-2022 00:31:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e45184cc-5c60-4c7b-838c-425c565a29e2; expires=Fri, 02-Feb-2024 00:31:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent

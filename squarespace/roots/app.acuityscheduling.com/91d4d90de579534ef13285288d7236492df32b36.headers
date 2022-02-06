@@ -1,0 +1,8 @@
+GET http://app.acuityscheduling.com
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Length: 118
+< Server: awselb/2.0
+< Date: Tue, 01 Feb 2022 23:49:23 GMT
+< Content-Type: text/html

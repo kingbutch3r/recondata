@@ -1,0 +1,11 @@
+GET http://www.silver-indigo-bsb2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:07 GMT
+< Location: http://silver-indigo-bsb2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUaShCa3CIRoMGE2NjY5ZTI1MWFhM2UxMzkwMzc0ZDdhYmZmNTc4;Path=/
+< X-Contextid: 2sXf9Ssn/DPfAWqwY

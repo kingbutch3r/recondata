@@ -1,0 +1,9 @@
+GET https://stage.r.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html
+< Content-Length: 134
+< Location: https://stage.account.krisp.ai:443/share/record/
+< Server: awselb/2.0
+< Date: Tue, 01 Feb 2022 23:29:50 GMT

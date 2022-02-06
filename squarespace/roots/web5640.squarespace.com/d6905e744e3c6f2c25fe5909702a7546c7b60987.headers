@@ -1,0 +1,10 @@
+GET http://web5640.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:59:14 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQdUrbUSgjA8YzhjZTMyM2U0YWU1ZWZlNzhmY2Y5OTRlNGY2ZjM4;Path=/
+< X-Contextid: b14790ZG/pNkwGAME
+< Age: 0

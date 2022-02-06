@@ -1,0 +1,12 @@
+GET http://sheep-blenny-7cc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:19:25 GMT
+< Location: https://sheep-blenny-7cc2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BW+hiIFPzObSZjA2MzU5Zjg5NjkxODBjNWQyYWZjZjlmMTc2OWNl;Path=/
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800
+< X-Contextid: UaEdmANU/GxuvnzEC
+< Content-Length: 0

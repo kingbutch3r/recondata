@@ -1,0 +1,11 @@
+GET http://www.john-dillon-g872.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:18:09 GMT
+< Location: http://john-dillon-g872.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXBP1hZ9nNvhMTBmMDBjOTZiM2QwZDZlYzNjODFkNTUwNzk1NmYz;Path=/
+< X-Contextid: tYG7hUgk/zk8ZE8TF

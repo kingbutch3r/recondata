@@ -1,0 +1,13 @@
+GET http://mack-mcgowen-u210.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:52:44 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bca36/63R+RaMjc1NGU4MTRmYjU3OTcyMzcxMzA4NmE3YWUyNzcy;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: Z5KgMCyA/9wnrZrot
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Cache-Control: max-age=300, s-maxage=300
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

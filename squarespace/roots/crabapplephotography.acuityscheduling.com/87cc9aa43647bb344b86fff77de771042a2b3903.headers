@@ -1,0 +1,15 @@
+GET https://crabapplephotography.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:46:19 GMT
+< Set-Cookie: PHPSESSID=oqb445d223q3mq0he05lpppl1d; expires=Fri, 04-Mar-2022 00:46:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b50ba8d3-6a20-4fcc-a823-13e7b1e1ad49; expires=Fri, 02-Feb-2024 00:46:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff

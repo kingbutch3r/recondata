@@ -1,0 +1,16 @@
+GET https://richardross.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: L9msmBAN/gewi6qsh
+< Date: Wed, 02 Feb 2022 01:02:17 GMT
+< Etag: W/"317e4aeaaa86048ae687b8445806396b--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=BYST5Pwuu4gEMDk5YjhiMzA1MzEzNTA0Zjk4YmU1NzM2YzcyNjE5;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

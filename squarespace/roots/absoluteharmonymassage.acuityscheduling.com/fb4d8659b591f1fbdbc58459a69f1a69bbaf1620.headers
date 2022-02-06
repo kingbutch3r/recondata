@@ -1,0 +1,17 @@
+GET https://absoluteharmonymassage.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:03:15 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=u2o6td6m1n1nkelnskkre6ja6f; expires=Fri, 04-Mar-2022 00:03:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2edcf75e-a952-4984-998d-f13b93e7b41d; expires=Fri, 02-Feb-2024 00:03:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate

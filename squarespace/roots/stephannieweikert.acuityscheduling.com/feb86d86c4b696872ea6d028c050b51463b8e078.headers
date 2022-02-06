@@ -1,0 +1,17 @@
+GET https://stephannieweikert.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=9p2psq3dvmpujupdeorn22abnc; expires=Fri, 04-Mar-2022 00:42:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3074ec52-cc1b-4e39-a397-7453af9892dd; expires=Fri, 02-Feb-2024 00:42:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:42:35 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

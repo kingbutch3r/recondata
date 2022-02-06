@@ -1,0 +1,17 @@
+GET https://ladylotushealing.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:10:47 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=7l9uciokaquhfkb9rlhr751a9i; expires=Fri, 04-Mar-2022 00:10:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=981f655e-c86f-4254-b680-a06459a944f9; expires=Fri, 02-Feb-2024 00:10:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8

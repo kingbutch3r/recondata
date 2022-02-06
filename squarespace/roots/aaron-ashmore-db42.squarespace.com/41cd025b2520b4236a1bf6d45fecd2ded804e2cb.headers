@@ -1,0 +1,11 @@
+GET http://aaron-ashmore-db42.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Sun, 30 Jan 2022 18:42:41 GMT
+< Location: https://aaron-ashmore-db42.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BaA/H7uJpRiKZDJhZDkwYTNjMGJlODE2YjNkNjFlMjFlM2EzMDU0;Path=/
+< X-Contextid: KI1JFpCv/Zkw0eGor
+< Age: 196476
+< Content-Length: 0

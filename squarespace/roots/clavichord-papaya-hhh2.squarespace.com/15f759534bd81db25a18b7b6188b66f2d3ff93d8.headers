@@ -1,0 +1,12 @@
+GET http://clavichord-papaya-hhh2.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Server: Squarespace
+< X-Contextid: pXGOLd3l/WnFdEEPM
+< Cache-Control: no-cache, must-revalidate
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Date: Wed, 02 Feb 2022 01:20:42 UTC
+< Pragma: no-cache
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8

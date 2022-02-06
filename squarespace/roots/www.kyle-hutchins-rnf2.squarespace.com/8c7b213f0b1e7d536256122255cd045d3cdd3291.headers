@@ -1,0 +1,11 @@
+GET https://www.kyle-hutchins-rnf2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://kyle-hutchins-rnf2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVl2+JjLOQicOGQyNjU2NThjNDhlNDYwODg1NjhhNDM1MDU0NGMz;Path=/
+< X-Contextid: L1hgQkWH/LXzWBdix
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:27 GMT

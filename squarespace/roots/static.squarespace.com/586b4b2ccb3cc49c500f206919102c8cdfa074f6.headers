@@ -1,0 +1,13 @@
+GET http://static.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 77562
+< Server: Squarespace
+< X-Contextid: y9nV66jU/blrBCHf2
+< Date: Wed, 02 Feb 2022 00:55:05 GMT
+< Vary: "Accept-Encoding"
+< Tracepoint: "Akamai"
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Cache-Control: no-cache, must-revalidate

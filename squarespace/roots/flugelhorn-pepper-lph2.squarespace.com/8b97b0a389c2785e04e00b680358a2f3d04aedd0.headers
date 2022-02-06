@@ -1,0 +1,11 @@
+GET http://flugelhorn-pepper-lph2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: iLGIDGzf/uQO03qzs
+< Age: 171015
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 01:50:29 GMT
+< Location: https://flugelhorn-pepper-lph2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcsafxUYNhuwN2FhZDY4NWM4MjgxMDRhYTBlMGZkYTAzMzUyYjAz;Path=/

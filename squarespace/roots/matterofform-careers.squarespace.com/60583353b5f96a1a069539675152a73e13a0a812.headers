@@ -1,0 +1,16 @@
+GET https://matterofform-careers.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"80ff872f8ba909e55b9d866e5bee77d9--gzip"
+< Set-Cookie: crumb=BXS9xFwj6SG0Yjk5MWQ0MDcwMmZjOWNiNjBkMjJlNDNkMjExZThk;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: rleatfWu/i0JwUt4y
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 93327
+< Date: Mon, 31 Jan 2022 23:27:53 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

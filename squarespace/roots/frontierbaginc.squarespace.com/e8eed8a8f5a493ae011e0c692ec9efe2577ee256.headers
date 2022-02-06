@@ -1,0 +1,16 @@
+GET https://frontierbaginc.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 22:37:44 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYiGEx08+Od3MmEzMDFiYTBlM2MyM2QwOWY2MTQ4MTRjMDExNzQz;Path=/
+< Age: 95231
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Etag: W/"f690b7ebf728408d49eaad93c8665434--gzip"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=0
+< X-Contextid: GV0UGuL0/aeW4Vv5u

@@ -1,0 +1,17 @@
+GET https://karl-klaseie.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 0
+< Strict-Transport-Security: max-age=0
+< Etag: W/"398c0a33159c265b65ffeb52eb83f883"
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:25:46 GMT
+< Set-Cookie: crumb=BTygYc2agPiHYTQ2ZTdkYjVmZTBjMGQzYzk1NzBmM2U1ZTFmMGQy;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: IHYrJvwJ/LiFD6r1D
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:25:40 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding

@@ -1,0 +1,401 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+<head>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+
+<!-- This is Squarespace. --><!-- kapsi -->
+<base href="">
+<meta charset="utf-8" />
+<title>Hello, World!</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1338772149815-71AXBTS0FSVMRKANKZ99/favicon.ico"/>
+<link rel="canonical" href="https://www.kapsi.de"/>
+<meta property="og:site_name" content="Hello, World!"/>
+<meta property="og:title" content="Hello, World!"/>
+<meta property="og:url" content="https://www.kapsi.de"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="A blog about technology, life and sailing. Written by a geek, for geeks and everyone else who is interested."/>
+<meta itemprop="name" content="Hello, World!"/>
+<meta itemprop="url" content="https://www.kapsi.de"/>
+<meta itemprop="description" content="A blog about technology, life and sailing. Written by a geek, for geeks and everyone else who is interested."/>
+<meta name="twitter:title" content="Hello, World!"/>
+<meta name="twitter:url" content="https://www.kapsi.de"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="A blog about technology, life and sailing. Written by a geek, for geeks and everyone else who is interested."/>
+<meta name="description" content="A blog about technology, life and sailing. Written by a geek, for geeks and 
+everyone else who is interested." />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/uP1kFfT7ekhTq9rruDPgqOfgsqELODj6SwAqhKq36XSfeTXffFHN4UJLFRbh52jhWDs8ZAFK5QiyZ2MojAIXFhIa5AFqwDMDwgT1HKonjWgD-PoDSWmyScmDSeBRZPoRdhXC-hB3Shq0Ze9C-hB3Shq0SaBujW48Sagyjh90jhNlOeUzjhBC-eNDifUaiaS0-hB3Shq0Ze9CiaiaOclySYFTO1FUiABkZWF3jAF8OcFzdPJwSY4zpe8ljPu0daZyJ68ciWsuScIlSYbKfcuuShmzOWFyd1w7fbKzMsMMeMb6MKG4fHXgIMMjgKMfH6qJK3IbMg6YJMJ7fbK3MsMMeMt6MKG4fHtgIMMjIfMfH6qJRMIbMg6sJMJ7fbKImsMgeMb6MKG4fJBmIMIjgkMfH6qJX3vbMy6gJMHbMd2a1ibB.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"4eecb97ad09aa47a79cd3030","identifier":"kapsi","websiteType":1,"contentModifiedOn":1617074705322,"cloneable":false,"hasBeenCloneable":false,"developerMode":true,"siteStatus":{},"language":"en-US","timeZone":"Europe/Tallinn","machineTimeZoneOffset":7200000,"timeZoneOffset":7200000,"timeZoneAbbr":"EET","siteTitle":"Hello, World!","fullSiteTitle":"Hello, World!","siteTagLine":"","siteDescription":"<p><em>Opinions expressed are solely my own and do not express the views or opinions of my employer.</em></p><p>A blog about technology, life and sailing. Written by a geek, for geeks and everyone else who is interested...</p>","location":{"mapZoom":10.0,"mapLat":40.720882,"mapLng":-74.000988,"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"shareButtonOptions":{"1":true,"7":true,"3":true,"6":true},"authenticUrl":"https://www.kapsi.de","internalUrl":"https://kapsi.squarespace.com","baseUrl":"https://www.kapsi.de","primaryDomain":"www.kapsi.de","sslSetting":3,"isHstsEnabled":true,"typekitId":"","statsMigrated":true,"imageMetadataProcessingEnabled":false,"screenshotId":"a1e23baf","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"4eecb97ad09aa47a79cd3031","websiteId":"4eecb97ad09aa47a79cd3030","type":"Personal","subjects":[{"systemSubject":"tech"}],"country":"EE","state":"NY","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":false,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Adventures","id":"5276d94fe4b0ad8b178d660e","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"auto-play":"true","galleryAutoPlayDelay":"4","index-transition":"Fade","lightbox-transition":"Slide","product-gallery-auto-crop":"true","product-image-auto-crop":"true","slides-click-through":"false"},"templateId":"5033d04324ac5fb46aa385ea","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/4eecb97ad09aa47a79cd3030/14/scripts/","betaFeatureFlags":["customer_account_creation_recaptcha","commerce_afterpay_pdp","campaigns_banner_reduce_size","commerce_product_review_etsy_import","campaigns_global_uc_ab","campaigns_thumbnail_layout","reduce_general_search_api_traffic","commerce_product_branching","startup_checklist","scheduling_block_schema_editor","commerce_activation_experiment_add_payment_processor_card","google_analytics_4_gtag_js","campaigns_blog_product_image_editor","commerce_category_id_discounts_enabled","commerce_etsy_product_import","commerce_restock_notifications","viewer-role-contributor-invites","campaigns_show_apply_website_styles_button","campaigns_new_subscriber_search","commerce_product_review_import_ga","campaigns_audience_card","background_art_onboarding","commerce_clearpay","category-delete-product-service-enabled","campaigns_hide_deleted_automations_panel","member_areas_pricing_options_discounts","member_areas_schedule_interview","commerce_etsy_shipping_import","commerce_site_visitor_metrics","commerce_product_composer_ab_test_all_users","nested_categories_migration_enabled","commerce_pdp_layouts_ga","member_areas_spanish_interviews","campaigns_section_reorder_arrows"],"impersonatedSession":false,"tzData":{"zones":[[120,"EU","EE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.kapsi.de/adventures?format=rss" />
+<script type="application/ld+json">{"url":"https://www.kapsi.de","name":"Hello, World!","description":"<p><em>Opinions expressed are solely my own and do not express the views or opinions of my employer.</em></p><p>A blog about technology, life and sailing. Written by a geek, for geeks and everyone else who is interested...</p>","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","telephone":"","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","name":"","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/4eecb97ad09aa47a79cd3030/86/5033d04324ac5fb46aa385ea/5033d04324ac5fb46aa385fe/14/site.css"/><meta name="google-site-verification" content="Srv1jJ-q_l-yzv7iO16URD6s8Cc_ghOCjfHRUI2_HCk" /><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-15963462-1');</script><!-- End of Squarespace Headers -->
+
+</head>
+
+<body id="collection-5276d94fe4b0ad8b178d660e" class="index-transition-fade hide-arrows  auto-play  lightbox-transition-slide content-alignment-center  underline-body-links  sidebar-position-right show-social-icons social-icon-style-normal  product-list-titles-under product-list-alignment-left product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-excerpts event-list-date event-list-time event-list-address event-icalgcal-links      opentable-style-light newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square button-style-default button-corner-style-square native-currency-code-usd collection-5276d94fe4b0ad8b178d660e collection-type-index collection-layout-default homepage view-list mobile-style-available page-adventures">
+  <div class="sqs-announcement-bar-dropzone"></div><!--Fixes index page loading issue when announcement bar is enabled -->
+
+  <div id="canvasWrapper">
+
+    <div id="canvas">
+      <div id="headerWrapper">
+
+        
+        <header id="header">
+          <div class="wrapper">
+            <div id="logo" data-content-field="site-title">
+            
+              <h1 class="logo logo-text"><a href="/">Hello, World!</a></h1>
+            
+
+            <script>
+              Y.use('squarespace-ui-base', function(Y) {
+                Y.one(".logo a").plug(Y.Squarespace.TextShrink, {
+                  parentEl: Y.one('#header'),
+                  triggerWidth: 768
+                });
+              });
+            </script>
+
+            
+            </div>
+
+            <span class="ctrl-button menu"><a class="icon-hamburger"></a></span>
+
+            <div id="topNav">
+              
+              
+            </div>
+        </div>
+        </header>
+        
+
+        
+          <nav id="mobile-navigation">
+            
+<!--MOBILE-->
+
+            
+            
+
+            <div id="mobile-location">
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+              <div></div>
+            </div>
+            
+            
+          </nav>
+        
+      </div>
+
+      <div class="pageWrapper">
+        <section id="page">
+          <div id="mainContent" role="main" data-content-field="main-content">
+
+            
+            
+            <div id="fullscreenBrowser" class="galleryWrapper">
+    <div class="slideshow main">
+      
+          <div class="slide content-fill" data-slide-id="5276d968e4b0ad8b178d6628" data-slide-url="bvi">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383781681383-GX40Q0XGWVHWTX7M04J7/6791865861_db2095998e_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383781681383-GX40Q0XGWVHWTX7M04J7/6791865861_db2095998e_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="6791865861_db2095998e_o.jpg" 
+              
+              data-color-topleft="#9497a4"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/bvi"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">British Virgin Islands</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="527d36b0e4b0e54eaaa69245" data-slide-url="yellowstone">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383937857067-T54XC3Q6V8LLY6XUBEHQ/8052197024_58973e1240_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383937857067-T54XC3Q6V8LLY6XUBEHQ/8052197024_58973e1240_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="8052197024_58973e1240_o.jpg" 
+              
+              data-color-topleft="#a1b7c9"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/yellowstone"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Yellowstone</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="527d1ac9e4b06f0e4b3df8f1" data-slide-url="st-lucia">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383930843583-NB95OUBKTG1ASIUREUBW/3438671364_dcc8e3a854_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383930843583-NB95OUBKTG1ASIUREUBW/3438671364_dcc8e3a854_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="3438671364_dcc8e3a854_o.jpg" 
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/st-lucia"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">St. Lucia</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="527d1b1ce4b064f4333acd88" data-slide-url="st-martin">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383930723661-087MJ7RWG31OU3LPQY6C/758819294_bdab8a972c_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383930723661-087MJ7RWG31OU3LPQY6C/758819294_bdab8a972c_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="758819294_bdab8a972c_o.jpg" 
+              
+              data-color-topleft="#4b678d"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/st-martin"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">St. Martin</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="527d19f8e4b0bab8ccd1003f" data-slide-url="costa-rica">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383930417517-22RQCCNZ7II1YL2AFT5I/121700034_b1cc8296fa_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1383930417517-22RQCCNZ7II1YL2AFT5I/121700034_b1cc8296fa_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="121700034_b1cc8296fa_o.jpg" 
+              
+              data-color-topleft="#dbd7cf"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/costa-rica"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Costa Rica</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="52b9a75ce4b0a0814e2c33e6" data-slide-url="peru">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1387898742583-8LKHVJY69NKCEPLYHQN0/11525825344_68c4a45677_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1387898742583-8LKHVJY69NKCEPLYHQN0/11525825344_68c4a45677_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="11525825344_68c4a45677_o.jpg" 
+              
+              data-color-topleft="#7ba5d0"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/peru"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Peru</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="538dc859e4b0ebe38ce6ddfd" data-slide-url="sint-eustatius">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1401800824372-F617W0KEON2YI57O1P1M/10397121_10152164847767549_5037026237101859769_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1401800824372-F617W0KEON2YI57O1P1M/10397121_10152164847767549_5037026237101859769_o.jpg" data-image-dimensions="2048x1536" data-image-focal-point="0.5,0.5" alt="10397121_10152164847767549_5037026237101859769_o.jpg" 
+              
+              data-color-topleft="#487ccd"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/sint-eustatius"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Sint Eustatius</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="54ec9747e4b0c4f916096544" data-slide-url="islands-of-the-saints">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1424791423218-EBXZJCQW9V02QAVN5RCN/16408793628_73975a0815_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1424791423218-EBXZJCQW9V02QAVN5RCN/16408793628_73975a0815_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.49166666666666664,0.6444444444444445" alt="16408793628_73975a0815_o.jpg" 
+              
+              data-color-topleft="#fefefe"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/islands-of-the-saints"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Îles des Saintes</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="559d3c48e4b0233f5296bbf1" data-slide-url="france">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1436367967220-SVG1TQ5QUDU2L47U5CSS/18823651454_2a91ed3f39_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1436367967220-SVG1TQ5QUDU2L47U5CSS/18823651454_2a91ed3f39_o.jpg" data-image-dimensions="2500x3333" data-image-focal-point="0.5,0.5" alt="18823651454_2a91ed3f39_o.jpg" 
+              
+              data-color-topleft="#5d75a0"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/france"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">France</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="559d3cf8e4b0a6ed5cd7ff1e" data-slide-url="estonia">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1436368221984-1F4BO96F0H1O3NUOCZQV/18823486314_68b17bcbd0_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1436368221984-1F4BO96F0H1O3NUOCZQV/18823486314_68b17bcbd0_o.jpg" data-image-dimensions="2500x1875" data-image-focal-point="0.5,0.5" alt="18823486314_68b17bcbd0_o.jpg" 
+              
+              data-color-topleft="#4b5f87"
+              data-weight-topleft="dark"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/estonia"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">Estonia</span></a>
+            </div>
+
+          </div>
+      
+          <div class="slide content-fill" data-slide-id="57769f23d482e94fd9ec3e0b" data-slide-url="st-lucia-st-vincent-and-the-grenadines">
+
+            
+            <img class="loading" data-src="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1467391934405-KON8452JTDSM9KTBYVZ0/27673636091_949f19ff1a_o.jpg" data-image="https://images.squarespace-cdn.com/content/v1/4eecb97ad09aa47a79cd3030/1467391934405-KON8452JTDSM9KTBYVZ0/27673636091_949f19ff1a_o.jpg" data-image-dimensions="4160x3088" data-image-focal-point="0.5,0.5" alt="" 
+              
+              data-color-topleft="#8d8f9c"
+              data-weight-topleft="light"
+              
+              data-load="false"/>
+            
+
+            <div id="loading-indicator" class="sqs-spin visible">
+              <div class="sqs-spin-content"></div>
+            </div>
+
+            <div class="index-overlay"></div>
+            <div class="collection-detail-wrapper">
+                <a href="/st-lucia-st-vincent-and-the-grenadines"><span class="folder-title">Adventures</span><span class="folder-separator">&nbsp;/&nbsp;</span><span class="collection-title">St. Lucia & St. Vincent and the Grenadines</span></a>
+            </div>
+
+          </div>
+      
+    </div>
+
+    <script>
+      Y.use('squarespace-ui-base', function(Y) {
+        Y.all(".collection-detail-wrapper a").each(function(node) { 
+          node.plug(Y.Squarespace.TextShrink, {
+            triggerWidth: 768
+          });
+        });
+      });
+    </script>
+            
+    
+    <div class="nav-projects">
+      <div class="arrow-wrapper left">
+        <a class="nav-button prev-slide" data-direction="L"></a>
+      </div>
+      <div class="arrow-wrapper right">
+        <a class="nav-button next-slide" data-direction="R"></a>
+      </div>
+    </div>
+
+  </div>
+            
+          </div>
+
+          
+          
+          
+        </section>
+
+        
+        
+        
+        
+      </div>
+    </div>
+  </div>
+
+<script type="text/javascript" src="https://static1.squarespace.com/static/ta/4eecb97ad09aa47a79cd3030/14/scripts/combo/?site.js"></script>
+<script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+</body>
+</html>
+

@@ -1,0 +1,17 @@
+GET https://anngoodspeed.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:59:09 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=icl3cqesufa4kui1fpgus3op2u; expires=Thu, 03-Mar-2022 23:59:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0f1bb88b-e1e4-4de3-b105-b2474b56368a; expires=Thu, 01-Feb-2024 23:59:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent

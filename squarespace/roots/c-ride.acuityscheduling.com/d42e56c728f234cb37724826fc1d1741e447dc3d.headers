@@ -1,0 +1,15 @@
+GET https://c-ride.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:02:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=na57ljgik77su5sprv30ppa6p3; expires=Fri, 04-Mar-2022 00:01:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5a8e963a-878d-4be6-ae0c-703755d47189; expires=Fri, 02-Feb-2024 00:02:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8

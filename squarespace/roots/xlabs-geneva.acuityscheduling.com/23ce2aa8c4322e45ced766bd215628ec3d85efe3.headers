@@ -1,0 +1,15 @@
+GET https://xlabs-geneva.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:56:19 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=3sbjoqct0ofl7ou04vncn6rlmj; expires=Thu, 03-Mar-2022 23:56:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0ab15c6f-6d5d-415b-ade4-518e386bce11; expires=Thu, 01-Feb-2024 23:56:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

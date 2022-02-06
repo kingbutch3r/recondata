@@ -1,0 +1,10 @@
+GET http://pre-.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:52:40 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BaPIy640HA9nZTFlOTliYjM4NWE0MTdkNDFmOWNmODg0ZGNiZWY3;Path=/
+< X-Contextid: KhVkWk0r/677RHMMm
+< Age: 0
+< Content-Type: text/html;charset=utf-8

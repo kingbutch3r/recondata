@@ -1,0 +1,17 @@
+GET https://www.borp.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=efqlrgms28g5ofvibpknd8jm1h; expires=Fri, 04-Mar-2022 00:27:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=44961213-8b62-4c78-85a2-d53b13626a4b; expires=Fri, 02-Feb-2024 00:27:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:27:16 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"

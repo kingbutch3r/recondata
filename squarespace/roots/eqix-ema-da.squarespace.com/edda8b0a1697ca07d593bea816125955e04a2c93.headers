@@ -1,0 +1,13 @@
+GET https://eqix-ema-da.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:56:19 GMT
+< Set-Cookie: crumb=BYrBb1sbmaupODY1YzM3ODBhZjY4YmQxOWJjMTFlNmYyMzdiMDcy;Path=/
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: fQxJt8O0/hkTnnUbR

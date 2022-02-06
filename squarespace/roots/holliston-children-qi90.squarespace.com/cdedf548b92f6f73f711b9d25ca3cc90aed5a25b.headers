@@ -1,0 +1,17 @@
+GET https://holliston-children-qi90.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< Age: 0
+< Etag: W/"fe74166123f70a22ee384655d1d2eee8"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:50:00 GMT
+< Last-Modified: Tue, 01 Feb 2022 23:47:41 GMT
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BWwPdDpwO6X7OTYzNDc0Y2RmOGYwYjdjZTM1MGUxMjI3NjVkMzY3;Path=/
+< X-Contextid: oCSkP6vz/645gbkXz

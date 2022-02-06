@@ -1,0 +1,15 @@
+GET https://drjeanlayton.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:24:22 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=1egvtamc4qtb57o9358crlg8eb; expires=Fri, 04-Mar-2022 00:24:21 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1399f17d-17ac-4341-ae0e-6547b6ba55a8; expires=Fri, 02-Feb-2024 00:24:22 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"

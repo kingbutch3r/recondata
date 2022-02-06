@@ -1,0 +1,6487 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  >
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="initial-scale=1">
+
+    <!-- This is Squarespace. --><!-- seattlesymphonypress -->
+<base href="">
+<meta charset="utf-8" />
+<title>Seattle Symphony Press </title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1531539906530-RNY0A5GHIYIFJA7KB3GN/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://seattlesymphonypress.squarespace.com"/>
+<meta property="og:site_name" content="Seattle Symphony Press "/>
+<meta property="og:title" content="Seattle Symphony Press "/>
+<meta property="og:url" content="https://seattlesymphonypress.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5b496f57ec4eb760e0a13396/t/61e9dcf449705212d84e8d96/1642716413606/option+3.png?format=1500w"/>
+<meta property="og:image:width" content="1280"/>
+<meta property="og:image:height" content="635"/>
+<meta itemprop="name" content="Seattle Symphony Press "/>
+<meta itemprop="url" content="https://seattlesymphonypress.squarespace.com"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5b496f57ec4eb760e0a13396/t/61e9dcf449705212d84e8d96/1642716413606/option+3.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5b496f57ec4eb760e0a13396/t/61e9dcf449705212d84e8d96/1642716413606/option+3.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5b496f57ec4eb760e0a13396/t/61e9dcf449705212d84e8d96/1642716413606/option+3.png?format=1500w"/>
+<meta name="twitter:title" content="Seattle Symphony Press "/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5b496f57ec4eb760e0a13396/t/61e9dcf449705212d84e8d96/1642716413606/option+3.png?format=1500w"/>
+<meta name="twitter:url" content="https://seattlesymphonypress.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/ebsMnsj6ViW0zPPJdqgBF1yiBvUKGY67eePtyheWQnMfeGq2fFHN4UJLFRbh52jhWDmKF2qhZR9aZAwXZAJaFRg8weIUwDwoFyTrHKoDZABXieU8Sa8lSeyzd183ScmDSkoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOYF8jWsXdemDpAu3-eN0pWgkZWFDO1FUiABkZWF3jAF8OcFzdPUaiaS0ShmyiYsCZWFodWgGdhooSY48Saw0SaBujW48Sagyjh90jhNlJ6U3ScNt-AuyOAozicIKgW4udcsyJ68ciWsuScIlSYb7fbRKHyMMeMw6MKG4fHvgIMMjgfMfH6GJCwbgIMMjgPMfH6qJnbIbMg6eJMJ7fbKOMsMMeMS6MKG4f5w7IMMj2PMfH6GJCSbgIMMj2kMfH6qJRMIbMg6sJMJ7fbRnVsMgeMw6MKG4f59NIMIjgfMfH6qJoDXbMs6BJMJ7fbRTVsMgeMS6MKG4f5GNIMIjIPMfH6qJy89bMy62JMJ7fbKImsMfeMb6MKG4f54oIMJjgKMfH6qJ6m9bMy6YJMHbMSVTkN3B.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"5b496f57ec4eb760e0a13396","identifier":"seattlesymphonypress","websiteType":1,"contentModifiedOn":1642724356804,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Los_Angeles","machineTimeZoneOffset":-28800000,"timeZoneOffset":-28800000,"timeZoneAbbr":"PST","siteTitle":"Seattle Symphony Press ","fullSiteTitle":"Seattle Symphony Press ","siteDescription":"<p>Seattle Symphony\u2019s comprehensive press room makes all our recent release materials easily accessible to journalists, editors and presenters in one easy location. &nbsp;</p>","logoImageId":"61eaf06c7db5d572164e1f24","socialLogoImageId":"5d856321e7a895378260fc82","shareButtonOptions":{"4":true,"1":true,"7":true,"8":true,"6":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/397d254c-b2c9-4103-90a6-0707d0115991/SSOlogo_primary_RGB_mag-blk_notag.jpg","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1569022754632-O9TNJNF9B7VW3KFM8FVN/Dausgaard+press+site.jpg","authenticUrl":"https://seattlesymphonypress.squarespace.com","internalUrl":"https://seattlesymphonypress.squarespace.com","baseUrl":"https://seattlesymphonypress.squarespace.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":20,"userId":"shiva.shafii@seattlesymphony.org","screenname":"press@seattlesymphony.org","addedOn":1531544034402,"profileUrl":"mailto:press@seattlesymphony.org","iconEnabled":true,"serviceName":"email"},{"serviceId":25,"userId":"118027647","userName":"seattlesymphony","screenname":"Seattle Symphony","addedOn":1531544290396,"profileUrl":"http://soundcloud.com/seattlesymphony","iconUrl":"https://i1.sndcdn.com/avatars-000184186009-ry4mig-large.jpg","iconEnabled":true,"serviceName":"soundcloud"},{"serviceId":2,"userId":"10206169919518815","screenname":"Seattle Symphony","addedOn":1531544328155,"profileUrl":"http://www.facebook.com/seattlesymphony/","iconUrl":"http://graph.facebook.com/10206169919518815/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":10,"userId":"188107900","userName":"seattlesymphony","screenname":"Seattle Symphony","addedOn":1531544409602,"profileUrl":"http://instagram.com/seattlesymphony","iconUrl":"https://scontent.cdninstagram.com/vp/bd5db2117b6b5519edcf12d4eff7df4a/5BD491A4/t51.2885-19/s150x150/12120473_1666792623567018_1637338493_a.jpg","collectionId":"5b498359d274cbf4debae272","iconEnabled":true,"serviceName":"instagram"},{"serviceId":4,"userId":"18091654","userName":"seattlesymphony","screenname":"Seattle Symphony","addedOn":1531544477121,"profileUrl":"https://twitter.com/seattlesymphony","iconUrl":"http://pbs.twimg.com/profile_images/657777456170954752/dxTPzEnh_normal.png","collectionId":"5b49839d9772ae713324a016","iconEnabled":true,"serviceName":"twitter"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"4aa1ce651fbc2d042e1380496d288f8bc079af1647f70c524ccb68e7d12391a2","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5b496f57ec4eb760e0a13398","websiteId":"5b496f57ec4eb760e0a13396","subjects":[],"country":"US","state":"WA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":1,"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":false,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Press releases","id":"5b90128b352f537d3b52da46","fullUrl":"/","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"true","gallery-design":"Slideshow","gallery-info-overlay":"Hide","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","tweak-blog-list-columns":"5","tweak-blog-list-item-image-aspect-ratio-grid":"1:1 Square","tweak-blog-list-item-image-aspect-ratio-stacked":"1:1 Square","tweak-blog-list-item-image-show":"true","tweak-blog-list-spacing":"27px","tweak-blog-list-style":"Grid","tweak-footer-layout":"Stacked","tweak-header-bottom-overlay-on-index-gallery":"false","tweak-index-gallery-apply-bottom-spacing":"true","tweak-index-gallery-autoplay-duration":"3.4","tweak-index-gallery-autoplay-enable":"true","tweak-index-gallery-fixed-height":"false","tweak-index-gallery-height":"80vh","tweak-index-gallery-indicators":"None","tweak-index-gallery-layout":"Packed","tweak-index-gallery-transition":"Fade","tweak-index-gallery-transition-duration":"355","tweak-index-nav-position":"Right","tweak-index-page-apply-bottom-spacing":"false","tweak-index-page-fullscreen":"None","tweak-index-page-min-height":"100vh","tweak-mobile-breakpoint":"640px","tweak-overlay-parallax-enabled":"true","tweak-overlay-parallax-new-math":"true","tweak-product-item-image-zoom-factor":"1.5","tweak-product-list-item-hover-behavior":"Show Alternate Image","tweak-product-list-items-per-row":"4","tweak-related-products-items-per-row":"3","tweak-related-products-title-spacing":"50px","tweak-site-ajax-loading-enable":"true","tweak-site-border-show":"false","tweak-site-border-width":"41px"},"templateId":"55f0aac0e4b0f0a5b7e0b22e","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/","betaFeatureFlags":["member_areas_spanish_interviews","campaigns_section_reorder_arrows","scheduling_block_schema_editor","viewer-role-contributor-invites","campaigns_new_subscriber_search","startup_checklist","commerce_product_branching","campaigns_hide_deleted_automations_panel","commerce_restock_notifications","reduce_general_search_api_traffic","member_areas_schedule_interview","google_analytics_4_gtag_js","campaigns_global_uc_ab","commerce_category_id_discounts_enabled","customer_account_creation_recaptcha","commerce_afterpay_pdp","campaigns_show_apply_website_styles_button","commerce_clearpay","commerce_site_visitor_metrics","commerce_product_composer_ab_test_all_users","campaigns_audience_card","commerce_etsy_product_import","nested_categories_migration_enabled","member_areas_pricing_options_discounts","background_art_onboarding","commerce_etsy_shipping_import","commerce_activation_experiment_add_payment_processor_card","campaigns_blog_product_image_editor","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","campaigns_thumbnail_layout","commerce_pdp_layouts_ga","campaigns_banner_reduce_size","category-delete-product-service-enabled","commerce_product_review_etsy_import","commerce_product_review_import_ga"],"impersonatedSession":false,"tzData":{"zones":[[-480,"US","P%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"https://seattlesymphonypress.squarespace.com","name":"Seattle Symphony Press ","description":"<p>Seattle Symphony\u2019s comprehensive press room makes all our recent release materials easily accessible to journalists, editors and presenters in one easy location. &nbsp;</p>","image":"//images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/397d254c-b2c9-4103-90a6-0707d0115991/SSOlogo_primary_RGB_mag-blk_notag.jpg","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5b496f57ec4eb760e0a13396/71/55f0aac0e4b0f0a5b7e0b22e/5b496f57ec4eb760e0a133aa/347-05142015/1642716420920/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  </head>
+  <body id="collection-5b90128b352f537d3b52da46" class="tweak-social-icons-style-solid tweak-social-icons-shape-circle tweak-site-width-option-full-background tweak-icon-weight-light  tweak-site-ajax-loading-enable tweak-site-ajax-loading-bar-show ancillary-header-top-left-layout-horizontal ancillary-header-top-center-layout-stacked ancillary-header-top-right-layout-horizontal ancillary-header-bottom-left-layout-horizontal ancillary-header-bottom-center-layout-horizontal ancillary-header-bottom-right-layout-horizontal ancillary-header-branding-position-top-left ancillary-header-tagline-position-hide ancillary-header-primary-nav-position-top-right ancillary-header-secondary-nav-position-top-right ancillary-header-social-position-hide ancillary-header-search-position-hide ancillary-header-cart-position-hide ancillary-header-account-position-hide tweak-header-primary-nav-hover-style-active tweak-header-primary-nav-button-style-solid tweak-header-primary-nav-button-shape-square tweak-header-secondary-nav-inherit-styles tweak-header-secondary-nav-hover-style-spotlight tweak-header-secondary-nav-button-style-solid tweak-header-secondary-nav-button-shape-square tweak-header-search-style-underlined tweak-header-search-placeholder-show tweak-header-cart-style-text tweak-header-account-style-text tweak-overlay-parallax-enabled tweak-overlay-parallax-new-math tweak-index-nav-style-none tweak-index-nav-position-right tweak-index-nav-text-show tweak-index-page-fullscreen-none  tweak-index-page-scroll-indicator-none tweak-index-page-scroll-indicator-icon-arrow tweak-index-page-scroll-indicator-icon-weight-hairline  tweak-index-gallery-layout-packed    tweak-index-gallery-apply-bottom-spacing tweak-index-gallery-hover-style-plain tweak-index-gallery-controls-none tweak-index-gallery-controls-icon-weight-light tweak-index-gallery-indicators-none tweak-index-gallery-autoplay-enable tweak-index-gallery-transition-fade tweak-index-gallery-content-position-bottom-right tweak-index-gallery-content-text-alignment-left tweak-footer-show tweak-footer-layout-stacked  tweak-footer-stacked-alignment-center   tweak-mobile-bar-top-fixed ancillary-mobile-bar-branding-position-top-center ancillary-mobile-bar-menu-icon-position-top-left tweak-mobile-bar-menu-icon-vertical-dots ancillary-mobile-bar-search-icon-position-hide ancillary-mobile-bar-cart-position-top-right tweak-mobile-bar-cart-style-text ancillary-mobile-bar-account-position-hide tweak-mobile-bar-account-style-text tweak-mobile-overlay-slide-origin-right tweak-mobile-overlay-close-show  tweak-mobile-overlay-menu-primary-button-style-solid tweak-mobile-overlay-menu-primary-button-shape-square tweak-mobile-overlay-menu-secondary-inherit  tweak-mobile-overlay-menu-secondary-button-style-solid tweak-mobile-overlay-menu-secondary-button-shape-square tweak-quote-block-alignment-left  tweak-blog-meta-primary-date tweak-blog-meta-secondary-none tweak-blog-list-style-grid tweak-blog-list-separator-show tweak-blog-list-alignment-left tweak-blog-list-item-image-show tweak-blog-list-item-image-aspect-ratio-grid-11-square tweak-blog-list-item-image-aspect-ratio-stacked-11-square tweak-blog-list-item-title-show tweak-blog-list-item-excerpt-show tweak-blog-list-item-body-show tweak-blog-list-item-readmore-below-excerpt tweak-blog-list-item-meta-position-above-title tweak-blog-list-pagination-link-label-show  tweak-blog-list-pagination-link-icon-weight-light tweak-blog-item-alignment-left tweak-blog-item-meta-position-above-title tweak-blog-item-share-position-below-content tweak-blog-item-pagination-link-icon-show tweak-blog-item-pagination-link-label-show tweak-blog-item-pagination-link-title-show tweak-blog-item-pagination-link-meta-hide tweak-blog-item-pagination-link-icon-weight-hairline event-disable-item-pages event-show-past-events  event-thumbnail-size-11-square event-date-label   event-list-date event-list-time event-list-address  event-list-like-and-share-buttons   event-excerpts event-list-cta-button event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-hide gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop gallery-autoplay  tweak-product-list-image-aspect-ratio-11-square tweak-product-list-item-hover-behavior-show-alternate-image tweak-product-list-meta-position-under tweak-product-list-mobile-meta-position-under tweak-product-list-meta-alignment-under-center tweak-product-list-meta-alignment-overlay-center-center tweak-product-list-show-title  tweak-product-list-filter-display-hide tweak-product-list-filter-alignment-left tweak-product-item-nav-show-breadcrumb-only tweak-product-item-nav-pagination-style-titles tweak-product-item-nav-breadcrumb-alignment-left tweak-product-item-nav-pagination-alignment-split tweak-product-item-gallery-position-left tweak-product-item-gallery-design-stacked tweak-product-item-gallery-aspect-ratio-11-square tweak-product-item-gallery-thumbnail-alignment-left tweak-product-item-details-alignment-left tweak-product-item-details-show-title tweak-product-item-details-show-price tweak-product-item-details-show-excerpt tweak-product-item-details-excerpt-position-below-price tweak-product-item-details-show-share-buttons tweak-product-item-details-show-variants tweak-product-item-details-show-quantity tweak-product-item-details-options-style-pill tweak-product-item-details-show-add-to-cart-button tweak-product-item-details-add-to-cart-button-style-outline tweak-product-item-details-add-to-cart-button-shape-pill tweak-product-item-details-add-to-cart-button-padding-medium  tweak-product-item-image-zoom-behavior-hover  tweak-related-products-image-aspect-ratio-11-square tweak-related-products-meta-alignment-under-center tweak-product-badge-style-none tweak-product-badge-position-top-right tweak-product-badge-inset-floating newsletter-style-light hide-opentable-icons opentable-style-dark small-button-style-outline small-button-shape-square medium-button-style-outline medium-button-shape-pill large-button-style-outline large-button-shape-pill image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-top image-block-overlap-text-alignment-center image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left  image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-center tweak-product-quick-view-lightbox-excerpt-display-hide tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light tweak-share-buttons-style-outline tweak-share-buttons-icons-show native-currency-code-usd collection-5b90128b352f537d3b52da46 collection-type-page collection-layout-default homepage mobile-style-available sqs-has-custom-cart has-logo-image has-social has-parallax-images enable-load-effects has-primary-nav has-footer-nav" data-controller="HashManager, SiteLoader, MobileClassname">
+
+    <div class="Loader"></div>
+
+    <div class="Mobile" data-nc-base="mobile-bar" data-controller="AncillaryLayout">
+  <div class="Mobile-bar Mobile-bar--top" data-nc-group="top" data-controller="MobileOffset">
+
+    <div data-nc-container="top-left">
+      <a href="/" class="Mobile-bar-branding" data-nc-element="branding" data-content-field="site-title">
+        
+          
+            <img src="//images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/397d254c-b2c9-4103-90a6-0707d0115991/SSOlogo_primary_RGB_mag-blk_notag.jpg?format=1500w" alt="Seattle Symphony Press " class="Mobile-bar-branding-logo" />
+          
+        
+      </a>
+    </div>
+    <div data-nc-container="top-center"></div>
+    <div data-nc-container="top-right"></div>
+  </div>
+  <div class="Mobile-bar Mobile-bar--bottom" data-nc-group="bottom" data-controller="MobileOffset">
+    <div data-nc-container="bottom-left">
+      <button class="Mobile-bar-menu" data-nc-element="menu-icon" data-controller-overlay="menu" data-controller="MobileOverlayToggle">
+        <svg class="Icon Icon--hamburger" viewBox="0 0 24 18">
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hamburger-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--hotdog" viewBox="0 0 24 14">
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#hotdog-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--plus" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#plus-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--dots-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#dots-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-horizontal" viewBox="0 0 25 7">
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-horizontal-icon--odd" class="use--odd"></use>
+        </svg>
+        <svg class="Icon Icon--squares-vertical" viewBox="0 0 7 25">
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--even" class="use--even"></use>
+          <use xlink:href="/assets/ui-icons.svg#squares-vertical-icon--odd" class="use--odd"></use>
+        </svg>
+      </button>
+    </div>
+    <div data-nc-container="bottom-center">
+      
+    </div>
+    <div data-nc-container="bottom-right">
+      
+      <a href="/search" class="Mobile-bar-search" data-nc-element="search-icon">
+        <svg class="Icon Icon--search" viewBox="0 0 20 20">
+          <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+        </svg>
+      </a>
+    </div>
+  </div>
+
+  <div class="Mobile-overlay">
+    <div class="Mobile-overlay-menu" data-controller="MobileOverlayFolders">
+      <div class="Mobile-overlay-menu-main">
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--primary" data-content-field="navigation">
+          
+  
+    
+    
+      <a href="https://www.seattlesymphony.org/about" class="Mobile-overlay-nav-item">
+        About
+      </a>
+    
+  
+    
+      
+        
+          <a href="/" class="Mobile-overlay-nav-item">
+            Press releases
+          </a>
+        
+      
+    
+    
+  
+    
+      
+        
+          <button class="Mobile-overlay-nav-item Mobile-overlay-nav-item--folder" data-controller-folder-toggle="presskits">
+            <span class="Mobile-overlay-nav-item--folder-label">Press Kits</span>
+          </button>
+        
+      
+    
+    
+  
+
+        </nav>
+        <nav class="Mobile-overlay-nav Mobile-overlay-nav--secondary" data-content-field="navigation">
+          
+        </nav>
+      </div>
+      <div class="Mobile-overlay-folders" data-content-field="navigation">
+        
+  
+
+  
+
+  
+    <div class="Mobile-overlay-folder" data-controller-folder="presskits">
+      <button class="Mobile-overlay-folder-item Mobile-overlay-folder-item--toggle" data-controller-folder-toggle="presskits">
+        <span class="Mobile-overlay-folder-item--toggle-label">Back</span>
+      </button>
+      
+        
+          <a href="/ssm" class="Mobile-overlay-folder-item">
+            Seattle Symphony Media
+          </a>
+        
+      
+        
+          <a href="/octave-9" class="Mobile-overlay-folder-item">
+            OCTAVE 9
+          </a>
+        
+      
+    </div>
+  
+
+        
+      </div>
+    </div>
+    <button class="Mobile-overlay-close" data-controller="MobileOverlayToggle">
+      <svg class="Icon Icon--close" viewBox="0 0 16 16">
+        <use xlink:href="/assets/ui-icons.svg#close-icon"></use>
+      </svg>
+    </button>
+    <div class="Mobile-overlay-back" data-controller="MobileOverlayToggle"></div>
+  </div>
+</div>
+
+
+    <div class="Parallax-host-outer">
+      <div class="Parallax-host" data-parallax-host>
+        
+          
+            
+              
+                
+                
+                  
+                    <div class="Parallax-item" data-parallax-item data-parallax-id="5b90128b352f537d3b52da46"></div>
+                  
+                
+              
+            
+          
+        
+      </div>
+    </div>
+
+    <div class="Site" data-nc-base="header" data-controller="AncillaryLayout">
+      <div class="sqs-announcement-bar-dropzone"></div>
+
+      
+        <header class="Header Header--top">
+          <div class="Header-inner Header-inner--top" data-nc-group="top">
+            <div data-nc-container="top-left">
+
+              <div class="Header-search" data-nc-element="search">
+                <form class="Header-search-form" action="/search" method="get">
+                  <input class="Header-search-form-input" name="q" type="text" spellcheck="false" value="" autocomplete="off" placeholder="Search" />
+                  <button class="Header-search-form-submit" type="submit" data-test="template-search">
+                    <svg class="Icon Icon--search--small" viewBox="0 0 15 15">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon--small"></use>
+                    </svg>
+                    <svg class="Icon Icon--search" viewBox="0 0 20 20">
+                      <use xlink:href="/assets/ui-icons.svg#search-icon"></use>
+                    </svg>
+                  </button>
+                </form>
+              </div>
+
+            </div>
+            <div data-nc-container="top-center">
+              
+              
+                <div class="Header-social" data-nc-element="social">
+                  
+  <nav class="SocialLinks" data-content-field="connected-accounts">
+    <div class="SocialLinks-inner">
+    <a href="mailto:press@seattlesymphony.org" target="_blank" class="SocialLinks-link email" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#email-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#email-mask"></use>
+          </svg>
+        </div>
+      </a><a href="http://soundcloud.com/seattlesymphony" target="_blank" class="SocialLinks-link soundcloud" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#soundcloud-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#soundcloud-mask"></use>
+          </svg>
+        </div>
+      </a><a href="http://www.facebook.com/seattlesymphony/" target="_blank" class="SocialLinks-link facebook" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#facebook-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#facebook-mask"></use>
+          </svg>
+        </div>
+      </a><a href="http://instagram.com/seattlesymphony" target="_blank" class="SocialLinks-link instagram" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#instagram-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#instagram-mask"></use>
+          </svg>
+        </div>
+      </a><a href="https://twitter.com/seattlesymphony" target="_blank" class="SocialLinks-link twitter" style="">
+        <div>
+          <svg class="SocialLinks-link-svg" viewBox="0 0 64 64">
+            
+            <use class="SocialLinks-link-icon" xlink:href="#twitter-icon"></use>
+            <use class="SocialLinks-link-mask" xlink:href="#twitter-mask"></use>
+          </svg>
+        </div>
+      </a>
+    </div>
+  </nav>
+
+                </div>
+              
+            </div>
+            <div data-nc-container="top-right">
+
+              
+
+            </div>
+          </div>
+        </header>
+      
+
+      <div class="Site-inner" data-controller="HeaderOverlay">
+
+        <header class="Header Header--bottom Header--overlay">
+          <div class="Header-inner Header-inner--bottom" data-nc-group="bottom">
+            <div data-nc-container="bottom-left">
+              <nav class="Header-nav Header-nav--primary" data-nc-element="primary-nav" data-content-field="navigation">
+                
+  <div class="Header-nav-inner">
+    <a href="https://www.seattlesymphony.org/about" class="Header-nav-item">About</a><a href="/" class="Header-nav-item Header-nav-item--active" data-test="template-nav">Press releases</a><span class="Header-nav-item Header-nav-item--folder">
+
+      <a href="/presskits" class="Header-nav-folder-title" data-controller="HeaderNavFolderTouch">Press Kits</a>
+
+      <span class="Header-nav-folder">
+        
+          
+            <a href="/ssm" class="Header-nav-folder-item" data-test="template-nav">Seattle Symphony Media</a>
+          
+        
+          
+            <a href="/octave-9" class="Header-nav-folder-item" data-test="template-nav">OCTAVE 9</a>
+          
+        
+      </span>
+    </span>
+  </div>
+
+              </nav>
+            </div>
+            <div data-nc-container="bottom-center">
+
+              <a href="/" class="Header-branding" data-nc-element="branding" data-content-field="site-title">
+                
+                  
+                    <img src="//images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/397d254c-b2c9-4103-90a6-0707d0115991/SSOlogo_primary_RGB_mag-blk_notag.jpg?format=1500w" alt="Seattle Symphony Press " class="Header-branding-logo" />
+                  
+                
+              </a>
+              
+
+            </div>
+            <div data-nc-container="bottom-right">
+
+              <nav class="Header-nav Header-nav--secondary" data-nc-element="secondary-nav" data-content-field="navigation">
+                
+              </nav>
+
+            </div>
+          </div>
+        </header>
+
+        <div class="Content-outer">
+          
+            
+              
+                
+                  
+                    <section class="Intro Intro--has-image" data-parallax-original-element data-parallax-id="5b90128b352f537d3b52da46" data-controller="Parallax">
+  <div class="sqs-layout sqs-grid-12 columns-12 Intro-content sqs-alternate-block-style-container" data-layout-label="Intro" data-type="block-field" data-updated-on="1536203996596" id="5b90128b352f537d3b52da46_intro"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-58403a936beaafc939d9"><div class="sqs-block-content"><h1 class="text-align-center"> </h1><h1 class="text-align-center"> </h1><p> </p><p> </p><p> </p><p> </p></div></div></div></div></div>
+  
+    
+      <figure class="Intro-image" data-parallax-image-wrapper>
+        
+  <img data-src="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1642716318370-WDZLXB2KBXXN2TBMMD3X/option+3.png" data-image="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1642716318370-WDZLXB2KBXXN2TBMMD3X/option+3.png" data-image-dimensions="1280x635" data-image-focal-point="0.5570881579554366,0.464328899637243" alt="option 3.png"  data-load="false" />
+
+      </figure>
+    
+  
+</section>
+                  
+                
+              
+            
+          
+
+          <main class="Main Main--page" >
+            
+              <section class="Main-content" data-content-field="main-content">
+                <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1624567138750" id="page-5b90128b352f537d3b52da46"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1536169086916_158634"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;">PRESS RELEASES</h1></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1536169086916_153327"><div class="sqs-block-content"><h3 style="text-align:right;white-space:pre-wrap;"><strong>MEDIA CONTACT&nbsp;</strong></h3><p style="text-align:right;white-space:pre-wrap;" class="">Dinah Lu | Director of Communications <br><a href="mailto:press@seattlesymphony.org">press@seattlesymphony.org</a>&nbsp;|&nbsp;<a href="tel:+12062154719">206.215.4719</a></p></div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1536169086916_187997"><div class="sqs-block-content"><hr /></div></div></div></div><div class="row sqs-row"><div class="col sqs-col-9 span-9"><div class="sqs-block summary-v2-block sqs-block-summary-v2" data-block-json="&#123;&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;collectionId&quot;:&quot;5b49ae26758d462d953a2630&quot;,&quot;design&quot;:&quot;list&quot;,&quot;headerText&quot;:&quot;Featured&quot;,&quot;textSize&quot;:&quot;medium&quot;,&quot;pageSize&quot;:30,&quot;imageAspectRatio&quot;:&quot;1&quot;,&quot;columnWidth&quot;:218,&quot;gutter&quot;:37,&quot;listImageSize&quot;:25,&quot;listImageAlignment&quot;:&quot;left&quot;,&quot;slidesPerRow&quot;:3,&quot;textAlignment&quot;:&quot;left&quot;,&quot;showTitle&quot;:true,&quot;showThumbnail&quot;:true,&quot;showExcerpt&quot;:false,&quot;showReadMoreLink&quot;:false,&quot;showPrice&quot;:true,&quot;productQuickViewEnabled&quot;:false,&quot;showPastOrUpcomingEvents&quot;:&quot;upcoming&quot;,&quot;metadataPosition&quot;:&quot;above-title&quot;,&quot;primaryMetadata&quot;:&quot;date&quot;,&quot;secondaryMetadata&quot;:&quot;none&quot;,&quot;filter&quot;:&#123;&#125;,&quot;autoCrop&quot;:true,&quot;lightbox&quot;:false,&quot;mixedContent&quot;:true,&quot;blockId&quot;:&quot;f6996d73f73d717e90e8&quot;&#125;" data-block-type="55" id="block-yui_3_17_2_1_1536168588153_10950"><div class="sqs-block-content">
+
+
+
+<div class="
+  summary-block-wrapper
+
+  summary-block-collection-type-blog
+
+  summary-block-setting-text-size-medium
+  summary-block-setting-text-align-left
+
+  summary-block-setting-design-list
+  summary-block-setting-design-list-thumbnail-left
+
+  summary-block-setting-metadata-position-above-title
+  summary-block-setting-primary-metadata-date
+  summary-block-setting-secondary-metadata-none
+
+  summary-block-setting-show-thumbnail
+  summary-block-setting-show-title
+  summary-block-setting-show-price
+  summary-block-setting-hide-excerpt
+  
+
+  
+
+  sqs-gallery-design-list
+
+  
+  "
+
+  
+>
+
+  <div class="summary-item-list-container sqs-gallery-container">
+
+    <header class="summary-block-header">
+      
+      <div class="summary-heading" data-animation-role="content">
+        
+          <span class="summary-header-text">Featured</span>
+        
+      </div>
+
+      
+      <div class="summary-carousel-pager sqs-gallery-controls" data-animation-role="content">
+        <span
+          class="summary-carousel-pager-prev previous"
+          tabindex="0"
+          role="button"
+          aria-label="Previous"
+        ></span>
+        <span
+          class="summary-carousel-pager-next next"
+          tabindex="0"
+          role="button"
+          aria-label="Next"
+        ></span>
+      </div>
+
+    </header>
+
+    <div class="summary-item-list sqs-gallery">
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-02-01">Feb 1, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/seattle-symphony-announces-songs-of-the-earth-live-streaming"
+                  
+                
+                class="summary-title-link">THE SEATTLE SYMPHONY ANNOUNCES LIVESTREAM OF SONGS OF THE EARTH ON SEATTLE SYMPHONY LIVE ON FEBRUARY 10</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-02-01">Feb 1, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-02-01">Feb 1, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-31">Jan 31, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2022/1/31-eo9066-broadcast-on-seattle-symphony-live-february-1724"
+                  
+                
+                class="summary-title-link">THE SEATTLE SYMPHONY ANNOUNCES EO9066 CONCERT BROADCAST ON SEATTLE SYMPHONY LIVE FEBRUARY 17–24 TO MARK 80TH ANNIVERSARY OF EXECUTIVE ORDER 9066</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-31">Jan 31, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-31">Jan 31, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-13">Jan 13, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/estel-gomez-to-replace-soprano-nell-snaidas"
+                  
+                
+                class="summary-title-link">NOTICE OF ARTIST CHANGE: ESTELÍ GOMEZ  TO REPLACE SOPRANO NELL SNAIDAS IN JANUARY 13–16 CONCERTS </a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-13">Jan 13, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-13">Jan 13, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-13">Jan 13, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2022/1/12/notice-of-updated-schedule-for-livestreaming-events"
+                  
+                
+                class="summary-title-link">NOTICE OF UPDATED SCHEDULE FOR JANUARY–MARCH LIVESTREAMING EVENTS</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-13">Jan 13, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-13">Jan 13, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-10">Jan 10, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/notice-of-january-program-changes"
+                  
+                
+                class="summary-title-link">NOTICE OF UPCOMING JANUARY PROGRAM CHANGES: TWO PERFORMANCES RESCHEDULED DUE TO COVID-19  </a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-10">Jan 10, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-10">Jan 10, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-07">Jan 7, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2022/1/7/welcomes-guest-conductors-for-remainder-of-the-2122-season"
+                  
+                
+                class="summary-title-link">NOTICE OF CONDUCTOR CHANGES: SEATTLE SYMPHONY WELCOMES GUEST CONDUCTORS TO BENAROYA HALL FOR REMAINDER OF THE 2021/2022 SEASON</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-07">Jan 7, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-07">Jan 7, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-07">Jan 7, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2022/1/7/the-seattle-symphony-announce-closure-of-music-director-tenure"
+                  
+                
+                class="summary-title-link">THOMAS DAUSGAARD AND THE SEATTLE SYMPHONY ANNOUNCE CLOSURE OF HIS TENURE AS MUSIC DIRECTOR</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-07">Jan 7, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-07">Jan 7, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/pressreleases/2122/grammy-nomination"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="SEATTLE SYMPHONY RECEIVES GRAMMY NOMINATION FOR BEST ORCHESTRAL PERFORMANCE"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    <!-- Main Image -->
+    <img data-src="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1615331693201-UJ32K12LATUTY42V5QC2/SSM1025.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1615331693201-UJ32K12LATUTY42V5QC2/SSM1025.jpg" data-image-dimensions="693x693" data-image-focal-point="0.5,0.5" alt="SEATTLE SYMPHONY RECEIVES GRAMMY NOMINATION FOR BEST ORCHESTRAL PERFORMANCE"  data-load="false" class="summary-thumbnail-image"/>
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-06">Jan 6, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/grammy-nomination"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY RECEIVES GRAMMY NOMINATION FOR BEST ORCHESTRAL PERFORMANCE</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-06">Jan 6, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-06">Jan 6, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-06">Jan 6, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/21/free-educational-programming-family-concerts"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY ANNOUNCES FREE EDUCATIONAL PROGRAMMING AND FAMILY CONCERTS ON SEATTLE SYMPHONY LIVE</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-06">Jan 6, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2022-01-06">Jan 6, 2022</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-12-28">Dec 28, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/conductor-change-khudyev"
+                  
+                
+                class="summary-title-link">NOTICE OF CONDUCTOR CHANGE: FARKHAD KHUDYEV TO REPLACE LEE MILLS IN VIENNESE NEW YEAR CONCERTS</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-12-28">Dec 28, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-12-28">Dec 28, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-12-16">Dec 16, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/pictures-of-eo9066"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY PRESENTS “PICTURES OF EXECUTIVE ORDER 9066"</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-12-16">Dec 16, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-12-16">Dec 16, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-11-18">Nov 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/conductor-change-lee-mills"
+                  
+                
+                class="summary-title-link">NOTICE OF CONDUCTOR CHANGE: LEE MILLS TO STEP IN FOR THOMAS DAUSGAARD IN NOVEMBER 18 AND 20 CONCERTS</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-11-18">Nov 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-11-18">Nov 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-10-21">Oct 21, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/free-tickets-first-responders"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY OFFERS FREE TICKETS TO FIRST RESPONDERS FOR NOVEMBER 11 CONCERT</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-10-21">Oct 21, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-10-21">Oct 21, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-10-19">Oct 19, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/artist-program-change-bax-hodges"
+                  
+                
+                class="summary-title-link">NOTICE OF ARTIST, PROGRAM CHANGE: ALESSIO BAX TO REPLACE PIANIST NICOLAS HODGES IN NOVEMBER 11 &amp; 13 CONCERTS</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-10-19">Oct 19, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-10-19">Oct 19, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-23">Sep 23, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/conductor-soloist-change-myers-asbury"
+                  
+                
+                class="summary-title-link">NOTICE OF CONDUCTOR, SOLOIST CHANGE: THOMAS DAUSGAARD FURTHER DELAYED DUE TO PANDEMIC TRAVEL RESTRICTIONS</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-23">Sep 23, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-23">Sep 23, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-21">Sep 21, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/conductor-change/viennesenewyear"
+                  
+                
+                class="summary-title-link">NOTICE OF CONDUCTOR CHANGE: LEE MILLS TO STEP IN FOR THOMAS DAUSGAARD IN NOVEMBER 18 AND 20 CONCERTS</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-21">Sep 21, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-21">Sep 21, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/pressreleases/2122/opening-night-gala-symphony-recovery-fund"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="SEATTLE SYMPHONY RECEIVES $5.6 MILLION TO RECOVERY FUND TO LAUNCH 2021–2022 SEASON "
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    <!-- Main Image -->
+    <img data-src="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1632259269809-61W7J2R45VYVTA2RX20Z/2122_ONG_Brandon_Patoc_0018.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1632259269809-61W7J2R45VYVTA2RX20Z/2122_ONG_Brandon_Patoc_0018.jpg" data-image-dimensions="1773x1182" data-image-focal-point="0.5,0.5" alt="SEATTLE SYMPHONY RECEIVES $5.6 MILLION TO RECOVERY FUND TO LAUNCH 2021–2022 SEASON "  data-load="false" class="summary-thumbnail-image"/>
+
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-20">Sep 20, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/opening-night-gala-symphony-recovery-fund"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY RECEIVES $5.6 MILLION TO RECOVERY FUND TO LAUNCH 2021–2022 SEASON </a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-20">Sep 20, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-20">Sep 20, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-08">Sep 8, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/thomas-dausgaard-conductor-change"
+                  
+                
+                class="summary-title-link">NOTICE OF CONDUCTOR CHANGE: THOMAS DAUSGAARD’S REUNION WITH THE SEATTLE SYMPHONY POSTPONED BY PANDEMIC TRAVEL RESTRICTIONS</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-08">Sep 8, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-08">Sep 8, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-03">Sep 3, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/nancy-wilson-on-sale"
+                  
+                
+                class="summary-title-link">NANCY WILSON OF HEART WITH THE SEATTLE SYMPHONY AT BENAROYA HALL ON OCTOBER 30: ON SALE NOW</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-03">Sep 3, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-09-03">Sep 3, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-26">Aug 26, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/seattle-symphony-live-streaming"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY ANNOUNCES NEW SEATTLE SYMPHONY LIVE SEASON</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-26">Aug 26, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-26">Aug 26, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-24">Aug 24, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122/opening-weekend"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY ANNOUNCES OPENING WEEKEND</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-24">Aug 24, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-24">Aug 24, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-18">Aug 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2021/health-and-safety/vaccination"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY PLANS 2021–2022 SEASON FOR FULL AUDIENCES, REQUIRES VACCINATIONS OR NEGATIVE COVID-19 TESTS FOR ALL ATTENDEES </a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-18">Aug 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-18">Aug 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+            summary-item-has-thumbnail
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+    <div class="summary-thumbnail-outer-container">
+      <a
+        
+          
+            href="/pressreleases/2021/whitney-monge-album"
+          
+        
+        class="
+          summary-thumbnail-container
+          sqs-gallery-image-container
+          
+        "
+        data-title="WHITNEY MONGÉ RELEASES LIVE ALBUM: WHITNEY MONGÉ LIVE WITH THE SEATTLE SYMPHONY"
+        data-description=""
+      >
+        <div class="summary-thumbnail img-wrapper" data-animation-role="image">
+  
+
+  
+
+    
+
+      
+        <!-- First Image in Post -->
+        <img data-src="https://images.squarespace-cdn.com/content/v1/5b496f57ec4eb760e0a13396/1629744750878-K8YLBNZPO06LWKID4H7E/WhitneyMonge_SeattleSymphony.jpg" data-image-dimensions="636x635" data-load="false" class="summary-thumbnail-image" />
+      
+
+      
+    
+  
+
+  
+
+    
+
+    
+
+    </div>
+  </a>
+
+    <!-- Products: Quick View -->
+    
+
+    </div>
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-13">Aug 13, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2021/whitney-monge-album"
+                  
+                
+                class="summary-title-link">WHITNEY MONGÉ RELEASES LIVE ALBUM: WHITNEY MONGÉ LIVE WITH THE SEATTLE SYMPHONY</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-13">Aug 13, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-08-13">Aug 13, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-28">Jun 28, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2021/notice-of-schedule-change-nancy-wilson-of-heart-with-the-seattle-symphony"
+                  
+                
+                class="summary-title-link">NOTICE OF SCHEDULE CHANGE: NANCY WILSON OF HEART WITH THE SEATTLE SYMPHONY</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-28">Jun 28, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-28">Jun 28, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-24">Jun 24, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122season/octave9-recital-chamber-baroque"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY EXPANDS 2021–2022 SEASON: RECITALS, PREMIERES, CHAMBER PERFORMANCES &amp; NEW, IMMERSIVE OCTAVE 9 SERIES</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-24">Jun 24, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-24">Jun 24, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-03">Jun 3, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2021/fordmusicianaward-johnturman"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY HORN JOHN TURMAN TO RECEIVE FORD MUSICIAN AWARD FROM LEAGUE OF AMERICAN ORCHESTRAS FOR INSPIRING WORK OUTSIDE THE CONCERT HALL</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-03">Jun 3, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-06-03">Jun 3, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-18">May 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2021/memorialdayceremony"
+                  
+                
+                class="summary-title-link">BENAROYA HALL’S GARDEN OF REMEMBRANCE MEMORIAL DAY CEREMONY TO BE HELD ON MONDAY, MAY 31 AT 10 A.M. </a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-18">May 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-18">May 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-13">May 13, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122pops"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY ANNOUNCES THE JOHN &amp; GINNY MEISENBACH FOUNDATION POPS SERIES FOR 2021–2022 SEASON </a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-13">May 13, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-13">May 13, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-07">May 7, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2021/essentialseries/nancywilson"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY AND NANCY WILSON, CO-FOUNDER OF THE ROCK BAND HEART, UNITE FOR IMAGINATIVE, CROSS-GENRE SHOW ON JULY 9</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-07">May 7, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-05-07">May 7, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+        <div class="
+          summary-item
+          summary-item-record-type-text
+          sqs-gallery-design-list-slide
+          
+          
+          
+          summary-item-has-cats
+          summary-item-has-tags
+          summary-item-has-author
+          
+          "
+          >
+
+          
+            
+            
+  
+
+  
+
+    
+
+      
+
+      
+    
+  
+
+  
+
+
+          
+
+          <div class="summary-content sqs-gallery-meta-container" data-animation-role="content">
+
+            
+            <div class="summary-metadata-container summary-metadata-container--above-title">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-03-18">Mar 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+              <div class="summary-title">
+                <a
+                
+                  
+                    href="/pressreleases/2122season"
+                  
+                
+                class="summary-title-link">SEATTLE SYMPHONY AND THOMAS DAUSGAARD ANNOUNCE 2021–2022 MASTERWORKS SEASON</a></div>
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-title">
+            
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-03-18">Mar 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+            
+              
+            
+
+            
+
+            
+            <div class="summary-metadata-container summary-metadata-container--below-content">
+              
+              <div class="summary-metadata summary-metadata--primary">
+
+	
+	<!-- Timestamp -->
+	<time class="summary-metadata-item summary-metadata-item--date" datetime="2021-03-18">Mar 18, 2021</time>
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+              
+              <div class="summary-metadata summary-metadata--secondary">
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+            </div>
+
+          </div>
+        </div>
+      
+    </div>
+  </div>
+</div>
+</div></div></div><div class="col sqs-col-3 span-3"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1536169086916_188519"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-extra-small social-icons-shape-circle social-icons-style-knockout" >
+  <nav class="sqs-svg-icon--list">
+    <a href="mailto:press@seattlesymphony.org" target="_blank" class="sqs-svg-icon--wrapper email" aria-label="press@seattlesymphony.org">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#email-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#email-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://soundcloud.com/seattlesymphony" target="_blank" class="sqs-svg-icon--wrapper soundcloud" aria-label="Seattle Symphony">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#soundcloud-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#soundcloud-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://www.facebook.com/seattlesymphony/" target="_blank" class="sqs-svg-icon--wrapper facebook" aria-label="Seattle Symphony">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a><a href="http://instagram.com/seattlesymphony" target="_blank" class="sqs-svg-icon--wrapper instagram" aria-label="Seattle Symphony">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#instagram-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#instagram-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/seattlesymphony" target="_blank" class="sqs-svg-icon--wrapper twitter" aria-label="Seattle Symphony">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div><div class="sqs-block rss-block sqs-block-rss" data-block-type="49" id="block-yui_3_17_2_1_1536168588153_80785"><div class="sqs-block-content">
+
+
+
+<a href="https://seattlesymphonypress.squarespace.com/pressreleases?format=rss" title="Press Releases RSS" class="social-rss">Press Releases RSS</a>
+</div></div><div class="sqs-block archive-block sqs-block-archive" data-block-type="61" id="block-yui_3_17_2_1_1536168588153_88910"><div class="sqs-block-content">
+
+
+
+
+
+
+<details
+  class="
+    archive-block-wrapper
+    archive-block-setting-layout-dropdown
+    archive-block-setting-text-alignment-left
+    
+    
+    
+  "
+
+  
+>
+
+  
+    <summary class="archive-dropdown-toggle-label">
+      <span class="archive-dropdown-toggle-title">BY CATEGORY</span>
+      <span
+        class="archive-dropdown-toggle-icon"
+        
+        aria-hidden="true"
+      ></span>
+    </summary>
+  
+
+  
+
+  <ul class="archive-group-list">
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/13%2F14+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        13/14 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/14%2F15+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        14/15 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/15%2F16+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        15/16 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/16%2F17+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        16/17 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/17%2F18+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        17/18 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/18%2F19+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        18/19 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/19%2F20+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        19/20 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/20%2F21+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        20/21 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/21%2F22+SEASON" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        21/22 SEASON
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/Musicians" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        Musicians
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/OCTAVE+9" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        OCTAVE 9
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/Seattle+Symphony+Live" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        Seattle Symphony Live
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/Seattle+Symphony+Media" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        Seattle Symphony Media
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+    <li class="archive-group">
+
+      
+        
+        
+        
+        <a href="/pressreleases/category/non-SSM+recordings" class="archive-group-name-link">
+        
+      
+
+        
+
+        
+
+        
+
+        non-SSM recordings
+        
+
+        
+      </a>
+
+      
+
+    </li>
+
+    
+
+  </ul>
+
+  
+
+</details>
+</div></div><div class="sqs-block search-block sqs-block-search" data-block-type="33" id="block-yui_3_17_2_1_1536205587266_7690"><div class="sqs-block-content">
+
+<div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-dark" data-source="block" data-preview="true" data-collection="5b49ae26758d462d953a2630">
+  <div class="spinner-wrapper"></div>
+  <input
+    type="search"
+    class="search-input"
+    value=""
+    placeholder="Search"
+    aria-label="Search"
+  />
+</div>
+</div></div></div></div></div>
+              </section>
+            
+          </main>
+
+        </div>
+      </div>
+
+      
+        <footer class="Footer" role="contentinfo" data-controller="FooterBreakpoints">
+
+  <div class="Footer-inner clear">
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--top sqs-alternate-block-style-container empty" data-layout-label="Footer Top Blocks" data-type="block-field" data-updated-on="1496172425763" id="footerBlocksTop"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <div class="Footer-middle">
+      <div class="Footer-business">
+
+        
+
+        
+          
+        
+
+      </div>
+
+      <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--middle sqs-alternate-block-style-container empty" data-layout-label="Footer Middle Blocks" data-type="block-field" data-updated-on="1531848841553" id="footerBlocksMiddle"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+      
+  <nav class="Footer-nav" data-content-field="navigation">
+
+    <div class="Footer-nav-group"><div class="Footer-nav-folder-heading">Home</div>
+
+      
+
+    </div><div class="Footer-nav-group"></div>
+
+  </nav>
+
+    </div>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 Footer-blocks Footer-blocks--bottom sqs-alternate-block-style-container empty" data-layout-label="Footer Bottom Blocks" data-type="block-field" data-updated-on="1531848827328" id="footerBlocksBottom"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+  </div>
+
+</footer>
+
+      
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/55f0a9b0e4b0f3eb70352f6d/347/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="email-icon" viewBox="0 0 64 64"><path d="M17,22v20h30V22H17z M41.1,25L32,32.1L22.9,25H41.1z M20,39V26.6l12,9.3l12-9.3V39H20z"/></symbol><symbol id="email-mask" viewBox="0 0 64 64"><path d="M41.1,25H22.9l9.1,7.1L41.1,25z M44,26.6l-12,9.3l-12-9.3V39h24V26.6z M0,0v64h64V0H0z M47,42H17V22h30V42z"/></symbol><symbol id="soundcloud-icon" viewBox="0 0 64 64"><path d="M43.6,30c-0.6,0-1.2,0.1-1.7,0.3c-0.3-4-3.7-7.1-7.7-7.1c-1,0-2,0.2-2.8,0.5 C31.1,23.9,31,24,31,24.3v13.9c0,0.3,0.2,0.5,0.5,0.5c0,0,12.2,0,12.2,0c2.4,0,4.4-1.9,4.4-4.4C48,31.9,46,30,43.6,30z M27.2,25.1 c-0.7,0-1.2,0.5-1.2,1.1v11.3c0,0.7,0.6,1.2,1.2,1.2c0.7,0,1.2-0.6,1.2-1.2V26.2C28.4,25.6,27.8,25.1,27.2,25.1z M22.2,27.8 c-0.7,0-1.2,0.5-1.2,1.1v8.5c0,0.7,0.6,1.2,1.2,1.2s1.2-0.6,1.2-1.2V29C23.4,28.3,22.9,27.8,22.2,27.8z M17.2,30.2 c-0.7,0-1.2,0.5-1.2,1.1v4.9c0,0.7,0.6,1.2,1.2,1.2c0.7,0,1.2-0.6,1.2-1.2v-4.9C18.5,30.7,17.9,30.2,17.2,30.2z"/></symbol><symbol id="soundcloud-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M18.5,36.3c0,0.7-0.6,1.2-1.2,1.2c-0.7,0-1.2-0.6-1.2-1.2v-4.9c0-0.6,0.6-1.1,1.2-1.1 c0.7,0,1.2,0.5,1.2,1.1V36.3z M23.4,37.5c0,0.7-0.6,1.2-1.2,1.2S21,38.2,21,37.5V29c0-0.6,0.6-1.1,1.2-1.1s1.2,0.5,1.2,1.1V37.5z  M28.4,37.5c0,0.7-0.6,1.2-1.2,1.2c-0.7,0-1.2-0.6-1.2-1.2V26.2c0-0.6,0.6-1.1,1.2-1.1c0.7,0,1.2,0.5,1.2,1.1V37.5z M43.6,38.7 c0,0-12.1,0-12.2,0c-0.3,0-0.5-0.2-0.5-0.5V24.3c0-0.3,0.1-0.4,0.4-0.5c0.9-0.3,1.8-0.5,2.8-0.5c4,0,7.4,3.1,7.7,7.1 c0.5-0.2,1.1-0.3,1.7-0.3c2.4,0,4.4,2,4.4,4.4C48,36.8,46,38.7,43.6,38.7z"/></symbol><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="instagram-icon" viewBox="0 0 64 64"><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></symbol><symbol id="instagram-mask" viewBox="0 0 64 64"><path d="M43.693,23.153c-0.272-0.7-0.597-1.2-1.122-1.725c-0.525-0.525-1.025-0.85-1.725-1.122c-0.529-0.205-1.323-0.45-2.785-0.517c-1.582-0.072-2.056-0.087-6.061-0.087s-4.48,0.015-6.061,0.087c-1.462,0.067-2.257,0.311-2.785,0.517c-0.7,0.272-1.2,0.597-1.725,1.122c-0.525,0.525-0.85,1.025-1.122,1.725c-0.205,0.529-0.45,1.323-0.516,2.785c-0.072,1.582-0.087,2.056-0.087,6.061s0.015,4.48,0.087,6.061c0.067,1.462,0.311,2.257,0.516,2.785c0.272,0.7,0.597,1.2,1.122,1.725s1.025,0.85,1.725,1.122c0.529,0.205,1.323,0.45,2.785,0.516c1.581,0.072,2.056,0.087,6.061,0.087s4.48-0.015,6.061-0.087c1.462-0.067,2.257-0.311,2.785-0.516c0.7-0.272,1.2-0.597,1.725-1.122s0.85-1.025,1.122-1.725c0.205-0.529,0.45-1.323,0.516-2.785c0.072-1.582,0.087-2.056,0.087-6.061s-0.015-4.48-0.087-6.061C44.143,24.476,43.899,23.682,43.693,23.153z M32,39.703c-4.254,0-7.703-3.449-7.703-7.703s3.449-7.703,7.703-7.703s7.703,3.449,7.703,7.703S36.254,39.703,32,39.703z M40.007,25.793c-0.994,0-1.8-0.806-1.8-1.8c0-0.994,0.806-1.8,1.8-1.8c0.994,0,1.8,0.806,1.8,1.8C41.807,24.987,41.001,25.793,40.007,25.793z M0,0v64h64V0H0z M46.91,38.184c-0.073,1.597-0.326,2.687-0.697,3.641c-0.383,0.986-0.896,1.823-1.73,2.657c-0.834,0.834-1.67,1.347-2.657,1.73c-0.954,0.371-2.044,0.624-3.641,0.697C36.585,46.983,36.074,47,32,47s-4.585-0.017-6.184-0.09c-1.597-0.073-2.687-0.326-3.641-0.697c-0.986-0.383-1.823-0.896-2.657-1.73c-0.834-0.834-1.347-1.67-1.73-2.657c-0.371-0.954-0.624-2.044-0.697-3.641C17.017,36.585,17,36.074,17,32c0-4.074,0.017-4.585,0.09-6.185c0.073-1.597,0.326-2.687,0.697-3.641c0.383-0.986,0.896-1.823,1.73-2.657c0.834-0.834,1.67-1.347,2.657-1.73c0.954-0.371,2.045-0.624,3.641-0.697C27.415,17.017,27.926,17,32,17s4.585,0.017,6.184,0.09c1.597,0.073,2.687,0.326,3.641,0.697c0.986,0.383,1.823,0.896,2.657,1.73c0.834,0.834,1.347,1.67,1.73,2.657c0.371,0.954,0.624,2.044,0.697,3.641C46.983,27.415,47,27.926,47,32C47,36.074,46.983,36.585,46.91,38.184z M32,27c-2.761,0-5,2.239-5,5s2.239,5,5,5s5-2.239,5-5S34.761,27,32,27z"/></symbol><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol></svg>
+
+  </body>
+</html>

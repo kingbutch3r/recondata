@@ -1,0 +1,17 @@
+GET https://dollhouselashstudios.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:36:31 GMT
+< Content-Length: 0
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=n7337ljd218d956hdd01075phj; expires=Fri, 04-Mar-2022 00:36:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6c7decca-6359-41c1-b247-0c89cb14b3a3; expires=Fri, 02-Feb-2024 00:36:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

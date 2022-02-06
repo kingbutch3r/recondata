@@ -1,0 +1,17 @@
+GET https://mindfulmassagebodywork.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:16:30 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=63g4ipirhrejh1kf3udqmj1r7u; expires=Fri, 04-Mar-2022 00:16:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bb6f3a5b-3f0e-47cf-b188-d38f9e1c58ec; expires=Fri, 02-Feb-2024 00:16:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

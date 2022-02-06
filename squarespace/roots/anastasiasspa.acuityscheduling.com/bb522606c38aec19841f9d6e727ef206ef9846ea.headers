@@ -1,0 +1,15 @@
+GET https://anastasiasspa.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=8uhfb8lfl1e9h4isk79jai2t3j; expires=Fri, 04-Mar-2022 00:53:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2472eac8-4870-4d74-b9e5-3b52e0311150; expires=Fri, 02-Feb-2024 00:53:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:53:16 GMT
+< Pragma: no-cache

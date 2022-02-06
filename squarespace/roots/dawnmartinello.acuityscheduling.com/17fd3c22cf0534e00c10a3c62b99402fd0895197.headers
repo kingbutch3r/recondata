@@ -1,0 +1,17 @@
+GET https://dawnmartinello.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=o2b8bnb75p51tl67cgarqpc6ho; expires=Fri, 04-Mar-2022 00:25:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=62777899-fae3-4ab4-8b13-3bfcfd936514; expires=Fri, 02-Feb-2024 00:25:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:25:42 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

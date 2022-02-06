@@ -1,0 +1,16 @@
+GET https://vingtsur20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BbaLuLjjCh5zYzQ3ZjIyNTNhM2NmYWI5NzQ3MzA0NjI0ODhjMzAx;Path=/
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 02:25:29 GMT
+< Age: 427552
+< Etag: W/"9ed14328682d2c8299c4fe2dee989be7--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: 39WtxVp6/L7tM8gZr

@@ -1,0 +1,12 @@
+GET http://sso.harrys.com
+
+
+< HTTP/1.1 200 OK
+< X-Amz-Id-2: qtLEMT+6q9sAmJlClJFregQCBUswMWxVgFBFHXhutZ6c29bwBwYRyWEe7+t/bmHmpK7dIjNa7vM=
+< Date: Sat, 29 Jan 2022 17:39:36 GMT
+< Last-Modified: Wed, 04 Jan 2017 19:54:33 GMT
+< Etag: "68091398cd44c6bacbac4b54463b9354"
+< Content-Type: text/html
+< Content-Length: 201
+< X-Amz-Request-Id: 3TE0CN8R4ABWHKJ2
+< Server: AmazonS3

@@ -1,0 +1,15 @@
+GET https://mealplanningmama.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=8v7pai6cschos6btgol5ate9uf; expires=Thu, 03-Mar-2022 23:55:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9917654c-40fd-4b3d-97f3-757524ae0243; expires=Thu, 01-Feb-2024 23:55:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:55:03 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding,User-Agent

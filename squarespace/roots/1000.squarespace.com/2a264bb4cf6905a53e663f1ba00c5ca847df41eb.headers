@@ -1,0 +1,11 @@
+GET https://1000.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=Be9KgFA+5EtOMmExZTg0MzQyMmRkZjNhNTk1M2E5MDNmMTY3NjE4;Path=/
+< X-Contextid: fOjSq3Dt/pvwiIur6
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:11 GMT
+< Server: Squarespace

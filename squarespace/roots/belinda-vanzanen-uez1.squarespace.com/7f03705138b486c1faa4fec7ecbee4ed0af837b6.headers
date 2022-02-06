@@ -1,0 +1,11 @@
+GET http://belinda-vanzanen-uez1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://belinda-vanzanen-uez1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUkz/V5n9E1EZjU4Njg3ZTYxOWI5ZWRlZDViNDUwZTliYTAzOGQ3;Path=/
+< X-Contextid: g3y5CCNA/qPQEa12M
+< Age: 594789
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 03:38:03 GMT

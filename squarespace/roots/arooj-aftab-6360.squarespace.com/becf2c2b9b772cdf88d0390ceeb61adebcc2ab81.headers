@@ -1,0 +1,14 @@
+GET https://arooj-aftab-6360.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: RyXLkJV2/yTw7J7Cr
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:49:51 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWNJxu6gCaLpZTQ1YThlOGI4NmQ4YzdmMzAzNjU4NGYyMTUzYzg1;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

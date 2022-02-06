@@ -1,0 +1,16 @@
+GET https://bronze-lychee-xx52.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Age: 235054
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: lSSrJKut/fVghci3y
+< Etag: W/"25da2c858a39e76a0d78ca8769768f59--gzip"
+< Set-Cookie: crumb=BR/kipzOb8+wZTU0YmZmODBjNmVlMzFmZDQ0ZTU2MGFhZGYzNmU5;Path=/
+< Accept-Ranges: bytes
+< Date: Sun, 30 Jan 2022 08:00:16 GMT

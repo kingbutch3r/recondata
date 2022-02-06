@@ -1,0 +1,11 @@
+GET http://arcticanimalsclub.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:24:57 GMT
+< Location: https://arcticanimalsclub.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQvWIWVA0pGINGE0MGNlNDkyMDgwYjgwM2Y0YzVmNjA0NzU2ZTY2;Path=/
+< X-Contextid: oRXl5x8P/Wy5dTRqy
+< Age: 0

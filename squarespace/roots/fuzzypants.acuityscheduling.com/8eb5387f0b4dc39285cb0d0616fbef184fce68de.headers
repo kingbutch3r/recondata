@@ -1,0 +1,15 @@
+GET https://fuzzypants.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:39:09 GMT
+< Set-Cookie: PHPSESSID=7ro5is3cg05ik6qu8cjo2u2l59; expires=Fri, 04-Mar-2022 00:39:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9f283060-a350-41eb-8bd2-76041a8317fa; expires=Fri, 02-Feb-2024 00:39:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache

@@ -1,0 +1,15 @@
+GET https://staa.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ufll7q5ftri5ujk3j6gs4v8guv; expires=Thu, 03-Mar-2022 23:53:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=215c86f2-a3de-470c-8ce4-8cb7584882ab; expires=Thu, 01-Feb-2024 23:53:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Tue, 01 Feb 2022 23:53:29 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

@@ -1,0 +1,11 @@
+GET http://alymashrah2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 483606
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 11:00:27 GMT
+< Location: https://alymashrah2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZk9/85+RKXfOWQ2ODFhNWI1NzdiMGM2ZTQzMTFkY2NhOThhYTEy;Path=/
+< X-Contextid: UehLNpRc/fJd7JP9l

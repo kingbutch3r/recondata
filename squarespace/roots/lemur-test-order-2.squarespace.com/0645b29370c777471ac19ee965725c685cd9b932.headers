@@ -1,0 +1,10 @@
+GET https://lemur-test-order-2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: vShaWp8Q/xNTATJpc
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:54:57 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BVZQ0nlUQeo1M2RhYWU4NTBhZTYyZjEyYjIwZjdlNmRhNGI4YjMz;Path=/

@@ -1,0 +1,11 @@
+GET http://savoybeachclub.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:22:20 GMT
+< Location: https://savoybeachclub.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfFkXi+mGhLyNjczMDMzMGE3MGE4ZjM2Mjc0MzJmNTIzOTczZmJl;Path=/
+< X-Contextid: YsRItkab/jNINbRUR

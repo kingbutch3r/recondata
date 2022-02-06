@@ -1,0 +1,17 @@
+GET https://adeearogers.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=1lqn47rap5qv3vosha29t7o975; expires=Fri, 04-Mar-2022 00:37:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1aecd181-35f9-4da4-9b2e-548bf7a3e70f; expires=Fri, 02-Feb-2024 00:37:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:37:06 GMT

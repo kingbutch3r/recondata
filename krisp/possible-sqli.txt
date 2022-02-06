@@ -1,0 +1,2 @@
+https://krisp.ai/come-back/?source=extension&user_id=587921
+https://krisp.ai/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id=

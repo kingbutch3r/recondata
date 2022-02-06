@@ -1,0 +1,821 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- sinchlegal -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1820&amp;RK=1643738612140&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {"google": {"families": ["Josefin Sans:400"]}};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "sinch  legal  network"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "15866044"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "1349357";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>sinchlegal - Home</title>
+    <meta property="og:title" content="sinchlegal - Home" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage15866044"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/login/?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent6680719" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper15866044">
+
+    <div id="navigationTop-moduleContent15866044">
+
+              <a id="navigationTop-moduleLink15866044" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866046">
+
+    <div id="navigationTop-moduleContent15866046">
+
+              <a id="navigationTop-moduleLink15866046" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866047">
+
+    <div id="navigationTop-moduleContent15866047">
+
+              <a id="navigationTop-moduleLink15866047" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866422">
+
+    <div id="navigationTop-moduleContent15866422">
+
+              <a id="navigationTop-moduleLink15866422" class=" " href="/who-we-are/" ><span>Who We Are</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866492">
+
+    <div id="navigationTop-moduleContent15866492">
+
+              <a id="navigationTop-moduleLink15866492" class=" " href="/our-clients/" ><span>Our Clients</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866516">
+
+    <div id="navigationTop-moduleContent15866516">
+
+              <a id="navigationTop-moduleLink15866516" class=" " href="/our-lawyers/" ><span>Our Lawyers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866518">
+
+    <div id="navigationTop-moduleContent15866518">
+
+              <a id="navigationTop-moduleLink15866518" class=" " href="/our-technology/" ><span>Our Technology</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866531">
+
+    <div id="navigationTop-moduleContent15866531">
+
+              <a id="navigationTop-moduleLink15866531" class=" " href="/our-approach/" ><span>Our Approach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15866532">
+
+    <div id="navigationTop-moduleContent15866532">
+
+              <a id="navigationTop-moduleLink15866532" class=" " href="/our-name/" ><span>Our Name</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19650361">
+
+    <div id="navigationTop-moduleContent19650361">
+
+              <a id="navigationTop-moduleLink19650361" class=" " href="/sinch-legaltech-sydney/" ><span>SLTS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19609816">
+
+    <div id="navigationTop-moduleContent19609816">
+
+              <a id="navigationTop-moduleLink19609816" class=" " href="/launchpad/" ><span>Launchpad</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19620959">
+
+    <div id="navigationTop-moduleContent19620959">
+
+              <a id="navigationTop-moduleLink19620959" class=" " href="/product-launch/" ><span>Product Launch</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://sinchlegal.com/">sinch  legal  network</a></h1>
+           <div id="siteSubtitle" class="h1subtitle">More than great lawyers</div> 
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent6680719" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper15866044">
+
+    <div id="navigationBottom-moduleContent15866044">
+
+              <a id="navigationBottom-moduleLink15866044" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866046">
+
+    <div id="navigationBottom-moduleContent15866046">
+
+              <a id="navigationBottom-moduleLink15866046" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866047">
+
+    <div id="navigationBottom-moduleContent15866047">
+
+              <a id="navigationBottom-moduleLink15866047" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866422">
+
+    <div id="navigationBottom-moduleContent15866422">
+
+              <a id="navigationBottom-moduleLink15866422" class=" " href="/who-we-are/" ><span>Who We Are</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866492">
+
+    <div id="navigationBottom-moduleContent15866492">
+
+              <a id="navigationBottom-moduleLink15866492" class=" " href="/our-clients/" ><span>Our Clients</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866516">
+
+    <div id="navigationBottom-moduleContent15866516">
+
+              <a id="navigationBottom-moduleLink15866516" class=" " href="/our-lawyers/" ><span>Our Lawyers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866518">
+
+    <div id="navigationBottom-moduleContent15866518">
+
+              <a id="navigationBottom-moduleLink15866518" class=" " href="/our-technology/" ><span>Our Technology</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866531">
+
+    <div id="navigationBottom-moduleContent15866531">
+
+              <a id="navigationBottom-moduleLink15866531" class=" " href="/our-approach/" ><span>Our Approach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15866532">
+
+    <div id="navigationBottom-moduleContent15866532">
+
+              <a id="navigationBottom-moduleLink15866532" class=" " href="/our-name/" ><span>Our Name</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19650361">
+
+    <div id="navigationBottom-moduleContent19650361">
+
+              <a id="navigationBottom-moduleLink19650361" class=" " href="/sinch-legaltech-sydney/" ><span>SLTS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19609816">
+
+    <div id="navigationBottom-moduleContent19609816">
+
+              <a id="navigationBottom-moduleLink19609816" class=" " href="/launchpad/" ><span>Launchpad</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19620959">
+
+    <div id="navigationBottom-moduleContent19620959">
+
+              <a id="navigationBottom-moduleLink19620959" class=" " href="/product-launch/" ><span>Product Launch</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent6680719" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper15866044">
+
+    <div id="moduleContent15866044">
+
+              <a id="moduleLink15866044" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866046">
+
+    <div id="moduleContent15866046">
+
+              <a id="moduleLink15866046" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866047">
+
+    <div id="moduleContent15866047">
+
+              <a id="moduleLink15866047" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866422">
+
+    <div id="moduleContent15866422">
+
+              <a id="moduleLink15866422" class=" " href="/who-we-are/" ><span>Who We Are</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866492">
+
+    <div id="moduleContent15866492">
+
+              <a id="moduleLink15866492" class=" " href="/our-clients/" ><span>Our Clients</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866516">
+
+    <div id="moduleContent15866516">
+
+              <a id="moduleLink15866516" class=" " href="/our-lawyers/" ><span>Our Lawyers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866518">
+
+    <div id="moduleContent15866518">
+
+              <a id="moduleLink15866518" class=" " href="/our-technology/" ><span>Our Technology</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866531">
+
+    <div id="moduleContent15866531">
+
+              <a id="moduleLink15866531" class=" " href="/our-approach/" ><span>Our Approach</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866532">
+
+    <div id="moduleContent15866532">
+
+              <a id="moduleLink15866532" class=" " href="/our-name/" ><span>Our Name</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19650361">
+
+    <div id="moduleContent19650361">
+
+              <a id="moduleLink19650361" class=" " href="/sinch-legaltech-sydney/" ><span>SLTS</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19609816">
+
+    <div id="moduleContent19609816">
+
+              <a id="moduleLink19609816" class=" " href="/launchpad/" ><span>Launchpad</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19620959">
+
+    <div id="moduleContent19620959">
+
+              <a id="moduleLink19620959" class=" " href="/product-launch/" ><span>Product Launch</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent6680722" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Blog Index</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper15866050" class="widget-wrapper  widget-type-journalarchive"><div id="moduleContent15866050">
+
+
+
+  <strong>The journal that this archive was targeting has been deleted.</strong>  Please update your configuration.
+
+
+
+
+
+
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent6680723" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Navigation</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper15866051">
+
+    <div id="moduleContent15866051">
+
+              <a id="moduleLink15866051" class=" " href="/links/" ><span>Links</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15866052">
+
+    <div id="moduleContent15866052">
+
+              <a id="moduleLink15866052" class=" " href="/login/?returnUrl=%2F" ><span>Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+ 
+  
+    <span style="font-size: 25px;">
+More than cost effective legal solutions
+<p>&nbsp;</p>
+More than integrators of&nbsp;legal services and systems <p>&nbsp;</p>We simplify law</span>
+<p>&nbsp;</p>
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Copyright &copy; 2012-2016, Sinch Software Pty Ltd.  All rights reserved.
+
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

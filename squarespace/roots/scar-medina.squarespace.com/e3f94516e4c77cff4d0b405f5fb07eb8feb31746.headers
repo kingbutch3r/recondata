@@ -1,0 +1,17 @@
+GET https://scar-medina.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< X-Contextid: HBqtHtCC/RbgZj2lW
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 19:59:36 GMT
+< Vary: Accept-Encoding
+< Set-Cookie: crumb=BbAvkU3Yxp0JMGEwNzdjNzRkYzdjYWEyNjY4MzM2NmYwYmI0OTRm;Path=/
+< Strict-Transport-Security: max-age=0
+< Server: Squarespace
+< Etag: W/"7b57079cd623e5cc7ba8fad03904e84a"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Mon, 31 Jan 2022 19:59:36 GMT
+< Accept-Ranges: bytes
+< Age: 104906

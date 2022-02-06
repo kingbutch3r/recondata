@@ -1,0 +1,11 @@
+GET http://cdn-brands.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Retry-After: 0
+< Location: https://cdn-brands.unfold.com/
+< Content-Length: 0
+< Accept-Ranges: bytes
+< X-Served-By: cache-bom4741-BOM
+< X-Cache: HIT
+< X-Cache-Hits: 0

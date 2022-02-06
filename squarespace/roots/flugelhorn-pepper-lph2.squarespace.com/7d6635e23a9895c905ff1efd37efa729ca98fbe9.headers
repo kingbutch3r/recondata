@@ -1,0 +1,16 @@
+GET https://flugelhorn-pepper-lph2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BRhA8aR0+NlpMmY0M2EyZGJlNDg5YzJmY2RkYWIxMDA2NGZhNzAy;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: Zp9aMstB/Ql8F4g8u
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 370756
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 17:53:18 GMT
+< Etag: W/"877589cb9bdc0212e0e35db9cb4a08f5--gzip"
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

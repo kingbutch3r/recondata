@@ -1,0 +1,17 @@
+GET https://consultationwithselina.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:55:19 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=2beb9dng57r3vp9mbadjbcousf; expires=Thu, 03-Mar-2022 23:55:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f06d297a-7ed7-4c3b-87fe-16149c74ccca; expires=Thu, 01-Feb-2024 23:55:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Content-Length: 0

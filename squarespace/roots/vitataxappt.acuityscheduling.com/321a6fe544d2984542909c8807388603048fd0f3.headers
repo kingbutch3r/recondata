@@ -1,0 +1,17 @@
+GET https://vitataxappt.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 01:11:03 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=coop0orskmq30kmmqse52lq857; expires=Fri, 04-Mar-2022 01:11:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6d666f53-0ae8-4ee1-9930-9d13c8776c70; expires=Fri, 02-Feb-2024 01:11:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff

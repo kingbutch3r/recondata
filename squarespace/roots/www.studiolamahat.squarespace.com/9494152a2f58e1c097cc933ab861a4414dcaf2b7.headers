@@ -1,0 +1,11 @@
+GET http://www.studiolamahat.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:05:32 GMT
+< Location: http://studiolamahat.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BX+T2TgmXp3ZYzEwYzYzYWE0MzVhMzc2ZTUxZDA5OGRmN2U1MTdj;Path=/
+< X-Contextid: HYxH7Jji/9wpCC5Xj
+< Age: 0
+< Content-Length: 0

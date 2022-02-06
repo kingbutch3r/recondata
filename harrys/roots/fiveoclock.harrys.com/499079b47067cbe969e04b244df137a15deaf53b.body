@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Five O&#039;Clock |  A Harry&#039;s Magazine</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://fiveoclock.harrys.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+		<script src="https://s2.wp.com/wp-content/themes/premium/zuki/js/html5.js"></script>
+	<![endif]-->
+<script type="text/javascript">
+  WebFontConfig = {"google":{"families":["Raleway:r,i,b,bi:latin,latin-ext","Nunito:b:latin,latin-ext"]}};
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = 'https://s0.wp.com/wp-content/plugins/custom-fonts/js/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+	})();
+</script><style id="jetpack-custom-fonts-css">.wf-active body{font-family:"Raleway",sans-serif}.wf-active #colophon #site-info, .wf-active #colophon p.site-description, .wf-active #comments .comment-author, .wf-active #comments .comment-reply, .wf-active #header-top-nav, .wf-active #infinite-handle, .wf-active #nav-below, .wf-active #nav-single a span, .wf-active #searchform input#s, .wf-active .default-sidebar .widget, .wf-active .entry-details, .wf-active .front-sidebar .widget, .wf-active .jetpack_subscription_widget input#subscribe-field, .wf-active .nav-wrap, .wf-active .page .edit-link, .wf-active .search-box #searchform input, .wf-active .single-post .entry-meta, .wf-active .single-post .post .entry-header .entry-author, .wf-active .single-post .post .entry-header .entry-cats, .wf-active .site-content .nopassword, .wf-active .site-content p.nocomments, .wf-active a.archive-menu-toggle{font-family:"Raleway",sans-serif}.wf-active table{font-family:"Raleway",sans-serif}.wf-active input, .wf-active textarea{font-family:"Raleway",sans-serif}.wf-active form label{font-family:"Raleway",sans-serif}.wf-active input[type="button"], .wf-active input[type="submit"]{font-family:"Raleway",sans-serif}.wf-active .archive .post .entry-meta, .wf-active .blog .post .entry-meta, .wf-active .search-results .entry-meta{font-family:"Raleway",sans-serif}.wf-active .authorbox p.author-description{font-family:"Raleway",sans-serif}.wf-active #comments p.comment-awaiting-moderation{font-family:"Raleway",sans-serif}.wf-active #commentform input#author, .wf-active #commentform input#email, .wf-active #commentform input#url{font-family:"Raleway",sans-serif}.wf-active #commentform textarea#comment{font-family:"Raleway",sans-serif}.wf-active #nav-below, .wf-active #nav-comments, .wf-active #nav-single{font-family:"Raleway",sans-serif}.wf-active #infinite-handle span, .wf-active #nav-below, .wf-active #nav-single a span{font-family:"Raleway",sans-serif}.wf-active .widget_zuki_quote blockquote.quote-text{font-family:"Raleway",sans-serif}.wf-active .rp-big-one-content, .wf-active .rp-big-two-content, .wf-active .rp-small-one-content .entry-date{font-family:"Raleway",sans-serif}.wf-active .default-sidebar .widget_zuki_recentposts_small .rp-small-one, .wf-active .front-sidebar .widget_zuki_recentposts_small .rp-small-one{font-family:"Raleway",sans-serif}.wf-active .default-sidebar .widget_zuki_recentposts_small .rp-small-two, .wf-active .front-sidebar .widget_zuki_recentposts_small .rp-small-two{font-family:"Raleway",sans-serif}.wf-active .widget_zuki_recentposts_medium .rp-medium-one{font-family:"Raleway",sans-serif}.wf-active .default-sidebar .widget_zuki_recentposts_medium .rp-medium-one, .wf-active .front-sidebar .widget_zuki_recentposts_medium .rp-medium-one{font-family:"Raleway",sans-serif}.wf-active .widget_zuki_recentposts_medium .rp-medium-two{font-family:"Raleway",sans-serif}.wf-active .widget_zuki_recentposts_color .post{font-family:"Raleway",sans-serif}.wf-active .rp-small-two-content p span.entry-title{font-family:"Nunito",sans-serif;font-style:normal;font-weight:700}.wf-active h1, .wf-active h2, .wf-active h3, .wf-active h4, .wf-active h5, .wf-active h6{font-family:"Nunito",sans-serif;font-weight:700;font-style:normal}.wf-active h1{font-style:normal;font-weight:700}.wf-active h2{font-style:normal;font-weight:700}.wf-active h3{font-style:normal;font-weight:700}.wf-active h4{font-style:normal;font-weight:700}.wf-active h5{font-style:normal;font-weight:700}.wf-active h6{font-style:normal;font-weight:700}.wf-active #site-header h1{font-style:normal;font-weight:700}.wf-active #site-header h2.site-description{font-family:"Nunito",sans-serif;font-weight:700;font-style:normal}.wf-active .archive-menu-wrap h3.archive-menu-title{font-style:normal;font-weight:700}.wf-active .archive-menu-wrap h3.archive-menu-title{font-style:normal;font-weight:700}.wf-active #primary h1.archive-title, .wf-active #primary h3.blog-title{font-style:normal;font-weight:700}.wf-active .entry-header h1.entry-title, .wf-active .entry-header h2.entry-title{font-family:"Nunito",sans-serif;font-weight:700;font-style:normal}.wf-active .authorbox h3.author-name{font-family:"Nunito",sans-serif;font-weight:700;font-style:normal}.wf-active .authorbox h3.author-name span{font-style:normal;font-weight:700}.wf-active #comments h3.comments-title{font-style:normal;font-weight:700}.wf-active #comments h3.comments-title span a{font-weight:700;font-style:normal}.wf-active #comments #respond h3#reply-title{font-style:normal;font-weight:700}.wf-active .page .entry-header h1.entry-title{font-style:normal;font-weight:700}.wf-active .widget h3.widget-title{font-style:normal;font-weight:700}.wf-active .rp-big-one-content h2.entry-title, .wf-active .rp-big-two-content h2.entry-title{font-family:"Nunito",sans-serif;font-style:normal;font-weight:700}.wf-active .rp-small-one-content h3.entry-title{font-style:normal;font-weight:700}.wf-active .rp-color h3.entry-title, .wf-active .rp-medium-one-content h3.entry-title{font-style:normal;font-weight:700}.wf-active .rp-medium-two-content h3.entry-title{font-style:normal;font-weight:700}.wf-active .rp-big-one-content h2.entry-title{font-weight:700;font-style:normal}.wf-active .front-content .rp-big-one-content h2.entry-title, .wf-active .front-fullwidth .rp-big-one-content h2.entry-title{font-style:normal;font-weight:700}.wf-active .rp-small-two-content p span.entry-title{font-weight:700;font-style:normal}.wf-active .default-sidebar .rp-medium-two-content h3.entry-title, .wf-active .front-sidebar .rp-medium-two-content h3.entry-title{font-style:normal;font-weight:700}.wf-active .default-sidebar .rp-big-one-content h2.entry-title, .wf-active .default-sidebar .rp-big-two-content h2.entry-title, .wf-active .front-sidebar .rp-big-one-content h2.entry-title, .wf-active .front-sidebar .rp-big-two-content h2.entry-title{font-style:normal;font-weight:700}.wf-active .front-content .rp-big-two-content .entry-header h2.entry-title, .wf-active .front-fullwidth .rp-big-two-content .entry-header h2.entry-title{font-weight:700;font-style:normal}.wf-active #colophon  h3.social-nav-title{font-family:"Nunito",sans-serif;font-weight:700;font-style:normal}.wf-active .widget_jetpack_display_posts_widget h4{font-style:normal;font-weight:700}.wf-active #primary .sharedaddy h3.sd-title, .wf-active div#jp-relatedposts h3.jp-relatedposts-headline{font-family:"Nunito",sans-serif;font-weight:700;font-style:normal}.wf-active #featured-content .rp-big-one-content h2.entry-title{font-weight:700;font-style:normal}@media screen and (min-width: 479px){.wf-active .entry-header h1.entry-title, .wf-active .entry-header h2.entry-title{font-style:normal;font-weight:700}}@media screen and (min-width: 479px){.wf-active .page .entry-header h1.entry-title{font-style:normal;font-weight:700}}@media screen and (min-width: 479px){.wf-active .front-content .rp-big-one-content h2.entry-title{font-style:normal;font-weight:700}}@media screen and (min-width: 479px){.wf-active .front-content .rp-big-two-content .entry-header h2.entry-title, .wf-active .front-fullwidth .rp-big-two-content .entry-header h2.entry-title{font-style:normal;font-weight:700}}@media screen and (min-width: 479px){.wf-active #featured-content .rp-big-one-content h2.entry-title, .wf-active front-fullwidth .rp-big-one-content h2.entry-title{font-style:normal;font-weight:700}}@media screen and (min-width: 479px){.wf-active #featured-content .rp-big-one-content h2.entry-title, .wf-active .front-fullwidth .rp-big-one-content h2.entry-title{font-style:normal;font-weight:700}}@media screen and (min-width: 479px){.wf-active .front-fullwidth .rp-big-two-content .entry-header h2.entry-title{font-style:normal;font-weight:700}}</style>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="google-site-verification" content="_PZ9tadKqt_vocKjXQO5b2aXdIn66zAeY4OgnNJ7--k" />
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=1626'
+					+ '&is_singular=';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9maXZlb2Nsb2NrLmhhcnJ5cy5jb20%3D"
+		+ "&wpcomid=96188217"
+		+ "&time=1643477684";
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//5ocmag.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Five O&#039;Clock &raquo; Feed" href="https://fiveoclock.harrys.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Five O&#039;Clock &raquo; Comments Feed" href="https://fiveoclock.harrys.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1625065786h&ver=5.9-RC3-52602"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s1.wp.com/_static/??-eJytj9sKwjAQRH/IdG0tgg/it6TpErdu0pCLJX9vKkhrQfTBx2E4hxmYnFCjjWgjmCQcJ002wOTUaEQwxJg3qVIh7GCFvRidSuzQ69J4hHvdVG1VQ5eIe+h4VDfB1HnpM4SYGf8hilc0i4is4tRjgCGAwZ4kcqnnZ6vgWGb0glFLlStD9jteunV+gz6Pfy4tMoxOzpNlHlMU2lP/8/+NwstIVocFv5hzfWwPzX5/qtvhASkzq5U=?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='all-css-2-1' href='https://s1.wp.com/_static/??-eJx9jcEKwjAQRH/IdQlorQfxW9pkranZNGQTWvx6V6snxcswDO8xOCewUywUC3KFFOrgo6CdMunOqSuoBJPzHQVixbZWZIO/tdm7gYrq8ulQaPmvJL2Bvk+ZRECTfWUoV/2SL2+d8U3hvd48joKXQAtI8I7yq6/1aZ/5ZHbHpj2Ydm/GB+LfWJk=?cssminify=yes' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='zuki-fonts-css'  href='https://fonts.googleapis.com/css?family=Libre+Baskerville%3A400%2C700%2C400italic%2C%7CKarla%3A400%2C400italic%2C700%2C700italic&#038;subset=latin%2Clatin-ext' media='all' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s2.wp.com/_static/??-eJyFjcEOAiEMRH9I7BKzejJ+C7IVqwU2tGSjXy/GC8aot5nMexlYZuNzUkwKsZqZa6AkEDBhoTZ8iWsvsoLO1TNGFJgLRqoR7vVKIHpj/CC7l4WmgCog2ZNjE3EiZ15Xf92A2XD2Timnt2JO7Kj8UgseOYcWAzSqq0/pEPd2uxnGYWfteHkAxM5rqg==?cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='all-css-6-1' href='https://s1.wp.com/_static/??-eJxti0EKgCAQAD+UbVFGHaK3mJgaqyut0vejQ4eo0zAwA2cSmmI2MUMoImGxPjIk4iw2VP4Adurw0T6sNXMF/xeT9goFkqW3fKbsTDAMrgeLtCq8gyXM7dCNUjZy6vcLZTc31Q==?cssminify=yes' type='text/css' media='all' />
+<script id='wpcom-actionbar-placeholder-js-extra'>
+var actionbardata = {"siteID":"96188217","siteURL":"https:\/\/fiveoclock.harrys.com","xhrURL":"https:\/\/fiveoclock.harrys.com\/wp-admin\/admin-ajax.php","nonce":"bd4b37f7ca","isLoggedIn":"","statusMessage":"","subsEmailDefault":"instantly","proxyScriptUrl":"https:\/\/s0.wp.com\/wp-content\/js\/wpcom-proxy-request.js?ver=20211021","shortlink":"https:\/\/wp.me\/P6vAWR-qe","i18n":{"followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"Collapse this bar","unfoldBar":"Expand this bar"}};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??-eJyVjdEOgjAMRX/IMo1E4oPxW3AU7Fw77LYAfr0QJdEn41OTc8/tNUMPNkhCScZFw+FCHiFH1LqbGZC0oXBxY7499Ql6DeO0ZiTW5wbjErp7Rp3ep2CSnxIwdVon/JTXtXRFniu9IlNm88g3WvqtxxGipwZ1XVrQi8Aff7LYREHi7J/5tDvsq2pblsfKPQEtS2l3'></script>
+<script type='text/javascript'>
+	window.addEventListener( 'DOMContentLoaded', function() {
+		rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+	} );
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://5ocmag.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://fiveoclock.harrys.com/" />
+<link rel='shortlink' href='https://wp.me/P6vAWR-qe' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Ffiveoclock.harrys.com%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Ffiveoclock.harrys.com%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Five O&#039;Clock" />
+<meta property="og:description" content=" A Harry&#039;s Magazine" />
+<meta property="og:url" content="https://fiveoclock.harrys.com/" />
+<meta property="og:site_name" content="Five O&#039;Clock" />
+<meta property="og:image" content="https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=90" />
+<meta property="og:image:width" content="200" />
+<meta property="og:image:height" content="200" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:creator" content="@harrys" />
+<meta name="twitter:site" content="@harrys" />
+<meta name="twitter:text:title" content="Front" />
+<meta name="twitter:image" content="https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=90" />
+<meta name="twitter:card" content="summary" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel='openid.server' href='https://fiveoclock.harrys.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://fiveoclock.harrys.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://fiveoclock.harrys.com/osd.xml" title="Five O&#039;Clock" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="theme-color" content="#f6f6f6" />
+
+    <style type="text/css">
+
+		 		 @media screen and (min-width: 1260px){#header-top-nav {padding-right:  75px ;}}
+		
+	</style>
+    		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="Five O&#039;Clock" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-tooltip" content=" A Harry&#039;s Magazine" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://fiveoclock.harrys.com/feed/;icon-uri=https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=16" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="A Harry&#039;s Magazine" />
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #f6f6f6; }
+</style>
+	<!-- There is no amphtml version available for this URL. --><style type="text/css" id="custom-colors-css">body, a, table th, .widget-area .rp-small-two-content p.summary a, .widget-area .rp-color a:hover { color: #191919;}
+#site-nav ul li a:hover, #site-nav ul li:hover > ul, #site-nav li:hover > a { border-color: #191919;}
+.widget-area p.summary a:hover, .entry-content p a:hover, blockquote cite a:hover, .textwidget a:hover, #comments .comment-text a:hover, .authorbox p.author-description a:hover, a.archive-menu-toggle:hover span { color: #191919;}
+.widget-area .rp-small-two-content p.summary a, .widget-area .rp-color a:hover { color: #191919;}
+.widget_zuki_recentposts_color .bg-wrap, .archive-menu-content { color: #191919;}
+pre { color: #191919;}
+#nav-single a span, h1, h2, h3, h4, h5, h6 { color: #000000;}
+#site-header h1 a:hover, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .entry-details a, #comments a, .nav-wrap a, #colophon a, .authorbox p.author-name a, .page .entry-content a { color: #000000;}
+.rp-big-one-content .story, .rp-big-one-content .story a, .rp-big-one-content .story h1, .rp-big-one-content .story h2, .rp-big-one-content .story h1 a, .rp-big-one-content .story h2 a { color: #000000;}
+#header-top-nav a:hover, .entry-meta a:hover, .entry-footer a:hover, .entry-author a:hover, .single-post .post .entry-header a:hover, #comments a:hover, .nav-wrap a:hover, #colophon a:hover, .template-archive a:hover, .gallery .gallery-item a:hover, #infinite-handle span:hover, .widget-area .widget_nav_menu a:hover, .tagcloud a:hover, .widget_calendar a:hover, .post .entry-content a.more-link:hover, .widget-area a:hover, #featured-content .flex-direction-nav li a.flex-next:hover:after, #featured-content .flex-direction-nav li a.flex-prev:hover:after, .widget-area .rp-small-two-content p.summary a:hover { color: #686868;}
+.front-content .widget_zuki_recentposts_small .rp-small-one, .front-fullwidth .widget_zuki_recentposts_small .rp-small-one, .widget_zuki_recentposts_medium .rp-medium-one, .widget_calendar table#wp-calendar tr td, #site-nav ul li { border-color: #ededed;}
+.front-content .widget_zuki_recentposts_small .rp-small-one, .front-fullwidth .widget_zuki_recentposts_small .rp-small-one, .widget_zuki_recentposts_medium .rp-medium-one, .widget_calendar table#wp-calendar tr td, #site-nav ul li { border-color: rgba( 237, 237, 237, 0.2 );}
+dl dt { color: #162626;}
+table td { border-color: #ddd;}
+table td { border-color: rgba( 221, 221, 221, 0.2 );}
+#comments h3.comments-title, #colophon, #primary h3.blog-title, #primary h1.archive-title, .template-front .widget-area, .page .site-content .page, .search-no-results .site-content .page, .default-sidebar, #front-sidebar-one, #front-sidebar-two, .nav-wrap, #infinite-handle, .single-post .post .entry-header, .archive .site-content .post, .blog .site-content .post, .single-post .site-content .post, .site-content .type-attachment, .search-results .site-content .page, .widget-area .widget { border-color: #ccc;}
+#comments h3.comments-title, #colophon, #primary h3.blog-title, #primary h1.archive-title, .template-front .widget-area, .page .site-content .page, .search-no-results .site-content .page, .default-sidebar, #front-sidebar-one, #front-sidebar-two, .nav-wrap, #infinite-handle, .single-post .post .entry-header, .archive .site-content .post, .blog .site-content .post, .single-post .site-content .post, .site-content .type-attachment, .search-results .site-content .page, .widget-area .widget { border-color: rgba( 204, 204, 204, 0.2 );}
+.widget-area p.summary a:hover, .widget-area .rp-color .entry-header a:hover, .widget-area .rp-color .story a:hover, .widget-area p.summary a:hover, .entry-content p a:hover, blockquote cite a:hover, .textwidget a:hover, #comments .comment-text a:hover, .authorbox p.author-description a:hover, a.archive-menu-toggle:hover span { border-color: #444;}
+.widget-area p.summary a:hover, .widget-area .rp-color .entry-header a:hover, .widget-area .rp-color .story a:hover, .widget-area p.summary a:hover, .entry-content p a:hover, blockquote cite a:hover, .textwidget a:hover, #comments .comment-text a:hover, .authorbox p.author-description a:hover, a.archive-menu-toggle:hover span { border-color: rgba( 68, 68, 68, 0.2 );}
+#site-nav li li:hover > a { background-color: #f4f4f4;}
+#site-nav li li:hover > a { background-color: rgba( 244, 244, 244, 0.25 );}
+body, #site-nav ul ul.sub-menu, #site-nav ul ul.children { background-color: #f6f6f6;}
+.widget-area p.summary a,.entry-content p a,blockquote cite a,.textwidget a,#comments .comment-text a,.authorbox p.author-description a, .post .entry-content a.more-link { color: #000000;}
+.widget_zuki_recentposts_color .bg-wrap a, .archive-menu-content a { color: #000000;}
+.widget_zuki_recentposts_color .bg-wrap, .archive-menu-content { background-color: #ebf8fe;}
+</style>
+<link rel="icon" href="https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=90" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=90" />
+<meta name="msapplication-TileImage" content="https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=90" />
+</head>
+
+<body class="home page-template page-template-page-templates page-template-front-page page-template-page-templatesfront-page-php page page-id-1626 custom-background wp-embed-responsive customizer-styles-applied template-front no-sidebar highlander-enabled highlander-light">
+
+	<div id="container">
+
+		<header id="masthead" class="cf" role="banner">
+
+							<nav id="header-top-nav">
+					<ul id="menu-global-menu" class="menu"><li id="menu-item-1542" class="shop-harrys menu-item menu-item-type-custom menu-item-object-custom menu-item-1542"><a href="https://www.harrys.com/?utm_source=Five%20O&#039;%20Clock&#038;utm_medium=Web&#038;utm_campaign=Masthead">Shop Harry&#8217;s</a></li>
+<li id="menu-item-1537" class="about menu-item menu-item-type-post_type menu-item-object-page menu-item-1537"><a href="https://fiveoclock.harrys.com/about/">About Us</a></li>
+</ul>				</nav><!-- end #header-top -->
+			
+			<div id="site-header">
+				<h1 class="site-title"><a href="https://fiveoclock.harrys.com/" title="Five O&#039;Clock">Five O&#039;Clock</a></h1>
+							<h2 class="site-description"> A Harry&#039;s Magazine</h2>
+						<a href="https://fiveoclock.harrys.com/" class="site-logo-link" rel="home" itemprop="url"></a>
+			</div><!-- end #site-header -->
+
+			<a href="#menuopen" id="mobile-menu-toggle"><span class="hide">Menu</span></a>
+
+			<div id="mobile-menu-wrap" class="cf">
+									<div class="search-box">
+						<a href="#" id="search-toggle"><span class="hide">Search</span></a>
+						
+<form role="search" method="get" id="searchform" class="searchform" action="https://fiveoclock.harrys.com/" role="search">
+	<label for="s" class="screen-reader-text"><span>Search</span></label>
+	<input type="text" class="search-field" name="s" id="s" placeholder="Type to search&hellip;" />
+	<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search" />
+</form>					</div><!-- end .search-box -->
+								<nav id="site-nav" class="cf">
+					<ul id="menu-category-menu" class="nav-menu"><li id="menu-item-24763" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24763"><a href="https://fiveoclock.harrys.com/category/shaving/">Shaving</a></li>
+<li id="menu-item-24764" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24764"><a href="https://fiveoclock.harrys.com/category/hair-style/">Hair Style</a></li>
+<li id="menu-item-24765" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24765"><a href="https://fiveoclock.harrys.com/category/shower/">Shower</a></li>
+<li id="menu-item-24766" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24766"><a href="https://fiveoclock.harrys.com/category/face-care/">Face Care</a></li>
+<li id="menu-item-24767" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-24767"><a href="https://fiveoclock.harrys.com/category/lifestyle/">Lifestyle</a></li>
+</ul>				</nav><!-- end #site-nav -->
+				<a href="#menuclose" id="mobile-menu-close"><span class="hide">Close Menu</span></a>
+			</div><!-- end #mobile-menu-wrap -->
+
+			
+		</header><!-- end #masthead -->
+
+<div id="main-wrap">
+<div id="primary" class="site-content" role="main">
+
+
+<div id="front-content-one" class="front-content widget-area">
+	<aside id="zuki_recentposts_big-3" class="widget widget_zuki_recentposts_big">
+		<h3 class="widget-title">The Latest</h3>
+
+
+   
+   
+	 <article id="post-24860" class="rp-big-one post-24860 post type-post status-publish format-standard has-post-thumbnail hentry category-better-grooming category-face-care category-how-to-shave category-routine category-shaving tag-shave-prep tag-shaving">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2020/08/12/9-quick-tips-for-a-smooth-shave/"><img width="1200" height="800" src="https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=1200&amp;h=800&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" srcset="https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=1200&amp;h=800&amp;crop=1 1200w, https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=150&amp;h=100&amp;crop=1 150w, https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=300&amp;h=200&amp;crop=1 300w, https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=768&amp;h=512&amp;crop=1 768w, https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=840&amp;h=560&amp;crop=1 840w, https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png 1680w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="24882" data-permalink="https://fiveoclock.harrys.com/angels-shave-cream-v2/" data-orig-file="https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png" data-orig-size="1680,1120" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="angels-shave-cream-v2" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=300" data-large-file="https://5ocmag.files.wordpress.com/2020/08/angels-shave-cream-v2.png?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2020/08/12/9-quick-tips-for-a-smooth-shave/" rel="bookmark">9 Quick Tips for a Smooth&nbsp;Shave</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/fiveoclockstaff/" title="Posts by Five O&#039;Clock Staff" rel="author">Five O'Clock Staff</a>				</div><!-- end .entry-author -->
+				<p class="summary">Let’s face it: Whether it’s nicks, cuts, ingrown hairs, or razor burn—most of us have experienced some not-so-fun effects from shaving. But don’t go blaming your razor just yet—usually these blunders happen from improper shaving technique. So, we’ve compiled a list of nine easy tips that’ll help you get a smooth shave every time. Tip #1 &#8211; Exfoliate and cleanse before shaving. Exfoliating is...</p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2020/08/12/9-quick-tips-for-a-smooth-shave/" class="entry-date">August 12, 2020</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/shaving/better-grooming/" rel="category tag">Better Grooming</a>, <a href="https://fiveoclock.harrys.com/category/face-care/" rel="category tag">Face Care</a>, <a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>, <a href="https://fiveoclock.harrys.com/category/face-care/routine/" rel="category tag">Routine</a>, <a href="https://fiveoclock.harrys.com/category/shaving/" rel="category tag">Shaving</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-24860 -->
+
+	
+   
+   
+	 <article id="post-24844" class="rp-big-one post-24844 post type-post status-publish format-standard has-post-thumbnail hentry category-face-care category-how-to-shave category-routine category-shaving tag-tips">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2019/09/16/how-to-prevent-razor-burn-7-easy-tips/"><img width="1200" height="800" src="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=1200&amp;h=800&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" srcset="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=1200&amp;h=800&amp;crop=1 1200w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=150&amp;h=100&amp;crop=1 150w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=300&amp;h=200&amp;crop=1 300w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=768&amp;h=512&amp;crop=1 768w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=840&amp;h=560&amp;crop=1 840w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg 1800w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="2466" data-permalink="https://fiveoclock.harrys.com/2016/04/07/mapping-your-best-shave/harrys-fiveoclock-mapping-the-grains-step-3/" data-orig-file="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg" data-orig-size="1800,1200" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Harrys-fiveoclock-mapping the grains-step 3" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=300" data-large-file="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-3.jpg?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2019/09/16/how-to-prevent-razor-burn-7-easy-tips/" rel="bookmark">How to Prevent Razor Burn (7 Easy&nbsp;Tips)</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/fiveoclockstaff/" title="Posts by Five O&#039;Clock Staff" rel="author">Five O'Clock Staff</a>				</div><!-- end .entry-author -->
+				<p class="summary">Raised bumps. Itching. Redness. These are all sure signs of razor burn, a bothersome type of skin inflammation that can occur after shaving. Though it can be the result of sensitive skin in general, it’s usually the result of haste and improper shaving techniques. On the bright side, razor burn is preventable.</p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2019/09/16/how-to-prevent-razor-burn-7-easy-tips/" class="entry-date">September 16, 2019</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/face-care/" rel="category tag">Face Care</a>, <a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>, <a href="https://fiveoclock.harrys.com/category/face-care/routine/" rel="category tag">Routine</a>, <a href="https://fiveoclock.harrys.com/category/shaving/" rel="category tag">Shaving</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-24844 -->
+
+	
+   
+   
+	 <article id="post-24840" class="rp-big-one post-24840 post type-post status-publish format-standard has-post-thumbnail hentry category-face-care category-how-to-shave category-routine category-shaving tag-how-to tag-shave-prep tag-shaving tag-tips">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2019/09/16/tips-for-how-to-shave-your-face/"><img width="1200" height="800" src="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=1200&amp;h=800&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" srcset="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=1200&amp;h=800&amp;crop=1 1200w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=150&amp;h=100&amp;crop=1 150w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=300&amp;h=200&amp;crop=1 300w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=768&amp;h=512&amp;crop=1 768w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=840&amp;h=560&amp;crop=1 840w, https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg 1800w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="2467" data-permalink="https://fiveoclock.harrys.com/2016/04/07/mapping-your-best-shave/harrys-fiveoclock-mapping-the-grains-step-4/" data-orig-file="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg" data-orig-size="1800,1200" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Harrys-fiveoclock-mapping the grains-step 4" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=300" data-large-file="https://5ocmag.files.wordpress.com/2016/03/harrys-fiveoclock-mapping-the-grains-step-4.jpg?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2019/09/16/tips-for-how-to-shave-your-face/" rel="bookmark">Tips for How to Shave Your&nbsp;Face</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/fiveoclockstaff/" title="Posts by Five O&#039;Clock Staff" rel="author">Five O'Clock Staff</a>				</div><!-- end .entry-author -->
+				<p class="summary">Did you know the average guy spends about 3,000 hours of his life shaving? That’s over four months. (Crazy, right?) If we’re going to spend that much time shaving, it’s worth making sure we do it right. So we thought it might be useful to organize some tips on how to shave your face.</p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2019/09/16/tips-for-how-to-shave-your-face/" class="entry-date">September 16, 2019</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/face-care/" rel="category tag">Face Care</a>, <a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>, <a href="https://fiveoclock.harrys.com/category/face-care/routine/" rel="category tag">Routine</a>, <a href="https://fiveoclock.harrys.com/category/shaving/" rel="category tag">Shaving</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-24840 -->
+
+	
+   
+   
+	 <article id="post-24828" class="rp-big-one post-24828 post type-post status-publish format-standard has-post-thumbnail hentry category-face-care category-how-to-shave category-routine category-shaving tag-shave-prep">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2019/09/16/shave-gel-vs-shave-cream-which-is-right-for-you/"><img width="840" height="560" src="https://5ocmag.files.wordpress.com/2017/02/lather-up.gif?w=840&amp;h=560&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" data-attachment-id="7743" data-permalink="https://fiveoclock.harrys.com/2017/02/03/lather-up/lather-up/" data-orig-file="https://5ocmag.files.wordpress.com/2017/02/lather-up.gif" data-orig-size="840,560" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="lather-up" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2017/02/lather-up.gif?w=300" data-large-file="https://5ocmag.files.wordpress.com/2017/02/lather-up.gif?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2019/09/16/shave-gel-vs-shave-cream-which-is-right-for-you/" rel="bookmark">Shave Gel vs. Shave Cream: Which is Right for&nbsp;You?</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/fiveoclockstaff/" title="Posts by Five O&#039;Clock Staff" rel="author">Five O'Clock Staff</a>				</div><!-- end .entry-author -->
+				<p class="summary">Shaving is the act of pulling blades across your skin, so there’s no secret why we need protection. But we have options: shave gel vs. shave cream. How do we know which one protects best?</p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2019/09/16/shave-gel-vs-shave-cream-which-is-right-for-you/" class="entry-date">September 16, 2019</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/face-care/" rel="category tag">Face Care</a>, <a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>, <a href="https://fiveoclock.harrys.com/category/face-care/routine/" rel="category tag">Routine</a>, <a href="https://fiveoclock.harrys.com/category/shaving/" rel="category tag">Shaving</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-24828 -->
+
+	
+   
+   
+	 <article id="post-24825" class="rp-big-one post-24825 post type-post status-publish format-standard has-post-thumbnail hentry category-better-grooming category-face-care category-hair-style category-routine category-shaving tag-beards tag-tips">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2019/09/16/tips-for-how-to-trim-a-beard/"><img width="360" height="275" src="https://5ocmag.files.wordpress.com/2016/02/art-of-preshaving-front-page.gif?w=360&amp;h=275&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" data-attachment-id="4622" data-permalink="https://fiveoclock.harrys.com/2016/04/07/respect-the-technique-pre-shaving/art-of-preshaving-front-page/" data-orig-file="https://5ocmag.files.wordpress.com/2016/02/art-of-preshaving-front-page.gif" data-orig-size="360,275" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Art-of-Preshaving-Front-Page" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2016/02/art-of-preshaving-front-page.gif?w=300" data-large-file="https://5ocmag.files.wordpress.com/2016/02/art-of-preshaving-front-page.gif?w=360" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2019/09/16/tips-for-how-to-trim-a-beard/" rel="bookmark">Tips for How to Trim a&nbsp;Beard</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/fiveoclockstaff/" title="Posts by Five O&#039;Clock Staff" rel="author">Five O'Clock Staff</a>				</div><!-- end .entry-author -->
+				<p class="summary">Going to the barber is a viable option, but learning to trim our own beard will save us a lot of time and money. Then we can leave all those trips to the barbershop behind.</p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2019/09/16/tips-for-how-to-trim-a-beard/" class="entry-date">September 16, 2019</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/shaving/better-grooming/" rel="category tag">Better Grooming</a>, <a href="https://fiveoclock.harrys.com/category/face-care/" rel="category tag">Face Care</a>, <a href="https://fiveoclock.harrys.com/category/hair-style/" rel="category tag">Hair Style</a>, <a href="https://fiveoclock.harrys.com/category/face-care/routine/" rel="category tag">Routine</a>, <a href="https://fiveoclock.harrys.com/category/shaving/" rel="category tag">Shaving</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-24825 -->
+
+	
+   
+   
+	 <article id="post-24821" class="rp-big-one post-24821 post type-post status-publish format-standard has-post-thumbnail hentry category-face-care category-how-to-shave category-routine category-shaving tag-shaving tag-tips">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2019/09/16/how-to-prevent-ingrown-hairs-when-shaving-7-easy-tips/"><img width="1200" height="800" src="https://5ocmag.files.wordpress.com/2016/02/grain-gif-1200x800.gif?w=1200&amp;h=800&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" data-attachment-id="4623" data-permalink="https://fiveoclock.harrys.com/2016/04/07/mapping-your-best-shave/grain-gif-1200x800/" data-orig-file="https://5ocmag.files.wordpress.com/2016/02/grain-gif-1200x800.gif" data-orig-size="1200,800" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Mapping Your Best Shave Featured Gif" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2016/02/grain-gif-1200x800.gif?w=300" data-large-file="https://5ocmag.files.wordpress.com/2016/02/grain-gif-1200x800.gif?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2019/09/16/how-to-prevent-ingrown-hairs-when-shaving-7-easy-tips/" rel="bookmark">How to Prevent Ingrown Hairs When Shaving (7 Easy&nbsp;Tips)</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/fiveoclockstaff/" title="Posts by Five O&#039;Clock Staff" rel="author">Five O'Clock Staff</a>				</div><!-- end .entry-author -->
+				<p class="summary">They’re pesky. They’re painful. And most of us guys have dealt with them before. That’s right. We’re talking about ingrown hairs—those little red bumps that show up on your skin after shaving. They’re unpleasant, unsightly, and often quite painful to deal with. </p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2019/09/16/how-to-prevent-ingrown-hairs-when-shaving-7-easy-tips/" class="entry-date">September 16, 2019</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/face-care/" rel="category tag">Face Care</a>, <a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>, <a href="https://fiveoclock.harrys.com/category/face-care/routine/" rel="category tag">Routine</a>, <a href="https://fiveoclock.harrys.com/category/shaving/" rel="category tag">Shaving</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-24821 -->
+
+	
+   
+   
+	 <article id="post-11563" class="rp-big-one post-11563 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-shave">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2018/04/30/the-mist-ery-of-the-post-shave/"><img width="1200" height="800" src="https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=1200&amp;h=800&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" srcset="https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=1200&amp;h=800&amp;crop=1 1200w, https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg 2400w, https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=150&amp;h=100&amp;crop=1 150w, https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=300&amp;h=200&amp;crop=1 300w, https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=768&amp;h=512&amp;crop=1 768w, https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=840&amp;h=560&amp;crop=1 840w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="11576" data-permalink="https://fiveoclock.harrys.com/harrys-post-shave-mist-4/" data-orig-file="https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg" data-orig-size="2400,1600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Harry&#8217;s Post Shave Mist" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=300" data-large-file="https://5ocmag.files.wordpress.com/2018/04/harrys-post-shave-mist-4.jpg?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2018/04/30/the-mist-ery-of-the-post-shave/" rel="bookmark">The Mist-ery of the Post&nbsp;Shave</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/cganswindt/" title="Posts by Caitlin Ganswindt" rel="author">Caitlin Ganswindt</a>				</div><!-- end .entry-author -->
+				<p class="summary">Press refresh on your shaving routine with the cooling, calming sensation of Harry’s new Limited Edition Post-Shave Mist. </p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2018/04/30/the-mist-ery-of-the-post-shave/" class="entry-date">April 30, 2018</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-11563 -->
+
+	
+   
+   
+	 <article id="post-11587" class="rp-big-one post-11587 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-talk-to-your-barber">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2018/04/30/how-to-talk-to-your-barber-irving-park/"><img width="1200" height="800" src="https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=1200&amp;h=800&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" srcset="https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=1200&amp;h=800&amp;crop=1 1200w, https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg 2400w, https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=150&amp;h=100&amp;crop=1 150w, https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=300&amp;h=200&amp;crop=1 300w, https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=768&amp;h=512&amp;crop=1 768w, https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=840&amp;h=560&amp;crop=1 840w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="11592" data-permalink="https://fiveoclock.harrys.com/htttyb-3-2/" data-orig-file="https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg" data-orig-size="2400,1600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="HTTTYB-3" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=300" data-large-file="https://5ocmag.files.wordpress.com/2018/04/htttyb-3.jpg?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2018/04/30/how-to-talk-to-your-barber-irving-park/" rel="bookmark">How To Talk To Your Barber: Irving&nbsp;Park</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/5ocwesleyverhoeve/" title="Posts by Wesley Verhoeve" rel="author">Wesley Verhoeve</a>				</div><!-- end .entry-author -->
+				<p class="summary">Settle into a circa 1930s barber chair, as we sit down with the folks from Chicago’s Irving Park Barbershop. </p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2018/04/30/how-to-talk-to-your-barber-irving-park/" class="entry-date">April 30, 2018</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/shaving/how-to-talk-to-your-barber/" rel="category tag">How To Talk To Your Barber</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-11587 -->
+
+	
+   
+   
+	 <article id="post-10646" class="rp-big-one post-10646 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-shave">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2017/07/24/respect-the-technique-post-shaving-2-2/"><img width="360" height="275" src="https://5ocmag.files.wordpress.com/2016/04/art-of-the-post-shave-featured-uncolored.gif?w=360&amp;h=275&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" data-attachment-id="4751" data-permalink="https://fiveoclock.harrys.com/2016/04/07/respect-the-technique-post-shaving/art-of-the-post-shave-featured-uncolored/" data-orig-file="https://5ocmag.files.wordpress.com/2016/04/art-of-the-post-shave-featured-uncolored.gif" data-orig-size="360,275" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Art-of-the-Post-Shave-Featured-Uncolored" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2016/04/art-of-the-post-shave-featured-uncolored.gif?w=300" data-large-file="https://5ocmag.files.wordpress.com/2016/04/art-of-the-post-shave-featured-uncolored.gif?w=360" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2017/07/24/respect-the-technique-post-shaving-2-2/" rel="bookmark">Respect the Technique:&nbsp;Post-Shaving</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/cganswindt/" title="Posts by Caitlin Ganswindt" rel="author">Caitlin Ganswindt</a>				</div><!-- end .entry-author -->
+				<p class="summary">You’ve made all the right choices, used the best products—now it’s time to finish strong. The right post-shave routine will help calm and nourish your skin, leaving you fresh-faced for the day ahead.</p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2017/07/24/respect-the-technique-post-shaving-2-2/" class="entry-date">July 24, 2017</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-10646 -->
+
+	
+   
+   
+	 <article id="post-10487" class="rp-big-one post-10487 post type-post status-publish format-standard has-post-thumbnail hentry category-how-to-shave tag-tomi-um">
+	  <div class="rp-big-one-content">
+						<div class="entry-thumb">
+				 <a href="https://fiveoclock.harrys.com/2017/07/12/mapping-your-best-shave-2-2/"><img width="1200" height="800" src="https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=1200&amp;h=800&amp;crop=1" class="attachment-zuki-fullwidth size-zuki-fullwidth wp-post-image" alt="" loading="lazy" srcset="https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=1200&amp;h=800&amp;crop=1 1200w, https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg 2400w, https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=150&amp;h=100&amp;crop=1 150w, https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=300&amp;h=200&amp;crop=1 300w, https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=768&amp;h=512&amp;crop=1 768w, https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=840&amp;h=560&amp;crop=1 840w" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="11559" data-permalink="https://fiveoclock.harrys.com/harrys-mapping-the-grains-intro/" data-orig-file="https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg" data-orig-size="2400,1600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Harrys-Mapping-the-Grains-Intro" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=300" data-large-file="https://5ocmag.files.wordpress.com/2016/04/harrys-mapping-the-grains-intro.jpg?w=840" /></a>
+			</div><!-- end .entry-thumb -->
+			
+			<div class="story">
+				 <h2 class="entry-title"><a href="https://fiveoclock.harrys.com/2017/07/12/mapping-your-best-shave-2-2/" rel="bookmark">Mapping Your Best&nbsp;Shave</a></h2>				 <div class="entry-author">
+					<span>by</span> <a href="https://fiveoclock.harrys.com/author/fiveoclockstaff/" title="Posts by Five O&#039;Clock Staff" rel="author">Five O'Clock Staff</a>				</div><!-- end .entry-author -->
+				<p class="summary">Ever wonder if you're shaving in the right direction? Make the most of your tools by mapping the ways your facial hair grows.</p>
+				<div class="entry-date"><a href="https://fiveoclock.harrys.com/2017/07/12/mapping-your-best-shave-2-2/" class="entry-date">July 12, 2017</a></div>
+								<div class="entry-cats">
+					<a href="https://fiveoclock.harrys.com/category/shaving/how-to-shave/" rel="category tag">How to Shave</a>				</div><!-- end .entry-cats -->
+		</div><!--end .story -->
+		</div><!--end .rp-big-one -->
+	</article><!-- end .post-10487 -->
+
+	
+   
+
+		</aside></div><!-- #front-content-one --><div id="front-sidebar-one" class="front-sidebar widget-area" role="complementary">
+	<aside id="media_image-39" class="widget widget_media_image"><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><a href="https://www.harrys.com/"><img width="480" height="720" src="https://5ocmag.files.wordpress.com/2016/03/harrys11.jpg?w=480" class="image wp-image-4197  attachment-480x720 size-480x720" alt="" loading="lazy" style="max-width: 100%; height: auto;" srcset="https://5ocmag.files.wordpress.com/2016/03/harrys11.jpg 480w, https://5ocmag.files.wordpress.com/2016/03/harrys11.jpg?w=100 100w, https://5ocmag.files.wordpress.com/2016/03/harrys11.jpg?w=300 300w" sizes="(max-width: 480px) 100vw, 480px" data-attachment-id="4197" data-permalink="https://fiveoclock.harrys.com/harrys1-2/" data-orig-file="https://5ocmag.files.wordpress.com/2016/03/harrys11.jpg" data-orig-size="480,720" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Harrys1" data-image-description="" data-image-caption="" data-medium-file="https://5ocmag.files.wordpress.com/2016/03/harrys11.jpg?w=300" data-large-file="https://5ocmag.files.wordpress.com/2016/03/harrys11.jpg?w=480" /></a></aside></div><!-- #front-sidebar-one -->
+</div><!-- end #primary -->
+
+
+
+
+<div id="footerwidgets-wrap" class="cf">
+			<div id="footer-one" class="default-sidebar widget-area" role="complementary">
+			<aside id="text-7" class="widget widget_text"><h3 class="widget-title">© Harry&#8217;s Inc. All Rights Reserved.</h3>			<div class="textwidget"><p>Harry's, H', Mammoth Design, Give a Shave, and Truman are trademarks and/or registered trademarks of Harry's, Inc.
+</p>
+<a href="http://www.harrys.com/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a>     |      <a href="https://fiveoclock.harrys.com/terms-of-service/" target="_blank" rel="noopener">Terms of Use</a>
+<p>(Update effective as of 11/17/17)</p>
+</div>
+		</aside>		</div><!-- end #footer-one -->
+	
+	
+	
+			<div id="footer-four" class="default-sidebar widget-area" role="complementary">
+			<aside id="wpcom_social_media_icons_widget-10" class="widget widget_wpcom_social_media_icons_widget"><h3 class="widget-title">Connect with Harry&#8217;s</h3><ul><li><a href="https://www.facebook.com/hapostrophe/" class="genericon genericon-facebook" target="_blank"><span class="screen-reader-text">View hapostrophe&#8217;s profile on Facebook</span></a></li><li><a href="https://twitter.com/harrys/" class="genericon genericon-twitter" target="_blank"><span class="screen-reader-text">View harrys&#8217;s profile on Twitter</span></a></li><li><a href="https://www.instagram.com/harrys/" class="genericon genericon-instagram" target="_blank"><span class="screen-reader-text">View harrys&#8217;s profile on Instagram</span></a></li><li><a href="https://www.youtube.com/channel/UCugL2rOcVU9DxicZJLJ9beg/" class="genericon genericon-youtube" target="_blank"><span class="screen-reader-text">View UCugL2rOcVU9DxicZJLJ9beg&#8217;s profile on YouTube</span></a></li></ul></aside>		</div><!-- end #footer-four -->
+	
+			<div id="footer-five" class="default-sidebar widget-area" role="complementary">
+			<aside id="text-12" class="widget widget_text"><h3 class="widget-title">Contact Five O&#8217; Clock</h3>			<div class="textwidget">For questions, comments or concerns with our site please contact our Editor at  <a href="mailto:FiveOClock@Harrys.com">FiveOClock@harrys.com</a></div>
+		</aside>		</div><!-- end #footer-five -->
+	</div><!-- end #footerwidgets-wrap -->
+<footer id="colophon" class="site-footer cf">
+			<p class="site-description"> A Harry&#039;s Magazine</p>
+	
+	
+	<div id="site-info">
+		<ul class="credit" role="contentinfo">
+			<li class="wp-credit">
+				<a></a>
+			</li>
+			<li>
+							</li>
+		</ul><!-- end .credit -->
+	</div><!-- end #site-info -->
+
+</footer><!-- end #colophon -->
+</div><!-- end #main-wrap -->
+
+</div><!-- end #container -->
+
+<!--  -->
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202204y' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script crossorigin='anonymous' type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240h'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>	<div id="actionbar" style="display: none;"
+			class="actnbr-premium-zuki actnbr-has-follow">
+		<ul>
+								<li class="actnbr-btn actnbr-hidden">
+								<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+							<div class="actnbr-popover tip tip-top-left actnbr-notice" id="follow-bubble">
+							<div class="tip-arrow"></div>
+							<div class="tip-inner actnbr-follow-bubble">
+															<ul>
+											<li class="actnbr-sitename">
+			<a href="https://fiveoclock.harrys.com">
+				<img alt='' src='https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=50' class='avatar avatar-50' height='50' width='50' />				Five O&#039;Clock			</a>
+		</li>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" style="display: none;">
+																						<div class="actnbr-follow-count">Join 74 other followers</div>
+																					<div>
+										<input type="email" name="email" placeholder="Enter your email address" class="actnbr-email-field" aria-label="Enter your email address" />
+										</div>
+										<input type="hidden" name="action" value="subscribe" />
+										<input type="hidden" name="blog_id" value="96188217" />
+										<input type="hidden" name="source" value="https://fiveoclock.harrys.com/" />
+										<input type="hidden" name="sub-type" value="actionbar-follow" />
+										<input type="hidden" id="_wpnonce" name="_wpnonce" value="3e63c65cd1" />										<div class="actnbr-button-wrap">
+											<button type="submit" value="Sign me up">
+												Sign me up											</button>
+										</div>
+									</form>
+									<li class="actnbr-login-nudge">
+										<div>
+											Already have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Ffiveoclock.harrys.com%252F">Log in now.</a>										</div>
+									</li>
+								</ul>
+															</div>
+						</div>
+					</li>
+							<li class="actnbr-ellipsis actnbr-hidden">
+				<svg class="gridicon gridicons-ellipsis" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M7 12c0 1.104-.896 2-2 2s-2-.896-2-2 .896-2 2-2 2 .896 2 2zm12-2c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm-7 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z"/></g></svg>				<div class="actnbr-popover tip tip-top-left actnbr-more">
+					<div class="tip-arrow"></div>
+					<div class="tip-inner">
+						<ul>
+									<li class="actnbr-sitename">
+			<a href="https://fiveoclock.harrys.com">
+				<img alt='' src='https://5ocmag.files.wordpress.com/2016/03/foc-logo-lockup2.png?w=50' class='avatar avatar-50' height='50' width='50' />				Five O&#039;Clock			</a>
+		</li>
+								<li class="actnbr-folded-customize">
+								<a href="https://5ocmag.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2F5ocmag.wordpress.com%2F">
+									<svg class="gridicon gridicons-customize" height="20" width="20" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M2 6c0-1.505.78-3.08 2-4 0 .845.69 2 2 2 1.657 0 3 1.343 3 3 0 .386-.08.752-.212 1.09.74.594 1.476 1.19 2.19 1.81L8.9 11.98c-.62-.716-1.214-1.454-1.807-2.192C6.753 9.92 6.387 10 6 10c-2.21 0-4-1.79-4-4zm12.152 6.848l1.34-1.34c.607.304 1.283.492 2.008.492 2.485 0 4.5-2.015 4.5-4.5 0-.725-.188-1.4-.493-2.007L18 9l-2-2 3.507-3.507C18.9 3.188 18.225 3 17.5 3 15.015 3 13 5.015 13 7.5c0 .725.188 1.4.493 2.007L3 20l2 2 6.848-6.848c1.885 1.928 3.874 3.753 5.977 5.45l1.425 1.148 1.5-1.5-1.15-1.425c-1.695-2.103-3.52-4.092-5.448-5.977z"/></g></svg>									<span>Customize</span>
+								</a>
+							</li>
+																<li class="actnbr-folded-follow">
+												<a class="actnbr-action actnbr-actn-follow " href="">
+			<svg class="gridicon gridicons-reader-follow" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 16v2h-3v3h-2v-3h-3v-2h3v-3h2v3h3zM20 2v9h-4v3h-3v4H4c-1.1 0-2-.9-2-2V2h18zM8 13v-1H4v1h4zm3-3H4v1h7v-1zm0-2H4v1h7V8zm7-4H4v2h14V4z"/></g></svg><span>Follow</span>
+		</a>
+		<a class="actnbr-action actnbr-actn-following  no-display" href="">
+			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
+		</a>
+										</li>
+																	<li class="actnbr-signup"><a href="https://wordpress.com/start/">Sign up</a></li>
+									<li class="actnbr-login"><a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Ffiveoclock.harrys.com%252F">Log in</a></li>
+																	<li class="actnbr-shortlink"><a href="https://wp.me/P6vAWR-qe">Copy shortlink</a></li>
+																	<li class="flb-report"><a href="http://en.wordpress.com/abuse/">Report this content</a></li>
+																	<li class="actnbr-reader">
+										<a href="https://wordpress.com/read/blogs/96188217/posts/1626">
+											View post in Reader										</a>
+									</li>
+																	<li class="actnbr-subs">
+										<a href="https://subscribe.wordpress.com/">Manage subscriptions</a>
+									</li>
+																		<li class="actnbr-fold"><a href="">Collapse this bar</a></li>
+															</ul>
+					</div>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+<script>
+window.addEventListener( "load", function( event ) {
+	var link = document.createElement( "link" );
+	link.href = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?v=20210915";
+	link.type = "text/css";
+	link.rel = "stylesheet";
+	document.head.appendChild( link );
+
+	var script = document.createElement( "script" );
+	script.src = "https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.js?v=20211028";
+	script.defer = true;
+	document.body.appendChild( script );
+} );
+</script>
+
+	<script crossorigin='anonymous' type='text/javascript' src='https://s2.wp.com/_static/??/wp-content/js/devicepx.js,/wp-content/mu-plugins/admin-bar/masterbar-tracks.js?m=1603726956j'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script src="//stats.wp.com/w.js?63" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'96188217','blog_tz':'-5','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'96188217','v':'wpcom','tz':'-5','user_id':'0','post':'1626','subd':'5ocmag'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1TaVhzUzFMbjdWNHpwZGhTayxPSUFCMGRVYVNrSFguN3FwSmQ5RGtNX3VQcj1yVzhiflM1THQtLGFdQ2toOXYlNms5X2UlSm9nXXw5aCxpK04rWkoyS35MX0k5SVgxRDNTMl8uanxFdW1rYVswRXUlMGEuV085ZD1IfHJCUU5nSEVyWVdkaVdadU8rU3V0MDh1bi5hW0gxdjdFUixtQW9jP3IlU0ZDVDJTT2FqR1ByMnwtMms4a0hJVWlZS3dtRDFzVG1HdVNnck89ZmNkJnZzWCVFXV13SFMySlhpa0N6YkQxeE5kVUNxM0FMJW1NejFZQXJdS0Fpc0pabltSanF2Y3dUaXo='}]);
+_stq.push([ 'clickTrackerInit', '96188217', '1626' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+<!--
+	generated 284 seconds ago
+	generated in 0.220 seconds
+	served from batcache in 0.002 seconds
+	expires in 16 seconds
+-->

@@ -1,0 +1,17 @@
+GET https://ohlsongroup.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=2m1p8efsivnusc7a0jn08bqq21; expires=Fri, 04-Mar-2022 00:27:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a19e5144-4753-4e6b-a0f3-a58f06885331; expires=Fri, 02-Feb-2024 00:27:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:27:30 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

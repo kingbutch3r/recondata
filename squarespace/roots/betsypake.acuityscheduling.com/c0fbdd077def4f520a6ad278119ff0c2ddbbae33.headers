@@ -1,0 +1,15 @@
+GET https://betsypake.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:04:00 GMT
+< Set-Cookie: PHPSESSID=ijhdgtdc2v8odn3b2ckh4pf99b; expires=Fri, 04-Mar-2022 00:03:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d32ec267-0c5a-4245-89ec-7fe1a16e8a7d; expires=Fri, 02-Feb-2024 00:04:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

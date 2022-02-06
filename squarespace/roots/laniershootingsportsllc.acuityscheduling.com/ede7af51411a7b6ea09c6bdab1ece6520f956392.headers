@@ -1,0 +1,15 @@
+GET https://laniershootingsportsllc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=56i9b4mrpctdf5un024oolrca9; expires=Thu, 03-Mar-2022 23:58:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0598dad9-0305-48ca-a000-94db7512cb21; expires=Thu, 01-Feb-2024 23:58:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:58:17 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload

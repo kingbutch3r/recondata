@@ -1,0 +1,11 @@
+GET http://supply-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BfO4NaGiPp6IN2Q0MmM0ZjJkYjk2YWYxMTUwZGQ2N2FmNDRmMDE5;Path=/
+< X-Contextid: 4EinRonM/QoqqlSEG
+< Age: 293730
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 15:49:29 GMT
+< Location: https://supply-demo.squarespace.com/

@@ -1,0 +1,11 @@
+GET http://bradgood-7-0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://bradgood-7-0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BavrxRCdfSt+MzM0MWMwZDFmOWU1YjA3Y2VjODlkZDI0N2YwNGUz;Path=/
+< X-Contextid: ejS2MBLs/a5AadmR0
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:56:21 GMT

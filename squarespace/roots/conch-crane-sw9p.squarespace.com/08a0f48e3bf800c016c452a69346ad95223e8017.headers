@@ -1,0 +1,14 @@
+GET https://conch-crane-sw9p.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BfoFEfYgi3pyYjYzYzBmNWViMjk5ZGE0MWNlMjY1Y2Q2OTdiMmE0;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Contextid: DjsJfmcn/m0W5wxpA
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:01 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

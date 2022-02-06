@@ -1,0 +1,16 @@
+GET https://owl-point-2df4.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: 3wrVbySH/czWD698c
+< Date: Thu, 27 Jan 2022 15:36:42 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Age: 465820
+< Etag: W/"59473570a47282d253aa319439d1b8c3--gzip"
+< Set-Cookie: crumb=BTp25JSH/zWoMmM3N2U1NmYxZDFmZmI4Mzc1N2FmY2ZjZjViZTVk;Path=/
+< Vary: Accept-Encoding

@@ -1,0 +1,12 @@
+GET https://mobile.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Via: 1.1 google
+< Set-Cookie: GCLB=CNWLv_GexJqAew; path=/; HttpOnly
+< Alt-Svc: clear
+< Content-Type: text/html
+< Content-Length: 190
+< Location: https://www.payoneer.com/
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:25:39 GMT

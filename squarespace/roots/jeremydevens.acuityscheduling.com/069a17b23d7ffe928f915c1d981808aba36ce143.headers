@@ -1,0 +1,15 @@
+GET https://jeremydevens.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=aka1buh26of4gubo4o0ua0m64u; expires=Fri, 04-Mar-2022 00:35:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3e6a27db-b557-4d04-8bde-b55f833ed76b; expires=Fri, 02-Feb-2024 00:35:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:35:17 GMT

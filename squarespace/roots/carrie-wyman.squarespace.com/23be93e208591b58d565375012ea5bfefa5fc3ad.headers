@@ -1,0 +1,17 @@
+GET https://carrie-wyman.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 14:04:42 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXorR4Wqjex4ZjBhNGE3MTAzYzhiMDlkZTBiNDIzZGZlYzc1Yjcw;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< X-Contextid: EofKaaWB/oS5BjeZF
+< Last-Modified: Tue, 01 Feb 2022 14:04:42 GMT
+< Vary: Accept-Encoding
+< Age: 39814
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"bb33d3d19a6a257fa6a474168f40dd71"
+< X-Content-Type-Options: nosniff

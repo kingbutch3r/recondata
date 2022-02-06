@@ -1,0 +1,15 @@
+GET https://heartparenting.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=0e6n564scn8rsd4ir0c45vdtfh; expires=Fri, 04-Mar-2022 00:12:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b99ff1ed-f253-460a-afee-e8ab0478685a; expires=Fri, 02-Feb-2024 00:12:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:12:37 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

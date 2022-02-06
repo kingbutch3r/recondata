@@ -1,0 +1,17 @@
+GET https://rosaliepuiman.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=b67lnolf8bo1ggf0i2j8a5srbm; expires=Fri, 04-Mar-2022 00:20:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9a0f373d-da93-419a-84c4-e4f21db17cb8; expires=Fri, 02-Feb-2024 00:20:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:20:20 GMT

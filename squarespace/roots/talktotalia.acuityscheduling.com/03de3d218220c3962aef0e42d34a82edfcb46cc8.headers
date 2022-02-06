@@ -1,0 +1,17 @@
+GET https://talktotalia.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:54:30 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=23bh6m14giu3qrks4fs5t0nnpk; expires=Thu, 03-Mar-2022 23:54:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4750b128-7108-4451-9ff8-67b9d9059662; expires=Thu, 01-Feb-2024 23:54:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent

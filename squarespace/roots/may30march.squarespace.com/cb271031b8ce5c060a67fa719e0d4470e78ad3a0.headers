@@ -1,0 +1,10 @@
+GET http://may30march.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:17 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUb2gTnKUaZXZjE2OGEwZWFhMTBhMTlkZTNmOGJlOWVhYTM4NjE5;Path=/
+< X-Contextid: n6uHHQQT/6kK6Utsl

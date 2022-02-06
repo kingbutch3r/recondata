@@ -1,0 +1,17 @@
+GET https://gliderbooksacademy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=1ffluh32e6fpmtn2mbsg20rb37; expires=Fri, 04-Mar-2022 00:47:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=15015a62-675b-475e-a179-974cb9d1ea0f; expires=Fri, 02-Feb-2024 00:47:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:47:27 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"

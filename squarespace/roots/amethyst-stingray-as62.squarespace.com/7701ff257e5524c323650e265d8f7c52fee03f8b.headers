@@ -1,0 +1,15 @@
+GET https://amethyst-stingray-as62.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Age: 0
+< Content-Length: 3422
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:51:45 GMT
+< Etag: W/"190ae408a4b28b5fab5d84bce531f946"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTwWTs69CR6OY2JhZjk4MmU3NTEyYjEwNjJmZWYxZWMxZDAwNTA1;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: U6VUEEeC/5Mp3pyjk

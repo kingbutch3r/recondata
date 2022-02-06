@@ -1,0 +1,17 @@
+GET https://iloveradiant.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:41:28 GMT
+< Set-Cookie: PHPSESSID=nhv7bhpk72s1qeal9d5ji18qck; expires=Fri, 04-Mar-2022 00:41:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=733f9750-3118-4dbf-9b1b-b0479d29c071; expires=Fri, 02-Feb-2024 00:41:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

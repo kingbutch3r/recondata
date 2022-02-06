@@ -1,0 +1,17 @@
+GET https://triceratops-violin-9273.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 1594
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Set-Cookie: crumb=BcpXfKgrBsA3N2Q3ODIxODRlYmQ0ODNiYTc4ODVkZmM0MmU4Y2Zh;Path=/
+< X-Contextid: QCkqhupi/iQyxSuOn
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 00:29:46 GMT
+< Etag: W/"40a17547d92e157a01943c5d97854606--gzip"
+< Strict-Transport-Security: max-age=43200
+< X-Frame-Options: SAMEORIGIN

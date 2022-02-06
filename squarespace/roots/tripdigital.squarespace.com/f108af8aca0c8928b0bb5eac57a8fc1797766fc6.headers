@@ -1,0 +1,11 @@
+GET http://tripdigital.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 356490
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 20:50:33 GMT
+< Location: https://tripdigital.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BT6S5esRoEckMzIzMTQwZmQ1ZGIxYTE0NmEwYWQ2MzUyZjgwMDQ5;Path=/
+< X-Contextid: s1neQBIo/mXNSKBOE

@@ -1,0 +1,17 @@
+GET https://sydneyalexandertechnique.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=atpebi3v6hp91utgpaposrqvgn; expires=Fri, 04-Mar-2022 00:07:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=32380fe6-1abd-48dd-87c1-0d9db6a1496b; expires=Fri, 02-Feb-2024 00:07:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:07:55 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent

@@ -1,0 +1,10 @@
+GET http://gusto101.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:12:51 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BfSzemMHiH77ZDgyMWQ1MmIxZTRiMjc0ZTBjNzY4MDI5MTg1Zjk0;Path=/
+< X-Contextid: aOfQQoOy/fUd9fWqY

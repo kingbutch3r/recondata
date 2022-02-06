@@ -1,0 +1,17 @@
+GET https://joyoga.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:54:06 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=meq9ika30a47s0oj473h8d8esp; expires=Thu, 03-Mar-2022 23:54:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b923abdf-8ca1-4483-85a3-2ed3d31d5580; expires=Thu, 01-Feb-2024 23:54:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

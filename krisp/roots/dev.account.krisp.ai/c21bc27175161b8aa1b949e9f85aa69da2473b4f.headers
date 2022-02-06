@@ -1,0 +1,22 @@
+GET https://dev.account.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Cf-Ray: 6d6ef6e05c998569-BOM
+< Last-Modified: Mon, 10 Jan 2022 08:34:46 GMT
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: sameorigin
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Date: Tue, 01 Feb 2022 23:29:52 GMT
+< Access-Control-Allow-Origin: *
+< X-Cache: Hit from cloudfront
+< X-Amz-Cf-Id: TJAqm4p21YsK0f6U_kq8LAN29vJinKMx8o5QHcvNWIqjpPEldnsZuA==
+< Via: 1.1 528ac8b67d2c72a592b5cb61062d74bc.cloudfront.net (CloudFront)
+< Server: cloudflare
+< Content-Type: text/html
+< Feature-Policy: vibrate none; geolocation none; camera 'none'; microphone 'none'
+< Vary: Accept-Encoding
+< Cf-Cache-Status: DYNAMIC
+< Referrer-Policy: no-referrer
+< X-Amz-Cf-Pop: BOM51-C1
+< Age: 24

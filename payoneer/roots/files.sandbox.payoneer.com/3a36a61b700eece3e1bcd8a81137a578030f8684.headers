@@ -1,0 +1,12 @@
+GET https://files.sandbox.payoneer.com
+
+
+< HTTP/1.1 403 Forbidden
+< Via: 1.1 f9a51734f4fe0e9ddc6c1ff1b7907a7e.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM50-C1
+< X-Cache: Error from cloudfront
+< Content-Type: text/xml
+< Content-Length: 146
+< X-Amz-Cf-Id: yrhJksiZIP_5IacMLOHg1M-YK3Mu_1bIm_5wq5PMl4umO3NFvQMlNw==
+< Server: CloudFront
+< Date: Tue, 01 Feb 2022 23:26:19 GMT

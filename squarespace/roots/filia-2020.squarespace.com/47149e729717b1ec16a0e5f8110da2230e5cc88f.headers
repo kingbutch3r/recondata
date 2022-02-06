@@ -1,0 +1,12 @@
+GET http://filia-2020.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 08:08:01 GMT
+< X-Contextid: r18Vxia6/6je6Xm4p
+< Age: 60099
+< Location: https://filia-2020.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTOyhqASiEYUMzIzNTY4MjVlYWVjOGJmOGNiZGFkNTFmYWE5YmZj;Path=/

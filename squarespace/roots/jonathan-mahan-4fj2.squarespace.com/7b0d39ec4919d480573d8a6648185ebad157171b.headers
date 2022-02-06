@@ -1,0 +1,17 @@
+GET https://jonathan-mahan-4fj2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Last-Modified: Wed, 02 Feb 2022 00:52:40 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BW6PBS9SeS0HN2Y5NGM5YTZiMGNhOGEzMWMzNDI3YTNiODY4ZDIy;Path=/
+< Strict-Transport-Security: max-age=0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: HnYpONiO/3wZUsTS3
+< Date: Wed, 02 Feb 2022 00:52:40 GMT
+< Etag: W/"daa818a22b490938fee159426d469503"
+< Server: Squarespace

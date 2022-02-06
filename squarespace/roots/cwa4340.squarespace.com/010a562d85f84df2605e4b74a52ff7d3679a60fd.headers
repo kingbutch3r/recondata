@@ -1,0 +1,9 @@
+GET http://cwa4340.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:49:47 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=181D05F1D7378C9943F9D9A83079B68B.v5-web008; Path=/; HttpOnly
+< X-Contextid: CXCrQZJI/pL1eDr0m

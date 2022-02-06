@@ -1,0 +1,17 @@
+GET https://georgetownlawgraduatecareerprofessionaldevelopment.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:41:40 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=baijic9la59jtn4d1994ir3llr; expires=Fri, 04-Mar-2022 00:41:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f5e3d398-73f6-4bc2-80ed-287e84639eaa; expires=Fri, 02-Feb-2024 00:41:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"

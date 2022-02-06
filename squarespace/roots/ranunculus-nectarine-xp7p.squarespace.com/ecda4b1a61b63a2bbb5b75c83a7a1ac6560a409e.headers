@@ -1,0 +1,12 @@
+GET http://ranunculus-nectarine-xp7p.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< X-Contextid: WJy3frHT/0XhzIozk
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:50:40 GMT
+< Location: https://ranunculus-nectarine-xp7p.squarespace.com/
+< Set-Cookie: crumb=BQxvo1s3o0vRZWYzMDBhZmQ4MjdhMzk0NTQxNDcyM2FkNGEwNzM1;Path=/
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800

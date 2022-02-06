@@ -1,0 +1,11 @@
+GET http://cowbell-garlic-ef7a.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: bT2mdLv7/ez3oMKZd
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:07:51 GMT
+< Location: https://cowbell-garlic-ef7a.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQ1z5aXVtmK2YzQ1NmJjNTQ4ZjVhZjIwZWFjZmQyYzU5MTFhMmYz;Path=/

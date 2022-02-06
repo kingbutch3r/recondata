@@ -1,0 +1,17 @@
+GET https://corneryourmarket.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=6boqoc39poa31v38kkr47gtgg0; expires=Fri, 04-Mar-2022 00:40:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e0699a6e-f438-46d7-a83a-b781b2eab798; expires=Fri, 02-Feb-2024 00:40:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:40:34 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

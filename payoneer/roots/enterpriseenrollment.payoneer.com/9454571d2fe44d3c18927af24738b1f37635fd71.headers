@@ -1,0 +1,13 @@
+GET http://enterpriseenrollment.payoneer.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-cache
+< Expires: -1
+< X-Aspnet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Date: Tue, 01 Feb 2022 23:26:38 GMT
+< Content-Length: 0
+< Pragma: no-cache
+< Location: https://endpoint.microsoft.com/
+< Server: Microsoft-IIS/10.0

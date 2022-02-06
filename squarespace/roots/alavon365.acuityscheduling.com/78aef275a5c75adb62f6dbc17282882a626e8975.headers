@@ -1,0 +1,15 @@
+GET https://alavon365.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:53:16 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=7f5u5nmr57eofk8536mnn1e1jj; expires=Thu, 03-Mar-2022 23:53:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b5b933d6-bc90-4901-916d-2afc93685723; expires=Thu, 01-Feb-2024 23:53:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

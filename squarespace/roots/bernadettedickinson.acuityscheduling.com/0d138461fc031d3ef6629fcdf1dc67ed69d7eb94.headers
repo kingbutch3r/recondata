@@ -1,0 +1,15 @@
+GET https://bernadettedickinson.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:23:58 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=s4j1nc3i9rnq5iudpa76vlie04; expires=Fri, 04-Mar-2022 00:23:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a9a8463e-3543-4fb0-8138-b761091994d2; expires=Fri, 02-Feb-2024 00:23:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff

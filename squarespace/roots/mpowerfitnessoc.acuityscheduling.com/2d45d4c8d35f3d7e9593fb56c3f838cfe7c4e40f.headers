@@ -1,0 +1,15 @@
+GET https://mpowerfitnessoc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:58:42 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=o317pa5sg26fej90qqrco1m7sl; expires=Thu, 03-Mar-2022 23:58:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=14e9385d-b423-49d8-9f02-5931ea08a183; expires=Thu, 01-Feb-2024 23:58:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

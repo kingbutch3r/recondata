@@ -1,0 +1,16 @@
+GET https://steve-rocco.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: wG8Uo5QP/YsOYOIFj
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:57:37 GMT
+< Etag: W/"eb61f97b683e837d15085051261b47e3"
+< Server: Squarespace
+< Set-Cookie: crumb=BSLIenvtL1GpMGM0YjMxYTkxOTJjNzE2MzZhMjk1MzE5MzFlOWI5;Path=/

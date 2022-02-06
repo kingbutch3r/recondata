@@ -1,0 +1,16 @@
+GET https://avocado-contrabass-g5w2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BbNNv/rsogx3N2VhYzUxZmEyN2E0Y2MxZTYyMjU2NDNkYzZmYjFm;Path=/
+< Date: Sun, 30 Jan 2022 12:07:12 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: GlPABZc7/BIDWTpfL
+< Accept-Ranges: bytes
+< Etag: W/"40b713e7df3d55a6e4ef9c97da3e33ab"
+< Age: 214951
+< X-Content-Type-Options: nosniff

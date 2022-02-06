@@ -1,0 +1,13 @@
+GET https://brands.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Retry-After: 0
+< Accept-Ranges: bytes
+< X-Cache-Hits: 0
+< Date: Wed, 02 Feb 2022 00:49:33 GMT
+< X-Fastmisc-Synth: true
+< Location: https://pro.unfold.com/
+< X-Served-By: cache-bom4738-BOM
+< X-Cache: HIT
+< Content-Length: 0

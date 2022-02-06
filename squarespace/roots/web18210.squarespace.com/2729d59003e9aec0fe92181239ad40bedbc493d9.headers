@@ -1,0 +1,11 @@
+GET https://web18210.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:51:47 GMT
+< Set-Cookie: crumb=BbCwSuUfpF+TNDAwNjBjNjRmNWM0Nzc1ZmU0M2ZmNDk3NTdjNjM0;Path=/
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: gUnri11d/d0W2A8GF

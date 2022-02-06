@@ -1,0 +1,17 @@
+GET https://sunyccc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=t7ru1fvobqua4n3h431u59rmds; expires=Thu, 03-Mar-2022 23:56:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6471c00b-bac6-48e6-a43c-51b293f9858e; expires=Thu, 01-Feb-2024 23:57:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:57:00 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="refresh" content="0;url='https://crisfood.com'" />
+
+        <title>Redirecting to https://crisfood.com</title>
+    </head>
+    <body>
+        Redirecting to <a href="https://crisfood.com">https://crisfood.com</a>.
+    </body>
+</html>

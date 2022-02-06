@@ -1,0 +1,15 @@
+GET https://sandrathehairfanatic.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=pinq5jjtqr2fvrn8aq3ho76837; expires=Thu, 03-Mar-2022 23:57:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1165d634-b0e2-4ee2-8bd4-1d1322598a3e; expires=Thu, 01-Feb-2024 23:57:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:30 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

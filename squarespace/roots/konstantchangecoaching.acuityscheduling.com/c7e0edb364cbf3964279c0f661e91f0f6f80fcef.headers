@@ -1,0 +1,17 @@
+GET https://konstantchangecoaching.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:09:34 GMT
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=uegav2sr6q9j7329dsfrii73u8; expires=Fri, 04-Mar-2022 00:09:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f2ef5af1-75d3-4f55-be49-889109dba624; expires=Fri, 02-Feb-2024 00:09:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

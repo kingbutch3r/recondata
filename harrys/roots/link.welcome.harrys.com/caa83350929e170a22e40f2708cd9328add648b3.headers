@@ -1,0 +1,15 @@
+GET http://link.welcome.harrys.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 162
+< Via: 1.1 varnish
+< Age: 22
+< X-Served-By: cache-bom4722-BOM
+< X-Cache-Hits: 1
+< X-Timer: S1643477972.441102,VS0,VE1
+< Server: nginx
+< Content-Type: text/html
+< X-Cache: HIT
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 17:39:32 GMT

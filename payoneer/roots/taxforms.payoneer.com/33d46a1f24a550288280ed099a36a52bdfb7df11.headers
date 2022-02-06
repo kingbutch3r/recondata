@@ -1,0 +1,10 @@
+GET http://taxforms.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://taxforms.payoneer.com/
+< Content-Length: 227
+< Date: Tue, 01 Feb 2022 23:26:38 GMT

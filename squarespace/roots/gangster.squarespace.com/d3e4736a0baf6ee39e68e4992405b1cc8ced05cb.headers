@@ -1,0 +1,11 @@
+GET https://gangster.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:23:23 GMT
+< Location: http://gangster.squarespace.com/;jsessionid=6748413A793400507D5C1F6C4225DAAC.v5-web014
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=6748413A793400507D5C1F6C4225DAAC.v5-web014; Path=/; HttpOnly
+< X-Contextid: HWsrrUp5/Wx6M02X3

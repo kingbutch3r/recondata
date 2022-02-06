@@ -1,0 +1,15 @@
+GET https://riankerfoot.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:42:10 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=87ormt1u31iq5eckj2i0mbq8hj; expires=Fri, 04-Mar-2022 00:42:09 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8c72637c-2d9d-47d2-b30f-cfcd4ba96d4d; expires=Fri, 02-Feb-2024 00:42:10 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,11 @@
+GET https://web17710.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BWV44A8zHwBzNDgyYjUzMjRiNTA0M2VlNDIyODEzZTE2MzZlNzU1;Path=/
+< X-Contextid: bYtdWgSZ/wATI0toP
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:51:09 GMT
+< Server: Squarespace

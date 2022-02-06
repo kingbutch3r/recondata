@@ -1,0 +1,11 @@
+GET https://web18572.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: TysuncFQ/a3Qpy2pj
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:18:12 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYFJFitonhaFNTIxYjE0ZTFmMTYzODI1OTk1MDRmZWYzNWRhYTYx;Path=/

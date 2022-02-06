@@ -1,0 +1,15 @@
+GET https://drmelody.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=5s2m4jq9le02t2hgcde1s9kvv5; expires=Fri, 04-Mar-2022 00:45:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bf3c5f6f-b3d5-4573-b9a2-7a8c4058870d; expires=Fri, 02-Feb-2024 00:45:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:45:27 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

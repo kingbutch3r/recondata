@@ -1,0 +1,11 @@
+GET http://bronze-lychee-xx52.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 370704
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 17:53:15 GMT
+< Location: https://bronze-lychee-xx52.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BW0Z4+Mseqb/ZjQ0ZmRmZDhlMTlkYmEwNWQ1Nzc0MDI3NjYxYTA4;Path=/
+< X-Contextid: 0Z2hvXlw/pwyygKhR

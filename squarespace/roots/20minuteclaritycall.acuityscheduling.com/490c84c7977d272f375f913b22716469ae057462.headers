@@ -1,0 +1,15 @@
+GET https://20minuteclaritycall.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:17:55 GMT
+< Set-Cookie: PHPSESSID=fqsan9j60o9hrfo16reul57cj1; expires=Fri, 04-Mar-2022 00:17:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ca8088eb-b435-4389-ab53-a5c10365b388; expires=Fri, 02-Feb-2024 00:17:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

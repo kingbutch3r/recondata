@@ -1,0 +1,8 @@
+GET https://api-docs.unfold.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Wed, 02 Feb 2022 00:54:46 GMT
+< Content-Type: text/html; charset=UTF-8
+< Server: Google Frontend
+< Content-Length: 295

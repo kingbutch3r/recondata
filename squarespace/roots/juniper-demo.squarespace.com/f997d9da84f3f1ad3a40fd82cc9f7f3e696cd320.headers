@@ -1,0 +1,16 @@
+GET https://juniper-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Date: Wed, 26 Jan 2022 20:16:57 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BeXV7FexMJQpMTIxMWU2MTY0NmQxM2Q5MTcwYTI5YmU5YjcwZjFj;Path=/
+< Etag: W/"168155f264362da222da355376aaece5"
+< X-Content-Type-Options: nosniff
+< X-Contextid: UA9TgXwy/ziMJf7Bt
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Age: 536989
+< Server: Squarespace

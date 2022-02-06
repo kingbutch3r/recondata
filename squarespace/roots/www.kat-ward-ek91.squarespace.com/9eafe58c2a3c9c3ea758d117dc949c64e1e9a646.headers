@@ -1,0 +1,11 @@
+GET https://www.kat-ward-ek91.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=Bc8rcL71fJeqN2E4NjY5ODVhMTk3YTYwNDE0ZTAyZTViZjFlYzA3;Path=/
+< X-Contextid: RKREAlHU/j2CAGWI2
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:14:20 GMT
+< Location: https://kat-ward-ek91.squarespace.com/

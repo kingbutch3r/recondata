@@ -1,0 +1,16 @@
+GET https://bcnhoneyfest.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 366548
+< Etag: W/"86b2c43f226c121d9720f7c9dfdaa094--gzip"
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Contextid: dHtSTrSQ/KvMrNtaV
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcgxItjRpjnlNDVmNDljODMzZmMzMWIwZTIyYzJmNzIzMzRhN2Qz;Path=/
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Date: Fri, 28 Jan 2022 19:09:12 GMT

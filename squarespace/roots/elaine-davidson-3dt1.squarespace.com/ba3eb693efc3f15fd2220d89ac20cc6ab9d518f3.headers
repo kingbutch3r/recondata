@@ -1,0 +1,11 @@
+GET http://elaine-davidson-3dt1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BfNhPKqVXiMFY2IwNTZkZjEzNDMyMjQ4ZDA5ODg1NzAxZjI2YTcz;Path=/
+< X-Contextid: pnjpxEZ9/3FTVmmWa
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:15:42 GMT
+< Location: https://elaine-davidson-3dt1.squarespace.com/

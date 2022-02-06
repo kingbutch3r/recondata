@@ -1,0 +1,17 @@
+GET https://cecdc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:57:04 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=28iqni129fblgiddskjuffg1c3; expires=Thu, 03-Mar-2022 23:57:03 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2f3851d7-0804-492d-930a-f774ac6ef703; expires=Thu, 01-Feb-2024 23:57:04 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

@@ -1,0 +1,11 @@
+GET https://ext-blackbird-calliope-87ml.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:15 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZgkWCiy5U1aZWQ3OTQ0YWI0MWRlYTc4ZjA5MmMzMWYwMDAyYjI1;Path=/
+< X-Contextid: 1wfF7O9k/4CUiUZTM

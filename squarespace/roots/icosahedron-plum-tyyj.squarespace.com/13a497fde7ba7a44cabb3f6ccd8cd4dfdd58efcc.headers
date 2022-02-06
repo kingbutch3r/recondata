@@ -1,0 +1,11 @@
+GET http://icosahedron-plum-tyyj.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BcU+svF7U+MzMjc5MzdkNjk1M2M4MDFmN2NjYTQ5NGZkOGQ2NzQx;Path=/
+< X-Contextid: HlTZR6Dh/hVBHT3h9
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:03:54 GMT
+< Location: https://icosahedron-plum-tyyj.squarespace.com/

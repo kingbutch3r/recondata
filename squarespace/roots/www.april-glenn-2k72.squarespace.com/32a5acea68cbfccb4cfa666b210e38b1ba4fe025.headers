@@ -1,0 +1,12 @@
+GET http://www.april-glenn-2k72.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:18:21 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace
+< X-Contextid: 79yQhTd2/q1Kah723
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Pragma: no-cache

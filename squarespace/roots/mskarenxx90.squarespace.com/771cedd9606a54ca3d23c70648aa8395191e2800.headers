@@ -1,0 +1,17 @@
+GET https://mskarenxx90.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< X-Contextid: 0qYRx79e/frOHSbns
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BdeIZji2PTP9ODhlYjU3MTdhMmI1ZDc3MGFkNzNhZGNjMmFiY2Y2;Path=/
+< Date: Fri, 28 Jan 2022 16:48:32 GMT
+< Last-Modified: Fri, 28 Jan 2022 16:48:32 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 375795
+< Etag: W/"b3f953e6326ab66045a9ac1b8b31785f"

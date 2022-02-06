@@ -1,0 +1,11 @@
+GET https://www.valerie-gaddisarellano-r682.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:18:28 GMT
+< Location: https://valerie-gaddisarellano-r682.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bc/mYgMjpROkYjU0NTk3NWZjYmVkNjc4ZDJjMTA3M2NiNGYwODYy;Path=/
+< X-Contextid: R8tK6Okh/y8mHxXeJ
+< Age: 0

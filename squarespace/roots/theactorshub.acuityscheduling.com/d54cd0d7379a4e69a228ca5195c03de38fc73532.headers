@@ -1,0 +1,17 @@
+GET https://theactorshub.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:56:48 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=o6klgumukdfsdb92qsmptds8t3; expires=Thu, 03-Mar-2022 23:56:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=03c51bbf-933b-49d6-8108-01348a30a5b4; expires=Thu, 01-Feb-2024 23:56:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

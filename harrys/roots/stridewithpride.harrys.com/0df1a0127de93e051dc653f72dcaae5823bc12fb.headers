@@ -1,0 +1,10 @@
+GET https://stridewithpride.harrys.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Etag: W/"609073c3-1703"
+< Server: nginx
+< Date: Sat, 29 Jan 2022 17:39:32 GMT
+< Content-Type: text/html

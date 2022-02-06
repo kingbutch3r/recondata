@@ -1,0 +1,15 @@
+GET https://umichjrc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=t4j8bg6nvckc08tincuqojpci0; expires=Thu, 03-Mar-2022 23:58:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a89d9966-5d05-4b9f-b881-dbaf8acf962b; expires=Thu, 01-Feb-2024 23:58:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:58:46 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

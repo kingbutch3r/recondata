@@ -1,0 +1,17 @@
+GET https://bcp.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=odpi5ab5lfq9sbbucfjlnsqsj3; expires=Fri, 04-Mar-2022 00:26:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0a5ab5c2-e92f-4ba3-ac39-e1c10484a5c8; expires=Fri, 02-Feb-2024 00:26:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:26:41 GMT
+< Content-Length: 0
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

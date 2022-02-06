@@ -1,0 +1,11 @@
+GET http://ferret-octahedron-5222.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://ferret-octahedron-5222.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bc1GyboK5snPMDg4MzYxOTkyNTRkNGQ0NTQ5ZWU5Zjk4Y2VjZjY3;Path=/
+< X-Contextid: MDFo9kaB/ep4ije4I
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:16:30 GMT

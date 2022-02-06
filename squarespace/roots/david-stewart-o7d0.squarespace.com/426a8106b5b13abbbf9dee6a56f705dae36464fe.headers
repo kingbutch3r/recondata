@@ -1,0 +1,17 @@
+GET https://david-stewart-o7d0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BQAyWYLlChJPYTFkNWY5YWY0NjM1NzNjYjMxMjgwODYwYjA0ZGQ0;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 01:11:57 GMT
+< Server: Squarespace
+< Last-Modified: Wed, 02 Feb 2022 01:11:57 GMT
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"e638818f3e6f26c3907176cf63268954"
+< X-Contextid: CcGSydL5/Ihtu9m3B
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff

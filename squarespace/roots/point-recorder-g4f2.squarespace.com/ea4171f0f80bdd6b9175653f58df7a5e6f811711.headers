@@ -1,0 +1,17 @@
+GET https://point-recorder-g4f2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 58153
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=Bf2EJYNbN5O8Y2UzOTA1Nzg3YmVhNGMxMGNkMDVhMDdiNmEyYWRm;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: FBtm6M3g/Pkh7fEcA
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Tue, 01 Feb 2022 08:43:11 GMT
+< Etag: W/"6a22e4d1fb3d5c9f573ed551b4a9c923"
+< Last-Modified: Tue, 01 Feb 2022 08:43:11 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

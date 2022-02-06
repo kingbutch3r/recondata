@@ -1,0 +1,11 @@
+GET http://wagtailproductions.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 15526
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 20:48:28 GMT
+< Location: https://wagtailproductions.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BT65X/1LHIQ/M2UwMTQwZjk1YTJlNjFlZDUzZjkzMDczM2IxYThl;Path=/
+< X-Contextid: Pe93KdY6/9ED6r9Nn

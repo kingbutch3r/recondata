@@ -1,0 +1,16 @@
+GET https://toftoy.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Etag: W/"d406991038b774dcea95cc59e9a93485"
+< Server: Squarespace
+< Set-Cookie: crumb=BbfmG0JZTVMlM2YyNDUxNWYyZjQxZDVlMmVjZGZhNjBmZDBkODZm;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Date: Thu, 27 Jan 2022 09:16:38 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 490179
+< Vary: Accept-Encoding
+< X-Contextid: 70BSJnm8/BvVDuSxJ

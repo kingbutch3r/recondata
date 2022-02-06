@@ -1,0 +1,11 @@
+GET http://theatre2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:52:21 GMT
+< Location: https://theatre2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BepePWCGglPFY2JmZTE4ZmMyNjc3YmZlYTBjYWJjMDQ5MWE3MGFj;Path=/
+< X-Contextid: XTQdTHP9/22LBSTx8
+< Content-Length: 0
+< Age: 0

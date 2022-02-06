@@ -1,0 +1,32 @@
+GET https://support.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:54:49 GMT
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< Vary: Accept
+< Cache-Control: no-cache
+< X-Zendesk-Origin-Server: classic-app-server-66bdf8fd94-8fbqw
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Content-Length: 100
+< Zendesk-Api-Version: 2022-01-01
+< X-Request-Id: 6d6f734a6dff85d6-SEA
+< X-Request-Id: 6d6f734a6dff85d6-SEA
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=4pFM1nYAQQgz1qPjm8Wl04l%2BF3IQ3yqiYcn%2Fen%2BUzNLk0S2oKEqSHWUOlQhPb2A0FReHVmMgfmDA0S9Ctmarua%2Bsnot4bvn8ycjYUdt6D4QiidieKGP3brJsFHtKBdedZBh158DArRsR"}],"group":"cf-nel","max_age":604800}
+< Content-Type: text/html; charset=UTF-8
+< Zendesk-Ep: 10
+< Set-Cookie: _zendesk_shared_session=-WEhMNEowUjVXbWpOMkd6elNpNC9xcHNLeEFsQjl4VDZDR2ttME01QU1IWE5PRFgvSWE4VmNvbG1zTnZWSjk1NFZuWEp6L3VUSnhsajI2eTJIY1RJNWdGZXRRUVFTN3l2OFVTcmNOQldkdFBUYzNpTHN2WTN1WlR2Z0hGNW0vdUs1NUpGaVdaNUk3cFd3azNCVzl4TjVnPT0tLWRtQTBlWlJ0QlpBZkRDd2ovL055YkE9PQ%3D%3D--fe2952b00c2339b1276bae9bc5588c3af9fe5b81; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_authenticated=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJTljODk5NDJmNzFiYzFjYzMxN2FhNzYwYzk0MDA2ZTUyBjsAVEkiDGFjY291bnQGOwBGaQPHDAlJIgpyb3V0ZQY7AEZpA7xwB0kiDmlzX21vYmlsZQY7AFRGSSITd2FyZGVuLm1lc3NhZ2UGOwBUewA%3D--4c23cdbb0ca02a1ec3e025187efcbdbc2950138d; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: __cfruid=1d31ad77dfb80e6bc4ba6f71898a1b7d50da506b-1643763289; path=/; domain=.support.squarespace.com; HttpOnly; Secure; SameSite=None
+< X-Content-Type-Options: nosniff
+< Cf-Ray: 6d6f734a6dff85d6-BOM
+< Cf-Cache-Status: DYNAMIC
+< X-Xss-Protection: 1; mode=block
+< Content-Security-Policy: frame-ancestors 'self' 5help.squarespace.com support.squarespace.com help.unfold.com;
+< Location: https://support.squarespace.com/hc
+< Strict-Transport-Security: max-age=259200;
+< X-Runtime: 0.079703
+< X-Zendesk-Zorg: yes

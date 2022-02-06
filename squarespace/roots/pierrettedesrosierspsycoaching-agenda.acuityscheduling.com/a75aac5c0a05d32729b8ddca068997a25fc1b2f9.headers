@@ -1,0 +1,17 @@
+GET https://pierrettedesrosierspsycoaching-agenda.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=emmv3tg931g9qpnvhs6u5hmots; expires=Thu, 03-Mar-2022 23:53:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e8ee7be7-a907-4fb2-9446-3da2c47bc6f8; expires=Thu, 01-Feb-2024 23:53:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:53:48 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

@@ -1,0 +1,15 @@
+GET https://tinakanphotography.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:46:31 GMT
+< Set-Cookie: PHPSESSID=d916karh7dsgi9dshuv8cu8kdk; expires=Fri, 04-Mar-2022 00:46:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8cee92b6-0330-4eea-b9ce-b824bce6774d; expires=Fri, 02-Feb-2024 00:46:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent

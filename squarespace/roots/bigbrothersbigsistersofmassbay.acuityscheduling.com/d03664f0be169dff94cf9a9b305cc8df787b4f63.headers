@@ -1,0 +1,15 @@
+GET https://bigbrothersbigsistersofmassbay.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=8j0oi8elclvaanigeb6fmpnpf6; expires=Fri, 04-Mar-2022 00:44:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e201a41b-2cc3-43a5-8f30-93a4ed64a7d8; expires=Fri, 02-Feb-2024 00:44:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:44:56 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload

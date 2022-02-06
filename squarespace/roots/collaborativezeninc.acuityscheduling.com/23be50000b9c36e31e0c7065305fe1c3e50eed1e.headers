@@ -1,0 +1,15 @@
+GET https://collaborativezeninc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Date: Tue, 01 Feb 2022 23:58:31 GMT
+< Set-Cookie: PHPSESSID=la8hhlflsphq60nfgm61fu3pp0; expires=Thu, 03-Mar-2022 23:58:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=edd814ad-b42f-4eef-a23d-b1ae9af4299a; expires=Thu, 01-Feb-2024 23:58:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate

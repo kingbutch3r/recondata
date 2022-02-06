@@ -1,0 +1,15 @@
+GET https://lens2lifebookyoursession.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:22:30 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=dj79mrqq0o64jc2clk7qo7n806; expires=Fri, 04-Mar-2022 00:22:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e411a79e-4134-4dbd-a739-73094f63312c; expires=Fri, 02-Feb-2024 00:22:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

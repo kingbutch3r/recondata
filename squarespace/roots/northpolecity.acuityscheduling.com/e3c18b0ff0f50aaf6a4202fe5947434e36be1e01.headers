@@ -1,0 +1,17 @@
+GET https://northpolecity.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=na3hhs3nr46h1smsno21f6nkri; expires=Fri, 04-Mar-2022 00:48:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=075068aa-9f16-4c3a-8788-ae73572d9f60; expires=Fri, 02-Feb-2024 00:48:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:48:47 GMT
+< Vary: User-Agent

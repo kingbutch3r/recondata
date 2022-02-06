@@ -1,0 +1,17 @@
+GET https://www.sacc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:56:59 GMT
+< Set-Cookie: PHPSESSID=f7fths2ptvju0oet44haofq801; expires=Thu, 03-Mar-2022 23:56:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ec74a258-2db7-448a-81c7-715b479cf545; expires=Thu, 01-Feb-2024 23:56:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

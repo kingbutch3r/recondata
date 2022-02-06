@@ -1,0 +1,17 @@
+GET https://mj101.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Date: Tue, 01 Feb 2022 06:48:18 GMT
+< Etag: W/"2d65e3445f681df0b274c4723a2867e4"
+< Last-Modified: Tue, 01 Feb 2022 06:48:18 GMT
+< Strict-Transport-Security: max-age=0
+< Set-Cookie: crumb=Bcr83EM48/l/NTAyYTc3YTNlNTgwYzdjNTIwOTE2ZmM3M2QxMDFk;Path=/
+< X-Contextid: Jo2k2Oae/62xrLB9z
+< Age: 66273

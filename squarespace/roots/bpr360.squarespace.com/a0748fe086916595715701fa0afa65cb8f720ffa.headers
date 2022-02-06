@@ -1,0 +1,12 @@
+GET http://bpr360.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: xUVnpPXq/RcfVQD5f
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:52 GMT
+< Set-Cookie: crumb=BQ8U8DI5YsRhZTBlYjg1ODI5ZTFhY2Q0OGEwMGE5MGRiMmNhMmZm;Path=/

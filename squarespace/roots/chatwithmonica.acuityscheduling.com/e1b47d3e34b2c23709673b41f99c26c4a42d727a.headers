@@ -1,0 +1,15 @@
+GET https://chatwithmonica.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:53:37 GMT
+< Set-Cookie: PHPSESSID=4o8e47m1ltpgnatv5ngh77uamp; expires=Thu, 03-Mar-2022 23:53:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=19a14071-04e2-4f7a-8e50-505402cc5273; expires=Thu, 01-Feb-2024 23:53:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff

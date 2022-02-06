@@ -1,0 +1,11 @@
+GET http://fr.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://fr.squarespace.com/
+< X-Server: Smartling
+< X-Sl-Notranslate: 1
+< Date: Wed, 02 Feb 2022 00:54:52 GMT
+< Server: Squarespace
+< X-Contextid: HnDfr7qQ/OOyGFVYU
+< X-Sl-Norewrite: 1

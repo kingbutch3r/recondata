@@ -1,0 +1,11 @@
+GET http://soil-strategy-2021.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=Bd36/Je3/jOCYzNlNmU5ZmQ0NzUwYWVjN2FhMzRjYmM0Y2VlZDJh;Path=/
+< X-Contextid: 2TzhzAv2/tRXn8pra
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:50:24 GMT
+< Location: https://soil-strategy-2021.squarespace.com/
+< Server: Squarespace

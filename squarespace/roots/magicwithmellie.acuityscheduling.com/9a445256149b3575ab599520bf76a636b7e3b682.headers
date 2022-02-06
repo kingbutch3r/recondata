@@ -1,0 +1,17 @@
+GET https://magicwithmellie.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:03:44 GMT
+< Set-Cookie: PHPSESSID=utio9s9qfa1dfe572e818vlgrv; expires=Fri, 04-Mar-2022 00:03:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4ddaed69-de8f-4ee8-a690-5a013d7ae9cd; expires=Fri, 02-Feb-2024 00:03:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

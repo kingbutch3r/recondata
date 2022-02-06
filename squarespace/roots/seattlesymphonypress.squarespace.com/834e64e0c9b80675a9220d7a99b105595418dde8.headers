@@ -1,0 +1,16 @@
+GET https://seattlesymphonypress.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< X-Contextid: xDKhC0qa/PSIPrtBH
+< Etag: W/"c7a49d2762878c227f1c5a3698f72de9"
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BekP8cCygXxUMmE5YmE1N2UwYmU1MDljNmEyYmFjMTYzMzQ0NGYz;Path=/
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:12:47 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Age: 2625
+< Accept-Ranges: bytes

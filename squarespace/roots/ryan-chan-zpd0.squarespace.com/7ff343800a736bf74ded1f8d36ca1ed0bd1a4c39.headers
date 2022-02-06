@@ -1,0 +1,10 @@
+GET https://ryan-chan-zpd0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:12:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bd8xuE7HbphVYmNiYjkxNTUzYjdkNWRhNjhkZjc5Yzg1Y2IyMjE5;Path=/
+< X-Contextid: JRgs4aHh/CUbEbg5m

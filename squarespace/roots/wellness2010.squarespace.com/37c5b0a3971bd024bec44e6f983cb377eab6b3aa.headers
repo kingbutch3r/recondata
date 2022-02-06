@@ -1,0 +1,9 @@
+GET http://wellness2010.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 01:05:50 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=6BAA9053C953616DDDA3C28791ECC1CB.v5-web007; Path=/; HttpOnly
+< X-Contextid: drBYIBV5/GlhEtMG9
+< Content-Type: text/html;charset=UTF-8

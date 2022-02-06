@@ -1,0 +1,17 @@
+GET https://faithculturekiss.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:38:53 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=105ki54lk0l6a8i6j3mb5ca2l4; expires=Fri, 04-Mar-2022 00:38:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1492923e-be5c-4a5e-9788-f270781e478e; expires=Fri, 02-Feb-2024 00:38:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent

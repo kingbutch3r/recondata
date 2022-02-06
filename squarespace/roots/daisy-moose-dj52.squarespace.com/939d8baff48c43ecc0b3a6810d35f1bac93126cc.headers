@@ -1,0 +1,13 @@
+GET https://daisy-moose-dj52.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:17:43 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: HOADOZtY/FLTfgGb4
+< Age: 0
+< Server: Squarespace
+< Set-Cookie: crumb=BdKik1r9wi2SZDRkZmNiOGYzZmQ3ZWUzNzEzOGEyYzEwZjhkYTdk;Path=/
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8

@@ -1,0 +1,16 @@
+GET https://ssci2000.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 06:42:20 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 324992
+< Server: Squarespace
+< Set-Cookie: crumb=BfOPFkKC+TLtYmNlMmMwYWFkMGRlMTY5ZTc3MmUyZjQ2MjVjODU2;Path=/
+< X-Contextid: fhDEnsHC/LBdQbHU7
+< Etag: W/"7f32baa3c09ae30ab73dd77beaee2bfb--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8

@@ -1,0 +1,11 @@
+GET http://matt-ogle-0000.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://matt-ogle-0000.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcmhnxMHdnWvNTgxMGUzNjlmZjM3ODNmYzIwOTdhN2MzNzJmYjg1;Path=/
+< X-Contextid: 7zzeRdWX/8bNTaOeT
+< Age: 339673
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 02:43:12 GMT

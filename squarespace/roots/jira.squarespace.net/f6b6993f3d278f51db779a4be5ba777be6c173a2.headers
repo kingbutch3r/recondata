@@ -1,0 +1,9 @@
+GET http://jira.squarespace.net
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:49:33 GMT
+< Content-Type: text/html
+< Content-Length: 169
+< Location: https://jira.squarespace.net/
+< Server: nginx/1.20.1

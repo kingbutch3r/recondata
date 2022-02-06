@@ -1,0 +1,11 @@
+GET http://rabbit-sunfish-w992.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 244220
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 05:01:34 GMT
+< Location: https://rabbit-sunfish-w992.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQ6cbHenkUAgYWQwMzVhYzU1M2VmMzU3OTEyODZjMmFiMGVmYTlk;Path=/
+< X-Contextid: pcN53tDQ/HuvqZ9nw

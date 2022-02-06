@@ -1,0 +1,15 @@
+GET https://sbdkg.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=4lc4qn0a56b7jb7vlk8v88rr2k; expires=Fri, 04-Mar-2022 00:09:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a1a205b7-38d6-43f0-a70f-d57199290afe; expires=Fri, 02-Feb-2024 00:09:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:09:02 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8

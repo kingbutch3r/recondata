@@ -1,0 +1,11 @@
+GET http://www.oarfish-crocodile-cab2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:05 GMT
+< Location: http://oarfish-crocodile-cab2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTu1nkjZw948YzZlZDA1NzAwNGZiNDgzNTczMDFjOWYxNzE4OTA2;Path=/
+< X-Contextid: F82tubcK/nRuXMEW4

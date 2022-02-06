@@ -1,0 +1,10 @@
+GET http://begonia-gardenia-3ce2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:19:53 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BaGhDO0cuRtQZWYxZWU5YmYwYmNkYjdkMTY0YmYxOWM2NjhjYzQ4;Path=/
+< X-Contextid: IgyqsGYJ/aEWuIvjJ

@@ -1,0 +1,13 @@
+GET http://eventsblr.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: VLmBb5Mf/CqPJ94Ds
+< Cache-Control: max-age=300, s-maxage=300
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Wed, 02 Feb 2022 01:07:34 GMT
+< Set-Cookie: crumb=BWthyBUQ/BsJOTcwOTE5ODk4MzAxMzNjODQ5ODcwMDIzOWE0ZjU2;Path=/
+< Age: 0
+< Content-Type: text/html;charset=utf-8

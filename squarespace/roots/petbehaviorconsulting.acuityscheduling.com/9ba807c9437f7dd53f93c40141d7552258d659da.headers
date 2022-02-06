@@ -1,0 +1,17 @@
+GET https://petbehaviorconsulting.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:12:30 GMT
+< Set-Cookie: PHPSESSID=b2d4lhtre4pqt6b1r09q3c1v0p; expires=Fri, 04-Mar-2022 00:12:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=222d0f3b-9e6c-492d-93e0-077a8a8d9efb; expires=Fri, 02-Feb-2024 00:12:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

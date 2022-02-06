@@ -1,0 +1,16 @@
+GET https://darwenterracotta.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 311563
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"541fd4fa5536cbcbcc63573e2ec7dbff--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=BY2oM1W9MjSJMzg3ZTUyYTIxNjBlYTlkY2UyNmNhOWFhYzUwMGNm;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 10:22:42 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: IDkSbgJ8/0znagdOL

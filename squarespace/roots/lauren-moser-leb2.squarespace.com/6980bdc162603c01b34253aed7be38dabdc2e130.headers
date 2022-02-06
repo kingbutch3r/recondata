@@ -1,0 +1,13 @@
+GET https://lauren-moser-leb2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: ieG3o2Kg/VcDcxwKL
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:19:19 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BaszwU+zlQHMZTU3MjE4NjQyN2I0YjE2MjQyOGJkMDNmNjMzNDQ5;Path=/

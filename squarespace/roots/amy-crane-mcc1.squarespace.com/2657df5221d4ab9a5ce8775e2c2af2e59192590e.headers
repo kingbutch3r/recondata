@@ -1,0 +1,12 @@
+GET http://amy-crane-mcc1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BVobsNx/6Er1Mzg0M2JmMjM2MzljNjhhNTY4YjZkM2ZiZTc0ZmEy;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: VMqcZggn/uhJrYUb3
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:39 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Age: 0

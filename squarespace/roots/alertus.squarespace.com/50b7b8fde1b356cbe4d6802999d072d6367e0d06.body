@@ -1,0 +1,2801 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="noindex,nofollow,noarchive" />  
+   <meta name="description" content="Alertus Technologies mass notification system (MNS) includes Alert Beacons, desktop alert, digital signage override, LED marquee message signs, NFPA fire alarm interfaces, text to speech voice public address speakers, giant voice, sirens, strobes, and other facility emergency notification systems (ENS)." /> 
+  
+  <!-- alertus -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=1827692&amp;RK=1375918394837&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "Alertus Emergency Mass Notification"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "19364597"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "29091";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Home - Alertus Emergency Mass Notification Systems - Alert Beacons, Desktop Alert, Text-to-Speech Interfaces, Signage Override</title>
+    <meta property="og:title" content="Home - Alertus Emergency Mass Notification Systems - Alert Beacons, Desktop Alert, Text-to-Speech Interfaces, Signage Override" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+
+<!--
+<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet"/>
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+-->
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-354436-1']);
+
+var loc = window.location.href;
+if( loc.indexOf("utm_") == -1 ) {
+_gaq.push(['_setCampNameKey', 'c']);    // name
+_gaq.push(['_setCampMediumKey', 'm']);    // medium
+_gaq.push(['_setCampSourceKey', 's']);    // source
+_gaq.push(['_setCampTermKey', 't']);        // term/keyword
+_gaq.push(['_setCampContentKey', 'co']);  // content
+//_gaq.push(['_setCampNOKey', 'ga_nooverride']);    // don't override
+}
+_gaq.push(['_setDomainName', "none"]);
+_gaq.push(['_setAllowLinker','true']);
+_gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!--[if IE]>
+<style>
+.horizontalNavigationBar .folder { margin-top: 0px ; margin-left: 0px ; }
+</style>
+<![endif]-->
+
+<!-- Start of StatCounter Code -->
+<!--
+<script type="text/javascript">
+var sc_project=4339655; 
+var sc_invisible=1; 
+var sc_partition=54; 
+var sc_click_stat=1; 
+var sc_security="36ef5c04"; 
+</script>
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+-->
+<!-- End of StatCounter Code -->
+
+<style type="text/css">
+/*** Social Media links in footer CSS ***/
+
+#social_left {
+//float:left;
+}
+
+#social_inline {
+display:inline;
+}
+
+#social_right {
+padding-left:300px;
+margin-top:-20px;
+float:right;
+width:400px;
+}
+
+#nav_numbers {
+    height: 20px;
+    margin: 0; padding: 0;
+    position: relative;
+    width:400px;
+    display: inline;
+}
+
+#nav_numbers li {
+    margin: 0; padding: 0; list-style: none;
+	position: absolute; top: 0;
+}
+
+#nav_numbers li, #nav_numbers a {
+    height: 80px; display: block;
+    top: 0;
+}
+
+#nav_numbers li a span {
+	display: none;
+}
+
+#nav_numbers a { outline: 0; }
+
+/** 
+ * Sprite Details 20x20 icons, top row is colorful, bottom row is grey.
+ *    Facebook, G+, twitter, blip, youtube, rss, linkedin
+ **/
+
+#facebook {
+left:0px;
+height:20px;
+width:20px;
+}
+
+#facebook a {
+left:0px;
+height:20px;
+width:20px;
+background:url(http://www.alertus.com/storage/icons/social/socialmediasprite.png) 0px -20px no-repeat;
+}
+
+#facebook a:hover {
+left:0px;
+height:20px;
+width:20px;
+background:url(http://www.alertus.com/storage/icons/social/socialmediasprite.png) 0px 0px no-repeat;
+}
+
+#twitter {
+left:22px;
+height:20px;
+width:20px;
+}
+
+#twitter a {
+left:22px;
+height:20px;
+width:20px;
+background:url(http://www.alertus.com/storage/icons/social/socialmediasprite.png) -40px -20px no-repeat;
+}
+
+#twitter a:hover{
+left:22px;
+height:20px;
+width:20px;
+background:url(http://www.alertus.com/storage/icons/social/socialmediasprite.png)  -40px 0px no-repeat;
+}
+
+#youtube {
+left:44px;
+height:20px;
+width:20px;
+}
+
+#youtube a {
+left:44px;
+height:20px;
+width:20px;
+background:url(http://www.alertus.com/storage/icons/social/socialmediasprite.png) -80px -20px no-repeat;
+}
+
+#youtube a:hover {
+left:44px;
+height:20px;
+width:20px;
+background:url(http://www.alertus.com/storage/icons/social/socialmediasprite.png)  -80px 0px no-repeat;
+}
+</style>
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage19364597"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/pricing/?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent59307" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper19364597">
+
+    <div id="navigationTop-moduleContent19364597">
+
+              <a id="navigationTop-moduleLink19364597" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper15716579">
+
+    <div id="navigationTop-moduleContent15716579">
+
+              <a id="navigationTop-moduleLink15716579" class=" folder-link" href="/solutions/" ><span>Solutions</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent15716579">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper15716798">
+
+    <div id="navigationTop-moduleContent15716798">
+
+              <a id="navigationTop-moduleLink15716798" class=" " href="/campus-notification/" ><span>Campus Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper18758115">
+
+    <div id="navigationTop-moduleContent18758115">
+
+              <a id="navigationTop-moduleLink18758115" class=" " href="/unified/" ><span>Unified Enterprise Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3998697">
+
+    <div id="navigationTop-moduleContent3998697">
+
+              <a id="navigationTop-moduleLink3998697" class=" " href="/ada/" ><span>Alerting Deaf and Hard-of-Hearing</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper341434">
+
+    <div id="navigationTop-moduleContent341434">
+
+              <a id="navigationTop-moduleLink341434" class=" folder-link" href="/products/" ><span>Products</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent341434">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper2445563">
+
+    <div id="navigationTop-moduleContent2445563">
+
+              <a id="navigationTop-moduleLink2445563" class=" " href="/beacon/" ><span>Alert Beacon</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3170416">
+
+    <div id="navigationTop-moduleContent3170416">
+
+              <a id="navigationTop-moduleLink3170416" class=" " href="/desktop/" ><span>Alertus Desktop</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19543395">
+
+    <div id="navigationTop-moduleContent19543395">
+
+              <a id="navigationTop-moduleLink19543395" class=" " href="/panicbutton/" ><span>Panic Button</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3674036">
+
+    <div id="navigationTop-moduleContent3674036">
+
+              <a id="navigationTop-moduleLink3674036" class=" " href="/voice/" ><span>Voice PA / Fire Alarm Interface</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19562186">
+
+    <div id="navigationTop-moduleContent19562186">
+
+              <a id="navigationTop-moduleLink19562186" class=" " href="/fire/" ><span>Fire Alarm Interface</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper1254396">
+
+    <div id="navigationTop-moduleContent1254396">
+
+              <a id="navigationTop-moduleLink1254396" class=" " href="/signage/" ><span>Digital Signage Override Software</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15673828">
+
+    <div id="navigationTop-moduleContent15673828">
+
+              <a id="navigationTop-moduleLink15673828" class=" " href="/marquee/" ><span>LED Marquee</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15525852">
+
+    <div id="navigationTop-moduleContent15525852">
+
+              <a id="navigationTop-moduleLink15525852" class=" " href="/cable-television-override/" ><span>Cable Television Override</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper15695843">
+
+    <div id="navigationTop-moduleContent15695843">
+
+              <a id="navigationTop-moduleLink15695843" class=" " href="/ip-phones/" ><span>IP Phone Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19562185">
+
+    <div id="navigationTop-moduleContent19562185">
+
+              <a id="navigationTop-moduleLink19562185" class=" " href="/apps/" ><span>Mobile Phone Apps</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4116263">
+
+    <div id="navigationTop-moduleContent4116263">
+
+              <a id="navigationTop-moduleLink4116263" class=" " href="/outdoor/" ><span>Outdoor Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19364599">
+
+    <div id="navigationTop-moduleContent19364599">
+
+              <a id="navigationTop-moduleLink19364599" class=" " href="/solution_builder/" ><span>Solution Builder</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper2815522">
+
+    <div id="navigationTop-moduleContent2815522">
+
+              <a id="navigationTop-moduleLink2815522" class=" folder-link" href="/industries/" ><span>Industries</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent2815522">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper3100165">
+
+    <div id="navigationTop-moduleContent3100165">
+
+              <a id="navigationTop-moduleLink3100165" class=" " href="/campus/" ><span>Universities &amp; Colleges</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3100166">
+
+    <div id="navigationTop-moduleContent3100166">
+
+              <a id="navigationTop-moduleLink3100166" class=" " href="/k12/" ><span>K-12 School Districts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3100168">
+
+    <div id="navigationTop-moduleContent3100168">
+
+              <a id="navigationTop-moduleLink3100168" class=" " href="/schools/" ><span>Boarding Schools</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3100170">
+
+    <div id="navigationTop-moduleContent3100170">
+
+              <a id="navigationTop-moduleLink3100170" class=" " href="/mil/" ><span>Military Bases</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3100175">
+
+    <div id="navigationTop-moduleContent3100175">
+
+              <a id="navigationTop-moduleLink3100175" class=" " href="/gov/" ><span>Government Facilities</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3100172">
+
+    <div id="navigationTop-moduleContent3100172">
+
+              <a id="navigationTop-moduleLink3100172" class=" " href="/hospitals/" ><span>Medical Centers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3100171">
+
+    <div id="navigationTop-moduleContent3100171">
+
+              <a id="navigationTop-moduleLink3100171" class=" " href="/corporate/" ><span>Corporate</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5274665">
+
+    <div id="navigationTop-moduleContent5274665">
+
+              <a id="navigationTop-moduleLink5274665" class=" " href="/customers/" ><span>Customers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper2815276">
+
+    <div id="navigationTop-moduleContent2815276">
+
+              <a id="navigationTop-moduleLink2815276" class=" folder-link" href="/re/" ><span>Resources</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent2815276">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper3101799">
+
+    <div id="navigationTop-moduleContent3101799">
+
+              <a id="navigationTop-moduleLink3101799" class=" " href="/res/" ><span>Product Literature</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19537935">
+
+    <div id="navigationTop-moduleContent19537935">
+
+              <a id="navigationTop-moduleLink19537935" class=" " href="/case-studies/" ><span>Case Studies</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper9188567">
+
+    <div id="navigationTop-moduleContent9188567">
+
+              <a id="navigationTop-moduleLink9188567" class=" " href="/free/" ><span>Alertus Desktop Grant Initiative</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4986561">
+
+    <div id="navigationTop-moduleContent4986561">
+
+              <a id="navigationTop-moduleLink4986561" class=" " href="/nfpa/" ><span>NFPA72: National Fire Alarm &amp; Signaling Code</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3381598">
+
+    <div id="navigationTop-moduleContent3381598">
+
+              <a id="navigationTop-moduleLink3381598" class=" " href="/estimator/" ><span>Alert Beacon Estimator</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper10302352">
+
+    <div id="navigationTop-moduleContent10302352">
+
+              <a id="navigationTop-moduleLink10302352" class=" " href="/partner-login/" ><span>Partner Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper2899298">
+
+    <div id="navigationTop-moduleContent2899298">
+
+              <a id="navigationTop-moduleLink2899298" class=" " href="/faq/" ><span>FAQ</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3803499">
+
+    <div id="navigationTop-moduleContent3803499">
+
+              <a id="navigationTop-moduleLink3803499" class=" " href="/grants/" ><span>Grants</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationTop-moduleContentWrapper2813097">
+
+    <div id="navigationTop-moduleContent2813097">
+
+              <a id="navigationTop-moduleLink2813097" class=" folder-link" href="/company/" ><span>Company</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationTop-folderContent2813097">
+            
+  <li class="module   " id="navigationTop-moduleContentWrapper19629993">
+
+    <div id="navigationTop-moduleContent19629993">
+
+              <a id="navigationTop-moduleLink19629993" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper217563">
+
+    <div id="navigationTop-moduleContent217563">
+
+              <a id="navigationTop-moduleLink217563" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19123138">
+
+    <div id="navigationTop-moduleContent19123138">
+
+              <a id="navigationTop-moduleLink19123138" class=" " href="/environmental-impact/" ><span>Environmental Impact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper6327248">
+
+    <div id="navigationTop-moduleContent6327248">
+
+              <a id="navigationTop-moduleLink6327248" class=" " href="/partners/" ><span>Interoperability Partners</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper19542549">
+
+    <div id="navigationTop-moduleContent19542549">
+
+              <a id="navigationTop-moduleLink19542549" class=" " href="/alertuswebinarseries/" ><span>Webinars</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper2813106">
+
+    <div id="navigationTop-moduleContent2813106">
+
+              <a id="navigationTop-moduleLink2813106" class=" " href="/news/" ><span>News</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper3100309">
+
+    <div id="navigationTop-moduleContent3100309">
+
+              <a id="navigationTop-moduleLink3100309" class=" " href="/careers/" ><span>Careers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+        
+        <div id="bannerWrapper">
+          <a href="http://alertus.org/"><img id="banner" src="/storage/version13/hdr_Logo.png" alt="Alertus Emergency Mass Notification" title="Alertus Emergency Mass Notification"/></a>
+        </div>  
+
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent59307" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper19364597">
+
+    <div id="navigationBottom-moduleContent19364597">
+
+              <a id="navigationBottom-moduleLink19364597" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper15716579">
+
+    <div id="navigationBottom-moduleContent15716579">
+
+              <a id="navigationBottom-moduleLink15716579" class=" folder-link" href="/solutions/" ><span>Solutions</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent15716579">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper15716798">
+
+    <div id="navigationBottom-moduleContent15716798">
+
+              <a id="navigationBottom-moduleLink15716798" class=" " href="/campus-notification/" ><span>Campus Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper18758115">
+
+    <div id="navigationBottom-moduleContent18758115">
+
+              <a id="navigationBottom-moduleLink18758115" class=" " href="/unified/" ><span>Unified Enterprise Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3998697">
+
+    <div id="navigationBottom-moduleContent3998697">
+
+              <a id="navigationBottom-moduleLink3998697" class=" " href="/ada/" ><span>Alerting Deaf and Hard-of-Hearing</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper341434">
+
+    <div id="navigationBottom-moduleContent341434">
+
+              <a id="navigationBottom-moduleLink341434" class=" folder-link" href="/products/" ><span>Products</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent341434">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper2445563">
+
+    <div id="navigationBottom-moduleContent2445563">
+
+              <a id="navigationBottom-moduleLink2445563" class=" " href="/beacon/" ><span>Alert Beacon</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3170416">
+
+    <div id="navigationBottom-moduleContent3170416">
+
+              <a id="navigationBottom-moduleLink3170416" class=" " href="/desktop/" ><span>Alertus Desktop</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19543395">
+
+    <div id="navigationBottom-moduleContent19543395">
+
+              <a id="navigationBottom-moduleLink19543395" class=" " href="/panicbutton/" ><span>Panic Button</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3674036">
+
+    <div id="navigationBottom-moduleContent3674036">
+
+              <a id="navigationBottom-moduleLink3674036" class=" " href="/voice/" ><span>Voice PA / Fire Alarm Interface</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19562186">
+
+    <div id="navigationBottom-moduleContent19562186">
+
+              <a id="navigationBottom-moduleLink19562186" class=" " href="/fire/" ><span>Fire Alarm Interface</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper1254396">
+
+    <div id="navigationBottom-moduleContent1254396">
+
+              <a id="navigationBottom-moduleLink1254396" class=" " href="/signage/" ><span>Digital Signage Override Software</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15673828">
+
+    <div id="navigationBottom-moduleContent15673828">
+
+              <a id="navigationBottom-moduleLink15673828" class=" " href="/marquee/" ><span>LED Marquee</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15525852">
+
+    <div id="navigationBottom-moduleContent15525852">
+
+              <a id="navigationBottom-moduleLink15525852" class=" " href="/cable-television-override/" ><span>Cable Television Override</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper15695843">
+
+    <div id="navigationBottom-moduleContent15695843">
+
+              <a id="navigationBottom-moduleLink15695843" class=" " href="/ip-phones/" ><span>IP Phone Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19562185">
+
+    <div id="navigationBottom-moduleContent19562185">
+
+              <a id="navigationBottom-moduleLink19562185" class=" " href="/apps/" ><span>Mobile Phone Apps</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4116263">
+
+    <div id="navigationBottom-moduleContent4116263">
+
+              <a id="navigationBottom-moduleLink4116263" class=" " href="/outdoor/" ><span>Outdoor Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19364599">
+
+    <div id="navigationBottom-moduleContent19364599">
+
+              <a id="navigationBottom-moduleLink19364599" class=" " href="/solution_builder/" ><span>Solution Builder</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper2815522">
+
+    <div id="navigationBottom-moduleContent2815522">
+
+              <a id="navigationBottom-moduleLink2815522" class=" folder-link" href="/industries/" ><span>Industries</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent2815522">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100165">
+
+    <div id="navigationBottom-moduleContent3100165">
+
+              <a id="navigationBottom-moduleLink3100165" class=" " href="/campus/" ><span>Universities &amp; Colleges</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100166">
+
+    <div id="navigationBottom-moduleContent3100166">
+
+              <a id="navigationBottom-moduleLink3100166" class=" " href="/k12/" ><span>K-12 School Districts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100168">
+
+    <div id="navigationBottom-moduleContent3100168">
+
+              <a id="navigationBottom-moduleLink3100168" class=" " href="/schools/" ><span>Boarding Schools</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100170">
+
+    <div id="navigationBottom-moduleContent3100170">
+
+              <a id="navigationBottom-moduleLink3100170" class=" " href="/mil/" ><span>Military Bases</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100175">
+
+    <div id="navigationBottom-moduleContent3100175">
+
+              <a id="navigationBottom-moduleLink3100175" class=" " href="/gov/" ><span>Government Facilities</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100172">
+
+    <div id="navigationBottom-moduleContent3100172">
+
+              <a id="navigationBottom-moduleLink3100172" class=" " href="/hospitals/" ><span>Medical Centers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100171">
+
+    <div id="navigationBottom-moduleContent3100171">
+
+              <a id="navigationBottom-moduleLink3100171" class=" " href="/corporate/" ><span>Corporate</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5274665">
+
+    <div id="navigationBottom-moduleContent5274665">
+
+              <a id="navigationBottom-moduleLink5274665" class=" " href="/customers/" ><span>Customers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper2815276">
+
+    <div id="navigationBottom-moduleContent2815276">
+
+              <a id="navigationBottom-moduleLink2815276" class=" folder-link" href="/re/" ><span>Resources</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent2815276">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper3101799">
+
+    <div id="navigationBottom-moduleContent3101799">
+
+              <a id="navigationBottom-moduleLink3101799" class=" " href="/res/" ><span>Product Literature</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19537935">
+
+    <div id="navigationBottom-moduleContent19537935">
+
+              <a id="navigationBottom-moduleLink19537935" class=" " href="/case-studies/" ><span>Case Studies</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper9188567">
+
+    <div id="navigationBottom-moduleContent9188567">
+
+              <a id="navigationBottom-moduleLink9188567" class=" " href="/free/" ><span>Alertus Desktop Grant Initiative</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4986561">
+
+    <div id="navigationBottom-moduleContent4986561">
+
+              <a id="navigationBottom-moduleLink4986561" class=" " href="/nfpa/" ><span>NFPA72: National Fire Alarm &amp; Signaling Code</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3381598">
+
+    <div id="navigationBottom-moduleContent3381598">
+
+              <a id="navigationBottom-moduleLink3381598" class=" " href="/estimator/" ><span>Alert Beacon Estimator</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper10302352">
+
+    <div id="navigationBottom-moduleContent10302352">
+
+              <a id="navigationBottom-moduleLink10302352" class=" " href="/partner-login/" ><span>Partner Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper2899298">
+
+    <div id="navigationBottom-moduleContent2899298">
+
+              <a id="navigationBottom-moduleLink2899298" class=" " href="/faq/" ><span>FAQ</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3803499">
+
+    <div id="navigationBottom-moduleContent3803499">
+
+              <a id="navigationBottom-moduleLink3803499" class=" " href="/grants/" ><span>Grants</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="navigationBottom-moduleContentWrapper2813097">
+
+    <div id="navigationBottom-moduleContent2813097">
+
+              <a id="navigationBottom-moduleLink2813097" class=" folder-link" href="/company/" ><span>Company</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="navigationBottom-folderContent2813097">
+            
+  <li class="module   " id="navigationBottom-moduleContentWrapper19629993">
+
+    <div id="navigationBottom-moduleContent19629993">
+
+              <a id="navigationBottom-moduleLink19629993" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper217563">
+
+    <div id="navigationBottom-moduleContent217563">
+
+              <a id="navigationBottom-moduleLink217563" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19123138">
+
+    <div id="navigationBottom-moduleContent19123138">
+
+              <a id="navigationBottom-moduleLink19123138" class=" " href="/environmental-impact/" ><span>Environmental Impact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper6327248">
+
+    <div id="navigationBottom-moduleContent6327248">
+
+              <a id="navigationBottom-moduleLink6327248" class=" " href="/partners/" ><span>Interoperability Partners</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper19542549">
+
+    <div id="navigationBottom-moduleContent19542549">
+
+              <a id="navigationBottom-moduleLink19542549" class=" " href="/alertuswebinarseries/" ><span>Webinars</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper2813106">
+
+    <div id="navigationBottom-moduleContent2813106">
+
+              <a id="navigationBottom-moduleLink2813106" class=" " href="/news/" ><span>News</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper3100309">
+
+    <div id="navigationBottom-moduleContent3100309">
+
+              <a id="navigationBottom-moduleLink3100309" class=" " href="/careers/" ><span>Careers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent59307" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper19364597">
+
+    <div id="moduleContent19364597">
+
+              <a id="moduleLink19364597" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper15716579">
+
+    <div id="moduleContent15716579">
+
+              <a id="moduleLink15716579" class=" folder-link" href="/solutions/" ><span>Solutions</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent15716579">
+            
+  <li class="module   " id="moduleContentWrapper15716798">
+
+    <div id="moduleContent15716798">
+
+              <a id="moduleLink15716798" class=" " href="/campus-notification/" ><span>Campus Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper18758115">
+
+    <div id="moduleContent18758115">
+
+              <a id="moduleLink18758115" class=" " href="/unified/" ><span>Unified Enterprise Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3998697">
+
+    <div id="moduleContent3998697">
+
+              <a id="moduleLink3998697" class=" " href="/ada/" ><span>Alerting Deaf and Hard-of-Hearing</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper341434">
+
+    <div id="moduleContent341434">
+
+              <a id="moduleLink341434" class=" folder-link" href="/products/" ><span>Products</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent341434">
+            
+  <li class="module   " id="moduleContentWrapper2445563">
+
+    <div id="moduleContent2445563">
+
+              <a id="moduleLink2445563" class=" " href="/beacon/" ><span>Alert Beacon</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3170416">
+
+    <div id="moduleContent3170416">
+
+              <a id="moduleLink3170416" class=" " href="/desktop/" ><span>Alertus Desktop</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19543395">
+
+    <div id="moduleContent19543395">
+
+              <a id="moduleLink19543395" class=" " href="/panicbutton/" ><span>Panic Button</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3674036">
+
+    <div id="moduleContent3674036">
+
+              <a id="moduleLink3674036" class=" " href="/voice/" ><span>Voice PA / Fire Alarm Interface</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19562186">
+
+    <div id="moduleContent19562186">
+
+              <a id="moduleLink19562186" class=" " href="/fire/" ><span>Fire Alarm Interface</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper1254396">
+
+    <div id="moduleContent1254396">
+
+              <a id="moduleLink1254396" class=" " href="/signage/" ><span>Digital Signage Override Software</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15673828">
+
+    <div id="moduleContent15673828">
+
+              <a id="moduleLink15673828" class=" " href="/marquee/" ><span>LED Marquee</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15525852">
+
+    <div id="moduleContent15525852">
+
+              <a id="moduleLink15525852" class=" " href="/cable-television-override/" ><span>Cable Television Override</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper15695843">
+
+    <div id="moduleContent15695843">
+
+              <a id="moduleLink15695843" class=" " href="/ip-phones/" ><span>IP Phone Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19562185">
+
+    <div id="moduleContent19562185">
+
+              <a id="moduleLink19562185" class=" " href="/apps/" ><span>Mobile Phone Apps</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4116263">
+
+    <div id="moduleContent4116263">
+
+              <a id="moduleLink4116263" class=" " href="/outdoor/" ><span>Outdoor Notification</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19364599">
+
+    <div id="moduleContent19364599">
+
+              <a id="moduleLink19364599" class=" " href="/solution_builder/" ><span>Solution Builder</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper2815522">
+
+    <div id="moduleContent2815522">
+
+              <a id="moduleLink2815522" class=" folder-link" href="/industries/" ><span>Industries</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent2815522">
+            
+  <li class="module   " id="moduleContentWrapper3100165">
+
+    <div id="moduleContent3100165">
+
+              <a id="moduleLink3100165" class=" " href="/campus/" ><span>Universities &amp; Colleges</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3100166">
+
+    <div id="moduleContent3100166">
+
+              <a id="moduleLink3100166" class=" " href="/k12/" ><span>K-12 School Districts</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3100168">
+
+    <div id="moduleContent3100168">
+
+              <a id="moduleLink3100168" class=" " href="/schools/" ><span>Boarding Schools</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3100170">
+
+    <div id="moduleContent3100170">
+
+              <a id="moduleLink3100170" class=" " href="/mil/" ><span>Military Bases</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3100175">
+
+    <div id="moduleContent3100175">
+
+              <a id="moduleLink3100175" class=" " href="/gov/" ><span>Government Facilities</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3100172">
+
+    <div id="moduleContent3100172">
+
+              <a id="moduleLink3100172" class=" " href="/hospitals/" ><span>Medical Centers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3100171">
+
+    <div id="moduleContent3100171">
+
+              <a id="moduleLink3100171" class=" " href="/corporate/" ><span>Corporate</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5274665">
+
+    <div id="moduleContent5274665">
+
+              <a id="moduleLink5274665" class=" " href="/customers/" ><span>Customers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper2815276">
+
+    <div id="moduleContent2815276">
+
+              <a id="moduleLink2815276" class=" folder-link" href="/re/" ><span>Resources</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent2815276">
+            
+  <li class="module   " id="moduleContentWrapper3101799">
+
+    <div id="moduleContent3101799">
+
+              <a id="moduleLink3101799" class=" " href="/res/" ><span>Product Literature</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19537935">
+
+    <div id="moduleContent19537935">
+
+              <a id="moduleLink19537935" class=" " href="/case-studies/" ><span>Case Studies</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper9188567">
+
+    <div id="moduleContent9188567">
+
+              <a id="moduleLink9188567" class=" " href="/free/" ><span>Alertus Desktop Grant Initiative</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4986561">
+
+    <div id="moduleContent4986561">
+
+              <a id="moduleLink4986561" class=" " href="/nfpa/" ><span>NFPA72: National Fire Alarm &amp; Signaling Code</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3381598">
+
+    <div id="moduleContent3381598">
+
+              <a id="moduleLink3381598" class=" " href="/estimator/" ><span>Alert Beacon Estimator</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper10302352">
+
+    <div id="moduleContent10302352">
+
+              <a id="moduleLink10302352" class=" " href="/partner-login/" ><span>Partner Login</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2899298">
+
+    <div id="moduleContent2899298">
+
+              <a id="moduleLink2899298" class=" " href="/faq/" ><span>FAQ</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3803499">
+
+    <div id="moduleContent3803499">
+
+              <a id="moduleLink3803499" class=" " href="/grants/" ><span>Grants</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   folder-closed" id="moduleContentWrapper2813097">
+
+    <div id="moduleContent2813097">
+
+              <a id="moduleLink2813097" class=" folder-link" href="/company/" ><span>Company</span></a>
+      
+
+            
+        <div class="folder-wrapper">
+          <ul class="folder" id="folderContent2813097">
+            
+  <li class="module   " id="moduleContentWrapper19629993">
+
+    <div id="moduleContent19629993">
+
+              <a id="moduleLink19629993" class=" " href="/contact/" ><span>Contact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper217563">
+
+    <div id="moduleContent217563">
+
+              <a id="moduleLink217563" class=" " href="/about/" ><span>About</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19123138">
+
+    <div id="moduleContent19123138">
+
+              <a id="moduleLink19123138" class=" " href="/environmental-impact/" ><span>Environmental Impact</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper6327248">
+
+    <div id="moduleContent6327248">
+
+              <a id="moduleLink6327248" class=" " href="/partners/" ><span>Interoperability Partners</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper19542549">
+
+    <div id="moduleContent19542549">
+
+              <a id="moduleLink19542549" class=" " href="/alertuswebinarseries/" ><span>Webinars</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper2813106">
+
+    <div id="moduleContent2813106">
+
+              <a id="moduleLink2813106" class=" " href="/news/" ><span>News</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper3100309">
+
+    <div id="moduleContent3100309">
+
+              <a id="moduleLink3100309" class=" " href="/careers/" ><span>Careers</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+          </ul>
+        </div>
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2694558" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Customer Feedback</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper6081586" class="widget-wrapper  widget-type-page"><div id="moduleContent6081586">
+
+
+
+
+
+      <style>
+          #quotes {
+              padding-left: 57px;
+              padding-top: 10px;
+              background-image: url(http://alertus.squarespace.com/storage/design3/feedBack.jpg);
+              background-repeat:no-repeat;
+          }
+  
+          .quotes-sidebar {
+              height: 200px;
+              margin-left: -15px;
+          }
+  
+  
+  
+          #quote-logo {
+              padding-top:5px;
+              margin-left: -50px;
+          }
+  
+          #author {
+              padding-top: 5px;
+              text-align: right;
+              color: #c60a0a;
+              font-weight: bold;
+          }
+      </style>
+      <div id="quotes" class="quotes quotes-sidebar"></div>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+ 
+  
+        <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet"/>
+
+<style>
+    h1 {
+        /*font-family: Raleway;*/
+        color: darkred; //#C60A0A;
+    }
+    h3 {
+        padding-bottom:30px;
+    }
+
+    .carousel-inner .row {
+        padding: 30px 40px 0px 60px;
+    }
+    .carousel-inner img {
+        max-height: 270px;
+    }
+
+    .herored2 {
+        background: #a90329; /* Old browsers */
+        background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* IE10+ */
+        background: linear-gradient(to bottom, #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */
+    }
+
+.herored2:link {
+color: white;
+}
+
+    .carousel-indicators li {
+       background-color: rgba(0,0,0,0.25);
+    }
+    .carousel-indicators .active {
+        background-color: rgba(0,0,0,1);
+    }
+
+    .spanImg {
+        width: 470px;
+        min-width: 370px;
+        display: inline-block;
+        vertical-align: top;
+    }
+    .spanTxt {
+        width: 370px;
+        min-width: 370px;
+        display: inline-block;
+    }
+
+
+.carouselContainer {
+   margin-left: 7px;
+   visibility: visible;
+   width: 975px;
+   position: relative;
+   display:block;
+   height:323px;
+   overflow-x: hidden;
+   overflow-y: hidden;
+   z-index:0;
+}
+
+/** IE 7 only hack **/
+*+.carouselContainer {
+   margin-top: -6px;
+}
+
+.spanText a:link, a:visited, a:active {
+  color: #C00707;
+}
+
+
+
+</style>
+
+            <!-- starts carousel -->
+            <div class="carouselContainer row animated fadeInUp" style="width:975px; min-width:975px;">
+                <div style="background-image: url('https://my.alertus.com/images/slideshow/banner-background-323.jpg'); min-width:975px; width: 975px; height: 323px; overflow: hidden">
+                    <div id="myCarousel" class="carousel slide">
+                        <!-- carousel items -->
+                        <div class="carousel-inner">
+
+                            <!-- slide -->
+<!--
+                            <div class="active item slide5">
+                                <div class="row">
+                                    <div class="spanTxt">
+                                        <h1>
+                                            Solution Builder
+                                        </h1>
+                                        <p class="lead">
+                                            Is a quick and easy way to find solutions to your unique notification challenges.  Just check a few boxes and relevant solutions will be revealed.
+                                        </p>
+                                        <a href="/solution_builder" class="btn btn-success btn-large herored2">
+                                            Start Here
+                                        </a>
+                                    </div>
+                                    <div class="spanImg">
+                                        <img src="https://my.alertus.com/images/slideshow/sb-graphic4.png" alt="slideSB" width="100%">
+                                    </div>
+                                </div>
+                            </div>
+-->
+
+                            <!-- slide -->
+                            <div class="item slide0 active">
+                                <div class="row" style="min-width:950px; width:950px;">
+                                    <div class="spanImg">
+                                        <img src="https://my.alertus.com/images/slideshow/beacon_website.png" alt="slide1" width="75%">
+                                    </div>
+                                    <div class="spanTxt">
+                                        <h1>
+                                            Alert Beacon
+                                        </h1>
+                                        <p class="lead">
+                                            Wall-mounted device captures attention with strobe lights and sounder, then notifies with integrated message display.
+                                        </p>
+                                        <a href="/beacon" class="btn btn-success btn-large herored2">
+                                            Learn More
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- slide -->
+                            <div class="item slide1">
+                                <div class="row">
+                                    <div class="spanTxt animated fadeInUpBig">
+                                        <h1>Alertus Desktop</h1>
+                                        <p class="lead">
+                                            Instantly deliver critical alerts to all networked computers within your facility, with targeted zoneability.
+                                        </p>
+                                        <a href="/desktop" class="btn btn-success btn-large herored2">
+                                            Learn More About This Product
+                                        </a>
+                                    </div>
+                                    <div class="spanImg animated fadeInDownBig">
+                                        <img src="https://my.alertus.com/images/slideshow/desktoppc-image500.png" alt="slide2">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="item slide2">
+                                <div class="row">
+                                    <div class="spanImg">
+                                        <img src="https://my.alertus.com/images/slideshow/TTS_Collage.png" alt="slide1" width="75%">
+                                    </div>
+                                    <div class="spanTxt">
+                                        <h1>
+                                            PA & Fire Alarm
+                                        </h1>
+                                        <p class="lead">
+                                            Alertus ensures consistent messages across all systems.  Breakthrough embedded text-to-speech technology is the bridge to customized audio messages.
+                                        </p>
+                                        <a href="/voice" class="btn btn-success btn-large herored2">
+                                            Learn More About This Product
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- slide -->
+                            <div class="item slide3">
+                                <div class="row">
+                                    <div class="spanTxt animated fadeInUpBig">
+                                        <h1>Digital Signage</h1>
+                                        <p class="lead">
+                                            Easy override control of electronic displays.  As simple as checking a box.
+                                        </p>
+                                        <a href="/signage" class="btn btn-success btn-large herored2">
+                                            Learn More About This Product
+                                        </a>
+                                    </div>
+                                    <div class="spanImg animated fadeInDownBig">
+                                        <img src="https://my.alertus.com/images/slideshow/screenshotInsidePlasma.jpg" alt="slide4">
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>  <!-- END SLIDES -->
+                        <!-- Carousel nav -->
+                        <!--                        <a class="carousel-control left" href="#myCarousel" data-slide="prev">‹</a>-->
+                        <!--                        <a class="carousel-control right" href="#myCarousel" data-slide="next">›</a>-->
+                        <ol class="carousel-indicators">
+                           <!-- <li data-target="#myCarousel" data-slide-to="0"></li> -->
+                            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#myCarousel" data-slide-to="1"></li>
+                            <li data-target="#myCarousel" data-slide-to="2"></li>
+                            <li data-target="#myCarousel" data-slide-to="3"></li>
+                        </ol>
+                    </div>
+
+                </div>
+            </div>
+            <!--- END COPY FOR SS -->
+
+
+
+<script>
+    jQuery(document).ready(function() {
+        jQuery('#myCarousel').carousel({
+            interval: 4000
+        });
+    });
+</script>
+
+
+    <!--- END COPY FOR SS -->
+
+
+
+
+
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+
+
+<!-- END OF NEW CAROUSEL -->
+<script type="text/javascript" src="/storage/js/fadeslideshow.js"></script>
+
+<div id="callOut">
+    <div class="call" style="border-right:1px solid #777777;">
+      <p><span class="homeTitle"><a href="http://www.alertus.com/news/">Latest News</a></span></p>
+<p>
+
+<span style="font-weight:bold; color: black;">Alertus at Washington University St Louis</span><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.higheredtechdecisions.com/article/in_emergency_communications_policy_comes_before_technology" target="_blank">News Article</a>
+<br>
+
+
+<span style="font-weight:bold; color: black;">Alert Beacons activated at Berkeley Schools</span><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.journal-news.net/page/content.detail/id/599722/Schools--emergency-notification-system-spreads-tornado-warning.html?nav=5006" target="_blank">News Article</a>
+<br>
+
+<span style="font-weight:bold; color: black;">Alertus deployed at Frederick County Schools</span><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/watch?v=A3T-wWTs-X4&feature=youtube_gdata" target="_blank">Video</a> | 
+<a href="http://www.fredericknewspost.com/news/education/article_50820187-25a6-51d9-9ed2-6136f474b3de.html" target="_blank">News Article</a><br>
+
+<!--
+<span style="font-weight:bold; color: black;">Univ of Missouri among latest implementations</span><br>
+&nbsp;&nbsp;&nbsp;<a href="http://www.themaneater.com/stories/2013/8/21/new-emergency-beacons-installed-around-campus/" target="_blank">News Article</a>
+<br>
+-->
+<!--
+<span style="font-weight:bold; color: black;">Alertus Partners with Honeywell Gamewell-FCI</span><br>
+&nbsp;&nbsp;&nbsp;<a href="http://click.e-honeywell.com/?ju=fe2c17727564037a761079&ls=fdb6157174620d757314797d6c&m=feee1c747d600d&l=fe6a15777667007d7715&s=fe5a1c767d6404757412&jb=ffcf14&t=" target="_blank">Press Release</a> |
+<a href="http://www.securitysystemsnews.com/article/fire-alarms-are-seen-and-heard" target="_blank">Article in Security Systems News</a>
+-->
+
+<!--
+<span style="font-weight:bold; text-decoration:underline; color: black;">Alertus Announces Implementations At:</span><br>
+&nbsp;&nbsp;&nbsp;Northampton Community College<br>
+&nbsp;&nbsp;&nbsp;Washington University in St. Louis<br>
+&nbsp;&nbsp;&nbsp;University of Tennessee - Chattanooga<br>
+-->
+</p>
+<!--
+      <p><a href="/free"><span style="font-weight:bold; text-decoration:underline; color: black;">Alertus Desktop Grant Initiative</span></a><br>
+Safety should not be compromised due to budgetary pressures.  Apply today for a grant of Alertus Desktop (enterprise perpetual license).  <a href="/free">Learn more</a> about this Alertus corporate philanthropy initiative and eligibility requirements.
+-->
+<!--
+        <span style="text-align:center;color: black;"><u>Upcoming Webinar</u>: <a style="text-align:center;color:blue;" href="https://www2.gotomeeting.com/register/871371834">Alertus Desktop Donation Q&A</a></span>
+-->
+      </p>
+
+    </div>
+            
+   <div class="call" style="border-right:1px solid #777777;">
+
+          <p><span class="homeTitle">About Us</span></p>
+<p>
+
+<a href="https://www.youtube.com/watch?v=bI8ffTGNfqE" target="_blank">Video: Alertus Solution Overview</a>
+
+          <p style="line-height:18px;">For over a decade, Alertus has specialized in reliable in-building emergency notification with an array of highly affordable products, including wall-mounted Alert Beacons, digital signage override, desktop alerting, and text-to-speech voice annunciation.
+     <a href="/about">learn more...</a> </p>
+
+   </div>
+
+   <div class="call"> 
+       <p><span class="homeTitle">Customers</span></p>
+      <div id="logoSlideshow" style="padding-left: 0px; z-index:0;"></div>
+   </div>
+</div>
+
+<!--
+<p><span class="homeTitle">What we're known for?</span></p>
+       <p>Alertus' chief product is the Alert Beacon, a wall-mounted device with sounder and strobes to capture the attention of building occupants from a distance, coupled with an integrated LCD displaying the nature of the emergency and appropriate response.
+<a href="/beacon">learn more...</a></p>
+    </div>
+-->
+
+
+<script type="text/javascript">
+var logos = new Array("VCU","KSU","KUMC","WUSTL","RIT","UMD","UVA","GU","WINTHROP","PACKER","MWU","TSU","AMERICAN","NORTHAMPTON","ACS","BCS","CCP","MESA","SIAST","CGCC","CLOVIS","UMES","DCPS","EHS","GS","STNORBERTS","UTC","EACC","LAPORTE","LIFE","RAMAPO","LFUCG","MCCNEB","MORAVIAN","UALBERTA","UH")
+
+
+var imageArray = new Array()
+for( x in logos ) {
+imageArray[ x ] = new Array( "storage/cust_logos/250x100/" + logos[x] + ".jpg", "","","" )
+}
+
+var mygallery2=new fadeSlideShow({
+	wrapperid: "logoSlideshow", //ID of blank DIV on page to house Slideshow
+	dimensions: [250, 100], //width/height of gallery in pixels. Should reflect dimensions of largest image
+	imagearray: imageArray,
+	displaymode: {type:'auto', pause:2750, cycles:0, wraparound:true},
+	persist: false, //remember last viewed slide and recall within same session?
+	fadeduration: 750, //transition duration (milliseconds)
+	descreveal: "ondemand",
+	togglerid: ""
+})
+</script>
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+          
+      
+<!--
+<script type='text/javascript'>
+ var arr2 = window.location.href.split("?");
+ var getImg2 = new Image();
+ getImg2.src = "http://stat.alertustech.com/em.php?" + arr2[1];
+</script>   
+-->
+
+
+<script type="text/javascript">
+
+YAHOO.util.Event.onDOMReady(function() {   
+document.getElementById("formSubmitButton3605770").onclick =  function (){ theForm3605770.submitCustomForm(); _gaq.push(['_trackPageview',"/goal/testgoal.html"]);};});
+
+YAHOO.util.Event.onDOMReady(function() {   
+document.getElementById("formSubmitButton2814875").onclick =  function (){ theForm2814875.submitCustomForm(); _gaq.push(['_trackPageview',"/goal/answers.html"]);};});
+
+// 2841006 == Info by mail form
+// 3101191 == Request Pricing
+// 3170707 == Webinar Registration
+
+YAHOO.util.Event.onDOMReady(function() {   
+document.getElementById("formSubmitButton3170707").onclick =  function (){ theForm3170707.submitCustomForm(); _gaq.push(['_trackPageview',"/goal/webinar.html"]);};});
+
+YAHOO.util.Event.onDOMReady(function() {   
+document.getElementById("formSubmitButton3101191").onclick =  function (){ theForm3101191.submitCustomForm(); _gaq.push(['_trackPageview',"/goal/pricing.html"]);};});
+
+</script>
+
+    <script type="text/javascript">
+        // JavaScript Document
+        (function( jQuery ){
+            jQuery.fn.quotator = function(options){
+
+                var container = this;
+                var defaults =
+                {
+                    speed : 5000,
+                    json : "quotator_quotes.js"
+                }
+
+                var options = jQuery.extend(defaults, options);
+
+                var quotes_json = options.json;
+                var quotes;
+
+                jQuery.getJSON(quotes_json, function(data){
+                    var quotesobject = eval(data.quotes);
+                    var index = 0;
+
+
+                    setInterval(changeQuote, options.speed);
+
+                    var logoimg = "<img src='http://www.alertus.com/storage/cust_logos/square/75x75/" + quotesobject[index].organization + ".jpg'>";
+
+                    container.html(quotesobject[index].quote + "<table id='quote-logo'><tr>" + "<td width='300' style='padding-right:5px;'><div id='author'>" + quotesobject[index].author + "</div>" + "<td width='50' style='border-left:thin solid gray;padding-left:5px;'>" + logoimg + "</tr></table>");
+
+                    function changeQuote(){
+                        container.fadeOut(function(){
+
+                            var logoimg = "<img src='http://www.alertus.com/storage/cust_logos/square/75x75/" + quotesobject[index].organization + ".jpg'>";
+
+                            container.html(quotesobject[index].quote + "<table id='quote-logo'><tr>" + "<td width='300' style='padding-right:5px;'><div id='author'>" + quotesobject[index].author + "</div>" + "<td width='50' style='border-left:thin solid gray;padding-left:5px;'>" + logoimg + "</tr></table>").fadeIn();
+                        });
+
+                        if(index == quotesobject.length - 1){
+                            index = 0;
+                        } else{
+                            index++;
+                        }
+                    }
+
+                });
+                return container;
+            }
+        })( jQuery );
+    </script>
+    <script type="text/javascript">
+        jQuery(document).ready( function() {
+            jQuery("#quotes").quotator({
+                speed : 6500,
+                json : "http://www.alertus.com/storage/jquery/quotes.js"
+            });
+        });
+    </script>
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              <div id="social_left">Copyright 2002-2014, Alertus Technologies, LLC. All rights reserved.
+</div>
+
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+GET https://leif-kramer-b53n.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Fri, 28 Jan 2022 02:07:26 GMT
+< Etag: W/"533132438e4f8b87f9e5e7f7529c5a81--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=BcM0z0K0Q0TfNzllOWM0Y2ZmYTI4NTI1ZTc1NzhkOTJjZGMyZmIy;Path=/
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< X-Contextid: EaRJtYIl/fRHdWCTX
+< Age: 423772
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

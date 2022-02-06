@@ -1,0 +1,13 @@
+GET https://ext.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: CyfRnHbA/cTRVS4vo
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BdLXhFzlPvchNmEzYTE0ZjExODhmZmQ3YjRlMjQxYzc3Nzg0NGFi;Path=/
+< Strict-Transport-Security: max-age=0
+< Date: Wed, 02 Feb 2022 00:56:19 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

@@ -1,0 +1,17 @@
+GET https://caitlinfoleyconsulting.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:12:35 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=aodfeqo792eb6d2h25csh1o4vo; expires=Fri, 04-Mar-2022 00:12:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=467557d1-06b9-4bff-9b35-466bd34736ab; expires=Fri, 02-Feb-2024 00:12:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

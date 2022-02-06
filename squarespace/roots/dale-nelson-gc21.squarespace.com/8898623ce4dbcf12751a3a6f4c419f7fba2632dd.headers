@@ -1,0 +1,13 @@
+GET https://dale-nelson-gc21.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BV2jO3/4tOs0ZmFjZmJmN2U0NzdlMjE5MzhiMzE1ZDdkMTVjZWMy;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:35 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: rhKvDIZK/DWrFyPsh
+< Age: 0

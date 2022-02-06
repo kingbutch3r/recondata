@@ -1,0 +1,12 @@
+GET http://james-martinez-5203.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BaitS73moqv7NzA1MGQ4YmEzMWQxNGNjMDU4ZTY5NmJiYWJhYTg0;Path=/
+< X-Contextid: V05bYE3e/7D2OcIwI
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:23:56 GMT

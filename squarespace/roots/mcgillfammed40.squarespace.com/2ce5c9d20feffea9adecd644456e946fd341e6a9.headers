@@ -1,0 +1,11 @@
+GET http://mcgillfammed40.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< X-Contextid: WQ0I66bS/PBPq4N1j
+< Set-Cookie: crumb=Bd9ALsYY5yY0YWRjYTVjMGVmZDRjY2M5MDMyMTI5MmU0NmZjNDQy;Path=/
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:47 GMT
+< Server: Squarespace

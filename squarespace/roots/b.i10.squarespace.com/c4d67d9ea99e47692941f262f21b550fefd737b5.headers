@@ -1,0 +1,12 @@
+GET http://b.i10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 2868
+< Date: Wed, 02 Feb 2022 01:01:41 GMT
+< X-Contextid: zYdo6ZAF/dELknMqo
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html
+< Server: Squarespace
+< Set-Cookie: crumb=BboNlmVVzULfMDJkMzliMzdlYWJjYTRlMDJiYjVlOWYxOWFmZTY2;Path=/

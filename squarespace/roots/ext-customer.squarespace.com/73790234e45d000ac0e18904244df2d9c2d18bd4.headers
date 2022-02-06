@@ -1,0 +1,11 @@
+GET http://ext-customer.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://ext-customer.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTekS6tNUvOfMWUwNDRjMzI4OTYxNDg5MDg3Yzk5MjczNTUzMGI4;Path=/
+< X-Contextid: lK4pB2vR/ZX0ivMNX
+< Age: 48408
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 11:37:16 GMT

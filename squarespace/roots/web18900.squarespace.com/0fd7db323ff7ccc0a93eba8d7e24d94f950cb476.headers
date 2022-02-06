@@ -1,0 +1,10 @@
+GET http://web18900.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:55:15 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BdHzeNjkv07vMjkwMzgzZGU5ZGEyNzM1NDEwNjk4OWE0YTM1MDA1;Path=/
+< X-Contextid: 2weLvU53/7wNkH8W0
+< Age: 0
+< Content-Type: text/html;charset=utf-8

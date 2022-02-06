@@ -1,0 +1,17 @@
+GET https://coachhavilland.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=q5fnblggfbnnfck5ac3rqv0de3; expires=Fri, 04-Mar-2022 00:00:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ffb7570a-bbdc-4aae-8500-5e58b3d5ebe7; expires=Fri, 02-Feb-2024 00:00:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:00:03 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

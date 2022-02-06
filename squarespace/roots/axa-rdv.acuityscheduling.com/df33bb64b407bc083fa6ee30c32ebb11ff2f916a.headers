@@ -1,0 +1,15 @@
+GET https://axa-rdv.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:43:49 GMT
+< Set-Cookie: PHPSESSID=04qsdgfcmev4dhdid88isj1kis; expires=Fri, 04-Mar-2022 00:43:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=45014097-c830-44fd-958f-f71810888362; expires=Fri, 02-Feb-2024 00:43:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent

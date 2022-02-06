@@ -1,0 +1,19 @@
+GET https://engineering.payoneer.com
+
+
+< HTTP/1.1 307 Temporary Redirect
+< Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< X-Envoy-Upstream-Service-Time: 1
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Location: https://medium.com/m/global-identity?redirectUrl=https%3A%2F%2Fengineering.payoneer.com%2F
+< Content-Type: text/html; charset=utf-8
+< Medium-Fulfilled-By: edgy/8.2.0, valencia/main-20220201-223741-950139b2ac
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:26:29 GMT
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Cf-Ray: 6d6ef1e8e9508595-BOM
+< Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+< Cf-Cache-Status: DYNAMIC
+< Set-Cookie: __cfruid=de50766a1b74994530222daff5dee54b981013ca-1643757989; path=/; domain=.engineering.payoneer.com; HttpOnly; Secure; SameSite=None

@@ -1,0 +1,11 @@
+GET http://ext-cust-.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Date: Tue, 01 Feb 2022 23:49:58 GMT
+< Set-Cookie: crumb=BYs1n0YeVwUCNmY0YWExYzhmMmIwMTk5NjE1NDBmMzZhMDcyOTU3;Path=/
+< X-Contextid: cc91Ecq5/J7XFMwvH
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace

@@ -1,0 +1,22 @@
+GET http://embed.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Frame-Options: SAMEORIGIN
+< X-Timer: S1643759944.679875,VS0,VE305
+< Content-Security-Policy: frame-ancestors 'self'
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Served-By: cache-sea4475-SEA, cache-bom4730-BOM
+< X-Cache: MISS, MISS
+< Vary: Accept-Encoding
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Via: 1.1 varnish, 1.1 varnish
+< Accept-Ranges: bytes
+< Date: Tue, 01 Feb 2022 23:59:03 GMT
+< Age: 0
+< X-Cache-Hits: 0, 0
+< Cache-Control: no-store, no-cache, must-revalidate

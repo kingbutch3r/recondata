@@ -1,0 +1,15 @@
+GET http://joel-gold-kwg1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 118644
+< Etag: W/"aeb7c884cdc149d9f3ba5dcb2bc47883--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Set-Cookie: crumb=BVUpJ+61WgN0ZjQyYzczNThlNTZlNWEzM2NlNDJjZGEzMmQ0OThi;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: DnWSuDG2/Jck9xwID
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 16:17:43 GMT

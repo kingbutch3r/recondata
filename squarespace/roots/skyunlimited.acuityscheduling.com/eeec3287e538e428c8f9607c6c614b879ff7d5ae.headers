@@ -1,0 +1,17 @@
+GET https://skyunlimited.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=nol1dmogsd2h04gh6got4m9a6l; expires=Thu, 03-Mar-2022 23:59:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=912381d3-b3d2-4496-85ed-3bab1ca1ee7a; expires=Thu, 01-Feb-2024 23:59:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:59:30 GMT
+< Content-Type: text/html; charset=UTF-8

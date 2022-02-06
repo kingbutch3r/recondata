@@ -1,0 +1,15 @@
+GET https://radianttimeless.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:37:54 GMT
+< Set-Cookie: PHPSESSID=76638fjlfccled15iu2jb6hbk8; expires=Fri, 04-Mar-2022 00:37:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6ad68a2c-0de9-495e-a382-e3454baae3bf; expires=Fri, 02-Feb-2024 00:37:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8

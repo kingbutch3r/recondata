@@ -1,0 +1,15 @@
+GET https://unraveledclasses.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:33:13 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=hid670ssbc6b9u630r44pfegno; expires=Fri, 04-Mar-2022 00:33:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0dc0393a-90be-40a0-b3e0-79285ae43074; expires=Fri, 02-Feb-2024 00:33:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

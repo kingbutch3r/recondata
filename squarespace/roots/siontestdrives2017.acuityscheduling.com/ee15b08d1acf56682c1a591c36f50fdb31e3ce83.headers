@@ -1,0 +1,15 @@
+GET https://siontestdrives2017.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Tue, 01 Feb 2022 23:53:21 GMT
+< Set-Cookie: PHPSESSID=ijermpp6evmvffco1gt881qi2d; expires=Thu, 03-Mar-2022 23:53:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=36e17154-b50d-473f-9294-9d5eaedf75c1; expires=Thu, 01-Feb-2024 23:53:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8

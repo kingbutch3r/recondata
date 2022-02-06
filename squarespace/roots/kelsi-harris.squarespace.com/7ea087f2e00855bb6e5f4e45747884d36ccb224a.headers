@@ -1,0 +1,17 @@
+GET https://kelsi-harris.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Age: 160558
+< Etag: W/"2f6c00e4496d1b6266c41e9fc5daa28b--gzip"
+< Set-Cookie: crumb=BadB+0i/7BRvZWY3Yjg0NTY1NTk4MDkwN2ZlMGNiNmExZDRhOGUw;Path=/
+< Accept-Ranges: bytes
+< Date: Mon, 31 Jan 2022 04:23:08 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Cache-Control: max-age=172800, s-maxage=172800
+< Server: Squarespace
+< X-Contextid: npJGSe0R/2U0GwgS9

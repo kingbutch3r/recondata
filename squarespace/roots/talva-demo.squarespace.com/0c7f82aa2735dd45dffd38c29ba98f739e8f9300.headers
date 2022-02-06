@@ -1,0 +1,17 @@
+GET https://talva-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Contextid: XG0iWzzk/axRoHvxJ
+< Last-Modified: Fri, 28 Jan 2022 21:46:10 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 21:46:10 GMT
+< Etag: W/"0e3075954a9496868e9cbbca0904ab4b"
+< Set-Cookie: crumb=BUT3NRsAQt86YjgyMjhhOWU2NDhlNzcyZGZlOTY0ODIzYzdhNzkw;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Age: 356997

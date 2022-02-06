@@ -1,0 +1,17 @@
+GET https://candaceduff.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:08:43 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=qfkp46a90hvahh6d3kjmeli9vq; expires=Fri, 04-Mar-2022 00:08:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3cab3ba2-b470-4f81-b444-3d5abf45db0a; expires=Fri, 02-Feb-2024 00:08:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

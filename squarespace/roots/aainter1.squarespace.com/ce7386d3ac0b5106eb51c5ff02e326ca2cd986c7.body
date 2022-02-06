@@ -1,0 +1,972 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+
+  <!-- aainter1 -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=517175&amp;RK=1259927301887&amp;CE=75"/>
+  
+
+  
+    <link rel="alternate" type="application/atom+xml" title="ATOM" href="http://aainter1.squarespace.com/blog/atom.xml" />
+  
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://aainter1.squarespace.com/blog/rss.xml" />
+  
+    <link rel="alternate" type="application/rdf+xml" title="RDF" href="http://aainter1.squarespace.com/blog/rdf.xml" />
+  
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aainter1.squarespace.com/blog/rsd.xml" />
+  
+  
+  <!-- Google Web Fonts! -->
+  <script type="text/javascript">
+  
+  
+  
+   (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/scripts/image-folder-modules.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+
+     Squarespace.Constants.CURRENT_MODULE_ID = "1573357"; 
+    Squarespace.Constants.WEBSITE_TITLE =  "AA Diploma Unit 1"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+     Squarespace.Constants.LEGACY_LAYOUT = "true"; 
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "166374";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title> - Blog</title>
+    <meta property="og:title" content=" - Blog" /> 
+  
+
+    
+
+  
+  
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+  <body id="modulePage1573357">
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/login/?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  <div id="canvasWrapper"><div id="canvas">
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+    
+      
+
+      <div id="siteTitleWrapper">
+        <h1 id="siteTitle"><a href="http://aainter1.squarespace.com/">AA Diploma Unit 1</a></h1>
+         <div id="siteSubtitle" class="h1subtitle">Mineral Architecture</div> 
+      </div>
+
+    
+
+  </div></div>
+
+
+  <div id="pageBodyWrapper"><div id="pageBody">
+
+  <div id="sidebarWrapper"><div id="sidebar">
+
+    
+
+      <div id="sectionContent816288" class="sectionWrapper"><div class="section">
+         <div class="caption">Search</div> 
+                  <div class="content-passthrough"><div id="moduleContentWrapper1573356" class="widget-wrapper  widget-type-search"><div id="moduleContent1573356"><form class="search-form-pt" method="get" action="/display/Search">
+  <input type="text" class="text queryField" name="searchQuery" value=""/>
+  <input type="submit" class="button queryButton" value="&raquo;"/>
+  <input type="hidden" name="moduleId" value="1573356"/>
+</form></div></div></div>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent816289" class="sectionWrapper"><div class="section">
+         <div class="caption">Events</div> 
+                  <ul class="content-navigation">
+  <li class="module"  id="active-module" >
+
+    <div id="moduleContent1573357">
+
+      
+        
+         <span id="active-module-marker">&mdash;&nbsp;</span> 
+        
+
+        <span ><a href="/"  >Blog</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent1573358">
+
+      
+        
+        
+        
+
+        <span ><a href="/mineral-architecture/"  >Mineral Architecture</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent1573458">
+
+      
+        
+        
+        
+
+        <span ><a href="/links/"  >Links</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent1640443">
+
+      
+        
+        
+        
+
+        <span ><a href="/tutorials-crit-time-tables-/"  >Tutorials / Crits / Time Tables</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5730514">
+
+      
+        
+        
+        
+
+        <span ><a href="/notice-board/"  >Notice Board</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent6035802">
+
+      
+        
+        
+        
+
+        <span ><a href="/reading-list/"  >Reading List</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent816292" class="sectionWrapper"><div class="section">
+         <div class="caption">Login here ...</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent1573361">
+
+      
+        
+        
+        
+
+        <span ><a href="/login/?returnUrl=%2F"  >Login</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent816290" class="sectionWrapper"><div class="section">
+        
+                  <div class="content-passthrough"><div id="moduleContentWrapper1573359" class="widget-wrapper  widget-type-page"><div id="moduleContent1573359">
+
+<p>Diploma Unit 1 at the <a href="http://www.aaschool.ac.uk">Architectural Association School of Architecture</a>, London, 2009/2010</p>
+</div></div></div>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent816427" class="sectionWrapper"><div class="section">
+         <div class="caption">Unit Masters</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent1573598">
+
+      
+        
+        
+        
+
+        <span ><a href="/marianne-mueller/"  >Marianne Mueller</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent1573609">
+
+      
+        
+        
+        
+
+        <span ><a href="/olaf-kneer/"  >Olaf Kneer</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+      <div id="sectionContent816584" class="sectionWrapper"><div class="section">
+         <div class="caption">Downloads</div> 
+                  <ul class="content-navigation">
+  <li class="module" >
+
+    <div id="moduleContent4983229">
+
+      
+        
+        
+        
+
+        <span ><a href="/full-brief-20092010/"  >Full Brief 2009/2010</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent4937165">
+
+      
+        
+        
+        
+
+        <span ><a href="/2-crystalline-systems-and-symm/"  >2. Crystalline Systems and Symmetries brief</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5113342">
+
+      
+        
+        
+        
+
+        <span ><a href="/3-berlin-palace-for-the-people/"  >3. Berlin. Palace for the People</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5211340">
+
+      
+        
+        
+        
+
+        <span ><a href="/4-the-physics-of-presence/"  >4. The Physics of Presence</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5310033">
+
+      
+        
+        
+        
+
+        <span ><a href="/5-your-mineral-manifesto-brief/"  >5. Your Mineral Manifesto Brief</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5697560">
+
+      
+        
+        
+        
+
+        <span ><a href="/berlin-data-1/"  >berlin data 1</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5730537">
+
+      
+        
+        
+        
+
+        <span ><a href="/6a-concrete-geometries/"  >6a. Concrete Geometries</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5730538">
+
+      
+        
+        
+        
+
+        <span ><a href="/timetable-0910-term-2-and-3/"  >Timetable 09/10 term 2 and 3</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5730557">
+
+      
+        
+        
+        
+
+        <span ><a href="/brief-6a-input-marianne-and-ol/"  >Brief 6a input Marianne and Olaf</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module" >
+
+    <div id="moduleContent5834104">
+
+      
+        
+        
+        
+
+        <span ><a href="/6b-material-presence-brief/"  >6b Material Presence Brief</a></span>
+
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+        
+      </div></div>
+
+    
+
+  </div></div>
+
+  <div id="contentWrapper"><div id="content">
+
+
+  
+
+
+  
+
+  
+    
+
+  
+
+  
+    
+<div id="item9039631" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2010/9/29/marianne-and-olafs-diploma-unit-1-on-sabbatical.html">Marianne and Olaf's Diploma Unit 1 on&nbsp;sabbatical</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p>Marianne and Olaf are currently taking a sabbatical from the AA following the commission to build the new White Cube gallery in Bemondsey.&nbsp;</p>
+<p>follow our progress on <a href="http://www.muellerkneer.com">www.muellerkneer.com</a></p>
+<p>and www.<a href="http://caspermuellerkneer.com">caspermuellerkneer.com</a></p>
+<div></div>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Wednesday, September 29, 2010 at 9:22AM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/aainter1">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Unit Masters
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2010/9/29/marianne-and-olafs-diploma-unit-1-on-sabbatical.html#comments">
+          <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>1 Comment
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item9039616" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2010/9/29/20092010-projects-review-online.html">2009/2010 Projects Review&nbsp;online</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p>To view last years work online visit the link below</p>
+<p><a href="http://projectsreview2010.aaschool.ac.uk/html/units.php?show=86">http://projectsreview2010.aaschool.ac.uk/html/units.php?show=86</a></p>
+<p>&nbsp;</p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Wednesday, September 29, 2010 at 9:15AM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/aainter1">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Unit Masters
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2010/9/29/20092010-projects-review-online.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item8132397" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2010/6/29/have-a-great-summer-everybody.html">have a great summer&nbsp;everybody!</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p><span class="full-image-block ssNonEditable"><span><img style="width: 450px;" src="/storage/unit image 2010.jpg?__SQUARESPACE_CACHEVERSION=1277826343235" alt="" /></span></span></p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Tuesday, June 29, 2010 at 4:44PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/aainter1">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Unit Masters
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2010/6/29/have-a-great-summer-everybody.html#comments">
+          <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>1 Comment
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+          | <a href="/blog/2010/6/29/have-a-great-summer-everybody.html#references">
+      <img title="References" alt="References" class="inline-icon" src="/layout/iconSets/dark/reference.png"/>1 Reference
+      </a>
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item8132306" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2010/6/29/projects-review-2010-in-the-making.html">Projects Review 2010 in the&nbsp;making</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p><span class="full-image-block ssNonEditable"><span><img src="/storage/exhibition_3458.jpg?__SQUARESPACE_CACHEVERSION=1277825472661" alt="" /></span></span></p>
+<p><span class="full-image-block ssNonEditable"><span><img src="/storage/exhibition_3468.jpg?__SQUARESPACE_CACHEVERSION=1277825526579" alt="" /></span></span></p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Tuesday, June 29, 2010 at 4:30PM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/aainter1">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Unit Masters
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2010/6/29/projects-review-2010-in-the-making.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+<div id="item7899347" class="journal-entry">
+
+  <h2 class="title"> <a href="/blog/2010/6/8/good-luck-fourth-years-today-tomorrow.html">GOOD LUCK FOURTH YEARS TODAY &&nbsp;TOMORROW!</a>  </h2>
+
+  
+
+  
+    <div class="body">
+
+      <p>:)</p>
+
+      
+
+    </div>
+
+    
+
+  
+
+  <div class="h2subtitle tag">
+
+    Posted <span class="postedOn">on Tuesday, June 8, 2010 at 11:07AM</span>
+
+    <span class="postedBy">by
+          <a href="/blog/author/student">
+  
+  <img title="Registered Commenter" alt="Registered Commenter" class="inline-icon" src="/layout/iconSets/dark/user-registered.png"/>Student
+  
+
+</a>
+    
+    </span>
+
+    <span class="postedIn">
+    
+    </span>
+
+    <span class="postComments"> | <a href="/blog/2010/6/8/good-luck-fourth-years-today-tomorrow.html#comments">
+                  <img title="Comments" alt="Comments" class="inline-icon" src="/layout/iconSets/dark/comment.png"/>Post a Comment
+      
+    
+    </a>
+    </span>
+
+    <span class="postReferences">
+    
+    </span>
+
+    
+      
+
+      
+
+    
+
+  </div>
+
+</div>
+
+
+
+  
+
+
+  
+  <div  class="journal-navigation" >
+
+    <!-- 1 - 5 of 99 (page 1 of 20) -->
+
+    
+
+                  Page |
+      
+    
+    
+              <strong>1</strong>
+      
+     | 
+              <a  href="/blog/?currentPage=2" >2</a>
+      
+     | 
+              <a  href="/blog/?currentPage=3" >3</a>
+      
+     | 
+              <a  href="/blog/?currentPage=4" >4</a>
+      
+     | 
+              <a  href="/blog/?currentPage=5" >5</a>
+      
+    
+          | <a  href="/blog/?currentPage=2" >
+              Next 5 Entries
+      
+      </a>
+    
+    
+
+  </div>
+
+
+
+
+  
+
+
+</div></div>
+
+  </div></div>
+
+  <div id="pageFooterWrapper"><div id="pageFooter">
+
+          Copyright &copy; 2008, AA Intermediate Unit 1 / Mueller Kneer Asc.  All rights reserved.
+    
+
+    
+
+  </div></div>
+
+</div></div>
+
+
+
+</body>
+</html>

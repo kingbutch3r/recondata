@@ -1,0 +1,15 @@
+GET https://auditionschedule.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:04:51 GMT
+< Set-Cookie: PHPSESSID=us0nkk1bv1ks49s2h70oufin32; expires=Fri, 04-Mar-2022 00:04:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0407b227-c325-4ee4-b669-e3c755ac2f0f; expires=Fri, 02-Feb-2024 00:04:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent

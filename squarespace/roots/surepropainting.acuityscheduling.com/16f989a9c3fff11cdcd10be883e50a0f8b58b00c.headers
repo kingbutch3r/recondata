@@ -1,0 +1,17 @@
+GET https://surepropainting.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:12:37 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=oidub55mq4t3mbk5m1j3e0u79s; expires=Fri, 04-Mar-2022 00:12:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6778a99a-9244-42d1-8d82-c93bb087786e; expires=Fri, 02-Feb-2024 00:12:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Pragma: no-cache

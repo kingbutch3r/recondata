@@ -1,0 +1,17 @@
+GET https://expedianurgentcare.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:06:18 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=v388q25flssj9npqeuv6eof49u; expires=Fri, 04-Mar-2022 00:06:17 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=48243b02-c222-4f10-8863-79a7286522f0; expires=Fri, 02-Feb-2024 00:06:18 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8

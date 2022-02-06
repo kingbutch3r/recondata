@@ -1,0 +1,10 @@
+GET https://jss.squarespace.net
+
+
+< HTTP/1.1 302 
+< Date: Wed, 02 Feb 2022 00:49:32 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate, max-age=0, post-check=0, pre-check=0
+< Set-Cookie: JSESSIONID=YzgxZWQ3OGMtNzMzYy00NTg3LTlhZDItNTIzZTlkOTYzNDVh; Path=/; secure; Secure; HttpOnly; SameSite=Lax
+< Location: https://jss.squarespace.net/saml/login
+< Server: nginx/1.20.1

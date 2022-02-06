@@ -1,0 +1,32 @@
+GET https://5help.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Zendesk-Ep: 10
+< Strict-Transport-Security: max-age=259200;
+< X-Zendesk-Zorg: yes
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Content-Type: text/html; charset=UTF-8
+< Content-Security-Policy: frame-ancestors 'self' 5help.squarespace.com support.squarespace.com help.unfold.com;
+< Set-Cookie: _zendesk_shared_session=-aXk4V2g2NGYzWitPMDhucGdzZGx2enpMOGU1UHpENnF3MnU2RVV5bmh2U2dvYWQ0c2dRRjlVY2NUVUx3THVRZFFxOE83SDg2a0Q4eFRMWDcvNThEeHNONXIrU3V5b01XVlAzN2xGNzNPZGZZZit4UXZqem5aSXN4TmJuUkFJcmlSMTVDYStnQUpFVGVObWQwNjFnOWxBPT0tLU5UenBsdUdhRllPdm5EVlpxc0xKUkE9PQ%3D%3D--8b13bc1a9ab46d975c62965be5170b3f5757bbbe; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_authenticated=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJWQ4NDExOWVkODcxNjI4NjFhYWJjYjJjMWYyMTNmZTVhBjsAVEkiDGFjY291bnQGOwBGaQPHDAlJIgpyb3V0ZQY7AEZpA4xVCEkiDmlzX21vYmlsZQY7AFRGSSITd2FyZGVuLm1lc3NhZ2UGOwBUewA%3D--f930b12d62e194178cf13a57ae0f23bf533f000c; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: __cfruid=e59e2310b68e7b530c62f4c773a89e9b0682f22a-1643763288; path=/; domain=.5help.squarespace.com; HttpOnly; Secure; SameSite=None
+< X-Runtime: 0.080652
+< Cf-Cache-Status: DYNAMIC
+< Location: https://5help.squarespace.com/hc
+< Cache-Control: no-cache
+< X-Request-Id: 6d6f7346ab4484ef-SEA
+< X-Request-Id: 6d6f7346ab4484ef-SEA
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=8DbKtSCIBF2UQ0p9hNTJsF2b7qnVtyfkLMeIToD6fFamD5%2BW38wJxfUmnvsphnnPuMxvv9RTsNqZkswFFgqmfw0tQM%2BlCYDVWvsQolKATlioseNxPDNk9oLytaJiC6qtkc1gZ%2FlG4A%3D%3D"}],"group":"cf-nel","max_age":604800}
+< Server: cloudflare
+< Cf-Ray: 6d6f7346ab4484ef-BOM
+< Vary: Accept
+< Content-Length: 98
+< Zendesk-Api-Version: 2022-01-01
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< X-Xss-Protection: 1; mode=block
+< X-Zendesk-Origin-Server: classic-app-server-66bdf8fd94-d7tsj
+< X-Content-Type-Options: nosniff
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Date: Wed, 02 Feb 2022 00:54:48 GMT

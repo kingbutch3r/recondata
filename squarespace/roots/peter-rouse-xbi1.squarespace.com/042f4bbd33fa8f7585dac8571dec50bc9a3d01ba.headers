@@ -1,0 +1,16 @@
+GET https://peter-rouse-xbi1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 376262
+< Set-Cookie: crumb=Bf2fvici+uPYZDVmZjhlMDZkNTEyNTM2NWJkMjFjYmQwNGE4MDM0;Path=/
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"f703367c3c752227a5f680fcd6cd7028--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: 480UIiui/V7t9zMTQ
+< Date: Fri, 28 Jan 2022 16:19:51 GMT
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding

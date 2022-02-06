@@ -1,0 +1,17 @@
+GET https://mercyoccupationalhealth.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=5dvv6sc3jhgg6al0em3n73rokk; expires=Fri, 04-Mar-2022 00:54:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cb2cc061-c72d-4c17-97b9-5e1ade735d76; expires=Fri, 02-Feb-2024 00:54:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:54:25 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,12 @@
+GET https://dev.api.krisp.ai
+
+
+< HTTP/1.1 503 Service Temporarily Unavailable
+< Cf-Cache-Status: DYNAMIC
+< Vary: Accept-Encoding
+< Date: Tue, 01 Feb 2022 23:29:54 GMT
+< Content-Type: text/plain; charset=utf-8
+< Content-Length: 0
+< Cf-Ray: 6d6ef6e41c2831d0-BOM
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare

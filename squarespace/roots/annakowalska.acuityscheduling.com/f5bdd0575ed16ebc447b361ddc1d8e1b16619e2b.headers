@@ -1,0 +1,17 @@
+GET https://annakowalska.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:54:46 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=0sun540fei3uga6e7aj1fb4p7d; expires=Thu, 03-Mar-2022 23:54:45 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e4b4e3d2-5fb3-424b-b89e-bc4b1bf11535; expires=Thu, 01-Feb-2024 23:54:46 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php

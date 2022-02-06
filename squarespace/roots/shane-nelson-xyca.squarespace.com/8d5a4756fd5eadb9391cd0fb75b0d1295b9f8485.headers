@@ -1,0 +1,15 @@
+GET http://shane-nelson-xyca.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"7dd89d80942ed0d1003c0c5bbe968b0d--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Age: 4030
+< Date: Tue, 01 Feb 2022 23:49:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: sgOhvUCF/9dyDZzj1
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BaKYmfxnwfHSMjEzMDE2Y2FlMTU1YjczZGU5MTcxNzc1Zjg2ZjI1;Path=/
+< Vary: Accept-Encoding

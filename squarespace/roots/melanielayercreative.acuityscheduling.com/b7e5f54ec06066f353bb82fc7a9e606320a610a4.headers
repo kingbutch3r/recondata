@@ -1,0 +1,15 @@
+GET https://melanielayercreative.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=108d9ratko765o5ds8b9bhm3h8; expires=Fri, 04-Mar-2022 00:08:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8c30b5e8-b503-43d4-89e2-fde72a3e91d7; expires=Fri, 02-Feb-2024 00:08:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:08:14 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

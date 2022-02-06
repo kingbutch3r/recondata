@@ -1,0 +1,15 @@
+GET https://callbackapi.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Server: rhino-core-shield
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Alt-Svc: clear
+< Vary: Accept-Encoding
+< Via: 1.1 google
+< Content-Type: text/html; charset=utf-8
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:26:16 GMT
+< Cache-Control: no-cache, private, no-transform, no-store
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Set-Cookie: GCLB=CKiD0_3isZf8Ew; path=/; HttpOnly

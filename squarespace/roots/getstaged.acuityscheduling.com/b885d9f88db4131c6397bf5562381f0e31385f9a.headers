@@ -1,0 +1,17 @@
+GET https://getstaged.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:59:11 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=ntmo4ndm8jgdbddknc79a908pa; expires=Thu, 03-Mar-2022 23:59:10 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ea9910a0-2b2b-4ef0-9cee-61cc4d008b8d; expires=Thu, 01-Feb-2024 23:59:11 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

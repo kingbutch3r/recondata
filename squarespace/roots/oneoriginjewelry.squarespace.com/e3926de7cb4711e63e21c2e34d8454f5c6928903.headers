@@ -1,0 +1,13 @@
+GET https://oneoriginjewelry.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=0
+< Date: Wed, 02 Feb 2022 00:55:30 GMT
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWgjFhKSQcDkMzk4M2JkMTY5YjNiMTUwYzFiMGQ2NDRjNzc2NzNh;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: TyrVwYt8/sNEyLVMH
+< Age: 0

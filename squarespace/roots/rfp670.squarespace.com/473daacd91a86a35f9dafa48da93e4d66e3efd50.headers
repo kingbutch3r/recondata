@@ -1,0 +1,10 @@
+GET https://rfp670.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BdLXXIJpaMFPMTdjNDJmODczOWY5OTk3MDY2MTMwYWEwZDc3MmZm;Path=/
+< X-Contextid: hDVcwDNU/98IUF5IW
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:55 GMT
+< Server: Squarespace

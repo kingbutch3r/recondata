@@ -1,0 +1,17 @@
+GET https://shameless.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=sjcuitv3f4kl2oo289i5hosfp5; expires=Fri, 04-Mar-2022 00:37:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6dc745df-bedb-46b1-a268-00ac91d9b0aa; expires=Fri, 02-Feb-2024 00:37:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:37:54 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent

@@ -1,0 +1,17 @@
+GET https://weddingwarriorstc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=o7r9vomgkmb2gc10130m7seqel; expires=Thu, 03-Mar-2022 23:58:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=884187cb-1629-4fe5-9660-14c64c5af57e; expires=Thu, 01-Feb-2024 23:58:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:58:51 GMT
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"

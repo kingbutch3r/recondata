@@ -1,0 +1,17 @@
+GET https://triciaprovostbookingpage.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:02:51 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=3sufn3vlkd06ocnkl01i7a7u8s; expires=Fri, 04-Mar-2022 00:02:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2e0ed545-0425-49fd-81e6-6f871df7b630; expires=Fri, 02-Feb-2024 00:02:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload

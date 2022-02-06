@@ -1,0 +1,17 @@
+GET https://manuela-andaloro-pr30.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BTifKBWnjW+GMzA0Yzg4YWExOTM0MWJjZjVkYzI3Nzc1ODkyNmFh;Path=/
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Contextid: SBqZbB8t/R7W01kui
+< Last-Modified: Mon, 31 Jan 2022 16:44:37 GMT
+< Age: 111942
+< Content-Type: text/html;charset=utf-8
+< Date: Mon, 31 Jan 2022 16:44:37 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Etag: W/"3192921ce9d0047a9622418f57cbd9ba"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

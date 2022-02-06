@@ -1,0 +1,17 @@
+GET https://talktobrenda.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:53:49 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=3brjnmbsobsbg3vlemr454erk6; expires=Thu, 03-Mar-2022 23:53:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5d59112a-2689-49d2-82ea-3b3b9b8d1052; expires=Thu, 01-Feb-2024 23:53:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent

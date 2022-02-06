@@ -1,0 +1,15 @@
+GET https://solutionsbyamelia.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:54:32 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=7q38lhgkvkjpbrasj8i75ie53j; expires=Thu, 03-Mar-2022 23:54:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b6c020f7-209c-4347-a18c-7c4ce8bf2283; expires=Thu, 01-Feb-2024 23:54:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

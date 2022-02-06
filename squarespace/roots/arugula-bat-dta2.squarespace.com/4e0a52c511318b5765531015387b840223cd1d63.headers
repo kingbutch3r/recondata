@@ -1,0 +1,13 @@
+GET https://arugula-bat-dta2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BdhxGeIMUYahNzE0YTdiZjQ4NjRlZDQ1NDEyYWFlMGEzZjEwYzQx;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: wbg8XjPQ/2AJDqyyR
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:52:05 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8

@@ -1,0 +1,16 @@
+GET https://andy-fish-um10.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BQscS/dvgEAvMmM5NWM0MWM3YmE2ZmRhN2M3OWQxZWJjZWJmYjkw;Path=/
+< Accept-Ranges: bytes
+< Etag: W/"240a372fbc65018ffb72763bac27755b"
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding
+< Age: 51703
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 09:28:25 GMT
+< X-Contextid: mygvLqjr/keuvsfuN

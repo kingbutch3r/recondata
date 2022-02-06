@@ -1,0 +1,13 @@
+GET https://designtowards100.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: kbkQofE8/1ynYnbZH
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:51:20 GMT
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BaN7oGbbE/WhMDkyYjY1ODYxNmZmNmY3N2ExYmU4ODFmYTA3OGE1;Path=/

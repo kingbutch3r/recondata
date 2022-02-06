@@ -1,0 +1,10 @@
+GET http://urlvalidation.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://urlvalidation.payoneer.com/
+< Content-Length: 232
+< Date: Tue, 01 Feb 2022 23:26:33 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer

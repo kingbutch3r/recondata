@@ -1,0 +1,14 @@
+GET https://jessica-holmes-ybu1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 3208
+< Set-Cookie: crumb=BbeVvcmZwiWBZTRjYzI0ZmYyMjllN2E1M2FlMDYzMjhhMzdjZDE3;Path=/
+< X-Contextid: OpFGy0Gu/e0gaMAdm
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:51:09 GMT

@@ -1,0 +1,15 @@
+GET http://dan-montgomery-s4z5.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: yjbChkaS/YakQX0aq
+< Age: 414857
+< Date: Fri, 28 Jan 2022 06:10:45 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQzIct7Pty2sMmJmNzBhZTY4ZGM4Mjc1YWRiZWMwOTc0ODc3NmMw;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Etag: W/"56cc440744dc31851b63b51bdc064ca2--gzip"
+< Vary: Accept-Encoding

@@ -1,0 +1,10 @@
+GET http://enterprise20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BfEoglJN4OFRNzU1NDg3N2E1YzcyMWJjODM4OWViOGI2Y2E4ODE0;Path=/
+< X-Contextid: HPnokxPe/c0qxtQwN
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:45 GMT

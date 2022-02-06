@@ -1,0 +1,9 @@
+GET https://templeisrael100.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:04:22 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=A663F19FEB68D82D742667426DF40E6D.v5-web005; Path=/; HttpOnly
+< X-Contextid: 6hhrUB4u/yZLS17jG

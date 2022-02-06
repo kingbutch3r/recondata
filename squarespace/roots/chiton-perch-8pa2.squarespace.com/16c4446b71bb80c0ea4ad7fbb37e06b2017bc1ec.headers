@@ -1,0 +1,15 @@
+GET http://chiton-perch-8pa2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"4c779bbc1e569339f45678fa4208d849"
+< Vary: Accept-Encoding
+< Date: Fri, 28 Jan 2022 06:23:07 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbNcCPhqPu5rYmM3NWMwZWI4YTU0YzcwYWFlMTM2MmYyYmZmYzc0;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: wjfzwRKE/7pnLsPTR
+< Age: 412134
+< Content-Type: text/html;charset=utf-8
+< Accept-Ranges: bytes

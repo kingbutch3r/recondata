@@ -1,0 +1,17 @@
+GET https://jessicadornieden.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=lrdblhaabdh5o31961a35bjvep; expires=Fri, 04-Mar-2022 00:20:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=efcb434d-9857-4eaa-875f-bb8a1b120b8d; expires=Fri, 02-Feb-2024 00:20:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:20:47 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

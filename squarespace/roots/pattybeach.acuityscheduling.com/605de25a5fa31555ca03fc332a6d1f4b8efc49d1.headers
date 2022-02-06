@@ -1,0 +1,17 @@
+GET https://pattybeach.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:13:16 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=vrkgbuorpq873amrpsd4a04q56; expires=Fri, 04-Mar-2022 00:13:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c78c0baf-c12c-4c3d-8f05-8dd008de1c0c; expires=Fri, 02-Feb-2024 00:13:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

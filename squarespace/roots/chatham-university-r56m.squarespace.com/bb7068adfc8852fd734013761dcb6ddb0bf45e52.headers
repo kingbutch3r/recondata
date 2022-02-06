@@ -1,0 +1,11 @@
+GET http://chatham-university-r56m.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Mon, 31 Jan 2022 00:33:48 GMT
+< Location: https://chatham-university-r56m.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bfk7cWoF6k8YNGQzZGY4MjA1OGI5ZmNjZjBlZDhkMGJmYzg2NjAy;Path=/
+< X-Contextid: iARnPml3/bgTUvLBX
+< Age: 174688
+< Content-Length: 0

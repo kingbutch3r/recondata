@@ -1,0 +1,15 @@
+GET https://champagneservices.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=l7fu55d55d1g2qmu96b93k992m; expires=Fri, 04-Mar-2022 00:32:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4ab468f1-1f1b-47fc-b2c9-b9a48eb60723; expires=Fri, 02-Feb-2024 00:32:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:32:06 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"

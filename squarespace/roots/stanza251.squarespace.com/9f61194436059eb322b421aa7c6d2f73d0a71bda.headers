@@ -1,0 +1,11 @@
+GET http://stanza251.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:13:49 GMT
+< Location: https://stanza251.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQaqnSJzlRcjMTBhMzYxOTQwYTM3NGUyMWY2MjQ3OWYyYjI3NWZi;Path=/
+< X-Contextid: 6dkUZRBJ/J2RUIcun
+< Content-Length: 0

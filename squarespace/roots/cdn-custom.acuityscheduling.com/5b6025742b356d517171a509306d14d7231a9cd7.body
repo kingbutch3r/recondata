@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" class="__meteor-css__" href="/e90ccc2b2b9a40e0016f75fc3695488095fc5262.css?meteor_css_resource=true">
+
+
+</head>
+<body>
+
+
+
+<script type="text/javascript">__meteor_runtime_config__ = JSON.parse(decodeURIComponent("%7B%22meteorRelease%22%3A%22METEOR%401.3.3%22%2C%22meteorEnv%22%3A%7B%22NODE_ENV%22%3A%22production%22%2C%22TEST_METADATA%22%3A%22%7B%7D%22%7D%2C%22PUBLIC_SETTINGS%22%3A%7B%7D%2C%22ROOT_URL%22%3A%22https%3A%2F%2Fcustom.acuityscheduling.com%2F%22%2C%22ROOT_URL_PATH_PREFIX%22%3A%22%22%2C%22appId%22%3A%22ab77pl19potgkfakgy5%22%2C%22autoupdateVersion%22%3A%22080c5543a58e6a8f6652e08e69dc26be5324655d%22%2C%22autoupdateVersionRefreshable%22%3A%2212838b4da081df6e644a7774b0141dbdf04eee03%22%2C%22autoupdateVersionCordova%22%3A%22none%22%7D"));</script>
+
+  <script type="text/javascript" src="/a98e791a490d1cef4ed9ae60f4c975b2479fd4da.js?meteor_js_resource=true"></script>
+
+
+</body>
+</html>

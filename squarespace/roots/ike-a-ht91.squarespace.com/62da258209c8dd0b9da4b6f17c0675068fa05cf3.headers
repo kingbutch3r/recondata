@@ -1,0 +1,15 @@
+GET http://ike-a-ht91.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 01:14:16 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Set-Cookie: crumb=Ba7mOuY2uzqwMzA2N2ZmMTU4MDJhNWM5MjAzMDA4N2NhNWM1ODU4;Path=/
+< Etag: W/"83a2858c8b1acc80acfe966425f36ea6--gzip"
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: IVVX9gth/XoUZClH0
+< Accept-Ranges: bytes

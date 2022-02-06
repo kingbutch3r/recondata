@@ -1,0 +1,15 @@
+GET https://clevercaninellc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=s3ju8hj0clrhnofvslv53cmuq7; expires=Thu, 03-Mar-2022 23:57:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=09d897f9-9a5c-425f-af79-6dbc75a5f11d; expires=Thu, 01-Feb-2024 23:57:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:57:52 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent

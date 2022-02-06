@@ -1,0 +1,17 @@
+GET https://knesadvising.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:11:57 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=or0din1p5mvsbsukkn7kgll4e9; expires=Fri, 04-Mar-2022 00:11:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f86ef175-269f-4782-9604-36e9f7e2f955; expires=Fri, 02-Feb-2024 00:11:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

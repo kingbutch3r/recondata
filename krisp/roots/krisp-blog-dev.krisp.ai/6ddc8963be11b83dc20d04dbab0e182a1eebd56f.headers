@@ -1,0 +1,11 @@
+GET http://krisp-blog-dev.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Expires: Wed, 02 Feb 2022 00:29:41 GMT
+< Location: https://krisp-blog-dev.krisp.ai/
+< Vary: Accept-Encoding
+< Date: Tue, 01 Feb 2022 23:29:41 GMT
+< Server: cloudflare
+< Cf-Ray: 6d6ef698ea11856b-BOM
+< Cache-Control: max-age=3600

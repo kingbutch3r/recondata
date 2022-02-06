@@ -1,0 +1,12 @@
+GET https://web5220.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Length: 77576
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: FVaKHs2l/z54kv8uw
+< Cache-Control: no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:04:54 UTC
+< Pragma: no-cache
+< Server: Squarespace

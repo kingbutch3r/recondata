@@ -1,0 +1,15 @@
+GET http://dev.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Set-Cookie: crumb=BU4tI8KQUyeoNmMzNGFkZjE4NjQwZDYxOTdkYTYyMDVmNGMwNjVm;Path=/
+< Accept-Ranges: bytes
+< Date: Wed, 26 Jan 2022 10:31:13 GMT
+< Server: Squarespace
+< X-Contextid: B0KbBb0B/eYb0ClDe
+< Vary: Accept-Encoding
+< Age: 570234
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"05de41d6c0426465d95d0ae15415694d--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

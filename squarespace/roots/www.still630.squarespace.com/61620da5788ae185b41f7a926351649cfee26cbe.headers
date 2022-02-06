@@ -1,0 +1,11 @@
+GET https://www.still630.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:49:48 GMT
+< Location: https://still630.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRNCLVBqJxrQMWY2M2JiY2Q1YTIyY2M2ODRjYmYzMjVhNzQ5MGU2;Path=/
+< X-Contextid: 6rcgbEbv/dlJ62GaP

@@ -1,0 +1,12 @@
+GET https://pages.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Cf-Cache-Status: DYNAMIC
+< Cf-Ray: 6d6f7382b9b385b3-BOM
+< Date: Wed, 02 Feb 2022 00:54:58 GMT
+< Content-Type: text/html; charset=utf-8
+< Vary: Accept-Encoding
+< X-Powered-By: ASP.NET
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare

@@ -1,0 +1,10 @@
+GET https://web3640.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:04:50 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUlNG4WQFe5mOWU5NjMyYjM1MWYxYTYyYjgxZTJjMjc0MjY4Mzhl;Path=/
+< X-Contextid: HszPzwEQ/NyUczd1H

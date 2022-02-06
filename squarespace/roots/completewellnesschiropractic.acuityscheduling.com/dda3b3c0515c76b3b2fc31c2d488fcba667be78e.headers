@@ -1,0 +1,17 @@
+GET https://completewellnesschiropractic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:57:34 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=pecba4kair820h1mc8jaaq535p; expires=Thu, 03-Mar-2022 23:57:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=09adcbf9-9675-4ba8-9363-1dcef0f00003; expires=Thu, 01-Feb-2024 23:57:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

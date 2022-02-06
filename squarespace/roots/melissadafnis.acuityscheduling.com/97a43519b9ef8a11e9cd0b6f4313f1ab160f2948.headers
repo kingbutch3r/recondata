@@ -1,0 +1,17 @@
+GET https://melissadafnis.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:34:03 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=kknkc3ug4e0cf84lmgbbrmrvcc; expires=Fri, 04-Mar-2022 00:34:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8d4a4878-91f9-41e0-8c88-da9a8fee9684; expires=Fri, 02-Feb-2024 00:34:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

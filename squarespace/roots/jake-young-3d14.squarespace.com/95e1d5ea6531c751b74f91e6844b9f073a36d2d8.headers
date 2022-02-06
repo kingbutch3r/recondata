@@ -1,0 +1,11 @@
+GET http://jake-young-3d14.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:53 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYKoHjpa7wKYOWZlNDYzOTU3ZjI1NjAyMGIxMjM4ZWYzZGMzNDY5;Path=/
+< X-Contextid: eh4D1Djh/ND03tzcL
+< Age: 0

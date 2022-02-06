@@ -1,0 +1,14 @@
+GET https://paul-carey-2x66.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 3208
+< Date: Wed, 02 Feb 2022 01:07:19 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: xVuOBkLS/g1hM9Kfs
+< Age: 0
+< Set-Cookie: crumb=BR4bTwCn1XRLYmI0NWY3Y2ZkN2RkMGIyZjcyYjU5ZWYwMjhhYjFi;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8

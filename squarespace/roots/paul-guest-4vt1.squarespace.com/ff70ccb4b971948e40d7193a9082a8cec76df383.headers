@@ -1,0 +1,12 @@
+GET http://paul-guest-4vt1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:15:46 GMT
+< Set-Cookie: crumb=BRefP0njIe9uYTI0M2Q4ODgwOTNkMzBjM2VjNzdhODUyMDhjZDVj;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: XOJtY239/ZTB1ZDjG
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

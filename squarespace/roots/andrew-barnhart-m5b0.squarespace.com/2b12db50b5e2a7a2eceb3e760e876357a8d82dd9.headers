@@ -1,0 +1,11 @@
+GET http://andrew-barnhart-m5b0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BXtakFON9BNDYjZlMzUyMjNjOGJmNGUwMWRkYTE1NjliN2M1YThl;Path=/
+< X-Contextid: eZf2f8Lg/ultS2qTE
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:11:48 GMT
+< Server: Squarespace

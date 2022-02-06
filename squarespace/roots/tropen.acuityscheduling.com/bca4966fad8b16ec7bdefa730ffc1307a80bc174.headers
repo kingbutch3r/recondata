@@ -1,0 +1,15 @@
+GET https://tropen.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:21:05 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=1gle7j0p0c80jru4ba57uf8ssg; expires=Fri, 04-Mar-2022 00:21:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cfebe55e-c5eb-4e7e-91fc-6f5fb9eb4861; expires=Fri, 02-Feb-2024 00:21:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

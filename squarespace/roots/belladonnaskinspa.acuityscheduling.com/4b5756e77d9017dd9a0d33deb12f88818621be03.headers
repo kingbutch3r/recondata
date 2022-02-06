@@ -1,0 +1,17 @@
+GET https://belladonnaskinspa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=12i3jgjfghdtbn3p2o26afve0a; expires=Thu, 03-Mar-2022 23:55:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e7019b92-5f4f-4dd3-b834-6899ff724cdd; expires=Thu, 01-Feb-2024 23:55:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:55:43 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

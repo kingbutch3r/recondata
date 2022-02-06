@@ -1,0 +1,9 @@
+GET http://bors.inf.acuityscheduling.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: awselb/2.0
+< Date: Wed, 02 Feb 2022 00:08:49 GMT
+< Content-Type: text/html
+< Content-Length: 134
+< Location: https://bors.inf.acuityscheduling.com:443/

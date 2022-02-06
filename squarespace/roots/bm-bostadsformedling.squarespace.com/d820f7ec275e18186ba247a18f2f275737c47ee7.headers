@@ -1,0 +1,17 @@
+GET https://bm-bostadsformedling.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Date: Sun, 30 Jan 2022 22:11:45 GMT
+< Etag: W/"b6c40ce45f88690ec3d719b8944a429e--gzip"
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Contextid: xw4aF5x0/KJvk5I4A
+< X-Frame-Options: SAMEORIGIN
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BfB4Ff8OyOnGM2VjOTBhMmQ0OGFmOWU3ZWQ3MTYxYTg5MTJhZmU1;Path=/
+< Age: 178709
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

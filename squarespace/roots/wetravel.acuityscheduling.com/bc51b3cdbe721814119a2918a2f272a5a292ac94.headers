@@ -1,0 +1,17 @@
+GET https://wetravel.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:17:33 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=9n10b1298nehkr3m0t8q5n6nji; expires=Fri, 04-Mar-2022 00:17:32 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2f359a04-720c-4a17-bb67-8e37c7137c5a; expires=Fri, 02-Feb-2024 00:17:33 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

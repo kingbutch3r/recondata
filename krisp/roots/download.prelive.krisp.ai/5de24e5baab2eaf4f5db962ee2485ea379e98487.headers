@@ -1,0 +1,15 @@
+GET https://download.prelive.krisp.ai
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-cache, no-store
+< Date: Tue, 01 Feb 2022 23:29:49 GMT
+< Content-Type: text/html; charset=utf-8
+< Content-Length: 139
+< X-Dns-Prefetch-Control: off
+< X-Content-Type-Options: nosniff
+< X-Xss-Protection: 1; mode=block
+< X-Frame-Options: SAMEORIGIN
+< X-Download-Options: noopen
+< Cross-Origin-Opener-Policy: same-origin
+< Content-Security-Policy: default-src 'none'

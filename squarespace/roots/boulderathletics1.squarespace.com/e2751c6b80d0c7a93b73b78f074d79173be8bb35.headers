@@ -1,0 +1,17 @@
+GET https://boulderathletics1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 00:51:04 GMT
+< Etag: W/"86d62384637d2373a01827e8620afd58"
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Set-Cookie: crumb=BRePj+HJUr7ZMjY0Nzc2N2RmMjA0ZDJlZjNmYmIzY2QxYjQ5NDk3;Path=/
+< X-Contextid: EfNreRHl/cV8TyBKC
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Wed, 02 Feb 2022 00:51:04 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

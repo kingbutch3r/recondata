@@ -1,0 +1,11 @@
+GET http://chicory-porpoise-3mmw.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 26 Jan 2022 21:36:22 GMT
+< Location: https://chicory-porpoise-3mmw.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BYu9UpVYyd/yYjRlODAxNzZmZDU0ZmIwNzRhM2EyMmJmYmI0M2Uz;Path=/
+< X-Contextid: ZMopKLTR/u8yKKVp9
+< Age: 530517
+< Content-Length: 0

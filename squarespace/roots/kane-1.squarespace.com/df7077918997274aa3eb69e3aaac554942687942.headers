@@ -1,0 +1,13 @@
+GET https://kane-1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Set-Cookie: crumb=BVnxitGAbzWqMmJhNWNmNGYxM2M5MjE4MGM3NzQ1MTRjYTMxOTI3;Path=/
+< X-Contextid: 9hkhvEAz/eilTK9n0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:12:43 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

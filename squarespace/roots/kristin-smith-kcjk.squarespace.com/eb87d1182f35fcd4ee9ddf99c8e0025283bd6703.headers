@@ -1,0 +1,11 @@
+GET http://kristin-smith-kcjk.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:28 GMT
+< Set-Cookie: crumb=BTQi6TPpjkv3ZDFiMmEyMjA4NWIyN2U3MzM5MDJmNzAyNmI2ZTc1;Path=/
+< X-Contextid: 5dTxSJ8G/gFK8Lym6
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Server: Squarespace

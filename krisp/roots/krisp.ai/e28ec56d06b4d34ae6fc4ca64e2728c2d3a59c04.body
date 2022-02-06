@@ -1,0 +1,1845 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<script two-no-delay>
+        var theme_url = 'https://krisp.ai/wp-content/themes/KrispLight';
+        function whenAvailable(name, callback) {
+            var interval = 10; // ms
+            window.setTimeout(function() {
+                if (window[name]) {
+					 callback(window[name]);
+                } else {
+                    whenAvailable(name, callback);
+                }
+            }, interval);
+        }
+    </script>
+<script async src="https://www.googleoptimize.com/optimize.js?id=OPT-54TL49V"></script>
+<link rel="shortcut icon" href="https://krisp.ai/wp-content/themes/KrispLight/favicon_Krisp.ico">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="preconnect" href="https://google.com">
+<link rel="preconnect" href="https://www.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://stats.g.doubleclick.net">
+<link rel="preconnect" href="https://static.zdassets.com">
+<link rel="preload" as="font" href="https://krisp.ai/wp-content/themes/KrispLight/fonts-v2/GTWalsheimProBold.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://krisp.ai/wp-content/themes/KrispLight/fonts-v2/GTWalsheimProMedium.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://krisp.ai/wp-content/themes/KrispLight/fonts-v2/GTWalsheimProRegular.woff2" type="font/woff2" crossorigin="anonymous">
+<meta property="og:title" content="Krisp - Noise Cancellation and Echo Removal">
+<meta property="og:url" content="https://www.krisp.ai/">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Krisp - Noise Cancellation and Echo Removal" />
+<meta name="twitter:site" content="@krispHQ" />
+<meta name="twitter:creator" content="@krispHQ" />
+<meta name="google-site-verification" content="xn0TxVMludcOTlM3o5LcqVBQ5jVEvtLVHUndiG8NAlE" />
+<meta property="og:image" content="https://krisp.ai/wp-content/themes/KrispLight/imgs/screenshot.png">
+<meta name="twitter:image" content="https://krisp.ai/wp-content/themes/KrispLight/imgs/screenshot.png">
+<script data-pagespeed-no-defer two-no-delay type="text/javascript">window.two_delayed_loading_attribute = "data-twodelayedjs";
+            window.two_delayed_js_load_libs_first = "";
+            window.two_delayed_loading_events = ["keydown", "mouseover", "touchmove", "touchstart"];
+            window.two_event_listeners = [];
+            var two_load_delayed_javascript = function(event) {
+                var delayedScripts = [].map.call(document.querySelectorAll("script[" + window.two_delayed_loading_attribute + "]"), function(elm){
+                                return elm;
+                              })
+
+                if (window.two_delayed_js_load_libs_first === "on" ) {
+                    delayedScripts = delayedScripts.sort(function (a, b) {
+                                           isLiba = a.outerHTML.indexOf("data:");
+                                           isLibb = b.outerHTML.indexOf("data:");
+                                           
+                                           return isLiba - isLibb;
+                                        });
+                }
+                delayedScripts.forEach(function(elem) {
+                    var src = elem.getAttribute(window.two_delayed_loading_attribute);
+                    elem.setAttribute("src", src);
+                    elem.removeAttribute(window.two_delayed_loading_attribute);
+                    window.two_delayed_loading_events.forEach(function(event) {
+                        document.removeEventListener(event, two_load_delayed_javascript, false)
+                    });
+                })
+            };</script><script data-pagespeed-no-defer two-no-delay type="text/javascript">document.onreadystatechange=function(){if(document.readyState==="interactive"){if(window.two_delayed_loading_attribute!==undefined){window.two_delayed_loading_events.forEach(function(ev){window.two_event_listeners[ev]=document.addEventListener(ev,two_load_delayed_javascript,false)});}
+if(window.two_delayed_loading_attribute_css!==undefined){window.two_delayed_loading_events_css.forEach(function(ev){window.two_event_listeners_css[ev]=document.addEventListener(ev,two_load_delayed_css,false)});}}}</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<title>Krisp - Noise Cancellation and Echo Removal</title>
+<meta name="description" content="Use Krisp to remove distracting background noise and echo during online meetings and podcasts, and maintain your mic&#039;s HD audio quality." />
+<link rel="canonical" href="https://krisp.ai/" />
+<meta name="google-site-verification" content="WWBUmObcGsGNhg9gfIa49vh0QgtuohXw7n1waZhoBhY" />
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<script data-twodelayedjs="data:text/javascript;base64,CgkJCXdpbmRvdy5fd3BlbW9qaVNldHRpbmdzID0geyJiYXNlVXJsIjoiaHR0cHM6XC9cL3Mudy5vcmdcL2ltYWdlc1wvY29yZVwvZW1vamlcLzEzLjEuMFwvNzJ4NzJcLyIsImV4dCI6Ii5wbmciLCJzdmdVcmwiOiJodHRwczpcL1wvcy53Lm9yZ1wvaW1hZ2VzXC9jb3JlXC9lbW9qaVwvMTMuMS4wXC9zdmdcLyIsInN2Z0V4dCI6Ii5zdmciLCJzb3VyY2UiOnsiY29uY2F0ZW1vamkiOiJodHRwczpcL1wva3Jpc3AuYWlcL3dwLWluY2x1ZGVzXC9qc1wvd3AtZW1vamktcmVsZWFzZS5taW4uanM/dmVyPTM3OGQzMTI0OWUwZTM3NzNlZGQzNmEyZjcxNDVkYzJjIn19OwoJCQkhZnVuY3Rpb24oZSxhLHQpe3ZhciBuLHIsbyxpPWEuY3JlYXRlRWxlbWVudCgiY2FudmFzIikscD1pLmdldENvbnRleHQmJmkuZ2V0Q29udGV4dCgiMmQiKTtmdW5jdGlvbiBzKGUsdCl7dmFyIGE9U3RyaW5nLmZyb21DaGFyQ29kZTtwLmNsZWFyUmVjdCgwLDAsaS53aWR0aCxpLmhlaWdodCkscC5maWxsVGV4dChhLmFwcGx5KHRoaXMsZSksMCwwKTtlPWkudG9EYXRhVVJMKCk7cmV0dXJuIHAuY2xlYXJSZWN0KDAsMCxpLndpZHRoLGkuaGVpZ2h0KSxwLmZpbGxUZXh0KGEuYXBwbHkodGhpcyx0KSwwLDApLGU9PT1pLnRvRGF0YVVSTCgpfWZ1bmN0aW9uIGMoZSl7dmFyIHQ9YS5jcmVhdGVFbGVtZW50KCJzY3JpcHQiKTt0LnNyYz1lLHQuZGVmZXI9dC50eXBlPSJ0ZXh0L2phdmFzY3JpcHQiLGEuZ2V0RWxlbWVudHNCeVRhZ05hbWUoImhlYWQiKVswXS5hcHBlbmRDaGlsZCh0KX1mb3Iobz1BcnJheSgiZmxhZyIsImVtb2ppIiksdC5zdXBwb3J0cz17ZXZlcnl0aGluZzohMCxldmVyeXRoaW5nRXhjZXB0RmxhZzohMH0scj0wO3I8by5sZW5ndGg7cisrKXQuc3VwcG9ydHNbb1tyXV09ZnVuY3Rpb24oZSl7aWYoIXB8fCFwLmZpbGxUZXh0KXJldHVybiExO3N3aXRjaChwLnRleHRCYXNlbGluZT0idG9wIixwLmZvbnQ9IjYwMCAzMnB4IEFyaWFsIixlKXtjYXNlImZsYWciOnJldHVybiBzKFsxMjc5ODcsNjUwMzksODIwNSw5ODk1LDY1MDM5XSxbMTI3OTg3LDY1MDM5LDgyMDMsOTg5NSw2NTAzOV0pPyExOiFzKFs1NTM1Niw1NjgyNiw1NTM1Niw1NjgxOV0sWzU1MzU2LDU2ODI2LDgyMDMsNTUzNTYsNTY4MTldKSYmIXMoWzU1MzU2LDU3MzMyLDU2MTI4LDU2NDIzLDU2MTI4LDU2NDE4LDU2MTI4LDU2NDIxLDU2MTI4LDU2NDMwLDU2MTI4LDU2NDIzLDU2MTI4LDU2NDQ3XSxbNTUzNTYsNTczMzIsODIwMyw1NjEyOCw1NjQyMyw4MjAzLDU2MTI4LDU2NDE4LDgyMDMsNTYxMjgsNTY0MjEsODIwMyw1NjEyOCw1NjQzMCw4MjAzLDU2MTI4LDU2NDIzLDgyMDMsNTYxMjgsNTY0NDddKTtjYXNlImVtb2ppIjpyZXR1cm4hcyhbMTAwODQsNjUwMzksODIwNSw1NTM1Nyw1NjYxM10sWzEwMDg0LDY1MDM5LDgyMDMsNTUzNTcsNTY2MTNdKX1yZXR1cm4hMX0ob1tyXSksdC5zdXBwb3J0cy5ldmVyeXRoaW5nPXQuc3VwcG9ydHMuZXZlcnl0aGluZyYmdC5zdXBwb3J0c1tvW3JdXSwiZmxhZyIhPT1vW3JdJiYodC5zdXBwb3J0cy5ldmVyeXRoaW5nRXhjZXB0RmxhZz10LnN1cHBvcnRzLmV2ZXJ5dGhpbmdFeGNlcHRGbGFnJiZ0LnN1cHBvcnRzW29bcl1dKTt0LnN1cHBvcnRzLmV2ZXJ5dGhpbmdFeGNlcHRGbGFnPXQuc3VwcG9ydHMuZXZlcnl0aGluZ0V4Y2VwdEZsYWcmJiF0LnN1cHBvcnRzLmZsYWcsdC5ET01SZWFkeT0hMSx0LnJlYWR5Q2FsbGJhY2s9ZnVuY3Rpb24oKXt0LkRPTVJlYWR5PSEwfSx0LnN1cHBvcnRzLmV2ZXJ5dGhpbmd8fChuPWZ1bmN0aW9uKCl7dC5yZWFkeUNhbGxiYWNrKCl9LGEuYWRkRXZlbnRMaXN0ZW5lcj8oYS5hZGRFdmVudExpc3RlbmVyKCJET01Db250ZW50TG9hZGVkIixuLCExKSxlLmFkZEV2ZW50TGlzdGVuZXIoImxvYWQiLG4sITEpKTooZS5hdHRhY2hFdmVudCgib25sb2FkIixuKSxhLmF0dGFjaEV2ZW50KCJvbnJlYWR5c3RhdGVjaGFuZ2UiLGZ1bmN0aW9uKCl7ImNvbXBsZXRlIj09PWEucmVhZHlTdGF0ZSYmdC5yZWFkeUNhbGxiYWNrKCl9KSksKG49dC5zb3VyY2V8fHt9KS5jb25jYXRlbW9qaT9jKG4uY29uY2F0ZW1vamkpOm4ud3BlbW9qaSYmbi50d2Vtb2ppJiYoYyhuLnR3ZW1vamkpLGMobi53cGVtb2ppKSkpfSh3aW5kb3csZG9jdW1lbnQsd2luZG93Ll93cGVtb2ppU2V0dGluZ3MpOwoJCQ=="></script>
+<style type="text/css">/* Tenweb Speed Optimizer optimized this CSS file */
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='default-v2-css' href='https://krisp.ai/wp-content/cache/tw_optimize/css/two_single_c74b64f830e2b62b43ff60957354fbe9.css?ver=378d31249e0e3773edd36a2f7145dc2c' type='text/css' media='all' />
+<link rel='stylesheet' id='index-v2-css' href='https://krisp.ai/wp-content/cache/tw_optimize/css/two_single_2061c2a75e8be04f5c2292d19c6ea419.css?ver=378d31249e0e3773edd36a2f7145dc2c' type='text/css' media='all' />
+<link rel='stylesheet' id='demo-v2-css' href='https://krisp.ai/wp-content/cache/tw_optimize/css/two_single_7689c98bf2c43b13a612007e6e895204.css?ver=378d31249e0e3773edd36a2f7145dc2c' type='text/css' media='all' />
+<script type='text/javascript' src='https://krisp.ai/wp-content/themes/KrispLight/js/jquery.js?ver=378d31249e0e3773edd36a2f7145dc2c' id='jquery-3.5.1-js'></script>
+<script type='text/javascript' src='https://krisp.ai/wp-content/themes/KrispLight/js/cookie-helpers.js?ver=378d31249e0e3773edd36a2f7145dc2c' id='cookie-helper-js'></script>
+<script type="text/javascript" data-twodelayedjs="https://krisp.ai/wp-content/themes/KrispLight/js/lottie.js"></script>
+<script type="text/javascript" data-twodelayedjs="https://krisp.ai/wp-content/themes/KrispLight/js/index-v2.js"></script>
+<script type='text/javascript' src='https://krisp.ai/wp-content/themes/KrispLight/js/action-assets.js?ver=378d31249e0e3773edd36a2f7145dc2c' id='action-assets-js'></script>
+<script type="text/javascript" data-twodelayedjs="https://krisp.ai/wp-content/themes/KrispLight/js/demo-v2.js"></script>
+<link rel="https://api.w.org/" href="https://krisp.ai/wp-json/" /><link rel="icon" href="https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-270x270.png" />
+<script data-twodelayedjs="data:text/javascript;base64,CiAgICAgICAgICAgIChmdW5jdGlvbih3LGQscyxsLGkpe3dbbF09d1tsXXx8W107d1tsXS5wdXNoKHsnZ3RtLnN0YXJ0JzoKICAgICAgICAgICAgICAgICAgICBuZXcgRGF0ZSgpLmdldFRpbWUoKSxldmVudDonZ3RtLmpzJ30pO3ZhciBmPWQuZ2V0RWxlbWVudHNCeVRhZ05hbWUocylbMF0sCiAgICAgICAgICAgICAgICBqPWQuY3JlYXRlRWxlbWVudChzKSxkbD1sIT0nZGF0YUxheWVyJz8nJmw9JytsOicnO2ouYXN5bmM9dHJ1ZTtqLnNyYz0KICAgICAgICAgICAgICAgICdodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbS9ndG0uanM/aWQ9JytpK2RsO2YucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoaixmKTsKICAgICAgICAgICAgfSkod2luZG93LGRvY3VtZW50LCdzY3JpcHQnLCdkYXRhTGF5ZXInLCdHVE0tV1ZGNVBYVCcpOwoKICAgICAgICAgICAgKGZ1bmN0aW9uKGgsbyx0LGosYSxyKXsKICAgICAgICAgICAgICAgIGguaGo9aC5oanx8ZnVuY3Rpb24oKXsoaC5oai5xPWguaGoucXx8W10pLnB1c2goYXJndW1lbnRzKX07CiAgICAgICAgICAgICAgICBoLl9oalNldHRpbmdzPXtoamlkOjEzNDcwMzcsaGpzdjo2fTsKICAgICAgICAgICAgICAgIGE9by5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdOwogICAgICAgICAgICAgICAgcj1vLmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpO3IuZGVmZXI9dHJ1ZTtyLmFzeW5jPXRydWU7CiAgICAgICAgICAgICAgICByLnNyYz10K2guX2hqU2V0dGluZ3MuaGppZCtqK2guX2hqU2V0dGluZ3MuaGpzdjsKICAgICAgICAgICAgICAgIGEuYXBwZW5kQ2hpbGQocik7CiAgICAgICAgICAgIH0pKHdpbmRvdyxkb2N1bWVudCwnaHR0cHM6Ly9zdGF0aWMuaG90amFyLmNvbS9jL2hvdGphci0nLCcuanM/c3Y9Jyk7CgogICAgICAgICQgPSBqUXVlcnkubm9Db25mbGljdCgpOwogICAgICAgIHZhciByZWYgPSBuZXcgVVJMKHdpbmRvdy5sb2NhdGlvbi5ocmVmKS5zZWFyY2hQYXJhbXMuZ2V0KCJyZWYiKTsKICAgICAgICBpZihyZWYpewogICAgICAgICAgICB2YXIgdGFwX3NjcmlwdCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgnaGVhZCcpWzBdLmFwcGVuZENoaWxkKHRhcF9zY3JpcHQpOwogICAgICAgICAgICB0YXBfc2NyaXB0LnNyYyA9ICdodHRwczovL3NjcmlwdC50YXBmaWxpYXRlLmNvbS90YXBmaWxpYXRlLmpzJzsKICAgICAgICAgICAgdGFwX3NjcmlwdC5pZCA9ICdUYXBmaWxsYXRlJzsKICAgICAgICAgICAgdGFwX3NjcmlwdC5hc3luYyA9IHRydWU7CiAgICAgICAgICAgIChmdW5jdGlvbih0LGEscCl7dC5UYXBmaWxpYXRlT2JqZWN0PWE7dFthXT10W2FdfHxmdW5jdGlvbigpeyAodFthXS5xPXRbYV0ucXx8W10pLnB1c2goYXJndW1lbnRzKX19KSh3aW5kb3csJ3RhcCcpOwogICAgICAgICAgICB0YXAoJ2NyZWF0ZScsICcxMDY3MS0xN2Y3MDUnLCB7IGludGVncmF0aW9uOiAiamF2YXNjcmlwdCIgfSk7CiAgICAgICAgICAgIHRhcCgnY2xpY2snLCB7cmVmZXJyYWxfY29kZTogcmVmfSk7CiAgICAgICAgfQogICAg"></script>
+
+<script type="text/javascript" data-twodelayedjs="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+
+
+<script data-twodelayedjs="data:text/javascript;base64,CiAgICAgICAgInVzZSBzdHJpY3QiOwogICAgICAgICFmdW5jdGlvbigpIHsKICAgICAgICAgICAgdmFyIHQgPSB3aW5kb3cuZHJpZnR0ID0gd2luZG93LmRyaWZ0ID0gd2luZG93LmRyaWZ0dCB8fCBbXTsKICAgICAgICAgICAgaWYgKCF0LmluaXQpIHsKICAgICAgICAgICAgICAgIGlmICh0Lmludm9rZWQpIHJldHVybiB2b2lkICh3aW5kb3cuY29uc29sZSAmJiBjb25zb2xlLmVycm9yICYmIGNvbnNvbGUuZXJyb3IoIkRyaWZ0IHNuaXBwZXQgaW5jbHVkZWQgdHdpY2UuIikpOwogICAgICAgICAgICAgICAgdC5pbnZva2VkID0gITAsIHQubWV0aG9kcyA9IFsgImlkZW50aWZ5IiwgImNvbmZpZyIsICJ0cmFjayIsICJyZXNldCIsICJkZWJ1ZyIsICJzaG93IiwgInBpbmciLCAicGFnZSIsICJoaWRlIiwgIm9mZiIsICJvbiIgXSwKICAgICAgICAgICAgICAgICAgICB0LmZhY3RvcnkgPSBmdW5jdGlvbihlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciBuID0gQXJyYXkucHJvdG90eXBlLnNsaWNlLmNhbGwoYXJndW1lbnRzKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBuLnVuc2hpZnQoZSksIHQucHVzaChuKSwgdDsKICAgICAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICB9LCB0Lm1ldGhvZHMuZm9yRWFjaChmdW5jdGlvbihlKSB7CiAgICAgICAgICAgICAgICAgICAgdFtlXSA9IHQuZmFjdG9yeShlKTsKICAgICAgICAgICAgICAgIH0pLCB0LmxvYWQgPSBmdW5jdGlvbih0KSB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGUgPSAzZTUsIG4gPSBNYXRoLmNlaWwobmV3IERhdGUoKSAvIGUpICogZSwgbyA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoInNjcmlwdCIpOwogICAgICAgICAgICAgICAgICAgIG8udHlwZSA9ICJ0ZXh0L2phdmFzY3JpcHQiLCBvLmFzeW5jID0gITAsIG8uY3Jvc3NvcmlnaW4gPSAiYW5vbnltb3VzIiwgby5zcmMgPSAiaHR0cHM6Ly9qcy5kcmlmdHQuY29tL2luY2x1ZGUvIiArIG4gKyAiLyIgKyB0ICsgIi5qcyI7CiAgICAgICAgICAgICAgICAgICAgdmFyIGkgPSBkb2N1bWVudC5nZXRFbGVtZW50c0J5VGFnTmFtZSgic2NyaXB0IilbMF07CiAgICAgICAgICAgICAgICAgICAgaS5wYXJlbnROb2RlLmluc2VydEJlZm9yZShvLCBpKTsKICAgICAgICAgICAgICAgIH07CiAgICAgICAgICAgIH0KICAgICAgICB9KCk7CiAgICAgICAgZHJpZnQuU05JUFBFVF9WRVJTSU9OID0gJzAuMy4xJzsKICAgICAgICBkcmlmdC5sb2FkKCdzZ2E3ZXoydG44eTgnKTsKICAgIA=="></script>
+
+</head>
+<body class="home blog">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WVF5PXT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<header>
+<div class="container menu-v2-wrapper">
+<div class="main-logo-wrapper">
+<a href="/">
+<svg width="89" height="43" viewBox="0 0 89 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M43.7183 9.6075C45.8166 9.6075 47.5176 7.9045 47.5176 5.80375C47.5176 3.703 45.8166 2 43.7183 2C41.62 2 39.9189 3.703 39.9189 5.80375C39.9189 7.9045 41.62 9.6075 43.7183 9.6075Z" fill="#FF7E5C" />
+<path d="M11.6474 21.8393L21.3692 12.1062C21.5554 11.9197 21.4064 11.6587 21.183 11.6587H13.3235C13.249 11.6587 13.1745 11.6959 13.1373 11.7332L8.0715 16.8049V3.45448C8.0715 3.26803 7.88526 3.11886 7.69901 3.19344L2.14899 5.43094C2.03725 5.46823 2 5.58011 2 5.69198V31.9453C2 32.2064 2.18624 32.3928 2.44698 32.3928H7.66177C7.9225 32.3928 8.10875 32.2064 8.10875 31.9453V26.8737L13.547 32.3182C13.5843 32.3555 13.6588 32.3928 13.7333 32.3928H21.5927C21.8162 32.3928 21.9652 32.0945 21.7789 31.9453L11.6474 21.8393Z" fill="#3B3D50" />
+<path d="M41.111 32.4298H46.3258C46.5866 32.4298 46.7728 32.2434 46.7728 31.9823V12.0686C46.7728 11.8076 46.5866 11.6211 46.3258 11.6211H41.111C40.8503 11.6211 40.6641 11.8076 40.6641 12.0686V31.9451C40.6641 32.2061 40.8503 32.4298 41.111 32.4298Z" fill="#3B3D50" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M77.9868 11.6585C83.0898 11.9941 87.2244 16.1707 87.5969 21.2797C88.0438 27.3582 83.2388 32.4299 77.279 32.4299C75.7518 32.4299 74.2992 32.0943 72.9955 31.4976V38.2474C72.9955 38.4339 72.8837 38.583 72.6975 38.6576L67.2592 40.8578C67.073 40.9324 66.8867 40.7832 66.8867 40.5968V22.0255C66.8867 16.0589 71.9153 11.2483 77.9868 11.6585ZM72.9955 22.0255C72.9955 24.4122 74.8951 26.3141 77.279 26.3141C79.6257 26.3141 81.5254 24.3749 81.5626 22.0255C81.5626 19.6389 79.6257 17.737 77.279 17.737C74.8951 17.737 72.9955 19.6762 72.9955 22.0255Z" fill="#3B3D50" />
+<path d="M57.0158 16.6555H57.0903C58.096 16.6182 58.99 17.2522 59.735 18.2591C59.8467 18.4082 60.0702 18.4828 60.2564 18.4082L64.4655 16.7301C64.689 16.6555 64.8007 16.3572 64.7262 16.1334C63.6833 13.5976 60.4799 11.6584 57.0531 11.6584C52.6205 11.6584 49.0074 14.4926 49.0074 17.9607C49.0074 19.8253 50.0876 21.4662 51.5775 22.5103C52.9185 23.4799 54.5202 24.0766 56.0846 24.4868C56.1032 24.4868 56.1312 24.4961 56.1591 24.5054C56.187 24.5147 56.215 24.5241 56.2336 24.5241C58.3568 25.0089 58.6547 25.5682 58.6547 26.1276C58.6547 26.8362 57.7608 27.4328 56.7178 27.4328C55.6004 27.5074 54.6319 26.7243 53.8497 25.5682C53.7379 25.3818 53.5145 25.3445 53.3282 25.4191L49.1936 27.1345C48.9701 27.2091 48.8584 27.4701 48.9329 27.6939C50.1248 30.9009 53.3282 32.4299 56.7551 32.4299C61.1876 32.4299 64.8007 29.5957 64.8007 26.1276C64.8007 25.3818 64.6145 24.6359 64.3165 23.9647C64.0185 23.3307 63.2363 21.9509 61.1876 20.9814C60.6582 20.7249 59.6901 20.39 58.6929 20.045C57.5153 19.6376 56.297 19.2161 55.7121 18.893C55.3396 18.6693 55.1161 18.3337 55.1161 17.9607C55.0789 17.2149 55.9729 16.6555 57.0158 16.6555Z" fill="#3B3D50" />
+<path d="M38.5035 11.994C38.578 11.8076 38.429 11.6211 38.2427 11.6211H34.3316C28.5954 11.6211 23.9766 16.2826 23.9766 21.9882V31.9078C23.9766 32.1688 24.1628 32.3553 24.4235 32.3553H29.6383C29.8991 32.3553 30.0853 32.1688 30.0853 31.9078V21.9509C30.0853 19.6015 31.985 17.6996 34.3316 17.6996H35.9706C36.0823 17.6996 36.1941 17.6623 36.2313 17.5505L38.5035 11.994Z" fill="#3B3D50" />
+</svg>
+</a>
+</div>
+<div class="menu-wrapper">
+<ul class="header-main-menu">
+<li><a href="/remote-teams" id="menu-teams-link">Teams</a></li>
+<li><a href="/enterprises" id="menu-enterprise-link">Enterprise</a></li>
+<li><a href="/call-center" id="menu-cc-link">Contact Centers</a></li>
+<li><a href="/pricing" id="menu-pricing-link">Pricing</a></li>
+</ul>
+<ul class="main-menu-ab">
+<li><a href="https://krisp.ai/#why-krisp" id="menu-product-link-2">Product</a></li>
+<li class="has-children">
+<a href="javscript:void(0)" class="sub-menu-opener" id="menu-solutions-link-2">Solutions</a>
+<ul class="sub-menu">
+<li><a class="sub-menu-item" href="/remote-teams" id="menu-teams-link-2">Teams</a></li>
+<li><a class="sub-menu-item" href="/enterprises" id="menu-enterprise-link-2">Enterprise</a></li>
+<li><a class="sub-menu-item" href="/call-center" id="menu-cc-link-2">Contact center</a></li>
+</ul>
+</li>
+<li><a href="/pricing" id="menu-pricing-link-2">Pricing</a></li>
+<li><a href="https://krisp.ai/blog" id="menu-blog-link-2">Blog</a></li>
+</ul>
+</div>
+<div class="right-menu">
+<div class="sign-in-wrapper">
+<a class="sign-in" href="https://account.krisp.ai">Sign in</a>
+</div>
+<div class="get-a-demo-wrapper">
+<a class="get-a-demo" href="https://krisp.ai/pricing?contact=1">Get a Demo</a>
+</div>
+<div class="cta-button">
+<a href=""></a>
+</div>
+<div class="menu-burger mob">
+<span></span>
+<span></span>
+<span></span>
+</div>
+</div>
+</div>
+</header>
+<div id="mob-menu">
+<ul class="mob-menu">
+<li>
+<a href="/remote-teams">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-teams.svg" alt="krisp"></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-teams.svg" alt="krisp">
+Teams
+</a>
+</li>
+<li>
+<a href="/enterprise">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-enterprise.svg" alt="krisp"></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-enterprise.svg" alt="krisp">
+Enterprise
+</a>
+</li>
+<li>
+<a href="/call-center">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-call-center.svg" alt="krisp"></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-call-center.svg" alt="krisp">
+Contact Center
+</a>
+</li>
+<li>
+<a href="/pricing">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-pricing.svg" alt="krisp"></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/menu-pricing.svg" alt="krisp">
+Pricing
+</a>
+</li>
+</ul>
+<div class="mob-secondary text-center">
+<a class="sign-in" href="https://account.krisp.ai">Sign in</a>
+<div class="mobile-icons-wrapper">
+<div class="btn-mob-signup">
+<a class="mobile-signup" href="">
+Get Krisp for Desktop
+</a>
+</div>
+</div>
+</div>
+</div>
+<section class="container full pt-medium pb-small" id="intro-v2">
+<div class="container">
+<div class="intro-content-wrapper">
+<div class="original-variant">
+<h1>
+Sound Clear <br>
+in Online Meetings
+</h1>
+<p class="subtitle">
+AI-powered app that removes background noise and echo from meetings leaving only human voice.
+</p>
+</div>
+<div class="variant-1">
+<h1>
+Enjoy Clearer <br>
+Communication in Online Meetings
+</h1>
+<p class="subtitle">
+Krisp’s AI-powered app removes background noise and echo – leaving only the human voice – turning you into a communication superhero.
+</p>
+</div>
+<div class="variant-2">
+<h1>
+Become a <br> Communication Superhero
+</h1>
+<p class="subtitle">
+Great communication is at the heart of everything we do. With Krisp’s AI-Powered Communication Assistant, you can activate your communication superpowers by eliminating background noise, minimizing distractions, and maintaining crystal clear audio on every online call you make.
+</p>
+</div>
+<div class="sign-up-form">
+<form class="intro-form" id="intro-sign-up" autocomplete="off">
+<input id="intro-sign-up-email" type="email" name="email" placeholder="Enter your work email" required />
+<p class="sign-up-form-error"></p>
+<input type="submit" value="Get Krisp for free" id="intro-signup-submit">
+<span class="form-info">
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7031 2.21035C13.0614 2.52259 13.101 3.0688 12.7915 3.43034L6.31325 11L1.30158 6.69518C0.941101 6.38554 0.897615 5.83964 1.20445 5.47587C1.51129 5.1121 2.05226 5.06821 2.41273 5.37785L6.12832 8.56939L11.4941 2.29962C11.8036 1.93808 12.3448 1.89812 12.7031 2.21035Z" fill="#6371DE" />
+</svg>
+Free forever
+</span>
+<br />
+<span class="form-info">
+<svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7031 2.21035C13.0614 2.52259 13.101 3.0688 12.7915 3.43034L6.31325 11L1.30158 6.69518C0.941101 6.38554 0.897615 5.83964 1.20445 5.47587C1.51129 5.1121 2.05226 5.06821 2.41273 5.37785L6.12832 8.56939L11.4941 2.29962C11.8036 1.93808 12.3448 1.89812 12.7031 2.21035Z" fill="#6371DE" />
+</svg>
+No credit card needed
+</span>
+</form>
+</div>
+<div class="intro-cta-outer">
+<div class="cta-button">
+<a href=""> </a>
+</div>
+<div class="clearfix"></div>
+<div class="mobile-icons-wrapper">
+<div class="btn-mob-signup">
+<a class="mobile-signup" href="">
+Get Krisp for Desktop
+</a>
+</div>
+</div> <div class="platform-icons">
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M31.4752 24.3792C31.0428 25.398 30.5084 26.3695 29.8806 27.2787C29.0419 28.4893 28.3532 29.3258 27.8253 29.7915C27.0053 30.5522 26.1244 30.9437 25.1827 30.9658C24.508 30.9658 23.6927 30.7716 22.7431 30.377C21.7904 29.984 20.9158 29.7915 20.1146 29.7915C19.2759 29.7915 18.3763 29.984 17.4126 30.377C16.4506 30.7716 15.6728 30.9784 15.0777 30.9973C14.1765 31.0368 13.2754 30.6359 12.3773 29.7915C11.8041 29.2864 11.0873 28.4183 10.2267 27.1903C9.30524 25.8818 8.54776 24.3586 7.95427 22.6271C7.31861 20.7536 7 18.9416 7 17.1864C7 15.1771 7.4295 13.4425 8.29006 11.9903C8.94095 10.8499 9.87147 9.89809 10.992 9.22658C12.0969 8.55682 13.3583 8.19619 14.6467 8.18169C15.3651 8.18169 16.3069 8.40582 17.4735 8.84777C18.6402 9.28972 19.3899 9.51385 19.7163 9.51385C19.9631 9.51385 20.7924 9.25026 22.2043 8.72781C23.5365 8.24324 24.661 8.04279 25.5825 8.12171C28.0814 8.32532 29.9571 9.31971 31.205 11.1128C28.9716 12.4812 27.8674 14.3958 27.8893 16.8534C27.908 18.768 28.5968 20.3606 29.9462 21.6249C30.5428 22.2018 31.2389 22.6635 32 22.987C31.8344 23.4716 31.6595 23.934 31.4752 24.3792ZM25.748 1.60137C25.748 3.10084 25.2045 4.50245 24.1253 5.79831C22.8196 7.33882 21.2422 8.23062 19.532 8.09014C19.5096 7.90158 19.4987 7.71182 19.4992 7.52192C19.4992 6.08085 20.1177 4.54033 21.2219 3.2792C21.7717 2.64153 22.4714 2.10961 23.3194 1.6866C24.1659 1.26991 24.9656 1.03946 25.7184 1C25.7387 1.20203 25.748 1.40249 25.748 1.60137Z" fill="#3B3D50" />
+</svg>
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 28.3188L16.6244 29.7614L16.6302 19.5442L6.01011 19.4837L6 28.3188ZM16.6201 18.3666L16.6287 8.14075L6.00866 9.59623V18.4357L16.6201 18.3666ZM17.9082 29.9499L31.9957 32V19.6738L17.9082 19.5629V29.9499ZM32 18.2701L31.9957 6L17.9082 7.98383L17.888 18.2931L32 18.2701Z" fill="#3B3D50" />
+</svg>
+<p>
+For Mac and Windows
+</p>
+</div>
+</div>
+</div>
+<div class="intro-img-wrapper main-intro-img-wrapper">
+<div id="intro-placeholder">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 860 640" enable-background="new 0 0 860 640" xml:space="preserve">
+<g id="header">
+</g>
+<g id="mask">
+<g>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5D5D5" d="M387.471,580.084c0,4.25-3.44,7.7-7.7,7.7h-64.06
+				c-4.25,0-7.69-3.45-7.69-7.7H387.471z" />
+</g>
+<g>
+<g>
+<g>
+<path fill="#232930" d="M565.02,249.852h-41.153c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h41.153
+						c2.858,0,5.184-2.325,5.184-5.184v-28.135c0-1.102,0.893-1.994,1.995-1.994s1.995,0.893,1.995,1.994v28.135
+						C574.193,245.738,570.078,249.852,565.02,249.852z" />
+</g>
+<g>
+<path fill="#232930" d="M572.198,110.984c-1.102,0-1.995-0.893-1.995-1.994V77.75c0-2.858-2.325-5.184-5.184-5.184h-72.624
+						c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h72.624c5.058,0,9.173,4.114,9.173,9.172v31.24
+						C574.193,110.091,573.3,110.984,572.198,110.984z" />
+</g>
+<g>
+<path fill="#232930" d="M357.97,249.852h-50.778c-5.058,0-9.173-4.114-9.173-9.172v-65.149c0-1.102,0.893-1.994,1.995-1.994
+						s1.995,0.893,1.995,1.994v65.149c0,2.858,2.325,5.184,5.184,5.184h50.778c1.102,0,1.995,0.893,1.995,1.994
+						S359.072,249.852,357.97,249.852z" />
+</g>
+<g>
+<path fill="#232930" d="M300.014,91.049c-1.102,0-1.995-0.893-1.995-1.994V77.75c0-5.058,4.115-9.172,9.173-9.172h70.677
+						c1.102,0,1.995,0.893,1.995,1.994s-0.893,1.994-1.995,1.994h-70.677c-2.858,0-5.184,2.325-5.184,5.184v11.306
+						C302.009,90.157,301.116,91.049,300.014,91.049z" />
+</g>
+<g>
+<circle fill="none" cx="541.2" cy="80.299" r="2.979" />
+</g>
+<g>
+<circle fill="none" cx="551.386" cy="80.299" r="2.979" />
+</g>
+<g>
+<circle fill="none" cx="561.572" cy="80.299" r="2.979" />
+</g>
+</g>
+<g>
+<g>
+<g>
+<polygon fill="#FF7E5C" points="436.052,223.647 425.474,247.858 445.721,247.858 						" />
+</g>
+<g>
+<polygon fill="#FF7E5C" points="435.682,221.712 445.721,210.851 435.598,203.378 425.517,210.851 						" />
+</g>
+<g>
+<path fill="#232930" d="M414.602,218.36L414.602,218.36c1.347,1.5,3.65,1.637,5.165,0.307l15.851-13.912l16.692,14.285
+							c1.367,1.17,3.379,1.18,4.757,0.024l0.435-0.364l-20.047-17.07l-3.879-0.254L414.602,218.36z" />
+</g>
+<g>
+<path fill="#232930" d="M459.691,193.396c-1.082,0-1.971-0.865-1.993-1.953l-1.119-53.952
+							c-0.023-1.101,0.852-2.013,1.953-2.035c1.101-0.008,2.013,0.851,2.036,1.953l1.119,53.952
+							c0.023,1.101-0.852,2.013-1.953,2.035C459.72,193.396,459.705,193.396,459.691,193.396z" />
+</g>
+<g>
+<path fill="#232930" d="M511.287,249.852c-0.021,0-0.042-0.001-0.064-0.001c-1.101-0.035-1.965-0.955-1.931-2.056
+							c0.007-0.242,0.552-24.306-15.626-31.899c-12.311-5.778-25.167-13.745-31.736-17.979c-0.926-0.598-1.193-1.832-0.596-2.758
+							c0.597-0.924,1.831-1.191,2.757-0.596c6.485,4.181,19.17,12.042,31.27,17.722c18.567,8.716,17.954,34.542,17.918,35.638
+							C513.245,249.002,512.359,249.852,511.287,249.852z" />
+</g>
+<g>
+<path fill="#232930" d="M455.055,74.69h-12.917c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h12.917
+							c1.102,0,1.995,0.893,1.995,1.994S456.157,74.69,455.055,74.69z" />
+</g>
+<g>
+<path fill="#232930" d="M424.847,78.614h-12.916c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h12.916
+							c1.102,0,1.995,0.893,1.995,1.994S425.949,78.614,424.847,78.614z" />
+</g>
+<g>
+<ellipse fill="#232930" cx="445.802" cy="87.59" rx="1.465" ry="2.711" />
+</g>
+<g>
+<ellipse fill="#232930" cx="420.578" cy="87.59" rx="1.465" ry="2.711" />
+</g>
+<g>
+<path fill="#232930" d="M412.156,194.106c-0.015,0-0.029,0-0.043,0c-1.102-0.023-1.976-0.935-1.952-2.036l1.021-48.343
+							c0.023-1.102,0.969-1.96,2.036-1.952c1.102,0.023,1.976,0.935,1.952,2.036l-1.021,48.343
+							C414.126,193.241,413.238,194.106,412.156,194.106z" />
+</g>
+<g>
+<path fill="#232930" d="M434.196,154.828c-9.933,0.001-19.438-5.376-24.76-14.206c-5.633-9.346-6.893-20.624-8.005-30.574
+							c-1.434-12.836-2.067-24.375-1.936-35.276c0.013-1.093,0.904-1.97,1.994-1.97c0.008,0,0.016,0,0.024,0
+							c1.102,0.013,1.984,0.917,1.971,2.019c-0.129,10.735,0.496,22.113,1.911,34.784c1.066,9.544,2.274,20.36,7.457,28.959
+							c5.014,8.317,14.302,13.091,23.662,12.161c11.444-1.139,19.079-10.455,22.408-18.794c4.828-12.093,5.7-27.131,5.936-37.39
+							c0.025-1.102,0.92-1.987,2.04-1.948c1.101,0.025,1.974,0.938,1.948,2.04c-0.243,10.568-1.152,26.085-6.219,38.776
+							c-4.802,12.028-14.657,20.185-25.718,21.284C436.004,154.784,435.097,154.828,434.196,154.828z" />
+</g>
+<g>
+<path fill="#232930" d="M413.236,151.658c5.78,6.28,15.538,9.598,24.686,8.393c9.148-1.205,16.8-6.71,20.18-14.197
+							l-0.191-6.202c-12.351,15.702-30.35,17.425-44.442,4.691L413.236,151.658z" />
+</g>
+<g>
+<path fill="#232930" d="M456.241,115.894c-0.56-0.46-1.33-0.59-2.01-0.32c-7.27,2.84-15.22,3.91-22.99,3.1
+							c-0.62-0.07-1.23,0.16-1.66,0.62c-0.43,0.45-0.62,1.08-0.51,1.7l1.57,9.21c0.11,0.69,0.59,1.27,1.25,1.52
+							c2.12,0.82,4.38,1.22,6.64,1.22c3.17,0,6.34-0.79,9.12-2.34c4.77-2.65,8.24-7.44,9.27-12.8
+							C457.061,117.094,456.801,116.364,456.241,115.894z M445.711,127.114c-3.43,1.91-7.59,2.35-11.34,1.24l-0.94-5.51
+							c6.19,0.34,12.44-0.41,18.38-2.22C450.491,123.344,448.361,125.644,445.711,127.114z" />
+</g>
+<g>
+<path fill="#232930" d="M398.14,109.052c-1.554,0-3.1-0.354-4.487-1.071c-3.3-1.708-5.348-5.299-5.096-8.938
+							c0.259-3.729,3.032-7.09,6.594-7.993c2.809-0.711,5.975,0.125,8.065,2.133c0.795,0.763,0.82,2.025,0.058,2.82
+							c-0.762,0.793-2.025,0.822-2.82,0.057c-1.104-1.059-2.839-1.52-4.322-1.143c-1.909,0.483-3.455,2.376-3.595,4.401
+							c-0.139,2.01,1.102,4.163,2.949,5.119c1.861,0.961,4.32,0.794,6.118-0.42c0.913-0.616,2.152-0.375,2.77,0.537
+							c0.616,0.913,0.375,2.153-0.537,2.77C402.139,108.469,400.134,109.052,398.14,109.052z" />
+</g>
+<g>
+<path fill="#232930" d="M433.221,105.755c-0.556,0-1.124-0.045-1.702-0.158c-2.273-0.443-4.103-1.989-4.661-3.937
+							c-0.793-2.769,0.968-5.096,2.254-6.795c0.211-0.279,0.42-0.555,0.616-0.828c1.523-2.136,2.233-4.857,1.947-7.466
+							c-0.12-1.096,0.67-2.08,1.766-2.2c1.091-0.127,2.08,0.67,2.2,1.765c0.391,3.57-0.581,7.295-2.666,10.218
+							c-0.216,0.303-0.447,0.609-0.682,0.919c-0.906,1.198-1.844,2.437-1.6,3.288c0.143,0.498,0.812,0.969,1.592,1.121
+							c1.043,0.207,2.281-0.013,3.477-0.221c1.082-0.193,2.119,0.535,2.309,1.621c0.189,1.085-0.536,2.119-1.621,2.309
+							C435.452,105.565,434.365,105.755,433.221,105.755z" />
+</g>
+<g>
+<path fill="#232930" d="M468.241,93.434c-0.06-0.16-0.16-0.31-0.29-0.44c-0.01-0.03-0.02-0.06-0.03-0.09
+							c-0.08-0.26-0.15-0.63-0.21-1.08c-0.09-0.69-0.14-1.58-0.17-2.59c-0.01-0.01,0-0.02,0-0.02c-0.19-5.17,0.24-13.52,0.56-15.05
+							c0.44-2.13,1.11-5.35-0.99-7.63c-1.46-1.58-3.56-1.89-5.25-2.13c-1.45-0.21-2.43-0.39-2.7-0.9c-0.28-0.54,0.19-1.42,1.01-2.82
+							c0.89-1.52,1.9-3.25,1.74-5.31c-0.25-3.13-3.18-5.16-5.81-5.48c-2.49-0.31-4.78,0.53-6.73,1.34c-2.47,1.02-4.9,2.18-7.24,3.31
+							c-2.74,1.32-5.58,2.68-8.43,3.78c-6.06,2.33-11.22,3.04-15.77,2.15c-5.34-1.05-9.77-4.71-11.03-9.12
+							c-0.31-1.05-1.41-1.67-2.47-1.36c-1.06,0.3-1.67,1.4-1.37,2.46c1.69,5.9,7.23,10.58,14.1,11.93
+							c5.31,1.04,11.19,0.28,17.97-2.34c3-1.15,5.91-2.55,8.73-3.9c2.29-1.11,4.67-2.24,7.03-3.22c1.49-0.62,3.2-1.26,4.73-1.07
+							c1.06,0.13,2.24,0.89,2.31,1.83c0.07,0.82-0.58,1.92-1.2,2.99c-1.03,1.75-2.44,4.15-1.1,6.69c1.24,2.35,3.69,2.7,5.66,2.99
+							c1.17,0.17,2.39,0.34,2.89,0.89c0.71,0.77,0.31,2.7,0.01,4.1c-0.25,1.2-0.6,6.27-0.68,11.03c-0.13,7.82,0.47,10.18,1.33,11.17
+							c0.19,0.23,0.4,0.39,0.61,0.52c0.22,0.13,0.44,0.21,0.68,0.25h0.01c0.12,0.03,0.23,0.04,0.35,0.04c0.67,0,1.33-0.34,1.71-0.96
+							c0.37-0.61,0.37-1.35,0.05-1.95L468.241,93.434z" />
+</g>
+<g>
+<path fill="#232930" d="M395.534,54.378c-0.588,0-1.171-0.26-1.565-0.757c-1.635-2.063-2.905-4.371-3.775-6.858
+							c-0.82-2.345-1.047-4.284-0.713-6.102c0.469-2.561,2.201-4.681,4.412-5.403c0.712-0.232,1.484-0.302,2.247-0.218
+							c-0.104-5.234,1.694-10.51,5.085-14.514c2.559-3.022,6.926-5.879,11.52-4.85c5.155,1.162,7.733,6.283,9.574,11.14
+							c0.39,1.03-0.128,2.182-1.158,2.572c-1.03,0.391-2.182-0.128-2.572-1.158c-1.539-4.059-3.418-7.917-6.72-8.661
+							c-2.853-0.647-5.795,1.404-7.599,3.535c-3.584,4.231-4.985,10.204-3.656,15.587c0.263,1.064-0.382,2.141-1.444,2.411
+							c-1.061,0.271-2.143-0.366-2.421-1.427c-0.067-0.253-0.339-0.426-0.453-0.487c-0.361-0.197-0.817-0.253-1.164-0.138
+							c-0.827,0.27-1.521,1.206-1.727,2.329c-0.204,1.109-0.027,2.401,0.555,4.066c0.723,2.066,1.778,3.983,3.137,5.698
+							c0.684,0.863,0.539,2.117-0.325,2.802C396.405,54.236,395.968,54.378,395.534,54.378z" />
+</g>
+<g>
+<path fill="#232930" d="M469.4,93.808c-1.049,0-1.928-0.819-1.989-1.88c-0.297-5.119,2.519-9.662,4.663-12.635
+							c0.583-0.808,1.188-1.604,1.794-2.399c1.89-2.481,3.674-4.826,4.75-7.497c1.807-4.486,1.359-9.836-1.167-13.96
+							c-2.526-4.124-7.088-6.952-11.906-7.382c-0.685-0.061-1.29-0.47-1.602-1.083s-0.285-1.344,0.07-1.933
+							c0.768-1.275-0.015-5.181-2.99-8.396c-2.067-2.235-6.486-5.508-12.859-2.316c-0.643,0.322-1.409,0.274-2.005-0.128
+							c-0.597-0.4-0.932-1.092-0.876-1.809c-0.028-0.393-1.188-1.975-4.675-3.471c-6.044-2.593-14.764-3.039-20.621,1.806
+							c-0.849,0.702-2.105,0.583-2.808-0.266s-0.583-2.106,0.265-2.809c7.806-6.458,19.079-5.4,26.25-1.684
+							c2.27,1.178,3.89,2.512,4.78,3.906c5.604-1.938,11.263-0.494,15.477,4.061c3.009,3.252,4.592,7.322,4.3,10.511
+							c5.153,1.133,9.843,4.406,12.601,8.908c3.173,5.181,3.734,11.899,1.465,17.534c-1.277,3.17-3.31,5.841-5.276,8.424
+							c-0.585,0.769-1.17,1.537-1.733,2.316c-2.841,3.939-4.085,7.139-3.916,10.07c0.064,1.1-0.776,2.043-1.876,2.106
+							C469.478,93.806,469.439,93.808,469.4,93.808z" />
+</g>
+<g>
+<path fill="#232930" d="M398.825,94.638c-0.21,0-0.423-0.033-0.633-0.104c-1.044-0.35-1.608-1.479-1.259-2.524
+							c0.965-2.884-0.741-6.108-1.843-7.772c-0.73-1.103-1.558-2.144-2.434-3.246c-1.246-1.567-2.535-3.188-3.559-5.042
+							c-4.409-7.973-2.2-19.081,4.924-24.762c0.863-0.688,2.116-0.545,2.803,0.316c0.687,0.861,0.545,2.116-0.316,2.803
+							c-5.672,4.522-7.43,13.365-3.92,19.713c0.863,1.562,1.994,2.983,3.191,4.49c0.89,1.12,1.811,2.278,2.637,3.524
+							c2.596,3.922,3.413,7.913,2.3,11.241C400.437,94.111,399.659,94.638,398.825,94.638z" />
+</g>
+<g>
+<path fill="#232930" d="M470.882,109.052c-1.994,0-3.999-0.583-5.696-1.728c-0.913-0.616-1.153-1.856-0.537-2.77
+							c0.617-0.912,1.856-1.152,2.77-0.537c1.797,1.214,4.256,1.382,6.118,0.42c1.848-0.956,3.088-3.109,2.949-5.119
+							c-0.141-2.025-1.686-3.918-3.595-4.401c-1.48-0.378-3.219,0.084-4.322,1.143c-0.795,0.765-2.057,0.735-2.82-0.057
+							c-0.763-0.795-0.737-2.058,0.058-2.82c2.091-2.007,5.255-2.842,8.065-2.133c3.562,0.903,6.335,4.265,6.594,7.993
+							c0.252,3.639-1.796,7.229-5.096,8.938C473.982,108.699,472.435,109.052,470.882,109.052z" />
+</g>
+<g>
+<path fill="#FFFFFF" d="M462.651,198.384c-0.02-1.32-0.24-2.63-0.64-3.88c-0.2-0.64-0.45-1.27-0.75-1.88
+							c-0.35-0.72-0.76-1.41-1.24-2.07c-0.33,0.89-0.84,1.69-1.53,2.43c-3.65,3.96-12,5.84-20.84,7.52
+							c-0.65,0.12-1.3,0.24-1.95,0.36c0,0,0.27,0.25,0.75,0.7c0.19,0.19,0.43,0.4,0.7,0.66c1.64,1.52,4.5,4.14,7.62,6.87
+							c0.92,0.8,1.87,1.62,2.82,2.42c3.92,3.31,7.82,6.33,9.91,7.19c0.59,0.24,1.03,0.32,1.3,0.18c1.82-0.93,3.15-12.04,3.8-18.86
+							C462.651,199.474,462.671,198.924,462.651,198.384z M460.611,199.834c-1.1,11.56-2.19,15.56-2.71,16.89
+							c-2.84-1.37-10.71-7.95-17.97-14.63c7.95-1.55,15.97-3.52,19.94-7.67C460.531,196.124,460.791,197.984,460.611,199.834z" />
+<path fill="#232930" d="M464.101,194.574c-0.49-1.84-1.32-3.59-2.45-5.16c-0.01-0.01-0.01-0.02-0.02-0.03
+							c-0.43-0.6-1.16-0.9-1.88-0.8c-0.73,0.1-1.35,0.59-1.6,1.28c-0.12,0.32-0.27,0.63-0.46,0.92v0.01
+							c-2.84,4.42-13.33,6.43-21.99,8.04c-0.12,0.02-0.25,0.05-0.37,0.07c-0.74,0.14-1.34,0.68-1.55,1.4
+							c-0.02,0.06-0.03,0.13-0.04,0.19c-0.06,0.3-0.05,0.61,0.03,0.89c0.08,0.31,0.24,0.6,0.47,0.84c0.02,0.03,0.05,0.06,0.08,0.09
+							c0.4,0.38,0.8,0.76,1.19,1.13c0.07,0.05,0.13,0.11,0.19,0.17c2.88,2.7,5.4,4.98,7.6,6.92c0.52,0.46,1.02,0.89,1.51,1.31
+							c0.52,0.45,1.02,0.88,1.51,1.29c4.33,3.64,7.19,5.65,9.13,6.71c1.56,0.86,2.52,1.11,3.17,1.11c0.52,0,0.83-0.16,1.09-0.29
+							c1.15-0.59,3.07-1.57,4.87-20.45c0.02-0.2,0.03-0.39,0.04-0.59C464.731,197.914,464.551,196.204,464.101,194.574z
+							 M439.931,202.094c7.95-1.55,15.97-3.52,19.94-7.67c0.66,1.7,0.92,3.56,0.74,5.41c-1.1,11.56-2.19,15.56-2.71,16.89
+							C455.061,215.354,447.191,208.774,439.931,202.094z" />
+</g>
+<g>
+<path fill="#232930" d="M485.492,249.852h-26.359c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h26.359
+							c1.102,0,1.995,0.893,1.995,1.994S486.594,249.852,485.492,249.852z" />
+</g>
+<g>
+<path fill="#FFFFFF" d="M433.741,200.494c-8.39-1.58-16.33-3.36-20.24-6.92c-0.98-0.88-1.71-1.88-2.13-3.02
+							c-0.45,0.62-0.84,1.26-1.17,1.94v0.01c-0.26,0.51-0.48,1.02-0.67,1.56c-0.42,1.17-0.67,2.38-0.76,3.62v0.01
+							c-0.06,0.77-0.05,1.55,0.02,2.33c0.65,6.82,1.98,17.93,3.8,18.86c0.36,0.19,1.07-0.02,2.01-0.52
+							c2.17-1.14,5.61-3.82,9.08-6.75c0.97-0.81,1.94-1.64,2.88-2.46c3.14-2.74,6.03-5.39,7.68-6.93c0.32-0.29,0.59-0.54,0.81-0.75
+							c0.42-0.39,0.65-0.61,0.65-0.61C435.041,200.744,434.391,200.624,433.741,200.494z M413.491,216.724
+							c-0.52-1.33-1.61-5.33-2.71-16.89c-0.18-1.85,0.08-3.71,0.74-5.41c3.97,4.15,11.99,6.12,19.94,7.67
+							C424.201,208.774,416.331,215.354,413.491,216.724z" />
+<path fill="#232930" d="M437.651,200.504c-0.01-0.07-0.02-0.13-0.04-0.2c-0.21-0.72-0.81-1.26-1.55-1.4
+							c-0.12-0.02-0.24-0.04-0.36-0.07c-8.26-1.53-18.18-3.42-21.53-7.43v-0.01c-0.42-0.48-0.73-0.98-0.93-1.53
+							c-0.25-0.69-0.87-1.18-1.6-1.28c-0.5-0.07-1.01,0.05-1.41,0.34c-0.18,0.12-0.34,0.28-0.47,0.46c-0.98,1.35-1.73,2.84-2.24,4.4
+							c-0.55,1.66-0.81,3.42-0.77,5.19c0,0.41,0.02,0.82,0.06,1.24c1.8,18.88,3.72,19.86,4.87,20.45c0.26,0.13,0.57,0.29,1.09,0.29
+							c0.73,0,1.85-0.31,3.78-1.46c1.9-1.12,4.58-3.05,8.44-6.29c0.49-0.41,0.99-0.84,1.52-1.29c0.49-0.42,0.99-0.86,1.51-1.31
+							c2.23-1.96,4.77-4.27,7.68-6.99c0.03-0.04,0.06-0.06,0.09-0.1c0.42-0.39,0.84-0.79,1.28-1.2c0.03-0.03,0.06-0.06,0.08-0.09
+							c0.16-0.16,0.27-0.34,0.36-0.54C437.681,201.324,437.731,200.904,437.651,200.504z M411.521,194.424
+							c3.97,4.15,11.99,6.12,19.94,7.67c-7.26,6.68-15.13,13.26-17.97,14.63c-0.52-1.33-1.61-5.33-2.71-16.89
+							C410.601,197.984,410.861,196.124,411.521,194.424z" />
+</g>
+<g>
+<path fill="#232930" d="M435.682,223.707c-0.552,0-1.079-0.229-1.456-0.631l-10.166-10.861
+							c-0.753-0.805-0.711-2.066,0.093-2.819c0.803-0.754,2.066-0.71,2.819,0.093l8.7,9.296l8.583-9.286
+							c0.748-0.811,2.01-0.858,2.819-0.111c0.809,0.748,0.858,2.01,0.111,2.818l-10.039,10.861c-0.376,0.407-0.904,0.64-1.458,0.641
+							C435.687,223.707,435.684,223.707,435.682,223.707z" />
+</g>
+<g>
+<path fill="#232930" d="M445.721,249.853c-0.802,0-1.558-0.487-1.863-1.28l-8.188-21.326l-8.295,21.334
+							c-0.398,1.026-1.554,1.535-2.582,1.137c-1.027-0.399-1.536-1.556-1.136-2.582l10.166-26.146
+							c0.298-0.767,1.037-1.271,1.859-1.271c0.821,0.02,1.566,0.509,1.862,1.279l10.039,26.146c0.395,1.028-0.119,2.182-1.147,2.577
+							C446.201,249.81,445.959,249.853,445.721,249.853z" />
+</g>
+<g>
+<path fill="#232930" d="M359.052,249.853c-1.072,0-1.958-0.852-1.993-1.931c-0.035-1.096-0.649-26.922,17.918-35.638
+							c13.028-6.115,26.874-14.861,32.222-18.337c0.923-0.603,2.159-0.338,2.759,0.585c0.601,0.924,0.338,2.159-0.585,2.759
+							c-5.417,3.521-19.448,12.384-32.7,18.604c-16.217,7.612-15.634,31.656-15.626,31.897c0.035,1.102-0.829,2.022-1.93,2.058
+							C359.095,249.852,359.073,249.853,359.052,249.853z" />
+</g>
+</g>
+</g>
+</g>
+<g>
+<g>
+<path fill="#FF7E5C" d="M344.377,162.452h-53.451c-7.452,0-13.515-6.062-13.515-13.515v-32.224
+					c0-7.452,6.063-13.516,13.515-13.516h53.451c7.452,0,13.515,6.063,13.515,13.516v12.544l11.041,6.768
+					c0.642,0.393,1.025,1.099,1.007,1.851c-0.018,0.753-0.436,1.438-1.096,1.801l-10.953,6.006v3.255
+					C357.892,156.389,351.829,162.452,344.377,162.452z M290.926,107.421c-5.124,0-9.292,4.169-9.292,9.293v32.224
+					c0,5.124,4.168,9.292,9.292,9.292h53.451c5.124,0,9.292-4.168,9.292-9.292v-4.505c0-0.771,0.42-1.48,1.096-1.852l8.858-4.857
+					l-8.946-5.483c-0.626-0.384-1.008-1.065-1.008-1.8v-13.727c0-5.124-4.168-9.293-9.292-9.293H290.926z" />
+</g>
+<g>
+<path fill="#FF7E5C" d="M344.535,122.508h-52.342c-1.166,0-2.111-0.945-2.111-2.111s0.945-2.111,2.111-2.111h52.342
+					c1.166,0,2.111,0.945,2.111,2.111S345.701,122.508,344.535,122.508z" />
+</g>
+<g>
+<path fill="#FF7E5C" d="M344.535,134.936h-52.342c-1.166,0-2.111-0.945-2.111-2.111s0.945-2.111,2.111-2.111h52.342
+					c1.166,0,2.111,0.945,2.111,2.111S345.701,134.936,344.535,134.936z" />
+</g>
+<g>
+<path fill="#FF7E5C" d="M326.898,147.364h-34.706c-1.166,0-2.111-0.945-2.111-2.111s0.945-2.111,2.111-2.111h34.706
+					c1.166,0,2.111,0.945,2.111,2.111S328.064,147.364,326.898,147.364z" />
+</g>
+</g>
+<g>
+<g>
+<path fill="#232930" d="M410.346,364.541H364.6c-18.905,0-34.286-15.38-34.286-34.285s15.38-34.285,34.286-34.285h45.746
+					c18.905,0,34.286,15.38,34.286,34.285S429.251,364.541,410.346,364.541z M364.6,299.959c-16.706,0-30.296,13.592-30.296,30.297
+					s13.591,30.297,30.296,30.297h45.746c16.706,0,30.296-13.592,30.296-30.297s-13.591-30.297-30.296-30.297H364.6z" />
+</g>
+<g>
+<ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#FF7E5C" cx="364.992" cy="330.255" rx="28.191" ry="27.146" />
+</g>
+</g>
+<path fill="#FF7E5C" d="M262.239,436.66c-6.994,0.379-14.803-0.32-20.874-2.226c0.017,1.586,0.032,3.092,0.045,4.544
+			c0.014-0.001,0.026-0.009,0.04-0.009c0.639,0.017,1.144,0.549,1.128,1.188c0.016,0.639-0.488,1.171-1.128,1.188
+			c-0.007,0-0.013-0.004-0.02-0.005c0.024,3.196,0.035,6.055,0.033,8.606c0.633,0.024,1.131,0.55,1.115,1.185
+			c0.016,0.637-0.485,1.166-1.121,1.187c-0.016,3.443-0.062,6.268-0.14,8.591c0.046-0.007,0.086-0.029,0.133-0.031
+			c0.639,0.017,1.144,0.549,1.128,1.188c0.016,0.639-0.488,1.171-1.128,1.188c-0.082-0.002-0.153-0.034-0.23-0.053
+			c-0.266,5.197-0.763,7.254-1.546,8.305c-0.497,0.667-1.21,1.141-2.018,1.338c-5.348,1.308-33.39-5.545-49.631-9.745
+			c-8.197-2.12-17.277-4.588-25.479-6.987c-13.718,8.447-29.731,13.925-45.934,15.858c0.364,0.203,0.614,0.585,0.603,1.03
+			c0.016,0.639-0.488,1.171-1.128,1.188c-0.64-0.017-1.145-0.549-1.128-1.188c-0.009-0.357,0.154-0.668,0.402-0.887
+			c-4.66,0.503-9.329,0.707-13.961,0.605c0.021,0.093,0.052,0.183,0.05,0.282c0.016,0.639-0.488,1.171-1.128,1.188
+			c-0.64-0.017-1.145-0.549-1.128-1.188c-0.003-0.121,0.029-0.233,0.06-0.343c-16.696-0.717-32.785-5.504-45.902-15.052
+			c-10.748,8.617-19.872,22.244-20.463,33.504h228.707C262.685,479.486,262.673,458.374,262.239,436.66z M37.888,486.337
+			c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C39.032,485.788,38.527,486.32,37.888,486.337z M53.654,486.337c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C54.798,485.788,54.293,486.32,53.654,486.337z
+			 M53.654,474.191c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C54.798,473.642,54.293,474.174,53.654,474.191z M53.654,463.256c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C54.798,462.707,54.293,463.239,53.654,463.256z
+			 M69.409,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C70.554,485.788,70.049,486.32,69.409,486.337z M69.409,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C70.554,473.642,70.049,474.174,69.409,474.191z
+			 M85.175,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C86.319,485.788,85.814,486.32,85.175,486.337z M85.175,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C86.319,473.642,85.814,474.174,85.175,474.191z
+			 M100.321,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C101.465,485.788,100.961,486.32,100.321,486.337z M116.087,486.337c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C117.231,485.788,116.726,486.32,116.087,486.337z
+			 M131.843,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C132.987,485.788,132.482,486.32,131.843,486.337z M131.843,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C132.987,473.642,132.482,474.174,131.843,474.191z
+			 M147.608,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C148.752,485.788,148.248,486.32,147.608,486.337z M147.608,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C148.752,473.642,148.248,474.174,147.608,474.191z
+			 M163.251,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C164.395,485.788,163.89,486.32,163.251,486.337z M163.251,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C164.395,473.642,163.89,474.174,163.251,474.191z
+			 M163.251,463.256c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C164.395,462.707,163.89,463.239,163.251,463.256z M179.017,486.337c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C180.161,485.788,179.656,486.32,179.017,486.337z
+			 M179.017,474.191c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C180.161,473.642,179.656,474.174,179.017,474.191z M179.017,463.256c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C180.161,462.707,179.656,463.239,179.017,463.256z
+			 M194.772,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C195.917,485.788,195.412,486.32,194.772,486.337z M194.772,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C195.917,473.642,195.412,474.174,194.772,474.191z
+			 M210.538,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C211.682,485.788,211.177,486.32,210.538,486.337z M210.538,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C211.682,473.642,211.177,474.174,210.538,474.191z
+			 M225.684,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C226.828,485.788,226.324,486.32,225.684,486.337z M225.684,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C226.828,473.642,226.324,474.174,225.684,474.191z
+			 M241.45,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C242.594,485.788,242.089,486.32,241.45,486.337z M241.45,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C242.594,473.642,242.089,474.174,241.45,474.191z
+			 M257.206,486.337c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C258.35,485.788,257.845,486.32,257.206,486.337z M257.206,474.191c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C258.35,473.642,257.845,474.174,257.206,474.191z
+			 M257.206,463.256c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C258.35,462.707,257.845,463.239,257.206,463.256z M257.206,452.32c-0.64-0.017-1.145-0.549-1.128-1.188
+			c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188C258.35,451.771,257.845,452.303,257.206,452.32z
+			 M257.206,441.345c-0.64-0.017-1.145-0.549-1.128-1.188c-0.016-0.64,0.489-1.171,1.128-1.188c0.639,0.017,1.144,0.549,1.128,1.188
+			C258.35,440.796,257.845,441.328,257.206,441.345z" />
+<g>
+<path fill="#232930" d="M33.047,491.87c-0.071,0-0.142-0.003-0.214-0.011c-1.094-0.117-1.887-1.098-1.771-2.192
+				c0.078-0.737,2.07-18.204,16.054-29.925c4.867-4.079,14.007-7.606,22.848-11.019c7.082-2.733,13.771-5.315,17.071-7.743
+				c5.755-4.236,5.991-13.586,5.993-13.681l1.335-79.519c0.018-1.09,0.908-1.961,1.994-1.961c0.011,0,0.022,0,0.034,0
+				c1.101,0.019,1.979,0.926,1.96,2.027l-1.335,79.519c-0.007,0.46-0.252,11.407-7.617,16.827c-3.73,2.745-10.661,5.42-18,8.252
+				c-8.138,3.141-17.363,6.701-21.721,10.354c-12.718,10.66-14.632,27.125-14.649,27.29C34.917,491.111,34.052,491.87,33.047,491.87
+				z" />
+</g>
+<g>
+<path fill="none" d="M89.331,338.081c-1.427-1.371-3.578-1.94-5.496-1.453c-2.458,0.623-4.345,2.969-4.52,5.498
+				c-0.175,2.529,1.317,5.071,3.569,6.236c2.252,1.165,5.13,0.942,7.232-0.477" />
+</g>
+<g>
+<ellipse fill="#232930" cx="120.731" cy="332.807" rx="1.335" ry="2.47" />
+</g>
+<g>
+<ellipse fill="#232930" cx="144.63" cy="332.807" rx="1.335" ry="2.47" />
+</g>
+<g>
+<path fill="#232930" d="M134.436,399.918c-0.44-0.147-12.553,2.123-23.84-7.992s-10.173-15.546-10.173-15.546
+				c-0.347,1.208,10.298,15.471,34.05,14.465L134.436,399.918z" />
+</g>
+<g>
+<path fill="#232930" d="M79.303,353.476c-0.654,0-1.295-0.321-1.676-0.911c-0.599-0.925-0.334-2.16,0.591-2.759
+				c2.058-1.331,4.128-2.645,6.199-3.957c3.597-2.281,7.317-4.641,10.893-7.057c7.712-5.213,17.47-12.446,24.522-22.201
+				c5.71-7.899,8.983-16.875,9.215-25.273c0.031-1.102,0.938-1.939,2.049-1.939c1.101,0.03,1.969,0.948,1.938,2.049
+				c-0.254,9.191-3.794,18.959-9.97,27.502c-7.419,10.262-17.536,17.771-25.521,23.168c-3.624,2.449-7.369,4.824-10.99,7.12
+				c-2.061,1.307-4.121,2.613-6.168,3.938C80.05,353.373,79.674,353.476,79.303,353.476z" />
+</g>
+<g>
+<path fill="#232930" d="M65.371,449.217c-0.178,0-0.358-0.024-0.538-0.074c-1.061-0.296-1.681-1.396-1.384-2.458
+				c0.831-2.975-0.101-6.373-2.374-8.659c-1.81-1.819-4.343-2.976-7.025-4.2c-3.191-1.456-6.491-2.963-8.844-5.76
+				c-4.636-5.512-3.149-13.411,0.195-18.419c2.983-4.47,7.356-7.732,11.584-10.888c0.614-0.458,1.227-0.916,1.834-1.376
+				c4.474-3.39,8.849-7.204,10.559-12.118c1.479-4.248,0.974-9.394-1.499-15.296c-1.17-2.792-2.673-5.561-4.126-8.237
+				c-1.267-2.335-2.578-4.75-3.703-7.231c-9.345-20.619-4.574-46.341,11.601-62.552c11.135-11.157,32.659-18.216,48.993-16.06
+				c9.812,1.292,17.146,5.705,21.208,12.761c0.55,0.955,0.221,2.174-0.733,2.724c-0.955,0.551-2.174,0.223-2.724-0.733
+				c-4.319-7.503-12.32-10.013-18.271-10.796c-15.245-2.016-35.294,4.546-45.648,14.923c-15.028,15.061-19.466,38.946-10.791,58.087
+				c1.065,2.352,2.341,4.702,3.575,6.975c1.5,2.764,3.051,5.622,4.299,8.6c2.865,6.837,3.399,12.942,1.587,18.147
+				c-2.059,5.917-6.944,10.219-11.917,13.987c-0.615,0.466-1.236,0.93-1.858,1.394c-3.958,2.953-8.05,6.007-10.652,9.905
+				c-2.542,3.808-3.771,9.699-0.46,13.636c1.774,2.109,4.53,3.367,7.448,4.699c2.889,1.318,5.876,2.683,8.197,5.017
+				c3.269,3.286,4.599,8.211,3.388,12.546C67.045,448.64,66.244,449.217,65.371,449.217z" />
+</g>
+<g>
+<path fill="#232930" d="M162.024,447.181c-0.006,0-0.012,0-0.019,0c-1.102-0.01-1.986-0.91-1.977-2.012
+				c0.033-3.623-1.569-7.218-4.285-9.616c-0.87-0.768-1.88-1.462-2.949-2.196c-2.522-1.732-5.38-3.696-6.5-7.033
+				c-1.091-3.249-0.173-7.184,2.517-10.794c0.943-1.266,1.997-2.406,3.017-3.509c1.16-1.256,2.256-2.441,3.151-3.751
+				c2.563-3.752,3.378-8.607,2.18-12.991c-1.198-4.383-4.369-8.149-8.484-10.076c-0.998-0.468-1.427-1.655-0.96-2.652
+				c0.467-0.999,1.653-1.428,2.652-0.961c5.16,2.417,9.138,7.142,10.64,12.639c1.502,5.496,0.48,11.587-2.734,16.292
+				c-1.06,1.552-2.309,2.902-3.516,4.208c-0.993,1.074-1.931,2.089-2.747,3.185c-0.898,1.205-2.884,4.313-1.934,7.142
+				c0.696,2.073,2.775,3.502,4.977,5.015c1.121,0.77,2.28,1.565,3.331,2.494c3.57,3.153,5.676,7.879,5.634,12.642
+				C164.009,446.3,163.117,447.181,162.024,447.181z" />
+</g>
+<g>
+<path fill="#232930" d="M129.118,393.014c-6.269,0-12.656-1.788-18.461-5.229c-5.539-3.283-7.814-5.366-11.594-10.611
+				c-0.644-0.894-0.441-2.141,0.452-2.784c0.893-0.643,2.14-0.441,2.784,0.452c3.468,4.812,5.313,6.501,10.392,9.512
+				c6.692,3.967,14.539,5.501,21.526,4.209c20.017-3.7,21.227-26.521,20.818-36.16c-0.924-21.811-6.688-43.186-16.67-61.815
+				c-0.52-0.972-0.155-2.181,0.816-2.7c0.971-0.522,2.179-0.155,2.7,0.815c10.263,19.156,16.189,41.125,17.139,63.531
+				c0.453,10.68-0.986,35.983-24.079,40.251C133.027,392.839,131.077,393.014,129.118,393.014z" />
+</g>
+<g>
+<path fill="#232930" d="M104.771,475.871c-16.543,0-35.77-4.012-53.433-17.613c-0.873-0.672-1.036-1.924-0.364-2.797
+				c0.673-0.873,1.925-1.034,2.797-0.363c43.889,33.794,103.202,8.601,114.866-5.904c0.69-0.859,1.944-0.994,2.804-0.305
+				c0.858,0.69,0.995,1.946,0.304,2.805c-6.551,8.146-25.148,18.488-48.019,22.493C118.08,475.175,111.656,475.871,104.771,475.871z
+				" />
+</g>
+<g>
+<path fill="#232930" d="M257.335,439.268c-6.897,0-13.787-1.429-19.963-4.231c-1.003-0.455-1.447-1.638-0.992-2.641
+				s1.639-1.446,2.641-0.992c9.239,4.193,20.226,5.029,30.146,2.297c1.063-0.293,2.16,0.33,2.453,1.393
+				c0.293,1.062-0.331,2.16-1.393,2.453C266.046,438.699,261.689,439.268,257.335,439.268z" />
+</g>
+<g>
+<path fill="#232930" d="M136.467,348.261c-2.234,0-4.473-0.753-6.196-2.185c-0.847-0.704-0.963-1.962-0.259-2.809
+				c0.704-0.848,1.962-0.963,2.809-0.26c1.564,1.3,3.96,1.639,5.824,0.826c0.374-0.163,0.654-0.406,0.783-0.568
+				c-0.157-0.124-0.501-0.35-0.723-0.494l-0.229-0.15c-2.988-1.987-5.091-5.146-5.771-8.669c-0.208-1.082,0.499-2.128,1.581-2.336
+				c1.083-0.216,2.128,0.499,2.336,1.58c0.471,2.443,1.99,4.725,4.062,6.102l0.203,0.134c0.81,0.529,2.034,1.328,2.454,2.82
+				c0.669,2.376-1.137,4.381-3.099,5.238C139.052,348.009,137.76,348.261,136.467,348.261z M139.5,343.334h0.01H139.5z" />
+</g>
+<g>
+<path fill="#232930" d="M128.167,373.63c-3.618,0-7.225-1.16-10.136-3.339c-3.931-2.94-6.441-7.622-6.714-12.523
+				c-0.04-0.726,0.317-1.416,0.933-1.802c0.615-0.385,1.393-0.405,2.027-0.053c6.025,3.349,12.853,5.229,19.744,5.437
+				c0.624,0.02,1.203,0.329,1.565,0.837c0.362,0.509,0.465,1.157,0.279,1.753l-2.476,7.911c-0.211,0.673-0.762,1.186-1.448,1.346
+				C130.701,373.487,129.433,373.63,128.167,373.63z M131.486,371.255h0.01H131.486z M116.084,361.266
+				c0.856,2.299,2.361,4.353,4.336,5.83c2.701,2.021,6.189,2.893,9.519,2.421l1.355-4.332
+				C126.053,364.733,120.891,363.402,116.084,361.266z" />
+</g>
+<g>
+<path fill="#232930" d="M150.348,315.599h-9.681c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h9.681
+				c1.102,0,1.995,0.893,1.995,1.994S151.449,315.599,150.348,315.599z" />
+</g>
+<g>
+<path fill="#232930" d="M124.553,321.169h-9.68c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h9.68
+				c1.102,0,1.995,0.893,1.995,1.994S125.655,321.169,124.553,321.169z" />
+</g>
+<g>
+<path fill="#FFFFFF" d="M243.684,366.01c1.198-1.894,5.393-8.541,7.791-6.711c2.398,1.83-1.115,9.588-2.257,10.51
+				c2.895-1.228,6.537,0.112,7.989,2.94" />
+<path fill="#232930" d="M257.208,374.744c-0.724,0-1.422-0.396-1.776-1.084c-0.97-1.891-3.512-2.829-5.437-2.016
+				c-0.917,0.39-1.978,0.043-2.489-0.811c-0.499-0.831-0.326-1.897,0.4-2.529c0.983-1.098,2.683-5.719,2.388-7.215
+				c-0.588,0.316-2.09,1.507-4.913,5.967l-3.371-2.133c3.234-5.11,5.586-7.466,7.865-7.874c1.028-0.184,1.999,0.045,2.809,0.663
+				c0.716,0.546,1.575,1.631,1.604,3.698c0.024,1.784-0.618,4.085-1.443,6.047c2.549,0.409,4.905,1.982,6.136,4.38
+				c0.503,0.979,0.117,2.182-0.863,2.686C257.826,374.672,257.515,374.744,257.208,374.744z M247.965,368.256
+				c-0.011,0.009-0.022,0.018-0.033,0.027C247.942,368.275,247.953,368.265,247.965,368.256z M243.684,366.009h0.01H243.684z" />
+</g>
+<g>
+<path fill="#232930" d="M267.23,491.872c-0.063,0-0.127-0.003-0.191-0.01c-1.097-0.104-1.901-1.077-1.797-2.174
+				c2.889-30.409-1.828-126.287-1.875-127.253c-0.019-0.386,0.075-0.771,0.27-1.104c2.071-3.549,3.715-7.618,3.764-9.187
+				c-0.962,0.47-3.058,3.033-4.547,6.303c-0.416,0.913-1.446,1.376-2.407,1.078c-0.959-0.299-1.547-1.263-1.372-2.252
+				c0.916-5.18,0.976-10.684,0.16-11.948c-0.962,0.591-2.568,4.93-3.185,9.834c-0.133,1.058-1.078,1.805-2.135,1.74
+				c-1.062-0.084-1.871-0.986-1.838-2.051c0.17-5.428-0.518-11.087-1.47-12.42c-1.123,0.935-2.463,6.329-2.794,11.555
+				c-0.069,1.09-0.991,1.89-2.091,1.866c-1.09-0.056-1.934-0.977-1.893-2.067c0.174-4.677-0.557-8.896-1.461-10.629
+				c-1.708,8.078-1.166,43.582-0.762,70.027c0.628,41.133,0.559,53.432-1.113,55.677c-0.277,0.372-0.675,0.636-1.126,0.746
+				c-5.34,1.314-38.748-7.124-48.859-9.74c-21.259-5.498-44.832-12.39-49.575-15.392c-8.062-5.104-7.79-15.795-7.734-16.973
+				l-0.719-36.242c-0.022-1.102,0.853-2.013,1.955-2.034c1.078,0.004,2.012,0.853,2.034,1.955l0.72,36.314
+				c0.001,0.055,0,0.109-0.003,0.163c-0.005,0.09-0.465,9.429,5.881,13.445c8.357,5.29,82.992,24.684,94.326,24.714
+				c0.943-5.49,0.562-30.415,0.225-52.572c-0.813-53.256-0.592-71.444,2.318-74.208c0.52-0.493,1.183-0.74,1.861-0.693
+				c2.146,0.144,3.543,1.666,4.448,3.735c0.97-2.062,2.316-3.565,4.184-3.728c1.02-0.087,1.973,0.257,2.755,0.998
+				c0.998,0.944,1.661,2.634,2.099,4.582c1.105-1.702,2.56-2.815,4.46-2.623c1.028,0.104,1.921,0.621,2.583,1.497
+				c1.167,1.545,1.504,4.313,1.481,7.115c1.505-1.397,3.272-2.25,5.175-1.634c0.981,0.318,1.729,1.036,2.104,2.02
+				c1.214,3.187-1.969,9.471-3.706,12.521c0.394,8.148,4.63,97.805,1.834,127.24C269.116,491.097,268.247,491.872,267.23,491.872z
+				 M237.179,466.659L237.179,466.659L237.179,466.659z" />
+</g>
+<g>
+<g>
+<g>
+<path fill="#232930" d="M280.206,493.105c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994
+						c2.858,0,5.184-2.325,5.184-5.184v-162.93c0-2.858-2.325-5.185-5.184-5.185h-12.45c-1.102,0-1.995-0.893-1.995-1.994
+						s0.893-1.994,1.995-1.994h12.45c5.058,0,9.173,4.114,9.173,9.173v162.93C289.379,488.991,285.264,493.105,280.206,493.105z" />
+</g>
+<g>
+<path fill="#232930" d="M32.888,493.105h-10.51c-5.058,0-9.173-4.114-9.173-9.172v-162.93c0-5.059,4.115-9.173,9.173-9.173
+						h29.158c1.102,0,1.995,0.893,1.995,1.994s-0.893,1.994-1.995,1.994H22.378c-2.858,0-5.184,2.326-5.184,5.185v162.93
+						c0,2.858,2.325,5.184,5.184,5.184h10.51c1.102,0,1.995,0.893,1.995,1.994S33.99,493.105,32.888,493.105z" />
+</g>
+<g>
+<circle fill="none" cx="256.386" cy="323.553" r="2.979" />
+</g>
+<g>
+<circle fill="none" cx="266.572" cy="323.553" r="2.979" />
+</g>
+<g>
+<circle fill="none" cx="276.758" cy="323.553" r="2.979" />
+</g>
+</g>
+<g>
+<path fill="#232930" d="M227.992,335.516h-61.984c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h61.984
+					c1.102,0,1.995,0.893,1.995,1.994S229.094,335.516,227.992,335.516z" />
+</g>
+<g>
+<path fill="#232930" d="M277.024,335.516h-13.431c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h13.431
+					c1.102,0,1.995,0.893,1.995,1.994S278.126,335.516,277.024,335.516z" />
+</g>
+<g>
+<path fill="#232930" d="M48.956,335.516H25.598c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h23.358
+					c1.102,0,1.995,0.893,1.995,1.994S50.058,335.516,48.956,335.516z" />
+</g>
+</g>
+<g>
+<path fill="#626EDF" d="M237.217,327.515c-0.017,0-0.034,0-0.051-0.001c-0.753-0.018-1.44-0.436-1.802-1.096l-5.515-10.057
+				h-53.131c-7.458,0-13.527-6.068-13.527-13.527v-32.252c0-7.458,6.068-13.526,13.527-13.526h69.156
+				c7.458,0,13.527,6.068,13.527,13.526v32.252c0,7.459-6.068,13.527-13.527,13.527h-0.638l-6.217,10.145
+				C238.634,327.134,237.951,327.515,237.217,327.515z M176.718,261.283c-5.128,0-9.3,4.172-9.3,9.3v32.252
+				c0,5.129,4.172,9.301,9.3,9.301H231.1c0.771,0,1.482,0.421,1.853,1.097l4.365,7.96l4.933-8.048
+				c0.384-0.627,1.066-1.009,1.802-1.009h1.821c5.128,0,9.3-4.172,9.3-9.301v-32.252c0-5.128-4.172-9.3-9.3-9.3H176.718z" />
+</g>
+<g>
+<path fill="#626EDF" d="M246.032,276.264h-68.047c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h68.047
+				c1.102,0,1.995,0.893,1.995,1.994S247.134,276.264,246.032,276.264z" />
+</g>
+<g>
+<path fill="#626EDF" d="M246.032,288.703h-68.047c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h68.047
+				c1.102,0,1.995,0.893,1.995,1.994S247.134,288.703,246.032,288.703z" />
+</g>
+<g>
+<path fill="#626EDF" d="M212.722,301.142h-34.736c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h34.736
+				c1.102,0,1.995,0.893,1.995,1.994S213.824,301.142,212.722,301.142z" />
+</g>
+<g>
+<path fill="#FF7E5C" d="M645.32,350.683c-4.263,20.93-5.383,42.653-4.181,60.496c-11.749-4.918-19.591-17.242-18.69-31.259
+				c0.847-12.952,8.935-23.717,19.865-28.199C643.299,351.312,644.282,350.984,645.32,350.683z" />
+</g>
+<g>
+<path fill="#232930" d="M824.771,322.918h-37.802c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h37.802
+				c1.102,0,1.995,0.893,1.995,1.994S825.872,322.918,824.771,322.918z" />
+</g>
+<g>
+<path fill="#232930" d="M625.525,322.918H486.952c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h138.573
+				c1.102,0,1.995,0.893,1.995,1.994S626.627,322.918,625.525,322.918z" />
+</g>
+<g>
+<g>
+<path fill="#232930" d="M835.7,560.676c-1.102,0-1.995-0.893-1.995-1.994V300.65c0-5.419-4.408-9.827-9.827-9.827h-53.75
+					c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h53.75c7.618,0,13.816,6.197,13.816,13.815v258.032
+					C837.695,559.784,836.802,560.676,835.7,560.676z" />
+</g>
+<g>
+<path fill="#232930" d="M424.39,625.706h-25.096c-7.618,0-13.816-6.197-13.816-13.815v-9.243c0-1.102,0.893-1.994,1.995-1.994
+					s1.995,0.893,1.995,1.994v9.243c0,5.418,4.408,9.827,9.827,9.827h25.096c1.102,0,1.995,0.893,1.995,1.994
+					S425.491,625.706,424.39,625.706z" />
+</g>
+<g>
+<path fill="#232930" d="M387.473,496.811c-1.102,0-1.995-0.893-1.995-1.994V375.462c0-1.102,0.893-1.994,1.995-1.994
+					s1.995,0.893,1.995,1.994v119.355C389.468,495.919,388.574,496.811,387.473,496.811z" />
+</g>
+<g>
+<path fill="#232930" d="M631.016,290.823H439.863c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h191.154
+					c1.102,0,1.995,0.893,1.995,1.994S632.118,290.823,631.016,290.823z" />
+</g>
+</g>
+ <g>
+<g>
+<path fill="#626EDF" d="M838.431,623.714h-259.24l-16.39-64.1c0,0,69-18.82,76.69-21.12c7.68-2.31,21.81-7.06,25.14-11.41
+					c3.33-4.36,7.43-14.61,7.43-14.61s-0.52,24.34,1.79,27.67c2.3,3.33,6.11,15.96,13.28,18.01c7.17,2.05,5.7,2.96,20.3-7.8
+					c14.61-10.76,26.83-21.75,26.83-21.75l4.89-4.69c0.26,0.34,0.59,0.63,0.98,0.86c0.33,0.2,33.17,19.45,65.46,38.3
+					C834.111,579.714,837.921,613.984,838.431,623.714z" />
+</g>
+<g>
+<path fill="#232930" d="M678.736,463.11c-3.26,0-6.444-0.381-9.453-1.149c-7.05-1.794-12.933-5.562-17.481-11.2
+					c-7.452-9.194-10.04-22.057-11.462-32.235c-0.503-3.522-0.903-7.47-1.189-11.728c-1.316-19.54,0.181-41.213,4.216-61.028
+					c1.789-9.059,4.141-17.703,6.989-25.684c0.37-1.036,1.511-1.578,2.549-1.208c1.038,0.371,1.579,1.512,1.208,2.55
+					c-2.782,7.795-5.082,16.249-6.834,25.127c-3.969,19.486-5.441,40.781-4.147,59.976c0.279,4.159,0.669,8.007,1.159,11.437
+					c1.352,9.674,3.778,21.852,10.614,30.285c3.999,4.955,9.167,8.267,15.364,9.844c6.808,1.736,14.657,1.26,22.103-1.344
+					c4.862-1.69,9.604-4.103,14.098-7.17c0.461-0.29,0.831-0.562,1.201-0.834c4.509-3.252,8.758-7.206,12.642-11.764
+					c0.128-0.149,0.254-0.292,0.357-0.437c0.024-0.033,0.048-0.066,0.074-0.098c0.284-0.352,0.562-0.704,0.839-1.056
+					c0.283-0.358,0.565-0.717,0.855-1.075c0.5-0.65,1.029-1.365,1.532-2.08c0.634-0.902,1.878-1.118,2.779-0.483
+					c0.901,0.634,1.117,1.878,0.483,2.778c-0.536,0.762-1.099,1.521-1.662,2.255c-0.31,0.384-0.582,0.729-0.855,1.075
+					c-0.276,0.351-0.553,0.701-0.836,1.052c-0.161,0.22-0.347,0.44-0.535,0.66c-4.087,4.797-8.572,8.969-13.327,12.397
+					c-0.436,0.319-0.886,0.646-1.365,0.946c-4.717,3.223-9.775,5.794-14.967,7.599C688.763,462.239,683.663,463.109,678.736,463.11z
+					" />
+</g>
+<g>
+<path fill="#232930" d="M690.878,560.676c-5.455,0-10.341-3.665-14.523-10.894c-3.748-6.479-5.729-14.201-5.729-22.329v-66.647
+					c0-1.102,0.893-1.994,1.995-1.994s1.995,0.893,1.995,1.994v66.647c0,7.428,1.795,14.458,5.192,20.331
+					c3.417,5.907,7.142,8.903,11.07,8.903c8.341,0,35.053-22.821,51.403-38.546l-2.265-111.324
+					c-0.022-1.102,0.852-2.013,1.954-2.035c1.074-0.036,2.012,0.853,2.035,1.953l2.282,112.196c0.011,0.556-0.209,1.09-0.608,1.476
+					C741.414,524.529,703.64,560.676,690.878,560.676z" />
+</g>
+<g>
+<g>
+<path fill="#232930" d="M578.675,623.75c-0.883,0-1.69-0.591-1.927-1.484l-16.409-61.91c-0.282-1.064,0.352-2.156,1.416-2.438
+						c33.422-8.877,89.359-23.733,96.537-28.276c12.68-8.025,12.341-23.605,12.336-23.762c-0.034-1.1,0.828-2.021,1.928-2.058
+						c1.095-0.069,2.021,0.822,2.059,1.922c0.026,0.73,0.457,17.997-14.189,27.269c-7,4.431-50.867,16.33-95.719,28.249
+						l15.898,59.983c0.282,1.064-0.353,2.156-1.417,2.438C579.016,623.728,578.844,623.75,578.675,623.75z" />
+</g>
+<g>
+<path fill="#232930" d="M498.55,585.994c-1.291,0-2.368-0.107-3.258-0.325c-0.451-0.11-0.849-0.374-1.126-0.746
+						c-3.408-4.578-4.269-53.317-5.282-133.044c-0.428-33.655-0.832-65.444-1.597-86.586c-0.04-1.101,0.82-2.025,1.921-2.065
+						c1.105-0.028,2.026,0.819,2.065,1.921c0.767,21.188,1.171,53,1.599,86.68c0.689,54.27,1.543,121.411,4.267,130.12
+						c6.447,0.722,24.608-3.968,56.317-12.162l9.818-2.535c1.065-0.273,2.154,0.367,2.43,1.434c0.275,1.067-0.367,2.154-1.434,2.43
+						l-9.816,2.534C523.248,581.713,506.68,585.994,498.55,585.994z" />
+</g>
+<g>
+<path fill="#232930" d="M477.885,371.038c-0.712,0-1.401-0.383-1.761-1.056c-2.485-4.651-14.444-28.117-5.75-33.225
+						c0.596-0.351,1.312-0.435,2.017-0.24c1.92,0.531,5.103,3.17,18.639,27.92c0.529,0.967,0.173,2.179-0.793,2.707
+						c-0.967,0.528-2.179,0.174-2.707-0.793c-10.302-18.838-14.258-24.137-15.746-25.578c-2.488,3.581,2.724,17.713,7.859,27.33
+						c0.519,0.972,0.152,2.18-0.82,2.698C478.524,370.962,478.202,371.038,477.885,371.038z" />
+</g>
+<g>
+<path fill="#232930" d="M454.948,390.58c-0.81,0-1.6-0.237-2.313-0.706c-2.26-1.487-3.603-5.426-4.399-9.399
+						c-1.542,3.38-3.746,6.486-6.728,6.985c-1.289,0.213-2.447-0.179-3.266-1.109c-2.921-3.318-0.001-14.401,1.39-19.013
+						c0.212-0.704,0.795-1.233,1.516-1.379l27.675-5.578c1.082-0.22,2.132,0.481,2.349,1.561c0.218,1.08-0.481,2.132-1.561,2.35
+						l-26.494,5.34c-1.727,6.087-2.601,12.118-2.005,13.821c2.447-0.888,5.057-7.852,6.059-12.78c0.2-0.985,1.103-1.675,2.105-1.592
+						c1.002,0.076,1.792,0.886,1.842,1.89c0.324,6.556,1.892,14.377,3.709,15.571c0.092,0.062,0.114,0.073,0.27,0.016
+						c2.904-1.087,3.338-10.467,2.716-16.465c-0.109-1.056,0.627-2.012,1.675-2.176c1.046-0.17,2.042,0.521,2.26,1.559
+						c1.369,6.498,4.15,14.102,6.258,15.055c0.111,0.051,0.158,0.072,0.336-0.03c2.873-1.621,2.555-11.958,1.436-18.435
+						c-0.188-1.085,0.54-2.117,1.625-2.305c1.086-0.196,2.117,0.539,2.306,1.624c0.545,3.144,2.942,19.006-3.405,22.59
+						c-1.252,0.706-2.652,0.773-3.942,0.19c-1.914-0.866-3.53-3.303-4.826-6.127c-0.673,3.762-2.118,7.162-5.042,8.256
+						C455.981,390.485,455.46,390.58,454.948,390.58z" />
+</g>
+<g>
+<path fill="#232930" d="M437.171,625.707c-1.04,0-1.917-0.807-1.988-1.859c-4.271-62.705,3.909-234.84,3.993-236.571
+						c0.053-1.1,0.975-1.962,2.088-1.896c1.1,0.053,1.949,0.987,1.896,2.088c-0.083,1.729-8.252,173.634-3.998,236.108
+						c0.075,1.1-0.755,2.051-1.854,2.126C437.262,625.705,437.217,625.707,437.171,625.707z" />
+</g>
+<g>
+<path fill="#FFFFFF" d="M480.861,391.545c-2.226-3.518-10.017-15.864-14.47-12.465c-4.453,3.398,2.071,17.808,4.191,19.52
+						c-5.378-2.28-12.14,0.209-14.839,5.461L480.861,391.545z" />
+<path fill="#232930" d="M455.742,406.056c-0.307,0-0.619-0.071-0.91-0.221c-0.98-0.504-1.366-1.706-0.862-2.686
+						c2.4-4.672,7.362-7.416,12.425-7.407c-1.828-3.67-3.573-8.792-3.519-12.716c0.035-2.53,0.811-4.392,2.306-5.533
+						c1.113-0.849,2.455-1.163,3.876-0.908c4.696,0.842,9.664,7.848,13.466,13.856c0.589,0.932,0.323,2.182-0.608,2.771
+						c-0.93,0.587-2.152,0.33-2.741-0.602l-0.022-0.035c-6.29-9.939-9.466-11.824-10.799-12.063
+						c-0.371-0.068-0.569,0.014-0.753,0.153c-0.582,0.444-0.708,1.585-0.732,2.225c-0.178,4.873,3.783,13.109,4.975,14.165
+						c0.732,0.648,0.917,1.757,0.395,2.584c-0.521,0.825-1.536,1.178-2.435,0.797c-4.431-1.875-10.057,0.199-12.286,4.536
+						C457.164,405.661,456.466,406.056,455.742,406.056z" />
+</g>
+</g>
+<g>
+<path fill="#232930" d="M844.781,625.706c-0.013,0-0.025,0-0.038,0c-1.101-0.021-1.977-0.931-1.957-2.031
+					c0.008-0.445,0.412-44.769-33.699-64.673c-32.289-18.841-65.126-38.098-65.454-38.29c-0.95-0.558-1.269-1.779-0.711-2.729
+					c0.557-0.951,1.778-1.269,2.73-0.712c0.328,0.192,33.161,19.447,65.446,38.286c36.16,21.1,35.686,67.726,35.677,68.193
+					C846.753,624.839,845.864,625.706,844.781,625.706z" />
+</g>
+<g>
+<path fill="#232930" d="M643.815,351.505c-0.609,0-1.209-0.278-1.601-0.804c-4.781-6.42-7.625-17.201-6.914-26.217
+					c0.673-8.548,3.828-16.139,9.646-23.205c0.701-0.852,1.958-0.972,2.808-0.272c0.851,0.7,0.973,1.957,0.272,2.808
+					c-5.28,6.414-8.142,13.277-8.749,20.982c-0.63,8.008,1.95,17.899,6.137,23.521c0.658,0.884,0.475,2.133-0.408,2.791
+					C644.647,351.377,644.229,351.505,643.815,351.505z" />
+ </g>
+<g>
+<path fill="#232930" d="M775.411,332.704c-0.08,1.4-0.22,2.78-0.44,4.16c-0.05,0.39-0.12,0.77-0.19,1.16
+					c-0.02,0.09-0.03,0.18-0.05,0.27c-0.18,0.96-1.02,1.63-1.96,1.63c-0.12,0-0.25-0.01-0.37-0.03c-0.86-0.17-1.48-0.85-1.61-1.67
+					c0,0,0,0,0-0.01c-0.03-0.21-0.02-0.43,0.02-0.65c0.07-0.39,0.14-0.79,0.21-1.18c0.13-0.85,0.23-1.7,0.31-2.56
+					c1.02-10.85-2.24-22.3-9.18-31.96c-1.19-1.66-2.49-3.26-3.89-4.81c-1.36-1.51-2.82-2.96-4.37-4.35
+					c-1.56-1.41-3.2-2.75-4.93-4.02c-8.28-11.22-19.62-14.11-26.08-14.8c0.4,0.41,0.79,0.82,1.17,1.25c0.69,0.74,1.36,1.49,2,2.27
+					c-1.16-0.36-2.33-0.68-3.52-0.98c-1.19-0.31-2.4-0.59-3.62-0.85c-1.06-0.23-2.13-0.43-3.21-0.62
+					c-7.48-1.33-15.46-1.83-23.86-1.49c-18.16,0.72-32.47,5.38-42.54,13.83c-0.84,0.71-2.1,0.6-2.81-0.24
+					c-0.71-0.85-0.6-2.1,0.25-2.81c10.76-9.04,25.88-14.01,44.94-14.77c8.49-0.34,16.57,0.15,24.18,1.45
+					c1.36,0.24,2.7,0.49,4.03,0.78c4.39,0.94,8.6,2.16,12.64,3.66c4.23,1.57,8.26,3.48,12.04,5.68c2.54,1.48,4.96,3.08,7.25,4.8
+					c5.33,4,9.93,8.62,13.57,13.7C772.581,309.544,776.101,321.364,775.411,332.704z" />
+</g>
+<g>
+<path fill="#232930" d="M760.931,393.744c0.51,1.67,1.19,3.15,2.03,4.41c-3.39,5.58-7.43,10.75-12.05,15.32
+					c-2.1,2.07-4.32,4.02-6.65,5.83c-0.11,0.09-0.22,0.17-0.33,0.26c-0.36,0.28-0.79,0.41-1.21,0.41c-0.6,0-1.2-0.27-1.59-0.78
+					c-0.67-0.87-0.5-2.12,0.37-2.79c0.9-0.69,1.78-1.4,2.65-2.15c0.68-0.56,1.34-1.15,2-1.76
+					C752.031,407.124,757.011,400.744,760.931,393.744z" />
+<path fill="#232930" d="M772.291,368.454c0.58,0,1.12,0.18,1.62,0.46c-1.5,8.76-4.44,17.3-8.63,25.15
+					c-0.71-1.66-1.22-3.72-1.4-6.11c0-0.01,0-0.01,0-0.01c2.71-5.89,4.7-12.12,5.88-18.49
+					C770.611,368.804,771.471,368.454,772.291,368.454z" />
+<path fill="#232930" d="M774.911,360.364c-0.09,1.49-0.22,2.98-0.4,4.46c-0.73-0.24-1.47-0.36-2.22-0.36
+					c-0.6,0-1.2,0.08-1.78,0.23c0.36-2.88,0.55-5.79,0.56-8.69c0.04-3.85-0.24-7.69-0.84-11.49c-0.17-1.08,0.57-2.11,1.66-2.28
+					c1.09-0.17,2.11,0.58,2.28,1.66C775.031,349.334,775.261,354.864,774.911,360.364z" />
+</g>
+<g>
+<path fill="#232930" d="M772.677,337.284c-0.93,0-1.762-0.654-1.953-1.601c-0.218-1.08,0.481-2.132,1.561-2.35l8.279-1.67
+					c1.087-0.221,2.132,0.482,2.35,1.561c0.218,1.08-0.481,2.132-1.561,2.35l-8.279,1.67
+					C772.94,337.271,772.807,337.284,772.677,337.284z" />
+</g>
+<g>
+<path fill="#232930" d="M777.081,342.553c-0.14,0-0.282-0.015-0.424-0.046l-4.778-1.032c-1.077-0.232-1.761-1.294-1.529-2.371
+					c0.232-1.075,1.292-1.759,2.371-1.529l4.78,1.034c1.077,0.232,1.761,1.294,1.528,2.371
+					C778.826,341.915,778,342.553,777.081,342.553z" />
+</g>
+<g>
+<path fill="#232930" d="M744.829,390.554c-1.895,0-3.801-0.369-5.584-1.124c-1.015-0.43-1.488-1.601-1.059-2.615
+					c0.429-1.015,1.6-1.489,2.614-1.059c3.368,1.428,7.496,0.905,10.272-1.299c2.824-2.241,4.162-6.17,3.254-9.554
+					c-0.909-3.385-4.164-6.078-7.572-6.267c-2.688-0.127-5.447,1.185-7.001,3.397c-0.633,0.9-1.876,1.117-2.778,0.486
+					c-0.902-0.634-1.12-1.877-0.486-2.779c2.327-3.314,6.437-5.325,10.485-5.087c5.134,0.282,9.847,4.157,11.205,9.214
+					c1.309,4.874-0.594,10.514-4.627,13.714C751.089,389.537,747.975,390.554,744.829,390.554z" />
+</g>
+<g>
+<path fill="#232930" d="M663.346,342.272h-15.523c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h15.523
+					c1.102,0,1.995,0.893,1.995,1.994S664.448,342.272,663.346,342.272z" />
+</g>
+<g>
+<path fill="#232930" d="M712.388,349.901h-20.115c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h20.115
+					c1.102,0,1.995,0.893,1.995,1.994S713.49,349.901,712.388,349.901z" />
+</g>
+<g>
+<ellipse fill="#232930" cx="700.26" cy="363.567" rx="2.282" ry="4.222" />
+</g>
+<g>
+<path fill="#232930" d="M660.977,363.573c0,2.323-1.011,4.208-2.295,4.208c-1.257,0-2.268-1.885-2.268-4.208
+					c0-2.35,1.011-4.235,2.268-4.235C659.966,359.338,660.977,361.223,660.977,363.573z" />
+</g>
+<g>
+<path fill="#232930" d="M713.071,399.524c-0.62-0.38-1.4-0.41-2.03-0.05c-10.82,6.01-23.07,9.38-35.43,9.76
+					c-0.63,0.02-1.21,0.33-1.57,0.83c-0.36,0.51-0.46,1.16-0.28,1.76l4.36,13.92c0.21,0.67,0.76,1.18,1.45,1.34
+					c2.07,0.49,4.18,0.73,6.3,0.73c6.04,0,12.06-1.94,16.92-5.58c6.56-4.91,10.75-12.72,11.21-20.91
+					C714.041,400.604,713.681,399.914,713.071,399.524z M700.401,419.044c-5.33,3.99-12.29,5.59-18.82,4.39l-3.24-10.34
+					c10.81-0.68,21.47-3.52,31.18-8.32C708.301,410.414,705.041,415.574,700.401,419.044z" />
+</g>
+<g>
+<path fill="#232930" d="M703.01,335.702c-7.379,0-14.752-1.198-21.719-3.629c-17.69-6.172-32.494-20.206-39.602-37.541
+					c-0.417-1.02,0.07-2.185,1.089-2.603c1.02-0.418,2.185,0.07,2.603,1.089c6.681,16.295,20.596,29.487,37.225,35.289
+					c16.629,5.802,35.73,4.129,51.097-4.473c0.961-0.539,2.177-0.194,2.714,0.766c0.538,0.962,0.195,2.177-0.766,2.715
+					C725.74,332.863,714.369,335.702,703.01,335.702z" />
+</g>
+<g>
+<path fill="#232930" d="M738.067,371.985c-0.562,0-1.121-0.237-1.516-0.697c-4.373-5.103-6.941-11.609-7.231-18.323
+					c-0.291-6.713,1.706-13.417,5.622-18.878c0.643-0.896,1.89-1.099,2.784-0.459c0.895,0.643,1.1,1.889,0.458,2.783
+					c-3.398,4.739-5.131,10.557-4.879,16.382s2.48,11.472,6.275,15.899c0.717,0.836,0.62,2.096-0.217,2.812
+					C738.988,371.827,738.526,371.985,738.067,371.985z" />
+</g>
+<g>
+<path fill="#232930" d="M675.203,391.159c-3.636,0-7.47-1.466-10.227-4.161c-1.667-1.628-2.479-3.367-2.352-5.027
+					c0.197-2.543,2.365-3.812,3.799-4.653l0.144-0.084c6.472-3.803,10.261-11.39,9.652-19.329c-0.084-1.099,0.738-2.057,1.836-2.141
+					c1.104-0.108,2.057,0.738,2.141,1.836c0.725,9.447-3.832,18.504-11.609,23.073l-0.148,0.087
+					c-0.76,0.445-1.802,1.056-1.837,1.519c-0.026,0.338,0.323,1.047,1.162,1.866c2.975,2.908,7.794,3.89,10.972,2.23
+					c0.977-0.509,2.182-0.131,2.691,0.846c0.51,0.977,0.131,2.182-0.845,2.691C678.967,390.755,677.112,391.159,675.203,391.159z" />
+</g>
+<g>
+<path fill="#232930" d="M673.105,474.819c23.37,2.438,49.95-20.598,52.505-41.446c-15.12,21.274-29.936,29.523-52.824,26.349
+					L673.105,474.819z" />
+</g>
+<g>
+<polygon fill="#232930" points="552.53,572.092 565.119,623.711 577.389,623.711 564.62,568.376 				" />
+</g>
+</g>
+<g>
+<path fill="#232930" d="M761.451,350.614c-0.07,2.87-0.21,5.79-0.42,8.76c-0.04,0.67-0.09,1.35-0.15,2.03
+				c-0.04,0.68-0.1,1.36-0.16,2.04c-0.03,0.43-0.07,0.87-0.11,1.31l-19.84-5.84c0.1-0.39,0.2-0.79,0.29-1.19
+				c0.15-0.56,0.27-1.13,0.38-1.71c0.01-0.09,0.03-0.17,0.05-0.26c0.01-0.03,0.02-0.06,0.02-0.09c0-0.02,0.01-0.03,0.01-0.05
+				c0.01-0.02,0.01-0.04,0.02-0.06c4.86-24.53-4.7-61.81-25.84-80.6c-0.21-0.2-0.43-0.39-0.65-0.58c0,0,0.96-0.08,2.58-0.01
+				c0.87,0.03,1.94,0.1,3.15,0.24c1,0.13,2.09,0.29,3.27,0.53c0.69,0.74,1.36,1.49,2,2.27c17.54,20.84,24.49,54.08,20.04,76.16
+				c3.45-2.23,7.25-3.49,11.13-3.49C758.651,350.074,760.061,350.254,761.451,350.614z" />
+</g>
+<g>
+<path fill="#FFFFFF" d="M753.891,292.704c-0.58-1.06-1.2-2.09-1.84-3.08c-2.27-3.5-4.82-6.32-7.48-8.58
+				c-9.38-8.01-20.14-9.21-24.68-9.34c-1.39-0.03-2.2,0.03-2.2,0.03c1.06,0.91,2.09,1.87,3.09,2.87c0.59,0.59,1.17,1.2,1.75,1.82
+				c18.85,20.43,26.74,56.09,21.12,78.91c-0.07,0.32-0.15,0.63-0.23,0.94l17.46,5.13l2.37,0.7c0.33-3.62,0.57-7.18,0.72-10.67
+				C765.031,327.734,761.981,307.224,753.891,292.704z M761.451,350.614c-1.39-0.36-2.8-0.54-4.23-0.54
+				c-3.88,0-7.68,1.26-11.13,3.49c4.45-22.08-2.5-55.32-20.04-76.16c-0.64-0.78-1.31-1.53-2-2.27c-0.38-0.43-0.77-0.84-1.17-1.25
+				c6.46,0.69,17.8,3.58,26.08,14.8c0.48,0.65,0.95,1.32,1.41,2.03c8.74,13.5,12.71,34.11,11.65,60.05
+				C761.831,350.704,761.641,350.654,761.451,350.614z" />
+<path fill="#232930" d="M758.261,297.054c-1.34-3.07-2.86-5.91-4.54-8.51c-0.61-0.95-1.25-1.85-1.9-2.7
+				c-13.3-17.54-33.4-16.18-34.29-16.1c-0.73,0.05-1.37,0.51-1.67,1.18c-0.02,0.06-0.05,0.12-0.07,0.19
+				c-0.25,0.76-0.01,1.6,0.6,2.13c0.42,0.36,0.83,0.73,1.24,1.12c0.43,0.38,0.86,0.78,1.28,1.21
+				c20.64,20.06,28.55,57.44,22.63,79.98c-0.01,0.02-0.01,0.04-0.02,0.06c0,0.02-0.01,0.03-0.01,0.05c0,0.03-0.01,0.06-0.02,0.09
+				c-0.02,0.09-0.04,0.17-0.05,0.26c-0.05,0.4,0.02,0.79,0.19,1.13c0.23,0.48,0.67,0.87,1.23,1.04l17.86,5.26l1.97,0.58
+				c0.19,0.05,0.38,0.08,0.57,0.08c0.39,0,0.78-0.12,1.12-0.35c0.49-0.33,0.81-0.87,0.86-1.47c0.31-3.39,0.54-6.7,0.7-9.94
+				C767.011,329.844,764.391,311.044,758.261,297.054z M762.021,350.764c-0.12,2.85-0.3,5.77-0.54,8.74l-0.45-0.13l-15.22-4.48
+				c0.1-0.44,0.19-0.88,0.28-1.33c4.45-22.08-2.5-55.32-20.04-76.16c-0.64-0.78-1.31-1.53-2-2.27c-0.38-0.43-0.77-0.84-1.17-1.25
+				c6.46,0.69,17.8,3.58,26.08,14.8c0.48,0.65,0.95,1.32,1.41,2.03C759.111,304.214,763.081,324.824,762.021,350.764z" />
+</g>
+<g id="XMLID_2_">
+<path fill="#FF7E5C" d="M759.901,383.414c-0.28,3.84,0.11,7.37,1.03,10.33c0.51,1.67,1.19,3.15,2.03,4.41
+				c1.67,2.54,3.94,4.16,6.62,4.48c0.42,0.05,0.83,0.08,1.23,0.08c1.32,0,2.6-0.26,3.78-0.79c-5.07,7.69-13.02,12.46-23.68,11.55
+				h-0.06c-1.63-0.14-3.2-0.47-4.7-0.98c-0.7-0.23-1.39-0.5-2.05-0.82c-1.43-0.65-2.78-1.48-4.03-2.47
+				c-6.88-5.38-10.88-15.34-9.67-27.43c0.5-4.93,1.8-9.6,3.72-13.76c0.66-1.44,1.4-2.82,2.2-4.13c1.4-2.29,2.99-4.36,4.74-6.16
+				c0.19-0.2,0.38-0.39,0.57-0.58c0.65-0.64,1.33-1.24,2.02-1.81c0.79-0.64,1.6-1.24,2.44-1.77c3.45-2.23,7.25-3.49,11.13-3.49
+				c1.43,0,2.84,0.18,4.23,0.54c0.19,0.04,0.38,0.09,0.57,0.15c0.66,0.18,1.31,0.4,1.95,0.67c0.67,0.26,1.32,0.57,1.97,0.91
+				c1.81,0.96,3.53,2.19,5.13,3.66c1.39,1.28,2.69,2.75,3.84,4.36c1.68,2.32,3.09,4.96,4.12,7.81c-0.19-0.23-0.38-0.46-0.58-0.67
+				c-1.21-1.31-2.55-2.21-3.94-2.68c-0.73-0.24-1.47-0.36-2.22-0.36c-0.6,0-1.2,0.08-1.78,0.23
+				C765.091,366.104,760.601,373.814,759.901,383.414z" />
+<path fill="#FF7E5C" d="M779.541,382.394c0,0.55-0.02,1.1-0.06,1.65c-0.44,6.12-2.33,11.1-5.04,13.34
+				c-1.29,1.07-2.73,1.49-4.38,1.29c-1.83-0.22-3.6-1.85-4.78-4.61c-0.71-1.66-1.22-3.72-1.4-6.11c0-0.01,0-0.01,0-0.01
+				c-0.1-1.31-0.11-2.73,0-4.24c0.5-6.87,3.13-12.14,5.88-14.25c0.85-0.65,1.71-1,2.53-1c0.58,0,1.12,0.18,1.62,0.46
+				c0.64,0.35,1.2,0.85,1.62,1.31C778.031,372.914,779.541,377.564,779.541,382.394z" />
+</g>
+<g>
+<g>
+<path fill="#232930" d="M379.771,589.778h-64.06c-5.34,0-9.685-4.349-9.685-9.694v-64.06c0-5.346,4.345-9.694,9.685-9.694h64.06
+					c5.346,0,9.695,4.349,9.695,9.694v64.06C389.466,585.429,385.116,589.778,379.771,589.778z M315.711,510.318
+					c-3.141,0-5.696,2.56-5.696,5.706v64.06c0,3.146,2.555,5.706,5.696,5.706h64.06c3.146,0,5.706-2.56,5.706-5.706v-64.06
+					c0-3.146-2.56-5.706-5.706-5.706H315.711z" />
+</g>
+<g>
+<g>
+<path fill="#232930" d="M367.347,561.813c-0.569,0-1.134-0.243-1.529-0.713c-0.708-0.844-0.598-2.103,0.246-2.811
+						c3.185-2.671,4.799-6.06,4.799-10.069c0-4.011-1.614-7.399-4.799-10.07c-0.844-0.708-0.954-1.967-0.246-2.811
+						c0.708-0.843,1.966-0.953,2.81-0.246c2.839,2.383,6.224,6.594,6.224,13.127c0,6.532-3.385,10.743-6.224,13.126
+						C368.255,561.66,367.8,561.813,367.347,561.813z" />
+</g>
+<g>
+<path fill="#232930" d="M360.774,556.338c-0.601,0-1.194-0.271-1.587-0.785c-0.668-0.876-0.5-2.127,0.375-2.796
+						c1.603-1.223,2.416-2.749,2.416-4.537s-0.812-3.314-2.415-4.536c-0.876-0.668-1.044-1.919-0.376-2.795
+						c0.667-0.878,1.919-1.045,2.795-0.377c2.607,1.987,3.985,4.653,3.985,7.708c0,3.054-1.378,5.72-3.985,7.709
+						C361.621,556.204,361.196,556.338,360.774,556.338z" />
+</g>
+<g>
+<path fill="#232930" d="M333.532,558.178h-9.134c-2.073,0-3.759-1.687-3.759-3.76v-12.765c0-2.073,1.687-3.759,3.759-3.759
+						h9.134c1.102,0,1.995,0.893,1.995,1.994v16.295C335.526,557.286,334.633,558.178,333.532,558.178z M324.628,554.19h6.909
+						v-12.307h-6.909V554.19z" />
+</g>
+<g>
+<path fill="#232930" d="M351.199,568.218c-0.631,0-1.262-0.163-1.839-0.489l-16.811-9.51c-0.626-0.354-1.013-1.018-1.013-1.736
+						v-16.594c0-0.711,0.378-1.367,0.992-1.725l16.794-9.76c0,0,0,0,0,0c1.169-0.679,2.565-0.682,3.736-0.008
+						c1.171,0.675,1.871,1.884,1.871,3.234v32.85c0,1.343-0.692,2.548-1.852,3.224C352.492,568.047,351.846,568.218,351.199,568.218
+						z M335.526,555.32l15.415,8.72v-31.961l-15.415,8.958V555.32z" />
+</g>
+</g>
+</g>
+<g>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#D5D5D5" d="M613.891,177.244v14c0,4.25-3.45,7.7-7.7,7.7h-64.06
+					c-4.25,0-7.7-3.45-7.7-7.7v-14H613.891z" />
+</g>
+<g>
+<path fill="#232930" d="M606.191,200.938h-64.06c-5.346,0-9.695-4.349-9.695-9.694v-64.06c0-5.346,4.349-9.694,9.695-9.694
+					h64.06c5.346,0,9.694,4.349,9.694,9.694v64.06C615.885,196.589,611.537,200.938,606.191,200.938z M542.131,121.478
+					c-3.146,0-5.706,2.56-5.706,5.706v64.06c0,3.146,2.56,5.706,5.706,5.706h64.06c3.146,0,5.705-2.56,5.705-5.706v-64.06
+					c0-3.146-2.559-5.706-5.705-5.706H542.131z" />
+</g>
+<g>
+<g>
+<path fill="#232930" d="M574.215,172.664h-0.108c-7.597,0-13.777-6.18-13.777-13.776v-15.495
+						c0-7.597,6.18-13.777,13.777-13.777h0.108c7.597,0,13.777,6.181,13.777,13.777v15.495
+						C587.992,166.484,581.811,172.664,574.215,172.664z M574.107,133.603c-5.397,0-9.788,4.392-9.788,9.789v15.495
+						c0,5.396,4.391,9.788,9.788,9.788h0.108c5.397,0,9.788-4.392,9.788-9.788v-15.495c0-5.397-4.391-9.789-9.788-9.789H574.107z" />
+</g>
+<g>
+<path fill="#232930" d="M574.161,179.972c-6.633,0-10.958-2.513-13.417-4.62c-0.836-0.717-0.934-1.977-0.217-2.812
+						c0.717-0.837,1.977-0.934,2.812-0.217c1.949,1.67,5.407,3.661,10.821,3.661c5.413,0,8.873-1.991,10.821-3.661
+						c0.837-0.717,2.096-0.618,2.812,0.217c0.717,0.837,0.62,2.096-0.217,2.812C585.118,177.46,580.793,179.972,574.161,179.972z" />
+</g>
+<g>
+ <path fill="#232930" d="M574.161,188.814c-1.102,0-1.995-0.893-1.995-1.994v-8.464c0-1.102,0.893-1.994,1.995-1.994
+						s1.995,0.893,1.995,1.994v8.464C576.156,187.922,575.262,188.814,574.161,188.814z" />
+</g>
+<g>
+<path fill="#232930" d="M579.644,188.814h-10.966c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h10.966
+						c1.102,0,1.995,0.893,1.995,1.994S580.745,188.814,579.644,188.814z" />
+</g>
+</g>
+</g>
+<g>
+<g>
+<path fill="#232930" d="M465.158,322.918h-13.286c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h13.286
+					c1.102,0,1.995,0.893,1.995,1.994S466.26,322.918,465.158,322.918z" />
+</g>
+<g>
+<path fill="#232930" d="M476.367,331.719h-21.405c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h21.405
+					c1.102,0,1.995,0.893,1.995,1.994S477.469,331.719,476.367,331.719z" />
+</g>
+</g>
+<g>
+<path fill="#232930" d="M381.836,92.141h-70.818c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h70.818
+				c1.102,0,1.995,0.893,1.995,1.994S382.937,92.141,381.836,92.141z" />
+</g>
+<g>
+<path fill="#232930" d="M559.276,92.141h-70.817c-1.102,0-1.995-0.893-1.995-1.994s0.893-1.994,1.995-1.994h70.817
+				c1.102,0,1.995,0.893,1.995,1.994S560.377,92.141,559.276,92.141z" />
+</g>
+<g>
+<g>
+<circle fill="#232930" cx="787.331" cy="304.649" r="4.889" />
+</g>
+<g>
+<circle fill="#232930" cx="804.049" cy="304.649" r="4.889" />
+</g>
+<g>
+<circle fill="#232930" cx="820.768" cy="304.649" r="4.889" />
+</g>
+</g>
+<g>
+<g>
+<circle fill="#232930" cx="255.396" cy="322.998" r="2.998" />
+</g>
+<g>
+<circle fill="#232930" cx="265.647" cy="322.998" r="2.998" />
+</g>
+<g>
+<circle fill="#232930" cx="275.898" cy="322.998" r="2.998" />
+</g>
+</g>
+<g>
+<g>
+<circle fill="#232930" cx="539.762" cy="80.299" r="2.998" />
+</g>
+<g>
+<circle fill="#232930" cx="550.013" cy="80.299" r="2.998" />
+</g>
+<g>
+<circle fill="#232930" cx="560.264" cy="80.299" r="2.998" />
+</g>
+</g>
+</g>
+</g>
+<g id="hand">
+</g>
+<g id="finger">
+</g>
+</svg>
+</div>
+<div class="intro-img-inner" id="intro_anim"></div>
+<video class="ab-intro-video" width="462" height="350" autoplay loop muted playsinline>
+<source src="https://krisp.ai/wp-content/themes/KrispLight/imgs/hero_video.mp4" type="video/mp4" />
+Your browser does not support the video tag.
+</video>
+<div id="play">
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"> <path d="M15.8511 7.48557C17.1014 8.30051 17.0951 10.1359 15.8393 10.9553L9.12666 15.3355C7.75047 16.2335 5.93389 15.2578 5.92991 13.6185L5.9086 4.84896C5.90459 3.19874 7.73794 2.19724 9.11715 3.09624L15.8511 7.48557Z" fill="#FF7E61"></path> </svg>
+Watch Video
+</div>
+</div>
+</div>
+</section><section class="container full pt-small pb-medium" id="krisp">
+<div class="container">
+<h3 class="large-title text-center">
+Meet Krisp app
+</h3>
+<div class="features-wrapper">
+<div class="ui-wrapper" id="ui-wrapper"></div>
+<div class="features-list">
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.2496 6.50029V13.0003C16.2496 14.7952 14.7945 16.2503 12.9996 16.2503C11.2047 16.2503 9.74961 14.7952 9.74961 13.0003V6.50029C9.74961 4.70537 11.2047 3.25029 12.9996 3.25029C14.7945 3.25029 16.2496 4.70537 16.2496 6.50029ZM7.79961 6.50029C7.79961 3.62841 10.1277 1.30029 12.9996 1.30029C15.8715 1.30029 18.1996 3.62841 18.1996 6.50029V13.0003C18.1996 15.8722 15.8715 18.2003 12.9996 18.2003C10.1277 18.2003 7.79961 15.8722 7.79961 13.0003V6.50029ZM12.9996 19.8253C9.23027 19.8253 6.17461 16.7696 6.17461 13.0003H4.22461C4.22461 17.517 7.63716 21.2367 12.0246 21.7217V23.0753H8.44961V25.0253H12.9982C12.9987 25.0253 12.9992 25.0253 12.9996 25.0253C13.0001 25.0253 13.0005 25.0253 13.001 25.0253H17.5496V23.0753H13.9746V21.7217C18.3621 21.2367 21.7746 17.517 21.7746 13.0003H19.8246C19.8246 16.7696 16.769 19.8253 12.9996 19.8253Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">AI-based noise cancellation</p>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.3488 19.9779L8.44883 17.6668V8.33343L12.3488 6.02232V19.9779ZM7.71753 6.50012L13.3175 3.18165C13.7507 2.92488 14.2988 3.23718 14.2988 3.74084V22.2594C14.2988 22.763 13.7507 23.0753 13.3175 22.8185L12.3488 22.2445L7.71763 19.5001H3.89883C2.46289 19.5001 1.29883 18.3361 1.29883 16.9001V9.10012C1.29883 7.66418 2.46289 6.50012 3.89883 6.50012H7.71753ZM6.49883 8.45012H3.89883C3.53984 8.45012 3.24883 8.74114 3.24883 9.10012V16.9001C3.24883 17.2591 3.53984 17.5501 3.89883 17.5501H6.49883V8.45012ZM15.9986 17.274C15.7921 16.7767 16.0279 16.2062 16.5252 15.9997C16.9178 15.8367 17.2746 15.5978 17.5753 15.2965C17.8759 14.9951 18.1146 14.6372 18.2774 14.2432C18.4402 13.8492 18.5241 13.4268 18.5241 13.0002C18.5241 12.5736 18.4402 12.1512 18.2774 11.7571C18.1146 11.3631 17.8759 11.0053 17.5753 10.7039C17.2746 10.4026 16.9178 10.1636 16.5252 10.0007C16.0279 9.7942 15.7921 9.22367 15.9986 8.72635C16.2051 8.22902 16.7756 7.99324 17.2729 8.1997C17.9024 8.46102 18.4742 8.84398 18.9557 9.32661C19.4372 9.80923 19.8191 10.3821 20.0796 11.0124C20.34 11.6426 20.4741 12.3181 20.4741 13.0002C20.4741 13.6823 20.34 14.3577 20.0796 14.988C19.8191 15.6183 19.4372 16.1911 18.9557 16.6738C18.4742 17.1564 17.9024 17.5394 17.2729 17.8007C16.7756 18.0071 16.2051 17.7713 15.9986 17.274ZM19.0907 18.6149C18.6017 18.8404 18.3882 19.4196 18.6137 19.9086C18.8393 20.3976 19.4185 20.6111 19.9075 20.3856C20.7993 19.9742 21.6024 19.3745 22.2741 18.6265C22.9456 17.8787 23.4734 16.9965 23.832 16.0325C24.1905 15.0685 24.3741 14.0384 24.3741 13.0002C24.3741 11.962 24.1905 10.9319 23.832 9.96792C23.4734 9.00392 22.9456 8.12169 22.2741 7.3739C21.6024 6.6259 20.7993 6.02625 19.9075 5.61486C19.4185 5.38931 18.8393 5.60285 18.6137 6.09181C18.3882 6.58077 18.6017 7.16 19.0907 7.38555C19.7318 7.6813 20.3216 8.11812 20.8232 8.67674C21.325 9.23557 21.7279 9.90453 22.0043 10.6477C22.2808 11.391 22.4241 12.1906 22.4241 13.0002C22.4241 13.8098 22.2808 14.6095 22.0043 15.3527C21.7279 16.0959 21.325 16.7648 20.8232 17.3237C20.3216 17.8823 19.7318 18.3191 19.0907 18.6149Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">Remove unwanted noise from both ends of a conference call</p>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.65 6.16699C3.29102 6.16699 3 6.45801 3 6.81699V18.8503C3 19.2093 3.29101 19.5003 3.65 19.5003H4.56934C4.92832 19.5003 5.21934 19.2093 5.21934 18.8503V13.593H9.93725V18.8503C9.93725 19.2093 10.2283 19.5003 10.5873 19.5003H11.5156C11.8746 19.5003 12.1656 19.2093 12.1656 18.8503V6.81699C12.1656 6.45801 11.8746 6.16699 11.5156 6.16699H10.5873C10.2283 6.16699 9.93725 6.45801 9.93725 6.81699V11.6618H5.21934V6.81699C5.21934 6.45801 4.92832 6.16699 4.56934 6.16699H3.65ZM15.1068 6.16699C14.7479 6.16699 14.4568 6.45801 14.4568 6.81699V18.8503C14.4568 19.2093 14.7479 19.5003 15.1068 19.5003H17.682C19.3739 19.5003 20.7078 19.0234 21.6359 18.0319L21.6365 18.0313C22.5584 17.0401 23 15.6571 23 13.9221V11.7803C23 10.0463 22.565 8.66153 21.6567 7.66478C20.7442 6.65749 19.469 6.16699 17.8714 6.16699H15.1068ZM16.6762 17.5691V8.10698H17.8714C18.8888 8.10698 19.5991 8.40313 20.0597 8.95311L20.0615 8.95526C20.5343 9.50829 20.7987 10.4162 20.7987 11.7365V13.9998C20.7868 15.2375 20.5195 16.1252 20.0407 16.7066C19.5773 17.2636 18.8259 17.5691 17.7181 17.5691H16.6762Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">HD Voice, for the best voice quality</p>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.575 3.8998C3.575 3.36133 3.13848 2.9248 2.6 2.9248C2.06152 2.9248 1.625 3.36133 1.625 3.8998V22.0998C1.625 22.6383 2.06152 23.0748 2.6 23.0748C3.13848 23.0748 3.575 22.6383 3.575 22.0998V3.8998ZM24.375 3.9C24.375 3.36152 23.9385 2.925 23.4 2.925C22.8615 2.925 22.425 3.36152 22.425 3.9V22.1C22.425 22.6385 22.8615 23.075 23.4 23.075C23.9385 23.075 24.375 22.6385 24.375 22.1V3.9ZM5.46295 18.528C5.39485 17.9938 5.77267 17.5056 6.30682 17.4375L17.4821 16.0128L15.7515 14.6222C15.3317 14.285 15.2648 13.6713 15.6021 13.2515C15.9394 12.8317 16.5531 12.7649 16.9729 13.1022L20.5197 15.9521C20.7213 16.1141 20.8503 16.3495 20.8783 16.6066C20.9063 16.8636 20.831 17.1213 20.6691 17.3229L17.8191 20.8698C17.4818 21.2895 16.8681 21.3564 16.4483 21.0191C16.0286 20.6818 15.9617 20.0681 16.299 19.6483L17.6587 17.9561L6.55342 19.3718C6.01926 19.4399 5.53104 19.0621 5.46295 18.528ZM20.0829 9.42516C20.6171 9.49326 20.9949 9.98148 20.9268 10.5156C20.8587 11.0498 20.3705 11.4276 19.8363 11.3595L8.73242 9.94395L10.092 11.636C10.4293 12.0558 10.3625 12.6695 9.9427 13.0068C9.52294 13.3441 8.90923 13.2772 8.57195 12.8574L5.72196 9.31055C5.55999 9.10897 5.48473 8.85131 5.51273 8.59425C5.54074 8.33718 5.66971 8.10177 5.87129 7.9398L9.41815 5.08983C9.8379 4.75255 10.4516 4.81941 10.7889 5.23917C11.1262 5.65893 11.0593 6.27263 10.6396 6.60991L8.90875 8.00065L20.0829 9.42516Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">Room & Acoustic echo removal</p>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.5504 9.10029C17.5504 8.38232 16.9684 7.80029 16.2504 7.80029C15.5324 7.80029 14.9504 8.38232 14.9504 9.10029V16.9003C14.9504 17.6183 15.5324 18.2003 16.2504 18.2003C16.9684 18.2003 17.5504 17.6183 17.5504 16.9003V9.10029ZM3.25039 8.77529C3.78887 8.77529 4.22539 9.21182 4.22539 9.75029V16.2503C4.22539 16.7888 3.78887 17.2253 3.25039 17.2253C2.71191 17.2253 2.27539 16.7888 2.27539 16.2503V9.75029C2.27539 9.21182 2.71191 8.77529 3.25039 8.77529ZM6.50039 8.77529C7.03887 8.77529 7.47539 9.21182 7.47539 9.75029V16.2503C7.47539 16.7888 7.03887 17.2253 6.50039 17.2253C5.96191 17.2253 5.52539 16.7888 5.52539 16.2503V9.75029C5.52539 9.21182 5.96191 8.77529 6.50039 8.77529ZM10.7254 9.75029C10.7254 9.21182 10.2889 8.77529 9.75039 8.77529C9.21191 8.77529 8.77539 9.21182 8.77539 9.75029V16.2503C8.77539 16.7888 9.21191 17.2253 9.75039 17.2253C10.2889 17.2253 10.7254 16.7888 10.7254 16.2503V9.75029ZM13.0004 8.77529C13.5389 8.77529 13.9754 9.21182 13.9754 9.75029V16.2503C13.9754 16.7888 13.5389 17.2253 13.0004 17.2253C12.4619 17.2253 12.0254 16.7888 12.0254 16.2503V9.75029C12.0254 9.21182 12.4619 8.77529 13.0004 8.77529ZM19.5004 8.77529C20.0389 8.77529 20.4754 9.21182 20.4754 9.75029V16.2503C20.4754 16.7888 20.0389 17.2253 19.5004 17.2253C18.9619 17.2253 18.5254 16.7888 18.5254 16.2503V9.75029C18.5254 9.21182 18.9619 8.77529 19.5004 8.77529ZM23.7254 9.75029C23.7254 9.21182 23.2889 8.77529 22.7504 8.77529C22.2119 8.77529 21.7754 9.21182 21.7754 9.75029V16.2503C21.7754 16.7888 22.2119 17.2253 22.7504 17.2253C23.2889 17.2253 23.7254 16.7888 23.7254 16.2503V9.75029Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">Floating widget - easy access to key features</p>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.8008 6.4998H5.20078C4.12383 6.4998 3.25078 7.37285 3.25078 8.4498V17.5498C3.25078 18.6268 4.12383 19.4998 5.20078 19.4998H20.8008C21.8777 19.4998 22.7508 18.6268 22.7508 17.5498V8.4498C22.7508 7.37285 21.8777 6.4998 20.8008 6.4998ZM5.20078 4.5498C3.04687 4.5498 1.30078 6.29589 1.30078 8.4498V17.5498C1.30078 19.7037 3.04687 21.4498 5.20078 21.4498H20.8008C22.9547 21.4498 24.7008 19.7037 24.7008 17.5498V8.4498C24.7008 6.29589 22.9547 4.5498 20.8008 4.5498H5.20078ZM9.72664 11.6445L14.7129 16.2983L17.9055 14.0635L21.3986 16.7803C21.8236 17.1109 21.9002 17.7235 21.5696 18.1485C21.239 18.5736 20.6265 18.6502 20.2014 18.3196L17.8445 16.4864L14.5371 18.8016L9.77336 14.3554L5.88943 18.2394C5.50867 18.6201 4.89133 18.6201 4.51057 18.2394C4.12981 17.8586 4.12981 17.2413 4.51057 16.8605L9.72664 11.6445ZM17.55 12.35C18.627 12.35 19.5 11.477 19.5 10.4C19.5 9.32304 18.627 8.45 17.55 8.45C16.473 8.45 15.6 9.32304 15.6 10.4C15.6 11.477 16.473 12.35 17.55 12.35Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">Virtual Background
+<div class="availability">
+<span class="beta">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/beta-label.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/beta-label.svg" alt="krisp" />
+</span>
+<div class="has-tooltip">
+ <span class="tooltip">
+Available on Mac
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac-white.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac-white.svg" alt="krisp" />
+</div>
+<div class="has-tooltip">
+<span class="tooltip">
+Coming soon on Windows
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win-white.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win-white.svg" alt="krisp" />
+</div>
+</div>
+</p>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.4496 13.0001C21.4496 17.6669 17.6664 21.4501 12.9996 21.4501C8.3328 21.4501 4.54961 17.6669 4.54961 13.0001C4.54961 8.33329 8.3328 4.5501 12.9996 4.5501C17.6664 4.5501 21.4496 8.33329 21.4496 13.0001ZM23.3996 13.0001C23.3996 18.7439 18.7434 23.4001 12.9996 23.4001C7.25585 23.4001 2.59961 18.7439 2.59961 13.0001C2.59961 7.25634 7.25585 2.6001 12.9996 2.6001C18.7434 2.6001 23.3996 7.25634 23.3996 13.0001ZM13 18.85C16.2309 18.85 18.85 16.2309 18.85 13C18.85 9.76913 16.2309 7.15 13 7.15C9.76913 7.15 7.15 9.76913 7.15 13C7.15 16.2309 9.76913 18.85 13 18.85Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">Instant audio recording of your online <br>meetings</p>
+<div class="availability">
+<div class="has-tooltip">
+<span class="tooltip">
+Available on Mac
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac-white.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac-white.svg" alt="krisp" />
+</div>
+<div class="has-tooltip">
+<span class="tooltip">
+Coming soon on Windows
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win-white.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win-white.svg" alt="krisp" />
+</div>
+</div>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7178 0.975098C7.39289 0.975098 3.07617 5.29182 3.07617 10.6168V12.8978C2.04342 13.242 1.29883 14.2165 1.29883 15.3649V21.45C1.29883 22.886 2.46289 24.05 3.89883 24.05H7.66883C8.02782 24.05 8.31883 23.759 8.31883 23.4V13.4149C8.31883 13.0559 8.02782 12.7649 7.66883 12.7649H5.02617V10.6168C5.02617 6.36877 8.46985 2.9251 12.7178 2.9251H13.2786C17.5266 2.9251 20.9703 6.36877 20.9703 10.6168V12.7649H18.3288C17.9698 12.7649 17.6788 13.0559 17.6788 13.4149V23.4C17.6788 23.759 17.9698 24.05 18.3288 24.05H22.0988C23.5348 24.05 24.6988 22.886 24.6988 21.45V15.3649C24.6988 14.216 23.9537 13.2412 22.9203 12.8974V10.6168C22.9203 5.29182 18.6036 0.975098 13.2786 0.975098H12.7178ZM6.36883 14.7149H3.89883C3.53984 14.7149 3.24883 15.0059 3.24883 15.3649V21.45C3.24883 21.809 3.53984 22.1 3.89883 22.1H6.36883V14.7149ZM19.6288 14.7149H22.0988C22.4578 14.7149 22.7488 15.0059 22.7488 15.3649V21.45C22.7488 21.809 22.4578 22.1 22.0988 22.1H19.6288V14.7149Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">Full support for any headset, microphone and speaker</p>
+</div>
+<div class="feature-item">
+<div class="feature-img-wrapper">
+<svg width="26" height="26" viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14.357 2.64042C14.7373 2.25918 14.7373 1.64106 14.357 1.25981C13.9767 0.878566 13.3602 0.878566 12.9799 1.25981L10.3184 3.92805L8.30847 1.91299L5.16295 5.06651C3.16693 7.06762 2.95697 10.1813 4.5331 12.4164L2.01794 14.938L2.00057 14.9574C0.892403 16.1938 1.21155 18.0201 2.07332 19.148C2.53223 19.7487 3.19499 20.242 4.0241 20.445C4.8624 20.6503 5.7901 20.5391 6.73413 20.0659C7.44548 19.7093 8.16044 19.8541 8.81822 20.5004C9.50671 21.1769 10.0651 22.3751 10.1643 23.8663C10.2 24.4043 10.664 24.8113 11.2006 24.7754C11.7372 24.7396 12.1432 24.2744 12.1075 23.7364C11.9833 21.8687 11.2781 20.1836 10.1814 19.106C9.05396 17.9982 7.46199 17.5181 5.86317 18.3195C5.27731 18.6132 4.82068 18.6302 4.48622 18.5483C4.14257 18.4642 3.84413 18.2549 3.61941 17.9608C3.12198 17.3097 3.17423 16.5904 3.43628 16.2773L5.9103 13.7969C8.13973 15.3765 11.245 15.1659 13.2409 13.165L16.3864 10.0115L14.5997 8.22022L17.2617 5.55146C17.6419 5.17021 17.6419 4.55209 17.2617 4.17085C16.8814 3.7896 16.2648 3.7896 15.8846 4.17085L13.2226 6.83961L11.6955 5.30866L14.357 2.64042ZM6.55252 11.7968C8.0236 13.2582 10.3978 13.2541 11.8638 11.7844L13.6322 10.0115L9.65333 6.0225C9.64528 6.01495 9.63732 6.00723 9.62947 5.99936C9.62161 5.99148 9.61392 5.98351 9.60639 5.97543L8.30847 4.67421L6.54006 6.44712C5.07395 7.91696 5.06996 10.2976 6.5281 11.7724C6.53225 11.7764 6.53638 11.7804 6.54048 11.7845C6.54454 11.7886 6.54855 11.7927 6.55252 11.7968ZM24.4095 11.7468C24.7897 12.128 24.7897 12.7461 24.4095 13.1274L19.2769 18.273C19.0149 18.5357 18.6268 18.6265 18.2758 18.5073C17.9248 18.388 17.6717 18.0793 17.6231 17.7109L17.2549 14.9259L13.6882 18.5017C13.3079 18.8829 12.6913 18.8829 12.3111 18.5017C11.9308 18.1204 11.9308 17.5023 12.3111 17.1211L17.2725 12.147C17.5346 11.8843 17.9227 11.7935 18.2737 11.9127C18.6247 12.032 18.8777 12.3407 18.9264 12.709L19.2946 15.4941L23.0324 11.7468C23.4126 11.3655 24.0292 11.3655 24.4095 11.7468Z" fill="#6371DE" />
+</svg>
+</div>
+<p class="normal-text">Low power mode for minimal CPU usage</p>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<h4 class="medium-title text-center">
+Works with 800+ communication apps
+</h4>
+<div class="apps-wrapper">
+<div class="apps-inner">
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/zoom.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/zoom.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/meet.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/meet.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/slack.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/slack.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/teams.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/teams.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/discord.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/discord.svg" alt="krisp" />
+</div>
+</div>
+<div class="border"></div>
+<div class="apps-inner">
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/bluejeans.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/bluejeans.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/ring-central.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/ring-central.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/webex.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/webex.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/genesys.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/genesys.svg" alt="krisp" />
+</div>
+<div class="apps-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/hangouts.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/apps-v2/hangouts.svg" alt="krisp" />
+</div>
+</div>
+</div>
+</div>
+</section><section class="container full pb-small pt-medium" id="demo-v2">
+<div class="container">
+<h3 class="text-center medium-title">
+Krisp makes it all go away. Hear the difference. </h3>
+<div class="demo-outer">
+<div class="list-wrapper"></div>
+<div class="player-wrapper">
+<div class="player-inner">
+<div class="demo-img-wrapper text-center">
+<img src="" alt="krisp" />
+</div>
+<div id="audio-title" class="text-center"></div>
+<div class="text-center">
+<div class="noise-cancel-container">
+<a id="noise-cancellation-switch" href="javascript:void(0)" class="switch off">
+<span><em></em></span>
+</a>
+</div>
+</div>
+<div class="diagram-container">
+<div class="diagram-inner">
+<div class="diagram-image clean" id="diagramClean">
+</div>
+<div class="diagram-image noisy show" id="diagramNoisy">
+</div>
+<div class="diagram-image room-bg">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/room-echo.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/room-echo.svg" alt="krisp" />
+</div>
+<div class="diagram-image acoustic-bg">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/acoustic-echo.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/acoustic-echo.svg" alt="krisp" />
+</div>
+</div>
+</div>
+<div class="play-visual-container">
+<div class="play-button">
+<span class="play-state"><noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/demo/play-btn.svg" alt="play"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/demo/play-btn.svg" alt="play" /></span>
+<span class="pause-state hidden"><noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/demo/pause-btn.svg" alt="pause"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/demo/pause-btn.svg" alt="pause" /></span>
+<span class="loading-state"><div class="loading"><div class="loadingio-spinner-rolling-k5h6h7k7yg"><div class="ldio-focyou2y9r"><div></div></div></div></div></span>
+</div>
+<div class="amplitudes-container">
+<div id="playing-progress" class="playing-progress"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cta-button centered cta-orange">
+<a href=""> </a>
+</div>
+<div class="mobile-icons-wrapper">
+<div class="btn-mob-signup">
+<a class="mobile-signup" href="">
+Get Krisp for Desktop
+</a>
+</div>
+</div> </div>
+</section><section class="container full pt-medium pb-small" id="new-features">
+<div class="new-features-badge">
+NEW FEATURES
+</div>
+<div class="container features-inner-container">
+<div class="recordings-wrapper">
+<div class="availability">
+<span class="availability-title">
+AUDIO RECORDINGS
+</span>
+<div class="has-tooltip">
+<span class="tooltip">
+Available on Mac
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac.svg" alt="krisp" />
+</div>
+<div class="has-tooltip">
+<span class="tooltip">
+Coming soon on Windows
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win.svg" alt="krisp" />
+</div>
+</div>
+<h3>
+Instantly record your online meetings
+</h3>
+<p>
+Krisp makes it easy to record the audio
+of your meetings with any conferencing app
+at any time and share them with your colleagues.
+</p>
+<div class="img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/recording-ui.png" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/recording-ui.png" alt="krisp" />
+</div>
+</div>
+<div class="virtual-bg-wrapper">
+<div class="availability">
+<span class="availability-title">
+VIRTUAL BACKGROUND
+</span>
+<span class="beta">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/beta-label.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/beta-label.svg" alt="krisp" />
+</span>
+<div class="has-tooltip">
+<span class="tooltip">
+Available on Mac <br />
+Coming soon on M1 devices.
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac-white.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/available-on-mac-white.svg" alt="krisp" />
+</div>
+<div class="has-tooltip">
+<span class="tooltip">
+Coming soon on Windows
+</span>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win-white.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not-available-win-white.svg" alt="krisp" />
+</div>
+</div>
+<h3>
+Virtual Backgrounds
+</h3>
+<p>
+Simply select “Krisp Camera” in your meeting app and set a desired background from Krisp.
+<br><br>
+Enjoy full control of your online meetings by combining this with other Krisp features like noise and echo removal for ultimate privacy and flexibility.
+</p>
+<div class="img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/virtual-bg-ui.png" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/virtual-bg-ui.png" alt="krisp" />
+</div>
+</div>
+</div>
+</section><section class="container full pt-large" id="why-krisp">
+<div class="container why-krisp-container">
+<div class="why-krisp-image-scroller">
+<div class="scroller-image-wrapper">
+<div data-img="0" data-anim="scroller_hd" class="show">
+
+</div>
+<div data-img="1" data-anim="scroller_speaker">
+
+</div>
+<div data-img="2" data-anim="scroller_parrot">
+
+</div>
+</div>
+</div>
+<div class="why-krisp-inner">
+<div class="why-krisp-items-wrapper">
+<div class="why-krisp-item" data-item="0">
+<h2>
+Remove background noise and experience HD Voice.
+</h2>
+<p>
+Krisp removes all unwanted noise from your call while delivering HD Voice quality. All in real time!<br>
+You won’t sound underwater or distorted anymore.
+</p>
+</div>
+<div class="why-krisp-img-wrapper img-wrapper-1"></div>
+<div class="why-krisp-item" data-item="1">
+<h2>
+Turn off noise coming from others on calls
+</h2>
+<p>
+Krisp removes all types of background noise and echo coming from participants during meetings. You will not need to ask them to “go on mute” anymore.
+</p>
+</div>
+<div class="why-krisp-img-wrapper img-wrapper-2"></div>
+<div class="why-krisp-item" data-item="2">
+<h2>
+Acoustic Echo and Room Echo Removal
+</h2>
+<p>
+Krisp removes both the echo resonating from walls
+of empty room and the echo that occurs from
+your own voice during the call.<br>
+Your mic will no longer act like a parrot.
+</p>
+</div>
+<div class="why-krisp-img-wrapper img-wrapper-3"></div>
+</div>
+</div>
+</div>
+</section><section class="container full pt-small pb-small" id="awards">
+<div class="container">
+<h2 class="text-center medium-title">
+Krisp is a recognized industry-favorite
+</h2>
+<div class="awards-outer">
+<div class="award-inner award-inner-gartner">
+<div class="award-inner-img">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/gartner.png" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/gartner.png" alt="krisp" />
+</div>
+</div>
+<div class="award-inner">
+<div class="award-inner-img">
+<svg width="105" height="54" viewBox="0 0 105 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.95362 21.6289L8.26664 18.9651H3.38909L2.70211 21.6289H0L4.80885 5.69141H6.84688L11.6557 21.6289H8.95362ZM3.96157 16.7338H7.69416L5.83931 9.42534L3.96157 16.7338Z" fill="#3B3D50" />
+<path d="M13.397 21.6289V5.69141H15.9388V21.6289H13.397Z" fill="#3B3D50" />
+<path d="M58.9668 21.6304C58.9668 19.7482 59.2263 18.2683 59.7454 17.1906C60.2797 16.1129 61.1728 15.1719 62.4246 14.3674L64.0504 13.3201C64.8443 12.8192 65.371 12.3411 65.6305 11.8857C65.9053 11.4152 66.0427 10.8612 66.0427 10.2237C66.0427 9.54063 65.8747 9.01696 65.5389 8.65268C65.2183 8.27321 64.7603 8.08348 64.1649 8.08348C62.623 8.08348 61.8521 9.11563 61.8521 11.1799H59.1958C59.1958 9.54063 59.6232 8.25045 60.4781 7.30938C61.3331 6.35313 62.5543 5.875 64.142 5.875C65.6534 5.875 66.7983 6.25446 67.5769 7.01339C68.3708 7.77232 68.7677 8.81964 68.7677 10.1554C68.7677 11.1268 68.554 11.9996 68.1265 12.7737C67.7143 13.5478 66.9892 14.2612 65.9511 14.9138L64.4626 15.8701C63.5772 16.4317 62.9513 16.9478 62.5849 17.4183C62.2338 17.8737 61.9971 18.4656 61.875 19.1942H68.47V21.6304H58.9668Z" fill="#3B3D50" />
+<path d="M75.3664 21.9036C73.504 21.9036 72.1453 21.2661 71.2904 19.9911C70.4507 18.7161 70.0309 16.6821 70.0309 13.8893C70.0309 11.0964 70.4507 9.0625 71.2904 7.7875C72.1453 6.5125 73.504 5.875 75.3664 5.875C77.2136 5.875 78.5571 6.5125 79.3967 7.7875C80.2516 9.0625 80.6791 11.0964 80.6791 13.8893C80.6791 16.6821 80.2516 18.7161 79.3967 19.9911C78.5571 21.2661 77.2136 21.9036 75.3664 21.9036ZM75.3664 19.7634C76.4351 19.7634 77.1831 19.3308 77.6106 18.4656C78.038 17.6004 78.2517 16.075 78.2517 13.8893C78.2517 11.7036 78.038 10.1781 77.6106 9.31295C77.1831 8.44777 76.4351 8.01518 75.3664 8.01518C74.2825 8.01518 73.5269 8.44777 73.0994 9.31295C72.672 10.1781 72.4582 11.7036 72.4582 13.8893C72.4582 16.075 72.672 17.6004 73.0994 18.4656C73.5269 19.3308 74.2825 19.7634 75.3664 19.7634Z" fill="#3B3D50" />
+<path d="M82.291 21.6304C82.291 19.7482 82.5505 18.2683 83.0695 17.1906C83.6038 16.1129 84.4969 15.1719 85.7487 14.3674L87.3746 13.3201C88.1684 12.8192 88.6951 12.3411 88.9546 11.8857C89.2294 11.4152 89.3668 10.8612 89.3668 10.2237C89.3668 9.54063 89.1989 9.01696 88.863 8.65268C88.5425 8.27321 88.0845 8.08348 87.4891 8.08348C85.9472 8.08348 85.1763 9.11563 85.1763 11.1799H82.52C82.52 9.54063 82.9474 8.25045 83.8023 7.30938C84.6572 6.35313 85.8785 5.875 87.4662 5.875C88.9775 5.875 90.1225 6.25446 90.9011 7.01339C91.6949 7.77232 92.0918 8.81964 92.0918 10.1554C92.0918 11.1268 91.8781 11.9996 91.4507 12.7737C91.0385 13.5478 90.3133 14.2612 89.2752 14.9138L87.7868 15.8701C86.9013 16.4317 86.2754 16.9478 85.909 17.4183C85.5579 17.8737 85.3213 18.4656 85.1992 19.1942H91.7942V21.6304H82.291Z" fill="#3B3D50" />
+<path d="M98.6906 21.9036C96.8281 21.9036 95.4694 21.2661 94.6145 19.9911C93.7749 18.7161 93.3551 16.6821 93.3551 13.8893C93.3551 11.0964 93.7749 9.0625 94.6145 7.7875C95.4694 6.5125 96.8281 5.875 98.6906 5.875C100.538 5.875 101.881 6.5125 102.721 7.7875C103.576 9.0625 104.003 11.0964 104.003 13.8893C104.003 16.6821 103.576 18.7161 102.721 19.9911C101.881 21.2661 100.538 21.9036 98.6906 21.9036ZM98.6906 19.7634C99.7592 19.7634 100.507 19.3308 100.935 18.4656C101.362 17.6004 101.576 16.075 101.576 13.8893C101.576 11.7036 101.362 10.1781 100.935 9.31295C100.507 8.44777 99.7592 8.01518 98.6906 8.01518C97.6067 8.01518 96.851 8.44777 96.4236 9.31295C95.9961 10.1781 95.7824 11.7036 95.7824 13.8893C95.7824 16.075 95.9961 17.6004 96.4236 18.4656C96.851 19.3308 97.6067 19.7634 98.6906 19.7634Z" fill="#3B3D50" />
+<ellipse cx="37.727" cy="13.9453" rx="14.0258" ry="13.9453" fill="#3B3D50" />
+<path d="M33.618 20.1269C32.5875 20.1269 31.7803 19.8366 31.1964 19.256C30.6239 18.6754 30.3205 17.9013 30.2861 16.9337H31.3681C31.391 17.594 31.5971 18.129 31.9864 18.5388C32.3757 18.9373 32.9138 19.1365 33.6008 19.1365C34.345 19.1365 34.9232 18.869 35.3354 18.3339C35.7476 17.7989 35.9537 17.0362 35.9537 16.0458C35.9537 15.0326 35.7533 14.2585 35.3526 13.7234C34.9633 13.1884 34.4252 12.9209 33.7382 12.9209C32.6276 12.9209 31.9005 13.4331 31.557 14.4577H30.4579V8.31038H36.4861V9.31786H31.4368V13.399C31.9406 12.42 32.7879 11.9305 33.9786 11.9305C34.9175 11.9305 35.6675 12.2891 36.2285 13.0062C36.7895 13.7234 37.07 14.7366 37.07 16.0458C37.07 17.298 36.7552 18.2941 36.1254 19.034C35.5072 19.7626 34.6713 20.1269 33.618 20.1269Z" fill="white" />
+<path d="M44.9133 18.6925C44.3064 19.6488 43.3447 20.1269 42.028 20.1269C40.7112 20.1269 39.7438 19.6488 39.1255 18.6925C38.5186 17.7249 38.2152 16.1994 38.2152 14.1162C38.2152 12.0329 38.5186 10.5132 39.1255 9.55692C39.7438 8.58929 40.7112 8.10547 42.028 8.10547C43.3447 8.10547 44.3064 8.58929 44.9133 9.55692C45.5201 10.5132 45.8235 12.0329 45.8235 14.1162C45.8235 16.1994 45.5201 17.7249 44.9133 18.6925ZM39.9155 18.0095C40.3391 18.7836 41.0433 19.1706 42.028 19.1706C43.0126 19.1706 43.7111 18.7836 44.1232 18.0095C44.5469 17.2354 44.7587 15.9376 44.7587 14.1162C44.7587 12.2948 44.5469 10.997 44.1232 10.2229C43.7111 9.44877 43.0126 9.06172 42.028 9.06172C41.0433 9.06172 40.3391 9.44877 39.9155 10.2229C39.5033 10.997 39.2972 12.2948 39.2972 14.1162C39.2972 15.9376 39.5033 17.2354 39.9155 18.0095Z" fill="white" />
+<g clip-path="url(#clip0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57.2119 41.3161C56.1512 41.3161 55.3141 41.5421 54.4814 41.9941C54.4814 39.5864 54.4814 37.4047 54.5559 36.6528L49.4717 37.5568V38.0088L50.002 38.0827C50.6857 38.2348 50.9137 38.6085 51.0627 39.5125C51.2161 41.3205 51.1372 50.9513 51.0627 52.5332C52.4301 52.8331 53.8721 53.0591 55.3141 53.0591C59.3376 53.0591 61.7658 50.5775 61.7658 46.6617C61.7658 43.5717 59.7935 41.3161 57.2119 41.3161ZM55.4675 52.229C55.1651 52.229 54.7838 52.229 54.5559 52.1551C54.4814 51.1034 54.4025 46.6617 54.4814 42.746C54.9372 42.5939 55.2396 42.52 55.6209 42.52C57.2908 42.52 58.2025 44.4757 58.2025 46.8834C58.1981 49.8952 57.0585 52.229 55.4675 52.229Z" fill="#3B3D50" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.3445 36.9492H16.9854V37.6272L17.7436 37.7011C18.7298 37.8532 19.1111 38.4529 19.2601 39.8828C19.488 42.5904 19.4135 47.484 19.2601 49.8178C19.1067 51.2476 18.7298 51.9256 17.7436 51.9995L16.9854 52.1516V52.7557H25.5627V52.1516L24.6511 51.9995C23.6649 51.9256 23.2836 51.2476 23.1346 49.8178C23.0601 48.8399 22.9812 47.258 22.9812 45.3023L24.8045 45.3762C25.944 45.3762 26.4744 46.2801 26.7023 47.5579H27.386V42.2166H26.7023C26.4744 43.4943 25.944 44.3983 24.8045 44.3983L22.9812 44.4722C22.9812 41.9124 23.0557 39.5047 23.1346 38.0748H25.7906C27.8418 38.0748 28.9025 39.3526 29.6608 41.6125L30.419 41.3865L30.3445 36.9492Z" fill="#3B3D50" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M34.6703 41.1641C38.466 41.1641 40.3638 43.7239 40.3638 47.1094C40.3638 50.3472 38.238 53.0548 34.4424 53.0548C30.6468 53.0548 28.749 50.495 28.749 47.1094C28.749 43.8716 30.8747 41.1641 34.6703 41.1641ZM34.4424 41.9159C32.7725 41.9159 32.3167 44.1715 32.3167 47.1094C32.3167 49.9691 33.075 52.3029 34.5958 52.3029C36.3402 52.3029 36.7961 50.0473 36.7961 47.1094C36.7961 44.2497 36.0378 41.9159 34.4424 41.9159Z" fill="#3B3D50" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M62.751 47.1833C62.751 44.0976 64.7233 41.1641 68.5934 41.1641C71.7798 41.1641 73.3007 43.4979 73.3007 46.5836H66.2398C66.1653 49.3694 67.5284 51.399 70.2633 51.399C71.4774 51.399 72.0866 51.0991 72.8448 50.5732L73.1473 50.9513C72.389 52.0031 70.7191 53.0591 68.5934 53.0591C65.1791 53.0548 62.751 50.6471 62.751 47.1833ZM66.2442 45.7535L69.8119 45.6796C69.8119 44.1759 69.5839 41.9159 68.2954 41.9159C67.0024 41.9159 66.3187 44.0237 66.2442 45.7535Z" fill="#3B3D50" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M82.3345 41.7682C81.4229 41.3901 80.2088 41.1641 78.8413 41.1641C76.0319 41.1641 74.2875 42.8199 74.2875 44.7756C74.2875 46.7313 75.5761 47.5614 77.3993 48.1612C79.2971 48.8391 79.8275 49.365 79.8275 50.269C79.8275 51.173 79.1438 51.9987 77.9297 51.9987C76.4877 51.9987 75.427 51.173 74.5899 48.913L74.0596 49.0651L74.1341 52.3768C75.0457 52.7549 76.7156 53.0548 78.1576 53.0548C81.1161 53.0548 83.0139 51.5511 83.0139 49.2173C83.0139 47.6353 82.1767 46.7357 80.2044 45.9795C78.0787 45.1537 77.3205 44.6235 77.3205 43.6456C77.3205 42.6678 78.0042 41.9898 78.9158 41.9898C80.2833 41.9898 81.195 42.8156 81.8743 44.8495L82.4046 44.6974L82.3345 41.7682Z" fill="#3B3D50" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50.2299 41.4641C48.9413 40.7122 46.6622 41.086 45.4482 43.7979L45.5227 41.1642L40.4385 42.1421V42.5941L40.9688 42.6679C41.6525 42.7418 41.955 43.1199 42.0295 44.0978C42.1829 45.9057 42.104 49.0653 42.0295 50.6472C41.955 51.5512 41.6482 52.0032 40.9688 52.0771L40.4385 52.151V52.7551H47.495V52.151L46.5833 52.0771C45.8251 52.0032 45.5972 51.5512 45.5227 50.6472C45.3693 49.2174 45.3693 46.3577 45.4482 44.5498C45.8295 44.0239 47.4994 43.5719 49.0159 44.5498L50.2299 41.4641Z" fill="#3B3D50" />
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="66.0331" height="16.4063" fill="white" transform="translate(16.9854 36.6484)" />
+</clipPath>
+</defs>
+</svg>
+</div>
+</div>
+<div class="award-inner">
+<div class="award-inner-img">
+<svg width="85" height="55" viewBox="0 0 85 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.00195 3.19408H0V0.264171H9.94247V3.19408H6.98855V19.7168H3.00195V3.19408ZM11.7551 0.264171H15.6936V19.7168H11.7551V0.264171ZM18.9132 0.264171H23.116L25.5175 12.5362L28.0632 0.264171H32.1218L32.4821 19.7168H29.6002L29.288 6.50824L26.7904 19.7168H24.3408L21.7711 6.43619L21.4829 19.7168H18.577L18.9132 0.264171ZM35.3474 0.264171H43.825V3.00195H39.286V8.16531H42.7923V10.9271H39.286V17.0271H43.873V19.7168H35.3474V0.264171ZM53.8263 4.10667C53.6822 4.18672 53.4421 4.29079 53.1059 4.41888C52.7696 4.53095 52.5135 4.61901 52.3374 4.68305C51.6329 4.90719 51.1926 5.0673 51.0165 5.16336V2.40156C51.5609 2.17742 52.2173 1.85721 52.9858 1.44094C53.7703 1.00866 54.3227 0.616401 54.6429 0.264171H57.5488V19.7168H53.8263V4.10667ZM66.3535 20.053C64.6564 20.053 63.3595 19.5487 62.463 18.5401C61.5824 17.5154 61.1421 16.1465 61.1421 14.4334V5.71572C61.1421 3.93856 61.5744 2.54566 62.4389 1.537C63.3035 0.512334 64.6084 0 66.3535 0C68.0826 0 69.3795 0.512334 70.244 1.537C71.1086 2.54566 71.5409 3.93856 71.5409 5.71572V14.4334C71.5409 16.1305 71.0926 17.4914 70.196 18.516C69.2994 19.5407 68.0186 20.053 66.3535 20.053ZM66.3535 16.7869C67.2981 16.7869 67.7704 15.9784 67.7704 14.3613V5.78777C67.7704 5.0673 67.6744 4.46691 67.4822 3.98659C67.3061 3.50628 66.9299 3.26612 66.3535 3.26612C65.7451 3.26612 65.3528 3.50628 65.1767 3.98659C65.0006 4.4509 64.9126 5.05129 64.9126 5.78777V14.3613C64.9126 15.9784 65.3929 16.7869 66.3535 16.7869ZM79.3932 20.053C77.6961 20.053 76.3993 19.5487 75.5027 18.5401C74.6221 17.5154 74.1818 16.1465 74.1818 14.4334V5.71572C74.1818 3.93856 74.6141 2.54566 75.4787 1.537C76.3432 0.512334 77.6481 0 79.3932 0C81.1224 0 82.4192 0.512334 83.2838 1.537C84.1483 2.54566 84.5806 3.93856 84.5806 5.71572V14.4334C84.5806 16.1305 84.1323 17.4914 83.2357 18.516C82.3391 19.5407 81.0583 20.053 79.3932 20.053ZM79.3932 16.7869C80.3378 16.7869 80.8102 15.9784 80.8102 14.3613V5.78777C80.8102 5.0673 80.7141 4.46691 80.522 3.98659C80.3458 3.50628 79.9696 3.26612 79.3932 3.26612C78.7848 3.26612 78.3926 3.50628 78.2165 3.98659C78.0403 4.4509 77.9523 5.05129 77.9523 5.78777V14.3613C77.9523 15.9784 78.4326 16.7869 79.3932 16.7869ZM3.65604 54.063C2.47825 54.063 1.63828 53.7572 1.13612 53.1455C0.633959 52.5246 0.38288 51.6161 0.38288 50.4201V46.2841C0.38288 45.0881 0.633959 44.1888 1.13612 43.5862C1.63828 42.9836 2.47825 42.6823 3.65604 42.6823C4.8247 42.6823 5.66011 42.9881 6.16227 43.5999C6.67356 44.2025 6.92921 45.0972 6.92921 46.2841V50.4338C6.92921 51.6207 6.67356 52.5246 6.16227 53.1455C5.66011 53.7572 4.8247 54.063 3.65604 54.063ZM3.65604 52.447C4.03951 52.447 4.29516 52.3192 4.42298 52.0635C4.55993 51.7988 4.62841 51.4381 4.62841 50.9816V45.7363C4.62841 45.2798 4.55993 44.9283 4.42298 44.6818C4.29516 44.4261 4.03951 44.2983 3.65604 44.2983C3.27258 44.2983 3.01237 44.4261 2.87541 44.6818C2.74759 44.9283 2.68368 45.2798 2.68368 45.7363V50.9816C2.68368 51.4472 2.74759 51.8079 2.87541 52.0635C3.00324 52.3192 3.26345 52.447 3.65604 52.447ZM15.0118 42.8192H19.6955V44.3668H17.2578V47.3524H19.3258V48.9273H17.2578V53.9124H15.0118V42.8192ZM37.1269 52.4196L39.8249 48.2699L40.0303 47.955C40.359 47.4437 40.6009 47.0191 40.7561 46.6813C40.9205 46.3344 41.0027 45.96 41.0027 45.5583C41.0027 45.2022 40.9342 44.9329 40.7972 44.7503C40.6603 44.5585 40.4594 44.4627 40.1946 44.4627C39.8203 44.4627 39.5601 44.6087 39.414 44.9009C39.2679 45.1931 39.1949 45.5948 39.1949 46.1061V46.6128H37.1269V46.065C37.1269 45.0242 37.3689 44.2025 37.8527 43.5999C38.3458 42.9881 39.1127 42.6823 40.1536 42.6823C41.1122 42.6823 41.8426 42.9379 42.3448 43.4492C42.847 43.9514 43.098 44.6681 43.098 45.5994C43.098 46.1654 42.993 46.6767 42.783 47.1332C42.573 47.5806 42.2444 48.1376 41.797 48.8041L41.6463 49.0369L39.5099 52.2416H42.7967V53.9124H37.1269V52.4196ZM53.7921 54.1041C52.8243 54.1041 52.0848 53.8165 51.5735 53.2413C51.0713 52.657 50.8202 51.8764 50.8202 50.8994V45.9281C50.8202 44.9146 51.0667 44.1203 51.5598 43.5451C52.0528 42.9608 52.7969 42.6686 53.7921 42.6686C54.7781 42.6686 55.5177 42.9608 56.0107 43.5451C56.5037 44.1203 56.7503 44.9146 56.7503 45.9281V50.8994C56.7503 51.8672 56.4946 52.6433 55.9833 53.2276C55.472 53.812 54.7416 54.1041 53.7921 54.1041ZM53.7921 52.2416C54.3308 52.2416 54.6001 51.7805 54.6001 50.8583V45.9691C54.6001 45.5583 54.5453 45.2159 54.4358 44.942C54.3353 44.6681 54.1208 44.5311 53.7921 44.5311C53.4451 44.5311 53.2215 44.6681 53.121 44.942C53.0206 45.2068 52.9704 45.5492 52.9704 45.9691V50.8583C52.9704 51.7805 53.2443 52.2416 53.7921 52.2416ZM64.6383 52.4196L67.3363 48.2699L67.5417 47.955C67.8704 47.4437 68.1123 47.0191 68.2675 46.6813C68.4319 46.3344 68.5141 45.96 68.5141 45.5583C68.5141 45.2022 68.4456 44.9329 68.3086 44.7503C68.1717 44.5585 67.9708 44.4627 67.706 44.4627C67.3317 44.4627 67.0715 44.6087 66.9254 44.9009C66.7793 45.1931 66.7063 45.5948 66.7063 46.1061V46.6128H64.6383V46.065C64.6383 45.0242 64.8802 44.2025 65.3642 43.5999C65.8572 42.9881 66.6241 42.6823 67.6649 42.6823C68.6236 42.6823 69.354 42.9379 69.8562 43.4492C70.3583 43.9514 70.6094 44.6681 70.6094 45.5994C70.6094 46.1654 70.5044 46.6767 70.2944 47.1332C70.0844 47.5806 69.7558 48.1376 69.3084 48.8041L69.1577 49.0369L67.0213 52.2416H70.3081V53.9124H64.6383V52.4196ZM81.3035 54.1041C80.3357 54.1041 79.5961 53.8165 79.0849 53.2413C78.5827 52.657 78.3316 51.8764 78.3316 50.8994V45.9281C78.3316 44.9146 78.5781 44.1203 79.0712 43.5451C79.5642 42.9608 80.3083 42.6686 81.3035 42.6686C82.2895 42.6686 83.0291 42.9608 83.5221 43.5451C84.0151 44.1203 84.2617 44.9146 84.2617 45.9281V50.8994C84.2617 51.8672 84.006 52.6433 83.4947 53.2276C82.9834 53.812 82.253 54.1041 81.3035 54.1041ZM81.3035 52.2416C81.8422 52.2416 82.1115 51.7805 82.1115 50.8583V45.9691C82.1115 45.5583 82.0567 45.2159 81.9472 44.942C81.8467 44.6681 81.6322 44.5311 81.3035 44.5311C80.9565 44.5311 80.7329 44.6681 80.6324 44.942C80.532 45.2068 80.4818 45.5492 80.4818 45.9691V50.8583C80.4818 51.7805 80.7557 52.2416 81.3035 52.2416ZM2.99918 27.9938H0.462858V37.9667H3.44241C5.37954 37.9667 6.3481 36.9899 6.3481 35.0364C6.3481 34.3223 6.20035 33.76 5.90486 33.3496C5.61757 32.9392 5.18254 32.693 4.59976 32.6109C5.06763 32.5288 5.42468 32.3195 5.67093 31.983C5.92538 31.6382 6.05261 31.1704 6.05261 30.5794C6.05261 29.6026 5.78584 28.9295 5.25231 28.5602C4.71878 28.1826 3.96774 27.9938 2.99918 27.9938ZM4.00878 31.6875C3.8282 31.9091 3.49166 32.0199 2.99918 32.0199H2.48206V29.3851H2.86374C3.34802 29.3851 3.70508 29.4836 3.9349 29.6806C4.16473 29.8694 4.27965 30.1854 4.27965 30.6286C4.27965 31.1129 4.18936 31.4659 4.00878 31.6875ZM4.09496 36.1691C3.89797 36.4154 3.55322 36.5385 3.06074 36.5385H2.48206V33.3866H3.0238C3.5245 33.3866 3.87745 33.5138 4.08265 33.7682C4.29606 34.0145 4.40277 34.4249 4.40277 34.9995C4.40277 35.533 4.30017 35.9229 4.09496 36.1691ZM11.891 27.9938H7.54479V37.9667H11.9156V36.5877H9.56399V33.4604H11.3616V32.0445H9.56399V29.3974H11.891V27.9938ZM13.4602 37.3511C13.9199 37.8518 14.6094 38.1021 15.5287 38.1021C16.0376 38.1021 16.4849 37.9954 16.8707 37.782C17.2647 37.5686 17.5684 37.2772 17.7818 36.9079C17.9952 36.5303 18.1019 36.1035 18.1019 35.6274C18.1019 35.0036 17.9665 34.4618 17.6956 34.0022C17.4248 33.5343 17.0513 33.0911 16.5752 32.6725L15.5656 31.786C15.2537 31.5151 15.0239 31.2689 14.8761 31.0472C14.7366 30.8174 14.6668 30.5383 14.6668 30.21C14.6668 29.9802 14.7284 29.7832 14.8515 29.619C14.9746 29.4467 15.147 29.3605 15.3686 29.3605C15.6723 29.3605 15.8734 29.4877 15.9719 29.7421C16.0786 29.9884 16.1402 30.3742 16.1566 30.8995L17.9173 30.6409C17.868 29.8365 17.6669 29.1758 17.314 28.6587C16.961 28.1334 16.3331 27.8707 15.4302 27.8707C14.5847 27.8707 13.9199 28.0923 13.4356 28.5356C12.9595 28.9706 12.7215 29.5944 12.7215 30.407C12.7215 30.957 12.8282 31.4289 13.0416 31.8229C13.2632 32.2169 13.5793 32.5863 13.9897 32.931L15.0239 33.8298C15.4015 34.1581 15.6764 34.4618 15.8488 34.7409C16.0294 35.0118 16.1197 35.3442 16.1197 35.7382C16.1197 35.9762 16.0663 36.1732 15.9596 36.3292C15.8529 36.4769 15.6805 36.5508 15.4425 36.5508C15.1224 36.5508 14.8802 36.4031 14.7161 36.1076C14.5601 35.8039 14.4739 35.336 14.4575 34.704L12.7092 34.9995C12.7502 36.0583 13.0006 36.8422 13.4602 37.3511ZM18.5684 29.4959H20.1074V37.9667H22.1512V29.4959H23.6656V27.9938H18.5684V29.4959ZM29.6922 27.9938H27.673V37.9667H29.6922V27.9938ZM32.6232 27.9938H31.2073V37.9667H32.9434V32.4508L35.1596 37.9667H36.5262V27.9938H34.8394V33.1773L32.6232 27.9938ZM39.3052 27.9938H37.5446L39.4406 37.9667H41.5337L43.4298 27.9938H41.5953L40.4872 34.8887L39.3052 27.9938ZM48.7916 27.9938H44.4454V37.9667H48.8162V36.5877H46.4646V33.4604H48.2622V32.0445H46.4646V29.3974H48.7916V27.9938ZM51.2719 27.9938H49.856V37.9667H51.592V32.4508L53.8082 37.9667H55.1749V27.9938H53.4881V33.1773L51.2719 27.9938ZM56.0701 29.4959H57.6092V37.9667H59.653V29.4959H61.1674V27.9938H56.0701V29.4959ZM64.1159 27.9938H62.0967V37.9667H64.1159V27.9938ZM66.1605 37.2772C66.6119 37.8272 67.3671 38.1021 68.4259 38.1021C69.4766 38.1021 70.2276 37.8272 70.6791 37.2772C71.1387 36.7191 71.3685 35.9065 71.3685 34.8394V31.1088C71.3685 30.0417 71.1387 29.2373 70.6791 28.6956C70.2276 28.1457 69.4766 27.8707 68.4259 27.8707C67.3671 27.8707 66.6119 28.1416 66.1605 28.6833C65.709 29.225 65.4833 30.0335 65.4833 31.1088V34.8271C65.4833 35.9024 65.709 36.7191 66.1605 37.2772ZM69.1154 36.3046C69.0005 36.5344 68.7707 36.6493 68.4259 36.6493C68.073 36.6493 67.839 36.5344 67.7241 36.3046C67.6092 36.0747 67.5518 35.7505 67.5518 35.3319V30.6163C67.5518 30.2059 67.6092 29.8899 67.7241 29.6683C67.8472 29.4384 68.0812 29.3235 68.4259 29.3235C68.7707 29.3235 69.0005 29.4384 69.1154 29.6683C69.2385 29.8899 69.3001 30.2059 69.3001 30.6163V35.3319C69.3001 35.7423 69.2385 36.0665 69.1154 36.3046ZM74.1409 27.9938H72.725V37.9667H74.461V32.4508L76.6772 37.9667H78.0439V27.9938H76.3571V33.1773L74.1409 27.9938ZM80.0472 37.3511C80.5069 37.8518 81.1964 38.1021 82.1157 38.1021C82.6246 38.1021 83.0719 37.9954 83.4577 37.782C83.8517 37.5686 84.1554 37.2772 84.3688 36.9079C84.5822 36.5303 84.6889 36.1035 84.6889 35.6274C84.6889 35.0036 84.5535 34.4618 84.2826 34.0022C84.0117 33.5343 83.6383 33.0911 83.1622 32.6725L82.1526 31.786C81.8407 31.5151 81.6109 31.2689 81.4631 31.0472C81.3236 30.8174 81.2538 30.5383 81.2538 30.21C81.2538 29.9802 81.3154 29.7832 81.4385 29.619C81.5616 29.4467 81.734 29.3605 81.9556 29.3605C82.2593 29.3605 82.4604 29.4877 82.5589 29.7421C82.6656 29.9884 82.7272 30.3742 82.7436 30.8995L84.5042 30.6409C84.455 29.8365 84.2539 29.1758 83.9009 28.6587C83.548 28.1334 82.9201 27.8707 82.0172 27.8707C81.1717 27.8707 80.5069 28.0923 80.0226 28.5356C79.5465 28.9706 79.3085 29.5944 79.3085 30.407C79.3085 30.957 79.4152 31.4289 79.6286 31.8229C79.8502 32.2169 80.1662 32.5863 80.5766 32.931L81.6109 33.8298C81.9884 34.1581 82.2634 34.4618 82.4358 34.7409C82.6164 35.0118 82.7066 35.3442 82.7066 35.7382C82.7066 35.9762 82.6533 36.1732 82.5466 36.3292C82.4399 36.4769 82.2675 36.5508 82.0295 36.5508C81.7094 36.5508 81.4672 36.4031 81.3031 36.1076C81.1471 35.8039 81.0609 35.336 81.0445 34.704L79.2962 34.9995C79.3372 36.0583 79.5876 36.8422 80.0472 37.3511Z" fill="#3B3D50" />
+</svg>
+</div>
+</div>
+<div class="award-inner has-tooltip">
+<span class="tooltip">
+<strong>People’s voice winner, 2021.</strong>
+Productivity & Collaboration
+Apps & Software
+</span>
+<div class="award-inner-img">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/webby.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/webby.svg" alt="krisp" />
+</div>
+</div>
+</div>
+</div>
+</section><section class="container full pt-large pb-large" id="built-with">
+<div class="container built-container">
+<div class="built-inner has-asset">
+<div class="built-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/built-ai.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/built-ai.svg" alt="krisp" />
+</div>
+<div class="built-content-wrapper">
+<h4>
+Built With AI
+</h4>
+<p>
+Krisp technology is based on deep neural networks and is trained using thousands of hours of audio.
+</p>
+<a href="/technology" class="learn-more">
+Learn More
+</a>
+</div>
+</div>
+<div class="built-inner">
+<div class="built-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/built-privacy.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/built-privacy.svg" alt="krisp" />
+</div>
+<div class="built-content-wrapper">
+<h4>
+Maximum Privacy
+</h4>
+<p>
+Krisp performs all audio processing locally.
+Your voice and audio will never leave your device.
+</p>
+<a href="/privacy-policy" class="learn-more">
+Learn More
+</a>
+</div>
+</div>
+</div>
+</section><section class="container full pb-medium" id="trusted">
+<div class="container">
+<h3 class="text-center medium-title">
+Trusted by professionals from
+</h3>
+<div class="trusted-items">
+<div class="trusted-item">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/github-v2.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/github-v2.svg" alt="krisp" />
+</div>
+<div class="trusted-item">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/discord-v2.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/discord-v2.svg" alt="krisp" />
+</div>
+<div class="trusted-item no-border">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/zapier-v2.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/zapier-v2.svg" alt="krisp" />
+</div>
+<div class="trusted-item">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/gitlab-v2.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/gitlab-v2.svg" alt="krisp" />
+</div>
+<div class="trusted-item">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/atlassian.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/atlassian.svg" alt="krisp" />
+</div>
+</div>
+</div>
+</section><section class="container full pt-medium pb-small" id="landing-team">
+<div class="container">
+<h3 class="text-center large-title">
+Krisp for Teams
+</h3>
+<p class="text-center subtitle">
+Krisp prevents noisy distractions on team calls boosting your team’s productivity and professionalism
+</p>
+<div class="text-center teams-img-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/team-01.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/team-01.svg" alt="krisp" />
+</div>
+<div class="cta-button centered">
+<a href=""> </a>
+</div>
+<div class="mobile-icons-wrapper">
+<div class="btn-mob-signup">
+<a class="mobile-signup" href="">
+Get Krisp for Desktop
+</a>
+</div>
+</div> </div>
+</section><div class="modal video-modal">
+<div id="player"></div>
+</div>
+<div class="modal cookie-modal">
+</div>
+<div id="not-supported-modal" style="display: none">
+<div class="form-wrapper">
+<div class="close-btn">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/close.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/close.svg" alt="krisp" />
+</div>
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not_supported.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/not_supported.svg" alt="krisp" />
+<h3>Hi there,</h3>
+<p>
+looks like you’re trying to register to Krisp on
+Linux or Chrome OS.
+</p>
+<p class="blue">
+Unfortunately, currently our app is only
+available for Mac and Windows.
+</p>
+<p class="small-grey">
+Drop your email & we’ll let you know when we have updates!
+</p>
+<form method="post" id="not-supported" action="https://krisp.ai/wp-content/themes/KrispLight/form-validate.php">
+<input type="email" name="email" placeholder="Enter your email (required)" required />
+<input type="submit" name="submit" value="Subscribe" />
+<p class="status-msg" style="display: none" id="success-msg">
+<svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17.3171 1.05399C17.8395 1.50522 17.8973 2.29457 17.4461 2.81705L7.99851 13.7563L0.689807 7.53522C0.164106 7.08775 0.100689 6.29884 0.54816 5.77314C0.995631 5.24744 1.78454 5.18402 2.31024 5.63149L7.72882 10.2437L15.554 1.183C16.0052 0.660518 16.7946 0.602761 17.3171 1.05399Z" fill="#51D600" />
+</svg>
+Submitted successfully
+</p>
+<p class="status-msg error-msg" style="display: none" id="error-msg">
+Something went wrong, please try again.
+</p>
+<p class="text-ceneter">
+Protected by reCAPTCHA and the Google
+<a href="https://policies.google.com/privacy">Privacy Policy</a> and
+<a href="https://policies.google.com/terms">Terms of Service</a> apply.
+</p>
+</form>
+</div></div>
+<div class="container cookies-container">
+<div id="cookies">
+<div>
+<p>We use cookies to improve your experience on our site.<a href="/privacy-policy">Learn more</a></p>
+</div>
+<div class="btn-accept" id="acceptCookies">
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25.5691 13.9999C25.8774 14.0578 26.2218 14.063 26.6004 13.9999C26.6004 14.7272 26.5388 15.4401 26.4205 16.1337C25.4068 22.0763 20.2319 26.5999 14.0004 26.5999C7.0416 26.5999 1.40039 20.9587 1.40039 13.9999C1.40039 7.77314 5.91717 2.60134 11.8531 1.58215C12.5509 1.46233 13.2684 1.3999 14.0004 1.3999C13.8972 1.91567 13.8853 2.55306 14.0004 3.17764C14.1668 4.08087 14.599 4.95734 15.4052 5.40057C15.9331 5.69077 16.6214 5.79524 17.5004 5.5999C17.3864 6.28362 17.3053 7.02923 17.3142 7.75952C17.3417 10.0093 18.2237 12.1137 21.6335 11.8154C22.2654 11.7601 22.9842 11.6222 23.8004 11.3875C23.6148 12.0304 23.8228 12.8244 24.3723 13.3764C24.6723 13.6777 25.0741 13.9069 25.5691 13.9999ZM22.1505 13.8727C22.6129 14.7226 23.3675 15.4343 24.3424 15.8244C23.4788 20.7537 19.1771 24.4999 14.0004 24.4999C8.2014 24.4999 3.50039 19.7989 3.50039 13.9999C3.50039 8.89831 7.13869 4.64648 11.9621 3.6976C12.0861 4.30033 12.2962 4.90344 12.6146 5.46054C13.0533 6.22832 13.7336 6.96335 14.7206 7.4032C14.882 7.47515 15.0465 7.53691 15.2137 7.5888C15.2126 7.80144 15.2174 8.01568 15.2292 8.23018C15.286 9.2649 15.5145 10.4626 16.18 11.5212C16.8895 12.6497 18.0027 13.4671 19.4913 13.7896C20.3036 13.9656 21.1911 13.9874 22.1505 13.8727ZM11.2 14.7C11.2 15.8598 10.2598 16.8 9.1 16.8C7.9402 16.8 7 15.8598 7 14.7C7 13.5402 7.9402 12.6 9.1 12.6C10.2598 12.6 11.2 13.5402 11.2 14.7ZM19.95 19.6C20.5299 19.6 21 19.1299 21 18.55C21 17.9701 20.5299 17.5 19.95 17.5C19.3701 17.5 18.9 17.9701 18.9 18.55C18.9 19.1299 19.3701 19.6 19.95 19.6ZM11.9 8.05C11.9 8.6299 11.4299 9.1 10.85 9.1C10.2701 9.1 9.8 8.6299 9.8 8.05C9.8 7.4701 10.2701 7 10.85 7C11.4299 7 11.9 7.4701 11.9 8.05ZM22.4 9.8C23.1732 9.8 23.8 9.1732 23.8 8.4C23.8 7.6268 23.1732 7 22.4 7C21.6268 7 21 7.6268 21 8.4C21 9.1732 21.6268 9.8 22.4 9.8ZM23.8 4.2C23.8 4.5866 23.4866 4.9 23.1 4.9C22.7134 4.9 22.4 4.5866 22.4 4.2C22.4 3.8134 22.7134 3.5 23.1 3.5C23.4866 3.5 23.8 3.8134 23.8 4.2ZM15.4 15.4C15.7866 15.4 16.1 15.0866 16.1 14.7C16.1 14.3134 15.7866 14 15.4 14C15.0134 14 14.7 14.3134 14.7 14.7C14.7 15.0866 15.0134 15.4 15.4 15.4ZM19.6 3.15C19.6 3.3433 19.4433 3.5 19.25 3.5C19.0567 3.5 18.9 3.3433 18.9 3.15C18.9 2.9567 19.0567 2.8 19.25 2.8C19.4433 2.8 19.6 2.9567 19.6 3.15ZM11.9 21.7C12.6732 21.7 13.3 21.0732 13.3 20.3C13.3 19.5268 12.6732 18.9 11.9 18.9C11.1268 18.9 10.5 19.5268 10.5 20.3C10.5 21.0732 11.1268 21.7 11.9 21.7Z" fill="#6371DE" />
+</svg>
+Got it!
+</div>
+</div></div>
+<footer>
+<div class="container footer-menu-container">
+<div class="footer-menu">
+<div class="list">
+<h4>
+Product
+</h4>
+<ul>
+<li><a href="/pricing">Pricing and plans</a></li>
+<li><a href="/">Noise cancellation</a></li>
+<li><a href="/hd-voice">HD voice</a></li>
+<li><a href="/echo-cancellation">Echo cancellation</a></li>
+<li><a href="/recordings">Audio recordings</a></li>
+<li><a href="/virtual-background">Virtual Background</a></li>
+<li><a href="https://whatsnew.krisp.ai/" rel="noopener" target="_blank">What's new</a></li>
+</ul>
+</div>
+<div class="list">
+<h4>
+Solutions
+</h4>
+<ul>
+<li><a href="/enterprises">Enterprise</a></li>
+<li><a href="/remote-teams">Remote teams</a></li>
+<li><a href="/call-center">Contact centers</a></li>
+<li><a href="/podcast">Podcasters</a></li>
+<li><a href="/employee-communication">Employee communication</a></li>
+
+</ul>
+</div>
+<div class="list">
+<h4>
+Company
+</h4>
+<ul>
+<li><a href="/about-us">About us</a></li>
+<li><a href="https://jobs.krisp.ai" rel="noopener" target="_blank">Careers <noscript><img class="hiring" src="https://krisp.ai/wp-content/themes/KrispLight/imgs/hiring-icon.svg" alt="krisp"/></noscript><img class="lazy hiring" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/hiring-icon.svg" alt="krisp" /></a></li>
+<li><a href="/brand-guidelines">Brand guidelines</a></li>
+<li><a href="/partner">Partner program</a></li>
+<li><a href="/affiliate">Affiliate program</a></li>
+<li><a href="https://krisp.ai/blog">Blog</a></li>
+<li><a href="https://www.youtube.com/channel/UCAMZinJdR9P33fZUNpuxXtg/playlists" rel="noopener" target="_blank">Video tutorials</a></li>
+</ul>
+</div>
+<div class="list">
+<h4>
+Trust
+</h4>
+<ul>
+<li><a href="/security">Security</a></li>
+<li><a href="/terms-of-use">Terms of use</a></li>
+<li><a href="/privacy-policy">Privacy policy</a></li>
+</ul>
+</div>
+<div class="list">
+<h4>
+Connect
+</h4>
+<ul>
+<li><a href="https://help.krisp.ai" rel="noopener" target="_blank">Help center</a></li>
+<li><a href="https://help.krisp.ai/hc/en-us/requests/new?" rel="noopener" target="_blank">Contact support</a></li>
+<li>
+<a href="https://www.facebook.com/krispHQ/" rel="noopener" target="_blank">
+<span class="icon-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/facebook-new-v3.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/facebook-new-v3.svg" alt="krisp" />
+</span>
+Facebook
+</a>
+</li>
+<li>
+<a href="https://www.linkedin.com/company/krisphq/" rel="noopener" target="_blank">
+<span class="icon-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/linkedin-new-v3.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/linkedin-new-v3.svg" alt="krisp" />
+</span>
+Linkedin
+</a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCAMZinJdR9P33fZUNpuxXtg" rel="noopener" target="_blank">
+<span class="icon-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/youtube-new-v3.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/youtube-new-v3.svg" alt="krisp" />
+</span>
+YouTube
+</a>
+</li>
+<li>
+<a href="https://twitter.com/krispHQ" rel="noopener" target="_blank">
+<span class="icon-wrapper">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/twitter-new-v3.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/twitter-new-v3.svg" alt="krisp" />
+</span>
+Twitter
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container footer-secondary">
+<div>
+<div class="footer-info-text">
+© 2022 Krisp Technologies, Inc. All rights reserved.
+</div>
+</div>
+<div class="footer-btns-outer">
+<div class="footer-btn">
+<a href="/pricing?contact=1">
+Request a demo
+</a>
+</div>
+<div class="footer-btn footer-btn-primary">
+<a href="https://account.krisp.ai/app/manage/download">
+Download app
+</a>
+</div>
+</div>
+</div>
+<div class="container addition-text">
+<noscript><img src="https://krisp.ai/wp-content/themes/KrispLight/imgs/asteric.svg" alt="krisp"/></noscript><img class="lazy" src='data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C/svg%3E' data-src="https://krisp.ai/wp-content/themes/KrispLight/imgs/asteric.svg" alt="krisp" />
+<p class="asteric-text">
+Gartner, Cool Vendors in Digital Workplace Programs and Applications, November 2020. The GARTNER COOL VENDOR badge is a trademark and service mark of Gartner, Inc.<br>
+and/or its affiliates and is used herein with permission.<br>
+All rights reserved. Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designation. Gartner research publications consist of the opinions of Gartner's Research & Advisory organization and should not be construed as statements
+of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for a particular purpose.
+</p>
+</div>
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script data-pagespeed-no-defer two-no-delay type="text/javascript" src="https://krisp.ai/wp-content/plugins/tenweb-speed-optimizer/includes/external/js/vanilla-lazyload/lazyload.min.js"></script><script data-pagespeed-no-defer two-no-delay>
+                                if(typeof two_lazyLoadInstance === "undefined"){
+                                   var two_lazyLoadInstance = new LazyLoad({});
+                                }           
+                            </script><script type='text/javascript' src='https://krisp.ai/wp-content/themes/KrispLight/js/main.js?ver=378d31249e0e3773edd36a2f7145dc2c' id='main-js'></script>
+<script type='text/javascript' src='https://krisp.ai/wp-content/themes/KrispLight/js/cta-helper.js?ver=378d31249e0e3773edd36a2f7145dc2c' id='cta-helper-js'></script>
+<script type="text/javascript" data-twodelayedjs="https://krisp.ai/wp-content/themes/KrispLight/js/video.js"></script>
+</body>
+</html>

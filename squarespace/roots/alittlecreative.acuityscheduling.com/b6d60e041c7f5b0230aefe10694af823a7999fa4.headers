@@ -1,0 +1,17 @@
+GET https://alittlecreative.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=f2e3nnp7667ko2r2eboef590b9; expires=Fri, 04-Mar-2022 00:08:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=229ad38d-e6c8-4955-88b0-f02aac4c3cbd; expires=Fri, 02-Feb-2024 00:08:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:08:09 GMT

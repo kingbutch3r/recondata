@@ -1,0 +1,12 @@
+GET https://sprucepartnersinc1.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< X-Contextid: ImmH4Sbc/oVaG8V28
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:14:48 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Pragma: no-cache

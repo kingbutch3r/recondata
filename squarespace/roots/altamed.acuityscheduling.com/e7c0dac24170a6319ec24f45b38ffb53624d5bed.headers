@@ -1,0 +1,17 @@
+GET https://altamed.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=oqljslavfb5b7tgpef3m8tpt9u; expires=Thu, 03-Mar-2022 23:59:17 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5f2dbede-50a9-4434-8ec8-12c02254ea89; expires=Thu, 01-Feb-2024 23:59:18 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:59:18 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0

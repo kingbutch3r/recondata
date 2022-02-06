@@ -1,0 +1,10 @@
+GET http://plane-heptagon-nrk2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BbGQvwa9aXevNWYyYWE1NzkxNjhhYjA5NmU0MjAzMmEyNWJjMzk2;Path=/
+< X-Contextid: OFFe5F98/hmXTBkgm
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:21:21 GMT
+< Server: Squarespace

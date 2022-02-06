@@ -1,0 +1,15 @@
+GET http://savoymiamibeach.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"37e117192264829fac406621895332d8--gzip"
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Contextid: sqhU5UTy/IMTWi6lV
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 01:26:32 GMT
+< Set-Cookie: crumb=BVKP5o9z8J8IMzM0MTRiN2M4MDUyNWVhMzIwOGU1ZGIyNTk4OTlm;Path=/

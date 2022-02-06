@@ -1,0 +1,16 @@
+GET https://cow-bugle-nfl2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 372505
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Etag: W/"1d7e9e228bc8c518cd61c22fa788b859--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BS4YFVlBnqlyNDNkMGE1YTk4MzBkNDZlZWRhNGJjMzNmYWNiZjc2;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: ESGstbmR/I6XeZEzJ
+< Date: Fri, 28 Jan 2022 17:53:19 GMT

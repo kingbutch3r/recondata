@@ -1,0 +1,17 @@
+GET https://wholyoullc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=0cc1rf3bh68n8r8a35nk4rou7d; expires=Thu, 03-Mar-2022 23:58:17 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=255c3054-8de9-44ec-a163-79812d0829f2; expires=Thu, 01-Feb-2024 23:58:18 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:58:18 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

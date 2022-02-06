@@ -1,0 +1,10 @@
+GET https://susan-lee-8w80.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: u3sIb4EP/DsKjJggH
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:11:42 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUSC0QWKoY2/M2ZmYjBjNTZlY2NiM2JkMGZhNWEzODUwZjU4MjQ0;Path=/

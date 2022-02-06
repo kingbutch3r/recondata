@@ -1,0 +1,10 @@
+GET http://cyan-cinnamon-n5j2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:36 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bcr+10VlwWNQNWVhMmM1OGI2ZDAyYjFhYzUyMjM3OGUwZDRjNzEx;Path=/
+< X-Contextid: 8LQ2EJ4L/8tHCgXHt

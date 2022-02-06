@@ -1,0 +1,16 @@
+GET https://jmyerscho0610.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BdzwP/moHSHvMDQ2M2Q4N2Y1MjQyY2MyYTBlNDI0YmNhY2I2NDM1;Path=/
+< X-Contextid: 4h9eOOwz/1TKrBxFi
+< Strict-Transport-Security: max-age=0
+< Date: Fri, 28 Jan 2022 21:20:18 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Age: 358780
+< Etag: W/"363c99e9ed98c6cc020d1a7d86e9c65c--gzip"
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes

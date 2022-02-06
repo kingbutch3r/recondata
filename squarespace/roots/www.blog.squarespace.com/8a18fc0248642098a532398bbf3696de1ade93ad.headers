@@ -1,0 +1,11 @@
+GET http://www.blog.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:55:03 GMT
+< Location: http://blog.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUsUsjV2ZqA5ZDZmMjMyODY3ZGFjNmVlNjVlZTQ5NGIxZTIxNGJm;Path=/
+< X-Contextid: eedcA7an/dQqkahpb
+< Age: 0

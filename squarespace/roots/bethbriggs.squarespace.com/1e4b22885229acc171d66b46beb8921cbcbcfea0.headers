@@ -1,0 +1,16 @@
+GET https://bethbriggs.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 53346
+< Set-Cookie: crumb=Bf7E4KSPhRqNNGY4Y2NhZDA5YmQ1NGQzMDA4ZTliYTk5MDU3MGNk;Path=/
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 10:17:54 GMT
+< Etag: W/"8d9ba98a1a07f79402f4aae957298447--gzip"
+< X-Content-Type-Options: nosniff
+< X-Contextid: oS5L96nH/NO4glg9n
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

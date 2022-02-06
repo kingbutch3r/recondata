@@ -1,0 +1,11 @@
+GET http://s10.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 23:36:02 GMT
+< Location: https://s10.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVe7HyIQDPSeYzdjZWMyNGMzYjg1NzMzZmFmZGI5ZjI5OGIwOTA1;Path=/
+< X-Contextid: Ip7vutBG/7Ua0EvSS
+< Age: 350757

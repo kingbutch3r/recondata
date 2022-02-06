@@ -1,0 +1,17 @@
+GET https://pinnacleactingcompany.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:47:37 GMT
+< Set-Cookie: PHPSESSID=0qab5utakugeodk3kl8nimh9ti; expires=Fri, 04-Mar-2022 00:47:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c13e11f9-4440-427b-800a-360a4a9bbd71; expires=Fri, 02-Feb-2024 00:47:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

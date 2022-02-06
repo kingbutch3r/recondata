@@ -1,0 +1,1599 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+   <meta name="description" content="Darwin 150 Project dedicated to cheering the 150th Anniversary of Charles Darwin's great book On the Origin of Species" /> 
+  
+  <!-- darwin150 -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=464534&amp;RK=1250567294187&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+    <link rel="alternate" type="application/atom+xml" title="ATOM" href="http://www.darwin150.com/home/atom.xml" />
+  
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.darwin150.com/home/rss.xml" />
+  
+    <link rel="alternate" type="application/rdf+xml" title="RDF" href="http://www.darwin150.com/home/rdf.xml" />
+  
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.darwin150.com/home/rsd.xml" />
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "The Darwin 150 Project"; 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "4501766"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "411022";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title>Home: The Darwin 150 Project - Archive of the 150th Anniversary of On the Origin of Species</title>
+    <meta property="og:title" content="Home: The Darwin 150 Project - Archive of the 150th Anniversary of On the Origin of Species" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage4501766"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent2116432" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper4501766">
+
+    <div id="navigationTop-moduleContent4501766">
+
+              <a id="navigationTop-moduleLink4501766" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4501767">
+
+    <div id="navigationTop-moduleContent4501767">
+
+              <a id="navigationTop-moduleLink4501767" class=" " href="/who-we-are/" ><span>Who We Are</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4502638">
+
+    <div id="navigationTop-moduleContent4502638">
+
+              <a id="navigationTop-moduleLink4502638" class=" " href="/our-mission/" ><span>Our Mission</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4502655">
+
+    <div id="navigationTop-moduleContent4502655">
+
+              <a id="navigationTop-moduleLink4502655" class=" " href="/events/" ><span>Events</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4502658">
+
+    <div id="navigationTop-moduleContent4502658">
+
+              <a id="navigationTop-moduleLink4502658" class=" " href="/sponsors/" ><span>Sponsors</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4502660">
+
+    <div id="navigationTop-moduleContent4502660">
+
+              <a id="navigationTop-moduleLink4502660" class=" " href="/press/" ><span>Press</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4502668">
+
+    <div id="navigationTop-moduleContent4502668">
+
+              <a id="navigationTop-moduleLink4502668" class=" " href="/volunteer/" ><span>Volunteer</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper4551745">
+
+    <div id="navigationTop-moduleContent4551745">
+
+              <a id="navigationTop-moduleLink4551745" class="offsite-link " href="http://bit.ly/3l2ccy" onclick="this.target='new';"><span>Join our Facebook Group</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://www.darwin150.com/">The Darwin 150 Project</a></h1>
+           <div id="siteSubtitle" class="h1subtitle">Keep cheering for Darwin&#39;s great book &quot;On the Origin of Species&quot;!</div> 
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent2116432" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper4501766">
+
+    <div id="navigationBottom-moduleContent4501766">
+
+              <a id="navigationBottom-moduleLink4501766" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4501767">
+
+    <div id="navigationBottom-moduleContent4501767">
+
+              <a id="navigationBottom-moduleLink4501767" class=" " href="/who-we-are/" ><span>Who We Are</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4502638">
+
+    <div id="navigationBottom-moduleContent4502638">
+
+              <a id="navigationBottom-moduleLink4502638" class=" " href="/our-mission/" ><span>Our Mission</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4502655">
+
+    <div id="navigationBottom-moduleContent4502655">
+
+              <a id="navigationBottom-moduleLink4502655" class=" " href="/events/" ><span>Events</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4502658">
+
+    <div id="navigationBottom-moduleContent4502658">
+
+              <a id="navigationBottom-moduleLink4502658" class=" " href="/sponsors/" ><span>Sponsors</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4502660">
+
+    <div id="navigationBottom-moduleContent4502660">
+
+              <a id="navigationBottom-moduleLink4502660" class=" " href="/press/" ><span>Press</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4502668">
+
+    <div id="navigationBottom-moduleContent4502668">
+
+              <a id="navigationBottom-moduleLink4502668" class=" " href="/volunteer/" ><span>Volunteer</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper4551745">
+
+    <div id="navigationBottom-moduleContent4551745">
+
+              <a id="navigationBottom-moduleLink4551745" class="offsite-link " href="http://bit.ly/3l2ccy" onclick="this.target='new';"><span>Join our Facebook Group</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent2116432" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper4501766">
+
+    <div id="moduleContent4501766">
+
+              <a id="moduleLink4501766" class=" " href="/" ><span>Home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4501767">
+
+    <div id="moduleContent4501767">
+
+              <a id="moduleLink4501767" class=" " href="/who-we-are/" ><span>Who We Are</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4502638">
+
+    <div id="moduleContent4502638">
+
+              <a id="moduleLink4502638" class=" " href="/our-mission/" ><span>Our Mission</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4502655">
+
+    <div id="moduleContent4502655">
+
+              <a id="moduleLink4502655" class=" " href="/events/" ><span>Events</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4502658">
+
+    <div id="moduleContent4502658">
+
+              <a id="moduleLink4502658" class=" " href="/sponsors/" ><span>Sponsors</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4502660">
+
+    <div id="moduleContent4502660">
+
+              <a id="moduleLink4502660" class=" " href="/press/" ><span>Press</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4502668">
+
+    <div id="moduleContent4502668">
+
+              <a id="moduleLink4502668" class=" " href="/volunteer/" ><span>Volunteer</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4551745">
+
+    <div id="moduleContent4551745">
+
+              <a id="moduleLink4551745" class="offsite-link " href="http://bit.ly/3l2ccy" onclick="this.target='new';"><span>Join our Facebook Group</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2116433" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Survival of the Fittest</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module   " id="moduleContentWrapper4551760">
+
+    <div id="moduleContent4551760">
+
+              <a id="moduleLink4551760" class="offsite-link " href="http://bit.ly/3l2ccy" onclick="this.target='new';"><span>Join us on Facebook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5114932">
+
+    <div id="moduleContent5114932">
+
+              <a id="moduleLink5114932" class=" " href="http://www.darwin150.com/home/category/videos-media" ><span>Videos &amp; Audio</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4502883">
+
+    <div id="moduleContent4502883">
+
+              <a id="moduleLink4502883" class=" " href="http://darwin150.squarespace.com/home/category/event-news" ><span>Event News</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4778800">
+
+    <div id="moduleContent4778800">
+
+              <a id="moduleLink4778800" class=" " href="http://darwin150.squarespace.com/home/category/university-school-news" ><span>University/School News</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4545800">
+
+    <div id="moduleContent4545800">
+
+              <a id="moduleLink4545800" class=" " href="http://darwin150.squarespace.com/home/category/darwins-birthday" ><span>Darwin&#39;s Birthday</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4551927">
+
+    <div id="moduleContent4551927">
+
+              <a id="moduleLink4551927" class=" " href="/darwin-shout-out/" ><span>Darwin Shout-Out</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper4502965">
+
+    <div id="moduleContent4502965">
+
+              <a id="moduleLink4502965" class=" " href="/archive/" ><span>Archive</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2217187" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Recent Posts</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4778897" class="widget-wrapper  widget-type-journalarchive"><div id="moduleContent4778897">
+
+
+
+
+
+
+
+  <ul class="archive-item-list-pt">
+     <li><a href="/home/2012/10/23/this-site-will-remain-up-as-an-archive.html">This site will remain up as an archive</a></li>  <li><a href="/home/2009/12/27/sean-carroll-webcast-link.html">Sean Carroll webcast link</a></li>  <li><a href="/home/2009/11/24/thankful-for-darwin.html">Thankful for Darwin</a></li>  <li><a href="/home/2009/11/23/darwin150-events-for-the-150th-anniversary.html">Darwin150 events for the 150th anniversary</a></li>  <li><a href="/home/2009/11/4/sean-carroll-lecture-tonight-still-a-few-spots-left.html">Sean Carroll lecture *tonight* - still a few spots left</a></li> 
+  </ul>
+
+
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2217233" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Recent Comments</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4779185" class="widget-wrapper  widget-type-tracker"><div id="moduleContent4779185">
+
+
+
+  
+
+  <ul class="change-list-pt">
+
+    
+
+          <li>
+
+            <span title="Thursday, 18 July 2013 6:57:52 AM EDT">July 18</span> - Klean Keepers
+            on
+            
+            
+            
+            
+            <a href="/home/2009/11/4/sean-carroll-lecture-tonight-still-a-few-spots-left.html#comment20184003">Sean Carroll lecture *tonight* - still a few spots left</a>
+
+            
+
+          </li>
+
+        
+
+          <li>
+
+            <span title="Friday, 03 May 2013 6:57:21 PM EDT">May 3</span> - 襪子
+            on
+            
+            
+            
+            
+            <a href="/home/2009/11/4/sean-carroll-lecture-tonight-still-a-few-spots-left.html#comment19991146">Sean Carroll lecture *tonight* - still a few spots left</a>
+
+            
+
+          </li>
+
+        
+
+          <li>
+
+            <span title="Tuesday, 18 September 2012 10:06:58 PM EDT">September 18</span> - Gail
+            on
+            
+            
+            
+            
+            <a href="/home/2009/12/27/sean-carroll-webcast-link.html#comment19010575">Sean Carroll webcast link</a>
+
+            
+
+          </li>
+
+        
+
+          <li>
+
+            <span title="Monday, 16 July 2012 3:56:50 AM EDT">July 16</span> - juicy t shirt
+            on
+            
+            
+            
+            
+            <a href="/home/2009/12/27/sean-carroll-webcast-link.html#comment18708354">Sean Carroll webcast link</a>
+
+            
+
+          </li>
+
+        
+
+          <li>
+
+            <span title="Monday, 16 July 2012 2:15:14 AM EDT">July 16</span> - name
+            on
+            
+            
+            
+            
+            <a href="/home/2009/10/8/podcast-of-lecture-2-variation-by-prof-jonathan-weiner.html#comment18708099">Podcast of lecture 2 - &quot;Variation&quot; - by Prof Jonathan Weiner</a>
+
+            
+
+          </li>
+
+        
+
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2116757" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Darwin150 Tweets</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4502791" class="widget-wrapper  widget-type-page"><div id="moduleContent4502791">
+
+
+
+
+
+  <div id="twitter_div">
+  <h2 style="display: none;" >Twitter Updates</h2>
+  <a href="http://twitter.com/darwin150" id="twitter-link" style="display:block;text-align:left;">follow us on Twitter</a>
+  <ul id="twitter_update_list"></ul>
+  <a href="http://twitter.com/darwin150" id="twitter-link" style="display:block;text-align:right;">follow us on Twitter</a>
+  </div>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2116563" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Monkeys Like Us</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4502538" class="widget-wrapper  widget-type-links"><div id="moduleContent4502538">
+
+
+
+
+
+
+  <ul class="link-group-list-pt">
+
+    
+
+          <li id="linkGroup333517">
+
+            
+             <div class="title">Compadres</div> 
+            
+
+            <ul>
+
+            
+
+                      <li id="link1030047">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.nationalgeographic.com">National&nbsp;Geographic</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1030048">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.citrixonline.com">Citrix&nbsp;Online</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1030049">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.mcz.harvard.edu/">Harvard Museum of&nbsp;Zoology</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1051531">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.darwin.asu.edu/">ASU&nbsp;Darwinfest</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1054400">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.campaignmonitor.com">Campaign&nbsp;Monitor</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1071587">
+                        <div class="title"><a onclick="this.target='new';" href="http://ncseweb.org/">National Center for Science&nbsp;Education</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1071588">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.nyas.org/Events/SCevents.aspx">NY Academy of&nbsp;Sciences</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+                      <li id="link1085484">
+                        <div class="title"><a onclick="this.target='new';" href="http://www.creationthemovie.com">Creation: The&nbsp;Movie</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2126048" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Search Our Site</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4528516" class="widget-wrapper  widget-type-search"><div id="moduleContent4528516">
+
+
+<!-- <form method="get" action="/display/Search">
+	<div class="search-form-pt-wrapper">
+	  <div class="search-form-pt">
+	    <span class="queryFieldWrapper"><input type="text" class="text queryField" name="searchQuery" value=""/></span>
+	    <span class="queryButtonWrapper"><input type="submit" class="button queryButton" value="&raquo;"/></span>
+	    <input type="hidden" name="moduleId" value="4528516"/>
+	    <br class="clearer"/>
+	  </div>
+	</div>
+</form> -->
+
+<form method="get" action="/display/Search">
+	<input type="hidden" name="moduleId" value="4528516"/>
+	<table class="search-form-pt-wrapper search-form-table" border="0" cellpadding="0" cellspacing="0">
+		<tr class="search-form-pt search-form-row">
+			<td class="queryFieldCell search-form-cell">
+				<span class="queryFieldWrapper">
+					<input type="text" class="text queryField" name="searchQuery" value=""/>
+				</span>
+			</td>
+			<td class="queryButtonCell search-form-cell">
+				<span class="queryButtonWrapper">
+					<input type="submit" class="button queryButton" value="&rarr;"/>
+				</span>
+			</td>
+		</tr>
+	</table> 
+</form></div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2116434" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+      
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4753127" class="widget-wrapper  widget-type-page"><div id="moduleContent4753127">
+
+
+
+
+
+  <a href="http://www.stumbleupon.com/submit?url=http://www.darwin150.com%26title%3DThe%2BArticle%2BTitle"> <img border=0 src="http://cdn.stumble-upon.com/images/120x20_su_blue.gif" alt=""></a>
+</div></div><div id="moduleContentWrapper4501770" class="widget-wrapper  widget-type-poweredby"><div id="moduleContent4501770">
+
+
+
+  <div id="squarespace-powered">
+    <a onclick="this.target='new';" href="http://www.squarespace.com/?associateTag=darwin150"><img src="/universal/images/squarespace/sstiny-button.png" alt="Powered by Squarespace"/></a>
+  </div>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent2217108" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Ask A Biologist</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4778683" class="widget-wrapper  widget-type-page"><div id="moduleContent4778683">
+
+
+
+
+
+  We've teamed up with the experts at <a href="http://askabiologist.asu.edu/podcasts/index.html">ASU Ask a Biologist</a> and <a href="http://twitter.com/drbiology">Dr. Biology</a> to answer some of your interesting and unusual questions about Darwin and evolution, including ones from our lectures that we aren't able to get to. <a href="http://darwin150.squarespace.com/home/tag/qa">Check out our Q&A here!</a>
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2116847" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Sign Up</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4545536" class="widget-wrapper  widget-type-links"><div id="moduleContent4545536">
+
+
+
+
+
+
+  <ul class="link-group-list-pt">
+
+    
+
+          <li id="linkGroup333514">
+
+            
+             <div class="title">Get free updates on&nbsp;Darwin150!</div> 
+             <div class="description">via The Reading&nbsp;Odyssey</div>  
+
+            <ul>
+
+            
+
+                      <li id="link1030044">
+                        <div class="title"><a onclick="this.target='new';" href="http://tinyurl.com/ReadingOdysseyNewsletter">E-mail Newsletter&nbsp;Sign-Up</a></div>
+                        <div class="description"></div>
+                        
+                      </li>
+
+                    
+
+            </ul>
+
+          </li>
+
+        
+
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2126041" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Darwin150 RSS</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4528501" class="widget-wrapper  widget-type-rss-syndicate"><div id="moduleContent4528501">
+
+
+
+  <ul class="feed-list-inline">
+    
+          <li><a href="http://www.darwin150.com/home/rss.xml" class="feed-link">Home: The Darwin 150 Project RSS</a></li>
+        
+          <li><a href="http://www.darwin150.com/home/rss-comments.xml" class="feed-link">Home: The Darwin 150 Project Comments RSS</a></li>
+        
+  </ul>
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+    <div id="sectionContent2126035" class="sectionWrapper  "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Darwin150 on the Web</div> 
+
+      
+        
+          <div class="content-passthrough"><div id="moduleContentWrapper4528485" class="widget-wrapper  widget-type-sociallinks"><div id="moduleContent4528485">
+
+
+
+  
+
+    
+    <ul class="social-link-list-pt">
+  
+      
+              <li id="socialLink39934" class="twitter">
+                <a  class="icon-link" style="background-image: url(/universal/images/social/twitter.png);"  onclick="this.target='new';" href="http://www.twitter.com/darwin150">Twitter</a>
+              </li>
+            
+              <li id="socialLink39935" class="facebook">
+                <a  class="icon-link" style="background-image: url(/universal/images/social/facebook.png);"  onclick="this.target='new';" href="http://www.facebook.com/group.php?gid=53320310123">Facebook</a>
+              </li>
+            
+  
+    </ul>
+    
+  
+
+</div></div></div>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+
+  
+
+  
+    
+
+  
+  
+  <div class="list-journal-entry-wrapper">
+
+          
+
+
+<div class="journal-entry-wrapper post-text authored-by-darwin150 ">
+<div id="item30033548" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Tuesday</span></div><div class="journal-entry-float-date"><span class="month">Oct</span><span class="date">23</span><span class="year">2012</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/home/2012/10/23/this-site-will-remain-up-as-an-archive.html">This site will remain up as an&nbsp;archive</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Tuesday, October 23, 2012 at 3:52PM</span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <h3><span style="font-size: 120%;">We gave Darwin a great 200th birthday in February 2009 - and we gave his book, <em style="font-weight: normal;">On the Origin of Species</em>, the great attention it deserved on the 150th anniversary of its publication in the fall of 2009.</span></h3>
+<p><span style="font-size: 120%;"><br /></span></p>
+<h3><span style="font-weight: normal; font-size: 120%;">Click on these links to watch/hear these wonderful lectures from the Darwin150 program - hosted and produced by Reading Odyssey, Inc., a global nonprofit with a mission to help ignite the curiosity and lifelong learning of adults around the world.</span></h3>
+<p><span style="font-weight: normal;"><br /></span></p>
+<p><span style="font-size: 120%;"><a href="http://vimeo.com/7307840">Lecture 1: "The World Before Darwin"</a><br />Professor Everett Mendelsohn, Professor Emeritus, Harvard University<br />Wednesday, September 16, 2009</span></p>
+<p><span style="font-weight: normal;"><span style="font-size: 120%;"><a href="http://www.youtube.com/watch?v=Ns0Y5pf1kQo">Lecture 2: "Variation: Chapters 1 and 2 of 'On the Origin of Species'"</a><br />Pulitzer Prize-winning Professor Jonathan Weiner, Columbia University<br />Wednesday, October 7, 2009</span></span></p>
+<p><span style="font-weight: normal;"><span style="font-size: 120%;"><a href="http://www.molbio.wisc.edu/carroll/Fittest.html">Lecture 3: "The Making of the Fittest: Natural Selection and the DNA Record of Evolution"</a><br />Professor Sean Carroll, University of Wisconsin<br />Wednesday, November 4, 2009</span></span></p>
+<p><span style="font-weight: normal;"><span style="font-size: 120%;">Lecture 4: "Celebrating 150 Years of 'Origin of Species'"<br />Gerald Edelman, Paul Ekman, Terrence Deacon<br />Tuesday, November 24, 2009</span></span></p>
+<h3>Advisor</h3>
+<p><span style="font-size: 120%;">-&nbsp;<a href="https://www.mcb.harvard.edu/mcb/faculty/profile/john-e-dowling/">Harvard College Professor, John Dowling</a></span></p>
+<div></div>
+<h3><span style="font-weight: normal;">Sponsors</span></h3>
+<h3><span style="font-size: 120%;">-&nbsp;<a href="http://www.nationalgeographic.com/">National Geographic<br /></a>-&nbsp;<a href="http://www.mcz.harvard.edu/">Harvard Museum of Comparative Zoology<br /></a>-&nbsp;<a href="http://www.citrixonline.com/">Citrix Online</a>&nbsp;and their HiDefConferencing division<br />-&nbsp;<a href="http://www.campaignmonitor.com/">Campaign Monitor<br /></a>-&nbsp;<a href="http://ncseweb.org/">National Center for Science Education<br /></a>-&nbsp;<a href="http://www.nyas.org/Events/SCevents.aspx">The New York Academy of Sciences<br /></a>-&nbsp;<a href="http://squarespace.com/">Squarespace<br /></a>-&nbsp;<a href="http://www.creationthemovie.com/">Creation: The Movie</a></span></h3>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="posted-by">  <a href="/home/author/darwin150"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />darwin150</a></span> |  <span class="post-comments"><a href="/home/2012/10/23/this-site-will-remain-up-as-an-archive.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />Post a Comment</a></span> |  <span class="post-references"><a href="/home/2012/10/23/this-site-will-remain-up-as-an-archive.html#references"> <img title="Reference" alt="Reference" class="inline-icon reference-icon" rel="dark" src="/universal/images/transparent.png" />49 References</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fhome%2F2012%2F10%2F23%2Fthis-site-will-remain-up-as-an-archive.html','This%20site%20will%20remain%20up%20as%20an%20archive');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/home/recommend/30033548"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"><span class="permalink-item"><a class="permalink" href="/home/2012/10/23/this-site-will-remain-up-as-an-archive.html"> <img title="Permalink" alt="Permalink" class="inline-icon permalink-icon" rel="dark" src="/universal/images/transparent.png" />Permalink </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-darwin150 ">
+<div id="item6148875" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Sunday</span></div><div class="journal-entry-float-date"><span class="month">Dec</span><span class="date">27</span><span class="year">2009</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/home/2009/12/27/sean-carroll-webcast-link.html">Sean Carroll webcast&nbsp;link</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Sunday, December 27, 2009 at 7:56AM</span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p>The full video from Professor Sean Carroll's wonderful lecture, "Making of the Fittest", for the Darwin150 fall 2009 lecture series is now available online.</p>
+<p>Please share this terrific lecture with colleagues, students, friends and family.</p>
+<div id="_mcePaste"></div>
+<div id="_mcePaste"></div>
+<div>Video: <a href="http://www.molbio.wisc.edu/carroll/Fittest.html">http://www.molbio.wisc.edu/carroll/Fittest.html</a></div>
+<div></div>
+<div></div>
+<div></div>
+<div>Thanks, Phil</div>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="posted-by">  <a href="/home/author/darwin150"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />darwin150</a></span> |  <span class="post-comments">Comments Off </span> |  <span class="post-references"><a href="/home/2009/12/27/sean-carroll-webcast-link.html#references"> <img title="Reference" alt="Reference" class="inline-icon reference-icon" rel="dark" src="/universal/images/transparent.png" />1 Reference</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fhome%2F2009%2F12%2F27%2Fsean-carroll-webcast-link.html','Sean%20Carroll%20webcast%20link');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/home/recommend/6148875"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"><span class="permalink-item"><a class="permalink" href="/home/2009/12/27/sean-carroll-webcast-link.html"> <img title="Permalink" alt="Permalink" class="inline-icon permalink-icon" rel="dark" src="/universal/images/transparent.png" />Permalink </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-darwin150 ">
+<div id="item5902491" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Tuesday</span></div><div class="journal-entry-float-date"><span class="month">Nov</span><span class="date">24</span><span class="year">2009</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/home/2009/11/24/thankful-for-darwin.html">Thankful for&nbsp;Darwin</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Tuesday, November 24, 2009 at 12:53PM</span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p>On this 150th anniversary of Charles Darwin's publication of "Origin of Species", I'm thankful for his multi-decade effort to understand one of the greatest questions of human history: where do we come from?</p>
+<p>When I asked Stanford biologist Robert Sapolsky which 10 books the general public should read to gain a basic understanding of biology, nine of the books were published in the last 10 years. Only one book he recommended was older than 10 years. You know the book - it's 150 years old today.</p>
+<p>Read <a href="http://showsupport.typepad.com/odyssey/2009/11/thankful-for-darwin.html">more</a></p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="posted-by">  <a href="/home/author/darwin150"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />darwin150</a></span> |  <span class="post-comments">Comments Off </span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fhome%2F2009%2F11%2F24%2Fthankful-for-darwin.html','Thankful%20for%20Darwin');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/home/recommend/5902491"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"><span class="permalink-item"><a class="permalink" href="/home/2009/11/24/thankful-for-darwin.html"> <img title="Permalink" alt="Permalink" class="inline-icon permalink-icon" rel="dark" src="/universal/images/transparent.png" />Permalink </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-darwin150 ">
+<div id="item5889519" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Monday</span></div><div class="journal-entry-float-date"><span class="month">Nov</span><span class="date">23</span><span class="year">2009</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/home/2009/11/23/darwin150-events-for-the-150th-anniversary.html">Darwin150 events for the 150th&nbsp;anniversary</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Monday, November 23, 2009 at 8:29AM</span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p>We have two final lectures to take place tomorrow, Tuesday, November 23 - the 150th anniversary of the publication of Darwin's "On the Origin of Species."</p>
+<p>1. 1pm New York time<br />You can watch at 1pm ET E.O. Wilson speak via taped comments - through a collaboration we set up wih the British Council. No registration needed but you do need the latest version of Adobe Flash. Go here at 1pm on Tuesday, Nov 24: <a href="http://www.open2.net/darwinlecture">http://www.open2.net/darwinlecture</a></p>
+<p>2. Free webcast from our partners at the New York Academy of Sciences at 6pm ET Nov 24 <br />Register here: <a href="http://www.nyas.org/darwin150">http://www.nyas.org/darwin150</a> *<br />* You must register separately for this to get into the New York Academy system.</p>
+<p>Our Facebook group has grown to 260,000 members. Join us there and leave your congratulations to Darwin.<a href="http://www.facebook.com/group.php?gid=53320310123"><br />http://www.facebook.com/group.php?gid=53320310123</a></p>
+<p>Thanks - and, on behalf of everyone at Darwin150 and the Reading Odyssey, congratulations on a successful lecture series, Facebook campaign and online reading group this fall.</p>
+<p><br />Phil <br />Founder, Reading Odyssey and Darwin150</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="posted-by">  <a href="/home/author/darwin150"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />darwin150</a></span> |  <span class="post-comments">Comments Off </span> |  <span class="post-references"><a href="/home/2009/11/23/darwin150-events-for-the-150th-anniversary.html#references"> <img title="Reference" alt="Reference" class="inline-icon reference-icon" rel="dark" src="/universal/images/transparent.png" />1 Reference</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fhome%2F2009%2F11%2F23%2Fdarwin150-events-for-the-150th-anniversary.html','Darwin150%20events%20for%20the%20150th%20anniversary');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/home/recommend/5889519"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"><span class="permalink-item"><a class="permalink" href="/home/2009/11/23/darwin150-events-for-the-150th-anniversary.html"> <img title="Permalink" alt="Permalink" class="inline-icon permalink-icon" rel="dark" src="/universal/images/transparent.png" />Permalink </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="journal-entry-wrapper post-text authored-by-darwin150 ">
+<div id="item5693358" class="journal-entry">
+
+  <div class="journal-entry-float-day"><span class="name">Wednesday</span></div><div class="journal-entry-float-date"><span class="month">Nov</span><span class="date">04</span><span class="year">2009</span></div>
+  
+  
+  
+  <div class="journal-entry-text">
+  
+      
+      <h2 class="title">
+    
+        
+    
+        <a class="journal-entry-navigation-current" href="/home/2009/11/4/sean-carroll-lecture-tonight-still-a-few-spots-left.html">Sean Carroll lecture *tonight* - still a few spots&nbsp;left</a>  
+     
+         
+    
+      </h2>
+      
+       <div class="journal-entry-tag journal-entry-tag-post-title"><span class="posted-on">   <img title="Date" alt="Date" class="inline-icon date-icon" rel="dark" src="/universal/images/transparent.png" />Wednesday, November 4, 2009 at 9:14AM</span> </div> 
+
+    
+  
+      
+      <div class="body">
+  
+        
+        
+        
+          <p>Professor Sean Carroll's third lecture in the Darwin150 campaign still has a few webcast spots left. This will be one of this great scientist's best talks - a multi-media extravaganza supporting his great insights and writings.</p>
+<p>It all begins at 8pm New York time (that's 7pm at the University of Wisconsin).</p>
+<p>To sign-up for a free webcast pass, click here:</p>
+<p><a href="http://DarwinLecture3.Eventbrite.com">http://DarwinLecture3.Eventbrite.com</a></p>
+<p>With the help of Darwin150 volunteers around the world, we have assembled a <a href="http://www.darwin150.com/home/2009/11/3/universities-et-al-participating-in-sean-carrolls-lecture.html">global audience</a> from India to Mexico, from Europe to Canada and South America.</p>
+<p>Phil</p>
+<p>&nbsp;</p>
+
+        
+  
+          
+  
+         
+  
+      </div>
+
+    
+
+  </div>
+
+      <div class="journal-entry-tag journal-entry-tag-post-body">
+      <div class="journal-entry-tag-post-body-line1"><span class="posted-by">  <a href="/home/author/darwin150"> <img title="Author" alt="Author" class="inline-icon user-registered-icon" rel="dark" src="/universal/images/transparent.png" />darwin150</a></span> |  <span class="post-comments"><a href="/home/2009/11/4/sean-carroll-lecture-tonight-still-a-few-spots-left.html#comments"> <img title="Comment" alt="Comment" class="inline-icon comment-icon" rel="dark" src="/universal/images/transparent.png" />91 Comments</a></span> |  <span class="post-references"><a href="/home/2009/11/4/sean-carroll-lecture-tonight-still-a-few-spots-left.html#references"> <img title="Reference" alt="Reference" class="inline-icon reference-icon" rel="dark" src="/universal/images/transparent.png" />44 References</a></span> |  <span class="share-item"><a href="javascript:noop();" onclick="Squarespace.Interaction.shareLink(this,'%2Fhome%2F2009%2F11%2F4%2Fsean-carroll-lecture-tonight-still-a-few-spots-left.html','Sean%20Carroll%20lecture%20*tonight*%20-%20still%20a%20few%20spots%20left');"> <img title="Share Article" alt="Share Article" class="inline-icon share-icon" rel="dark" src="/universal/images/transparent.png" />Share Article </a></span> |  <span class="email-item"><a href="/home/recommend/5693358"> <img title="Email Article" alt="Email Article" class="inline-icon email-icon" rel="dark" src="/universal/images/transparent.png" />Email Article </a></span> </div>
+      <div class="journal-entry-tag-post-body-line2"><span class="permalink-item"><a class="permalink" href="/home/2009/11/4/sean-carroll-lecture-tonight-still-a-few-spots-left.html"> <img title="Permalink" alt="Permalink" class="inline-icon permalink-icon" rel="dark" src="/universal/images/transparent.png" />Permalink </a></span> </div>
+      <div class="journal-entry-tag-post-body-line3"></div>
+    </div>
+  
+  
+  <div class="clearer"></div>
+
+</div>
+</div>
+
+
+
+
+
+    
+    
+  </div>
+
+  
+  <div  class="paginationControlWrapper journal-navigation" >
+
+    <!-- 1 - 5 of 28 (page 1 of 6) -->
+
+    <span class="paginationControlPrefix">
+      
+              Page
+       
+    </span>
+    
+    
+
+    
+              <a class="paginationPageNumber activePage" href="javascript:noop();">1</a>
+      
+    
+              <a class="paginationPageNumber"  href="/home/?currentPage=2" >2</a>
+      
+    
+              <a class="paginationPageNumber"  href="/home/?currentPage=3" >3</a>
+      
+    
+              <a class="paginationPageNumber"  href="/home/?currentPage=4" >4</a>
+      
+    
+              <a class="paginationPageNumber"  href="/home/?currentPage=5" >5</a>
+      
+     
+
+          <span class="paginationEllipsis">...</span> <a class="paginationPageNumber"  href="/home/?currentPage=6" >6</a>
+    
+
+          <span class="paginationControlNextPageSuffix">
+        <a  href="/home/?currentPage=2" >
+          Next 5 Entries »
+        </a>
+      </span>
+    
+    
+    
+
+  </div>
+
+
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              Copyright &copy; 2012, Reading Odyssey, Inc.  All rights reserved.
+
+<script type="text/javascript" src="http://twitter.com/javascripts/blogger.js"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/darwin150.json?callback=twitterCallback2&amp;count=5"></script>
+
+
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+GET http://allie-martin-y4a2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BWREZN2SwzguYTk2ZTQ2MjczNmE5MzUwNTFkYjljZTVkODg0OTM4;Path=/
+< X-Contextid: ntcCdQCM/vx32GsND
+< Age: 436033
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 00:11:33 GMT
+< Location: https://allie-martin-y4a2.squarespace.com/

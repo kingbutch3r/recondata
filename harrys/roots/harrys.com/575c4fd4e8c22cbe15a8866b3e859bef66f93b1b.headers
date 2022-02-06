@@ -1,0 +1,15 @@
+GET http://harrys.com
+
+
+< HTTP/1.1 301 Redirect to www.harrys.com
+< Accept-Ranges: bytes
+< Via: 1.1 varnish
+< X-Timer: S1643477967.228383,VS0,VE0
+< Location: https://www.harrys.com/
+< Retry-After: 0
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 17:39:27 GMT
+< X-Served-By: cache-bom4723-BOM
+< X-Cache: HIT
+< X-Cache-Hits: 0
+< Server: Varnish

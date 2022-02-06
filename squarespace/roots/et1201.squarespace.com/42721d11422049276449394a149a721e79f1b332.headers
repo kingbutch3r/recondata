@@ -1,0 +1,11 @@
+GET http://et1201.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://et1201.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bd980c6NuC0XZWY3OWMzNmM5NjUzZGEyOGMzZGE2YmM4MmU5MjZk;Path=/
+< X-Contextid: lkzM8jfB/FXLwNGtW
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:50:18 GMT

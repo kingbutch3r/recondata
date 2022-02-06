@@ -1,0 +1,11 @@
+GET http://msimports2500.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 4lw20TcY/rFmXHRCy
+< Age: 249581
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 04:06:17 GMT
+< Location: https://msimports2500.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcU6pxZEqBvVM2ZmZDE2MjU1YjFlNGRmYzViYTA0ZjI5YmRlNTYx;Path=/

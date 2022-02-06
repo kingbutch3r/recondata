@@ -1,0 +1,17 @@
+GET https://englishsuccessacademy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=e0prpcj2kimi31fr11ieocikon; expires=Fri, 04-Mar-2022 00:47:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=82b4333e-d477-4c22-95cc-ef34b889267e; expires=Fri, 02-Feb-2024 00:47:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:47:28 GMT
+< Vary: User-Agent

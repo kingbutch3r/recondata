@@ -1,0 +1,17 @@
+GET https://meetjodi.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:14:59 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=cmffci243nglmin8ds30she2s4; expires=Fri, 04-Mar-2022 00:14:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1f84e5e5-7c8b-4d45-8488-0caee4a7e683; expires=Fri, 02-Feb-2024 00:14:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload

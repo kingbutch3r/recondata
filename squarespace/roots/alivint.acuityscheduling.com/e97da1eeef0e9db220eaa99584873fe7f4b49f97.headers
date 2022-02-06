@@ -1,0 +1,15 @@
+GET https://alivint.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=ok63qcp4e0mlcb0lfkafvb321l; expires=Fri, 04-Mar-2022 00:42:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7e4ca74d-d530-40db-b9b1-a6852c2b80cf; expires=Fri, 02-Feb-2024 00:42:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:42:05 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache

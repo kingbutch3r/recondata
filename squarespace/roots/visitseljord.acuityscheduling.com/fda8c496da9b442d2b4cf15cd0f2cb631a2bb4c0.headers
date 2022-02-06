@@ -1,0 +1,17 @@
+GET https://visitseljord.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:00:47 GMT
+< Set-Cookie: PHPSESSID=ot20e457o1e5s1a4afop634jlb; expires=Fri, 04-Mar-2022 00:00:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=320a4a8f-d796-4673-a63b-7110f81e7c5e; expires=Fri, 02-Feb-2024 00:00:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

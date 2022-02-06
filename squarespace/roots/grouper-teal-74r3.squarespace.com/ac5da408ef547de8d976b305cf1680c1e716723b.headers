@@ -1,0 +1,12 @@
+GET https://grouper-teal-74r3.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Date: Wed, 02 Feb 2022 01:01:43 UTC
+< Pragma: no-cache
+< X-Contextid: cn51Q6eD/woftC58F
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace

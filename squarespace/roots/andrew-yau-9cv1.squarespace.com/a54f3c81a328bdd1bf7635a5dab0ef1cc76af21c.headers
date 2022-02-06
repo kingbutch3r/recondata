@@ -1,0 +1,10 @@
+GET http://andrew-yau-9cv1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:51:09 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcQPqKx1JbVIYzk3YWE5ZThiNGRhNDkwZjhhODIzMGMwOGFiOThm;Path=/
+< X-Contextid: a56mCQaW/youCpOwA

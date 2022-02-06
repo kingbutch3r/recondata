@@ -1,0 +1,15 @@
+GET https://thehypnoticinterventionist.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=gv2kng4116fljlei9u5p3eiamg; expires=Fri, 04-Mar-2022 00:42:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6ff275ac-196a-43bb-9b2d-21d3738ca42b; expires=Fri, 02-Feb-2024 00:43:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:43:00 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent

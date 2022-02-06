@@ -1,0 +1,17 @@
+GET https://sweethavenhands.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:56:42 GMT
+< Set-Cookie: PHPSESSID=15isvsj6lu2mqn8ce3gvjq158c; expires=Fri, 04-Mar-2022 00:56:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9eab2c33-a711-4a6b-a119-91161c0064ef; expires=Fri, 02-Feb-2024 00:56:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

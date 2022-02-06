@@ -1,0 +1,11 @@
+GET https://ftp10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:52:44 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbUuhz4GM0IPYTliZTkzNzQ4NDhhZDM5ODhmMDQ2YWQ4YWI5M2Q3;Path=/
+< X-Contextid: 4nDnmKfq/xRSND7mx

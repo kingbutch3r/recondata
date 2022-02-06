@@ -1,0 +1,16 @@
+GET https://guiadelpartner.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Set-Cookie: crumb=BTsVtL9v87qwMGI3ZjNmNzIzODIwYjY3ZDJlZTUyN2UwZDQ5ZTk1;Path=/
+< X-Contextid: FTE1lHAZ/t9Gb6VQz
+< Accept-Ranges: bytes
+< Etag: W/"15cbde9da047589b97e60136cf9c4b79"
+< Strict-Transport-Security: max-age=0
+< Date: Mon, 31 Jan 2022 11:28:31 GMT
+< X-Content-Type-Options: nosniff
+< Age: 136531
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

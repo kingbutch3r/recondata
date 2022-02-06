@@ -1,0 +1,17 @@
+GET https://tortoise-bat-n9f2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Frame-Options: SAMEORIGIN
+< Date: Fri, 28 Jan 2022 16:31:42 GMT
+< X-Contextid: QRdmxZ0r/duDKVsmo
+< Accept-Ranges: bytes
+< Age: 375643
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Etag: W/"d6099cbfb85fe551dd8b95ad03e8b96a--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWlYUQPwnesnMzA1YmQyODljNzk2MmI0ZTAzZmM0YmY1NTc5YTEx;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

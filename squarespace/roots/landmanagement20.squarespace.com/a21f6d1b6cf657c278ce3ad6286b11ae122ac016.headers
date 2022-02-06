@@ -1,0 +1,16 @@
+GET https://landmanagement20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< X-Contextid: rbWaeMjq/ioFM22wn
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BXQlPNuBY9BINTdiOWM4YjNkY2ZhMjIyOGU0OGFiMjIzZjhlYTE4;Path=/
+< Vary: Accept-Encoding
+< Age: 532330
+< Date: Wed, 26 Jan 2022 20:57:36 GMT
+< Etag: W/"91c89ef38e1f2f0eabfd972412295501--gzip"
+< X-Content-Type-Options: nosniff

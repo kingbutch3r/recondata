@@ -1,0 +1,11 @@
+GET https://www.alex-cherry-00w1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:11 GMT
+< Location: https://alex-cherry-00w1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BduRRx6Kf5E+YjAwODhiZjJkYTUwMTdjNTM1NGQ4ZTNhYzM4YTdl;Path=/
+< X-Contextid: iwn9icZ8/pChNM7iS

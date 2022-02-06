@@ -1,0 +1,15 @@
+GET https://vitaunger.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:28:40 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ato7ch9fc5db7kma3kml3430bm; expires=Fri, 04-Mar-2022 00:28:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0f05fe41-6473-4cf8-a0c1-1ec55e1b44ff; expires=Fri, 02-Feb-2024 00:28:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent

@@ -1,0 +1,17 @@
+GET https://redbirdacupunctureclinic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:21 GMT
+< Set-Cookie: PHPSESSID=144d00c27tenqhjbgl54gslm6d; expires=Thu, 03-Mar-2022 23:57:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=58d7c1c9-5619-45cc-a493-1512fbb66181; expires=Thu, 01-Feb-2024 23:57:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Pragma: no-cache

@@ -1,0 +1,16 @@
+GET https://jamie-pfister-agb2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 35218
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 15:32:25 GMT
+< Etag: W/"d38015f97f76a70efe7567ce0dbe7599"
+< X-Contextid: vn4rw3pI/OaA26uBE
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Set-Cookie: crumb=BT/jVcRW+yANNGI5NDA5ZTUyMWQ1Mzg0OTBkODE0ZWEyOWYxMGI3;Path=/

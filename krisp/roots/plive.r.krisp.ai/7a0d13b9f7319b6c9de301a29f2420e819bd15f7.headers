@@ -1,0 +1,9 @@
+GET https://plive.r.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://plive.account.krisp.ai:443/share/record/
+< Server: awselb/2.0
+< Date: Tue, 01 Feb 2022 23:29:45 GMT
+< Content-Type: text/html
+< Content-Length: 134

@@ -1,0 +1,16 @@
+GET https://mercedlions.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: sKRPaV9G/2KC6ceJd
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BdO6ioy3EUJhMjJmNGRhM2M4MTZlZDRhZGVlOGZlNzVjZjA2ZjYw;Path=/
+< Date: Fri, 28 Jan 2022 00:14:31 GMT
+< Vary: Accept-Encoding
+< Age: 434524
+< Etag: W/"2d93df10b2700fd5384ee7e45365f143--gzip"
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

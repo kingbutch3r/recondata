@@ -1,0 +1,11 @@
+GET https://www.llama-bat-x5g2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:29 GMT
+< Location: https://llama-bat-x5g2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWMt69OqNZ0zMGI5ODBiNWIxZTU4OWVmN2I2YWRlNGY0MzFmMzQ2;Path=/
+< X-Contextid: 3fHt5OY4/Z09780kE

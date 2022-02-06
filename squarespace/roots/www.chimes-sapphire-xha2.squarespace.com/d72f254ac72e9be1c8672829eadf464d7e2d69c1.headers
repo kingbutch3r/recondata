@@ -1,0 +1,11 @@
+GET https://www.chimes-sapphire-xha2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://chimes-sapphire-xha2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRJzDA9uhiT+MjM4MzVlYmQyMGY3YWNmNTM0NzVhMzc0NzNmMDc5;Path=/
+< X-Contextid: H6imQoMz/EFNkx5jR
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:19:03 GMT

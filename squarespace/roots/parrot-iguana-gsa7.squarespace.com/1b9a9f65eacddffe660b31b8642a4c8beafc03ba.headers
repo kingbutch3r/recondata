@@ -1,0 +1,11 @@
+GET http://parrot-iguana-gsa7.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:22:42 GMT
+< Location: https://parrot-iguana-gsa7.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRLV9bZ99JxEZTRjYWRlMGFiNzM2NDc5NTQ1OTI5MThjMTNhZGFj;Path=/
+< X-Contextid: CvOJC3Ja/praJS9Us

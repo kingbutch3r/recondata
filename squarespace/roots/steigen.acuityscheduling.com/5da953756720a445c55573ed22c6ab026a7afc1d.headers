@@ -1,0 +1,17 @@
+GET https://steigen.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:20:53 GMT
+< Set-Cookie: PHPSESSID=j4dnpkajmaeub60plu7k1r2smp; expires=Fri, 04-Mar-2022 00:20:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d49559a9-f239-4399-bc85-0042d5b08bea; expires=Fri, 02-Feb-2024 00:20:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

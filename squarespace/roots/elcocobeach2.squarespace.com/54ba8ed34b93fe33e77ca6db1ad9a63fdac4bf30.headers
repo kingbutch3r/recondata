@@ -1,0 +1,13 @@
+GET http://elcocobeach2.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BXL8AwUYyOOoZDcwMzFlNWU3YzM4Nzk5OWI2YzBhOWRiYTM0ZGQz;Path=/
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:20:37 GMT
+< Etag: W/"b94b8ec29647af4ea42b99c3e45331a3"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: 6fjabMmY/7vYFjMOn

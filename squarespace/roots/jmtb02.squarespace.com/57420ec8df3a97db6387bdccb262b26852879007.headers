@@ -1,0 +1,16 @@
+GET https://jmtb02.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 01:39:27 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQaBu5H6cBDVYjAyYjQ3NDZlMTA5NmVhOGRmYzFlYjYxMjMzNmMw;Path=/
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: 4GZwI3oh/7RHTYtXO
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 344207
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"1f53962272f117c2ebaf599a26ad4705--gzip"
+< X-Content-Type-Options: nosniff

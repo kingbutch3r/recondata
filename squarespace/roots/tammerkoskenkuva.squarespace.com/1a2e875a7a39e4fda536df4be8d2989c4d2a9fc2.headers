@@ -1,0 +1,16 @@
+GET https://tammerkoskenkuva.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 05:44:11 GMT
+< Etag: W/"a22f83e6f85519535893f868ec7f68d8--gzip"
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Contextid: TvhEDx5i/iD3rXHr8
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bc0Cf3/MJ5D+NTU3NWUxY2FkOGQzMzhmZGViNzhjOGJlNGVmMDNj;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Age: 329920
+< X-Content-Type-Options: nosniff

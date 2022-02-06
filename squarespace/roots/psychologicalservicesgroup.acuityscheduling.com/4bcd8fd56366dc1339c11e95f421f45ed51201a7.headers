@@ -1,0 +1,17 @@
+GET https://psychologicalservicesgroup.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=fha1gls2d5vg96fvovga7uftg0; expires=Fri, 04-Mar-2022 00:27:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f6145c51-0c46-44ed-993b-26d0cf47d3bc; expires=Fri, 02-Feb-2024 00:27:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:27:31 GMT

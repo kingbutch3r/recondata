@@ -1,0 +1,16 @@
+GET http://smita-jacob-hy50.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"d9369bbe6d0759e38958bc1e77a28b20"
+< Age: 14512
+< Date: Tue, 01 Feb 2022 20:47:56 GMT
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Last-Modified: Tue, 01 Feb 2022 20:47:56 GMT
+< Set-Cookie: crumb=BeQBRyuV9L79ZWM1OGQ0ZTU4YTNlN2M0OTM1M2RhNDU3Njc4MTYx;Path=/
+< X-Contextid: JHP8c4YF/icveNlBS

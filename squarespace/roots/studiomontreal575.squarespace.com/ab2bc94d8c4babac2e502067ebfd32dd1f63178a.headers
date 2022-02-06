@@ -1,0 +1,11 @@
+GET http://studiomontreal575.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: BvyBjld8/eLl5cjtS
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:55:52 GMT
+< Location: https://studiomontreal575.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bbk3g1/dMjmqZTcxYzQ2YzBkMDBkYTM0MjE0YzQyYmMzMWM3NmY4;Path=/

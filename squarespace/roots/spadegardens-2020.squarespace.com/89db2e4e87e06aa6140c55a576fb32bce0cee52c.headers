@@ -1,0 +1,11 @@
+GET http://spadegardens-2020.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:49:42 GMT
+< Location: https://spadegardens-2020.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfmK//WL5d2AZmFmNTBmMjU3YjY3NDkyMWY4MWJlNGI2MzdhMzVk;Path=/
+< X-Contextid: UDiLlc83/Mrl4F7t8
+< Content-Length: 0
+< Age: 0

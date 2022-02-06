@@ -1,0 +1,10 @@
+GET https://ansgarjohn-brenninkmeijer-c4g1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: acowCU8e/sh7SAH4Y
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:15:04 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BVybMRKOOegwNDI2YmY0MjZiZGQwYjQxMTBjZDM4NDk3NGIyNmVh;Path=/

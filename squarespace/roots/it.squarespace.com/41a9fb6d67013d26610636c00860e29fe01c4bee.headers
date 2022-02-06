@@ -1,0 +1,11 @@
+GET http://it.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://it.squarespace.com/
+< X-Server: Smartling
+< X-Sl-Notranslate: 1
+< X-Sl-Norewrite: 1
+< Date: Wed, 02 Feb 2022 00:55:07 GMT
+< X-Contextid: l8ZmaBhV/5IJjcMOq
+< Server: Squarespace

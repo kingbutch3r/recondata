@@ -1,0 +1,17 @@
+GET https://oephotography.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:11:11 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=t5fvfbq62man68uk6e374pf7mv; expires=Fri, 04-Mar-2022 01:11:10 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4c9a2f61-890b-49cd-a349-ced681a22758; expires=Fri, 02-Feb-2024 01:11:11 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload

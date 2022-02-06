@@ -1,0 +1,12 @@
+GET http://tls-bloomington.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=172800, s-maxage=172800
+< Date: Wed, 02 Feb 2022 00:57:59 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTO3E3jJ+TaTYWFmNjlhZTJjNmU1YzQ3YjhlN2U3ZDViYmZmNmYz;Path=/
+< Age: 0
+< Location: https://tls-bloomington.squarespace.com/
+< X-Contextid: 2d4pSasT/elUUUw7j
+< Content-Length: 0

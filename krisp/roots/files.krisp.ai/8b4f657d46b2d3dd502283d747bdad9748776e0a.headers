@@ -1,0 +1,13 @@
+GET http://files.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:29:36 GMT
+< X-Cache: Redirect from cloudfront
+< Via: 1.1 2aacc091f170b05852ba1fd23cafba5e.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: pDP3SsYjQ6zrSwo7aRYUw8JD48rD-duVDBBrIL6LVQTtwSbPNjOgcA==
+< Server: CloudFront
+< Content-Type: text/html
+< Content-Length: 183
+< Location: https://files.krisp.ai/
+< X-Amz-Cf-Pop: BOM50-C1

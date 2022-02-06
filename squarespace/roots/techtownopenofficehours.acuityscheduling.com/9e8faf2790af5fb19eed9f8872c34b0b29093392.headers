@@ -1,0 +1,15 @@
+GET https://techtownopenofficehours.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:37:37 GMT
+< Set-Cookie: PHPSESSID=v6ueja2cpgs6iq52e03mkft6q6; expires=Fri, 04-Mar-2022 00:37:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2910fdc2-eee1-4182-b2e4-6795122ff3ac; expires=Fri, 02-Feb-2024 00:37:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

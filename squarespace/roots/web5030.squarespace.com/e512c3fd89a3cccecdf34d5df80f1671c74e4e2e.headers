@@ -1,0 +1,11 @@
+GET https://web5030.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:49 GMT
+< Server: Squarespace
+< X-Contextid: t1pWD3EP/3W3vU2Vf
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Set-Cookie: crumb=Bd0i4iUT+LOHMjhlMzZhMWJkOWZiODNjMGZjMGQ5ZmM4ZjJiZmU3;Path=/

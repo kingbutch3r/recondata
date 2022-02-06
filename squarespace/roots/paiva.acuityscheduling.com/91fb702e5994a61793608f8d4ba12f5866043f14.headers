@@ -1,0 +1,17 @@
+GET https://paiva.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:56:19 GMT
+< Set-Cookie: PHPSESSID=edri0jt90m03jpefj95cvjrk2m; expires=Thu, 03-Mar-2022 23:56:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a4d72867-c162-43be-9638-1cc505693b59; expires=Thu, 01-Feb-2024 23:56:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate

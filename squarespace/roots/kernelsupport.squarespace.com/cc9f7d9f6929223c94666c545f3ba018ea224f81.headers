@@ -1,0 +1,16 @@
+GET https://kernelsupport.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Etag: W/"b11c5f40a367270c5510c864202c49cf--gzip"
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 124359
+< Server: Squarespace
+< Set-Cookie: crumb=BQkWwPdU0auYNGNhMDMxMTEzZjgyMDZjZTc0YmEzOTMyODM4NTZm;Path=/
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: liZtKYlP/KU9nwnqI
+< Date: Mon, 31 Jan 2022 14:29:00 GMT
+< X-Content-Type-Options: nosniff

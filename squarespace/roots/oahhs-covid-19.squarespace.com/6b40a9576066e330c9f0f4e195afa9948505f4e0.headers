@@ -1,0 +1,15 @@
+GET https://oahhs-covid-19.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: BCh8JUPX/6HPscV0X
+< Content-Length: 3422
+< Server: Squarespace
+< Set-Cookie: crumb=Bb/FNf0ahmoUMjFiZGRhZDY5YWQ3MDIxZTVjYjE2NTQ3ZGE1OWYx;Path=/
+< Etag: W/"457c0eae2e415309228de4fd21bc1726"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:26:25 GMT

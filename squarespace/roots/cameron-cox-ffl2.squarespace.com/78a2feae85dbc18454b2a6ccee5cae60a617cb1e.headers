@@ -1,0 +1,16 @@
+GET https://cameron-cox-ffl2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"dd2f9fea35ec5d69e207ea4ca4767309--gzip"
+< Set-Cookie: crumb=BcaVI+IWLs2RYzY2YTllMTFkZGE3YjRkNTZiYmFkZjYyNjVmYmY4;Path=/
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: VhoBlIud/NtWxYlKm
+< Strict-Transport-Security: max-age=0
+< Age: 350770
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 23:55:32 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

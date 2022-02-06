@@ -1,0 +1,15 @@
+GET https://evanmcginnis.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:34:06 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=0cqnnm5ovfis0sr1271n2bfb51; expires=Fri, 04-Mar-2022 00:34:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=55cee581-4d02-48c2-a055-51419da38a90; expires=Fri, 02-Feb-2024 00:34:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

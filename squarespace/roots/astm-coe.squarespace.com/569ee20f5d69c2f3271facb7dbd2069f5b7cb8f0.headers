@@ -1,0 +1,11 @@
+GET http://astm-coe.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: aaUiGO2q/A3Pt5n3k
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:25:41 GMT
+< Location: https://astm-coe.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BV/v3QUjNfSmYzlhZDgyZDRmN2MyMDRmYmRiYmMxMmI5MDQ2Mjgx;Path=/

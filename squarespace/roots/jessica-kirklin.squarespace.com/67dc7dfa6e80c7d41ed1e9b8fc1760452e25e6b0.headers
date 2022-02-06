@@ -1,0 +1,16 @@
+GET https://jessica-kirklin.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Date: Tue, 01 Feb 2022 03:10:30 GMT
+< Etag: W/"c418a409d6045ba673f77688da95121c--gzip"
+< Accept-Ranges: bytes
+< Age: 79037
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXlh5ovQRl7lYjUyZGFiZmZlNWExN2Y3NGM1MmM1YmU5NzM3ODMz;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: n6xRdqbK/g2xfFBWT
+< X-Content-Type-Options: nosniff

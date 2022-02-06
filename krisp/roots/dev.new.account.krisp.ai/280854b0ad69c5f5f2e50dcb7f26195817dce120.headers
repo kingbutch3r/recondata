@@ -1,0 +1,11 @@
+GET http://dev.new.account.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=3600
+< Expires: Wed, 02 Feb 2022 00:29:49 GMT
+< Location: https://dev.new.account.krisp.ai/
+< Cf-Ray: 6d6ef6cb0cc82e1d-BOM
+< Date: Tue, 01 Feb 2022 23:29:49 GMT
+< Vary: Accept-Encoding
+< Server: cloudflare

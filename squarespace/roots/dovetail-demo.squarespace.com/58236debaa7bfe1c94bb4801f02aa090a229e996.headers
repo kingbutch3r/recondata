@@ -1,0 +1,11 @@
+GET https://dovetail-demo.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:14 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUmtr2TPw6/ENTA3Mzk5YmRjZTc5M2M5YWRjODllZDg1NTVmMTkz;Path=/
+< X-Contextid: YCiA3a69/gLviSq50

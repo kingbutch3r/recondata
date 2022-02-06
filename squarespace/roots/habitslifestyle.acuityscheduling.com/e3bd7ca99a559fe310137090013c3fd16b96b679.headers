@@ -1,0 +1,17 @@
+GET https://habitslifestyle.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=b8sib9csk93j2rlrmte6o92b2b; expires=Fri, 04-Mar-2022 00:04:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=345252fd-d8d6-41b3-a2e8-2123b6cf5d6d; expires=Fri, 02-Feb-2024 00:04:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:04:58 GMT

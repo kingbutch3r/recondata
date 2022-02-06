@@ -1,0 +1,15 @@
+GET http://tcd2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BVNGvoJOOhdpNmE1N2M4NDlmZWQzMDllZDZlZmIxYTc2ZGI2YzA4;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:52:13 GMT
+< Server: Squarespace
+< X-Contextid: 3Xg52QhK/9TGpWiFU
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"6c10f7b5a5c4ef660600f46994b95454--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

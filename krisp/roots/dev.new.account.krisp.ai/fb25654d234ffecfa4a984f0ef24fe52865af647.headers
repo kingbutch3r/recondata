@@ -1,0 +1,11 @@
+GET https://dev.new.account.krisp.ai
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Length: 0
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< Cf-Ray: 6d6ef6d29e86851c-BOM
+< Date: Tue, 01 Feb 2022 23:29:51 GMT
+< Content-Type: text/plain; charset=utf-8

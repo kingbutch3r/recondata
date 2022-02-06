@@ -1,0 +1,11 @@
+GET http://fee2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:52:18 GMT
+< Location: https://fee2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVHQegrM1Z+jYTBkODRhZGE4NGUyZDE2ZjYyNmY4MjJhZWUwOTk5;Path=/
+< X-Contextid: Q73CucTN/zyH9z5LF

@@ -1,0 +1,17 @@
+GET https://clement.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=4eum0vl5lgu1pu4ji9bf02nit6; expires=Fri, 04-Mar-2022 00:41:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b96ac9e4-32f7-4f43-9e0f-f7401f3ef623; expires=Fri, 02-Feb-2024 00:41:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:41:35 GMT
+< X-Content-Type-Options: nosniff

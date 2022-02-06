@@ -1,0 +1,17 @@
+GET https://mcknightmcknightinsurancesolutions.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:36:01 GMT
+< Pragma: no-cache
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=bb1h39csmclad50snars8mbl9f; expires=Fri, 04-Mar-2022 00:36:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2131c19a-4eb2-4b20-854a-bf69b69e3cf6; expires=Fri, 02-Feb-2024 00:36:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

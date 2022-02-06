@@ -1,0 +1,15 @@
+GET http://m20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"d7375ce28dd04924f3272ea26df834da--gzip"
+< Vary: Accept-Encoding
+< X-Contextid: 1tKwAR2K/el1zNEpY
+< Accept-Ranges: bytes
+< Age: 372797
+< Date: Fri, 28 Jan 2022 16:19:18 GMT
+< Set-Cookie: crumb=BdZjg0FYx+hQZWM4ZmRhODY4NWMxNTg4YmVmMjQ0MGFjMzIwNTYw;Path=/

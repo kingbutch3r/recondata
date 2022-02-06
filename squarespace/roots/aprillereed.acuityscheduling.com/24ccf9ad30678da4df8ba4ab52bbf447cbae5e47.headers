@@ -1,0 +1,17 @@
+GET https://aprillereed.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:59:10 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=56vcfkgl9ujnri1ftclhf62tbo; expires=Thu, 03-Mar-2022 23:59:09 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3b6ed141-1d8e-4605-9790-b1e88b477794; expires=Thu, 01-Feb-2024 23:59:10 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

@@ -1,0 +1,11 @@
+GET http://frank-jarrell-bgj2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BVI9QvxSTRy6M2FhMDViMzgwMDM4NDRmYWJmOGM2YjlhYjkxNWM2;Path=/
+< X-Contextid: JAPd7zCD/GDGIF1qx
+< Age: 350391
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 00:01:14 GMT
+< Location: https://frank-jarrell-bgj2.squarespace.com/

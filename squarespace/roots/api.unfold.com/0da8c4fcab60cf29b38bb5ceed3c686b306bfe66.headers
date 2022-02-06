@@ -1,0 +1,11 @@
+GET http://api.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Served-By: cache-bom4740-BOM
+< X-Cache: HIT
+< X-Cache-Hits: 0
+< Retry-After: 0
+< Location: https://api.unfold.com/
+< Content-Length: 0
+< Accept-Ranges: bytes

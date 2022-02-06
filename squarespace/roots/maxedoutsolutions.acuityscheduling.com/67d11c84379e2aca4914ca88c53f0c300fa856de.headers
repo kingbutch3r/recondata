@@ -1,0 +1,17 @@
+GET https://maxedoutsolutions.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:36:14 GMT
+< Set-Cookie: PHPSESSID=ipbgfec4rt440nshkeiq0ob43g; expires=Fri, 04-Mar-2022 00:36:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=286fb92a-d9c9-47f7-88fc-0bb5b181b360; expires=Fri, 02-Feb-2024 00:36:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

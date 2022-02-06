@@ -1,0 +1,17 @@
+GET https://janella.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:54:56 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=dinorbbkvjc7lnmmlsm85e2rgq; expires=Thu, 03-Mar-2022 23:54:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ee7c888f-44e0-4b28-90c8-857fe062fb84; expires=Thu, 01-Feb-2024 23:54:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

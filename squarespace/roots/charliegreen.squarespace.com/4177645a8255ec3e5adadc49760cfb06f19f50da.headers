@@ -1,0 +1,15 @@
+GET http://charliegreen.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 350068
+< Date: Sat, 29 Jan 2022 00:08:29 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BakS22ZbiOZ5YWNiOGQwYTRhZTc3YzdkMjM1MTIwNWExM2I4MTg2;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: KVjfsfHW/wJSCde5M
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"85f5560d330b4b886aca183ba3e782f5--gzip"
+< Server: Squarespace

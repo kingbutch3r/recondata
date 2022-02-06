@@ -1,0 +1,11 @@
+GET http://www.lindsey-kimura-ixk2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:21:30 GMT
+< Location: http://lindsey-kimura-ixk2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQ6/MV9yQDPDOTVjNTIzYzU0MzlmZmYwNmRjZWExYzMxYjFmZmZm;Path=/
+< X-Contextid: aGCRSwCN/m14x9XUI

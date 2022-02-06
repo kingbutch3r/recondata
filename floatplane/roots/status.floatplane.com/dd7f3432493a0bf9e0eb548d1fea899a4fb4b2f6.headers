@@ -1,0 +1,13 @@
+GET https://status.floatplane.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-cache, private
+< Set-Cookie: XSRF-TOKEN=eyJpdiI6Im1pY0c2Yldja0JYWk1vdzk0S1FRTkE9PSIsInZhbHVlIjoiWjhJYXRHTlJsOFZRR1ZMODludmJEaERuMlN0cEVwdnNVXC9XNUlyeVZzVE1qUnA0UGV0RFwvNGlBZGhBckFZek55IiwibWFjIjoiYjI5NjhmMDY2MGYyMmE0NmIyNmVkYjFhOTEzYWZjODczODYzY2I4ZjFmNjU1YjQzZWQzZjgyYzAwMjU5YTU0ZiJ9; expires=Mon, 31-Jan-2022 20:57:43 GMT; Max-Age=7200; path=/
+< Set-Cookie: laravel_session=eyJpdiI6Im9QOVprdmRnWVFYNlwvT29RMGZVTEtRPT0iLCJ2YWx1ZSI6IklWeWFJM1ZzUmpoaDFyR3BXR3RxSHNTdjl2aDliYUpubTd5RFhuQ3NTcjZIeERPTStoeUdnbkJLeWs1RTl3VHUiLCJtYWMiOiI4OTZkMTRjMTU2MjNjZGZjMzE4ZWExZjJiZTdiYzhkM2E5NjBiODJlZTUyYmM3ZTVjODNiMTk5MmJhN2E1MDdjIn0%3D; expires=Mon, 31-Jan-2022 20:57:43 GMT; Max-Age=7200; path=/; httponly
+< Strict-Transport-Security: max-age=31536000
+< Server: nginx/1.17.5
+< Vary: Accept-Encoding
+< X-Powered-By: PHP/7.3.14
+< Date: Mon, 31 Jan 2022 18:57:43 GMT

@@ -1,0 +1,13 @@
+GET http://circleforum.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Cache: Redirect from cloudfront
+< X-Amz-Cf-Pop: CDG3-C2
+< X-Amz-Cf-Id: NbJzWizl4QAhXJ4dTFq2j5OkjS8HScB86kqYyLvYsVpsi5W1eGwtKw==
+< Server: CloudFront
+< Date: Wed, 02 Feb 2022 00:54:49 GMT
+< Content-Type: text/html
+< Content-Length: 183
+< Location: https://circleforum.squarespace.com/
+< Via: 1.1 2be4364c1cde74eab64cab67d1de266a.cloudfront.net (CloudFront)

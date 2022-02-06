@@ -1,0 +1,13 @@
+GET http://vatapi.sandbox.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: CloudFront
+< Date: Tue, 01 Feb 2022 23:26:15 GMT
+< Content-Type: text/html
+< Content-Length: 183
+< X-Cache: Redirect from cloudfront
+< Location: https://vatapi.sandbox.payoneer.com/
+< Via: 1.1 8b09730f36ed652b6aa4ee24187480b2.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM52-C1
+< X-Amz-Cf-Id: 1Uvdldm4G0Zv-h7pO7-zxlHwBJQHFNa8wg0osHVH38PGbnBqbinXng==

@@ -1,0 +1,15 @@
+GET https://angelamatchette.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:07:42 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=l39n2jsi8v0e5ob58sqem61e13; expires=Fri, 04-Mar-2022 00:07:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c805c888-52ee-4cc2-8235-284e80d1c1bb; expires=Fri, 02-Feb-2024 00:07:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

@@ -1,0 +1,10 @@
+GET http://web3810.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:51:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Baw2Ydv7IiLKN2MzMDNhMTM2ZGM3MTdlYWUyNTA5MzE2MTNiY2Rm;Path=/
+< X-Contextid: Tm8i7kUL/HMI5hLKz
+< Age: 0

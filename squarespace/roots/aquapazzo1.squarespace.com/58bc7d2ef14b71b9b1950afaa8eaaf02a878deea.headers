@@ -1,0 +1,15 @@
+GET http://aquapazzo1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: TZ0nEHwQ/7OlmiBM6
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Etag: W/"f3b369367815e888d77ae757541bf6d1--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BfmLpb2LbCzzOTIxODNhZDNmMDRjNmQxYjk1YTIyOTY0ZTJhNDlk;Path=/
+< Accept-Ranges: bytes
+< Age: 43726
+< Date: Tue, 01 Feb 2022 12:42:13 GMT

@@ -1,0 +1,14 @@
+GET https://elise-avallon-76l2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3208
+< X-Content-Type-Options: nosniff
+< X-Contextid: RPxpoRmy/FYXfPJqS
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:48 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXHCfVbVpD10N2JkZmQ1MTNmNTg0NGRmOGQ5YmMxNDExZGU2NDU2;Path=/

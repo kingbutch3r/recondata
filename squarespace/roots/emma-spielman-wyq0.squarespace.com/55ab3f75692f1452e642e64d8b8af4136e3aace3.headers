@@ -1,0 +1,13 @@
+GET https://emma-spielman-wyq0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: BmIZ0TvR/rZAHNGpC
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Date: Wed, 02 Feb 2022 00:50:12 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BYd9NenXX/feZGM4M2RhMzUyMjE2NmEzYTNjMDAxY2NkZjU5YTZj;Path=/

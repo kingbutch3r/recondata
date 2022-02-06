@@ -1,0 +1,11 @@
+GET http://fromsmash-en-2020.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://fromsmash-en-2020.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BR4lu04DgljINDlkNGNhOGJjMjAzMTYwY2YxY2Y3YzBkZTg3OWZm;Path=/
+< X-Contextid: VLDMdhpb/68vhcm0T
+< Content-Length: 0
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:50:50 GMT

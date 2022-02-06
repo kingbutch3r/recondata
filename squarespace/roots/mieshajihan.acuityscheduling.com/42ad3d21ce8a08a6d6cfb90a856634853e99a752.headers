@@ -1,0 +1,17 @@
+GET https://mieshajihan.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=hui0qktkd16laerg8mausetfmk; expires=Fri, 04-Mar-2022 00:20:09 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6a8cdc91-5a54-4098-91e9-bba065683a3f; expires=Fri, 02-Feb-2024 00:20:10 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:20:10 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent

@@ -1,0 +1,12 @@
+GET http://c10.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BXRo8+8wHD0aMGZmYjQ5YjQ0MDA5ODcxMmE5MDNkMGVhNzMzMDY1;Path=/
+< X-Contextid: 6BBIz2cR/xR2XxLDv
+< Server: Squarespace
+< Cache-Control: max-age=172800, s-maxage=172800
+< Date: Wed, 02 Feb 2022 01:07:46 GMT
+< Location: https://c10.squarespace.com/
+< Content-Length: 0
+< Age: 0

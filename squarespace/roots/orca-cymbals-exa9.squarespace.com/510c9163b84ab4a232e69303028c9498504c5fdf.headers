@@ -1,0 +1,11 @@
+GET http://orca-cymbals-exa9.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://orca-cymbals-exa9.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BaIsUotiVm6ENGQ5YWM2Zjc1MWQ5MWJiMDRhZGYyNWI3MGI5YTM5;Path=/
+< X-Contextid: 1eyzWCcu/kIJMvMvw
+< Age: 590182
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 05:29:34 GMT

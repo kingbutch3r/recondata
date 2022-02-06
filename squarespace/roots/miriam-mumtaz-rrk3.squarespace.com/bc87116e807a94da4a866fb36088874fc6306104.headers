@@ -1,0 +1,16 @@
+GET https://miriam-mumtaz-rrk3.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:52:33 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bazka6y8uihIMzE4YTU5NjhmY2MzZDBkMjE0N2Q0MWE3OTg2Mzg0;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: yiS6fB3z/1XO2ZlTQ
+< Etag: W/"2cda3a8121c3530a02610328312b35bf--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes

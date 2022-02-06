@@ -1,0 +1,15 @@
+GET https://jobs.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Server: Vercel
+< X-Powered-By: Next.js
+< Etag: W/"1434c-Vl40QC+hnJLR8rupGavqHBKw2LE"
+< X-Vercel-Cache: STALE
+< Strict-Transport-Security: max-age=63072000
+< Date: Tue, 01 Feb 2022 23:29:15 GMT
+< X-Matched-Path: /
+< Cache-Control: public, max-age=0, must-revalidate
+< Age: 25
+< X-Vercel-Id: bom1::iad1::k6bvt-1643758180675-15918787116d
+< Content-Type: text/html; charset=utf-8

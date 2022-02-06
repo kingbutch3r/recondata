@@ -1,0 +1,16 @@
+GET https://priscilla-woo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 356709
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 21:50:59 GMT
+< Accept-Ranges: bytes
+< Etag: W/"e9579b6e85af175f778b6b2dcc7022d8"
+< Set-Cookie: crumb=BXgWAnOtGBlMYTZlYTg1Yjk4MjhjZmRjZThjMTNmMTgxNmE1YzQw;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< X-Contextid: etFKiTrt/S4Vrpyrp
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

@@ -1,0 +1,11 @@
+GET http://bumblebee-finch-87c6.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BYj9BDHkxxgBYzM4NmM3YmEwMGY5NWYwYjlkNTRjNWVlOTI5ZmIw;Path=/
+< X-Contextid: uWT4nORX/Q69i6yBT
+< Age: 30168
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 16:26:49 GMT
+< Location: https://bumblebee-finch-87c6.squarespace.com/

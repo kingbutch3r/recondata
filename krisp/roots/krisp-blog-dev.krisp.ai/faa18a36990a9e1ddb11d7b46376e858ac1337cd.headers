@@ -1,0 +1,11 @@
+GET https://krisp-blog-dev.krisp.ai
+
+
+< HTTP/1.1 401 Unauthorized
+< Www-Authenticate: Basic realm="krisp"
+< Server: cloudflare
+< Cf-Ray: 6d6ef6a57b0831e8-BOM
+< Date: Tue, 01 Feb 2022 23:29:43 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"

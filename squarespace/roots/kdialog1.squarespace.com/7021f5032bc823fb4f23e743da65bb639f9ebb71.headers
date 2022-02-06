@@ -1,0 +1,10 @@
+GET http://kdialog1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:15:07 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BVpbCToSjUZlOWE0YjAxNWY2NzcyZGUzNTBiNWZkZGM0ZWY5YzAx;Path=/
+< X-Contextid: O2TfkHdh/Y2LZXk51
+< Age: 0

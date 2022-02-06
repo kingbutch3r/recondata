@@ -1,0 +1,17 @@
+GET https://12weekyearcertification.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:22:39 GMT
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=2299chmii7kl69it01lt00k58s; expires=Fri, 04-Mar-2022 00:22:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=77b7cec7-adf7-4b9c-a279-5a3920b95e5a; expires=Fri, 02-Feb-2024 00:22:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

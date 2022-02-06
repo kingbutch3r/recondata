@@ -1,0 +1,11 @@
+GET http://alan-singer-1zl0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BUSHQbq55zsuZGVkMTU3MWY4MDFlODc5NzkyNGI3MWFlMzNmNDIz;Path=/
+< X-Contextid: RAqxmvzl/CJbXnvuf
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:12:10 GMT
+< Server: Squarespace

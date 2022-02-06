@@ -1,0 +1,17 @@
+GET https://sharlenestyles.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=p0p3sd73sf304h5knggvp1a37a; expires=Fri, 04-Mar-2022 00:32:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7c74e7c3-1514-4329-9945-94c5ac81c6d7; expires=Fri, 02-Feb-2024 00:32:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:32:58 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"

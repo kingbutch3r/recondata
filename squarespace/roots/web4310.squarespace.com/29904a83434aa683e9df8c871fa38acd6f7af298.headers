@@ -1,0 +1,12 @@
+GET https://web4310.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: FzNWcp8l/lmYEKY9Q
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:52:34 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BaeGwRlQnfDBYzk5NmVjYmIwNWMxNmVmZGVmNmZlZjIxMDMxMjgy;Path=/
+< Age: 0
+< Content-Length: 3123

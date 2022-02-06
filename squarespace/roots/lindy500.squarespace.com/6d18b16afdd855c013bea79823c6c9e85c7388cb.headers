@@ -1,0 +1,11 @@
+GET http://lindy500.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BSl/lJCwwL2AMGM2ZGExNTlhMTcyOTU4NjliNTgxNjQ1ZGUzMzNl;Path=/
+< X-Contextid: 0OQhirdw/IvKPcoyx
+< Age: 421281
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 02:50:09 GMT
+< Location: https://lindy500.squarespace.com/
+< Server: Squarespace

@@ -1,0 +1,17 @@
+GET https://tallahasseecc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:57:01 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=bt068nm9fiiq5di2qme91jvuao; expires=Thu, 03-Mar-2022 23:57:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=38f69126-029b-453d-bd37-6d93ac0a30e2; expires=Thu, 01-Feb-2024 23:57:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent

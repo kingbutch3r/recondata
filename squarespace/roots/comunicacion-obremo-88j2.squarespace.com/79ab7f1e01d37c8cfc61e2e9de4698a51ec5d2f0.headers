@@ -1,0 +1,11 @@
+GET http://comunicacion-obremo-88j2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:20:56 GMT
+< Location: https://comunicacion-obremo-88j2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXmno92P84KSZjdiYmVmOGU3NzU1Nzk4OWRhZjQ0NDBlNDk3ZjVj;Path=/
+< X-Contextid: ze2NrEBN/tQdcTcMa
+< Content-Length: 0
+< Age: 0

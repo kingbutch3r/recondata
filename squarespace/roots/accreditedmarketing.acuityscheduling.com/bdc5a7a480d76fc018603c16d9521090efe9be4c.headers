@@ -1,0 +1,17 @@
+GET https://accreditedmarketing.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:12:07 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=u908joli76ivh388hklqbbkdch; expires=Fri, 04-Mar-2022 00:12:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cca79e26-9f84-42c6-bec7-200e07e9835b; expires=Fri, 02-Feb-2024 00:12:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

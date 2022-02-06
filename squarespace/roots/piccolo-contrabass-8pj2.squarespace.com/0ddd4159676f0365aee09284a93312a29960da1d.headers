@@ -1,0 +1,12 @@
+GET http://piccolo-contrabass-8pj2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:21:16 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 0
+< Set-Cookie: crumb=BU45FikKnmNSZjY3OWY2MjgxNDFhZDgxZjRjY2RhZmMyNGUyNzIx;Path=/
+< X-Contextid: fh2qpHEJ/xE4Dfskb

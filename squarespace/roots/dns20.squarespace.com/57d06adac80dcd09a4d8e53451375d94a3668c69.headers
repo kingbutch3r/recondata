@@ -1,0 +1,10 @@
+GET https://dns20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:00:57 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTBK9IfJLZ8gZmEwNzZiMTRjZDE5OTFlZjZjN2E2NWZkMWE2OTI2;Path=/
+< X-Contextid: j94hin67/U7vedwMq
+< Age: 0
+< Content-Type: text/html;charset=utf-8

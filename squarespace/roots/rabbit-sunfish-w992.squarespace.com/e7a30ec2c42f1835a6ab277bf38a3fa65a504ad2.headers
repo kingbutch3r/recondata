@@ -1,0 +1,16 @@
+GET https://rabbit-sunfish-w992.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=0
+< X-Contextid: oHlgTzIL/rimjXJPf
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"09071c687ab90a87a13a4eb1c2c094de--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 220413
+< Date: Sun, 30 Jan 2022 11:38:23 GMT
+< Set-Cookie: crumb=BbZvQ66qQisDNjI0ZjZiMmIxM2ZmZThjMGU1YWM3OWY1N2I5ZGZi;Path=/
+< Accept-Ranges: bytes
+< Server: Squarespace

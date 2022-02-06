@@ -1,0 +1,16 @@
+GET https://saksara-2020.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Date: Wed, 26 Jan 2022 11:35:17 GMT
+< Etag: W/"63af389edce8f6aaef288361f45c15c1"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: qhAASkXT/XI1Y1s8J
+< Accept-Ranges: bytes
+< Age: 566064
+< Set-Cookie: crumb=BXIYWOsvT1djMjhiYTVlNDg1ODA0Mjk4MjRmYjliNzhiMzI2NWZk;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

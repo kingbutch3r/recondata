@@ -1,0 +1,15 @@
+GET https://christysmithmnt.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< X-Contextid: jLZX1BpY/3yDa1NUZ
+< X-Frame-Options: SAMEORIGIN
+< Content-Length: 3422
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:56:13 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BWHs62jANPM9OTgwYWFhYzlhNGI0YTJmOThiN2E0NDMyNDUzOTll;Path=/
+< X-Content-Type-Options: nosniff

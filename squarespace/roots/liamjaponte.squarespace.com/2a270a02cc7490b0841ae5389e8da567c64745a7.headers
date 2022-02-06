@@ -1,0 +1,17 @@
+GET https://liamjaponte.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BYqpqj97R2mWNThhMWNhOTcwM2Y1ZjBhN2Y5MzViNTcwNDRiYmE0;Path=/
+< Age: 336112
+< Date: Sat, 29 Jan 2022 03:33:21 GMT
+< X-Contextid: ZuCRhuG1/UnSwp7vj
+< X-Frame-Options: SAMEORIGIN
+< Etag: W/"8d68ea2389d9fdfa48bb55b393af5aa2--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes

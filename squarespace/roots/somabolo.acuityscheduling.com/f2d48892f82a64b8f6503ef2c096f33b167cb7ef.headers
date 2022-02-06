@@ -1,0 +1,17 @@
+GET https://somabolo.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:25:44 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=aspfqfu6hbtc6lbfh912aj0fg5; expires=Fri, 04-Mar-2022 00:25:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a593f19a-f640-422a-8d92-b7e0ebfe69c5; expires=Fri, 02-Feb-2024 00:25:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

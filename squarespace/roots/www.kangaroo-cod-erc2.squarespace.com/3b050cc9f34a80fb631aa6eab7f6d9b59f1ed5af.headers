@@ -1,0 +1,11 @@
+GET https://www.kangaroo-cod-erc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:19:39 GMT
+< Location: https://kangaroo-cod-erc2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BU0w1TAJlI5iYWEzY2FlNzQ0MzBjNTViOTk5MjJhZDkyZjgxODM2;Path=/
+< X-Contextid: aYLYa7Yk/4wPol8AR

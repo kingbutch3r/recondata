@@ -1,0 +1,13 @@
+GET https://s30.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:03:03 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BQxXEAP69hmPM2YxYjI1ZWU5NTJiMjg1MWIwNTU2ZjM0YzYxMjU3;Path=/
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: KTZ73HCj/QOOpSUeX

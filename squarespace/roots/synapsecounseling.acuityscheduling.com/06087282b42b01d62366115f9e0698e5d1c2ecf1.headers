@@ -1,0 +1,15 @@
+GET https://synapsecounseling.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=g1jgsct7jc7dmpoto1re0rkoji; expires=Fri, 04-Mar-2022 00:10:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2c2a9161-b273-413f-8d8c-c0190fd4945c; expires=Fri, 02-Feb-2024 00:10:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:10:54 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache

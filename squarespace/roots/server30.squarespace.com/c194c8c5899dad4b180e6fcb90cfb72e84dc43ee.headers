@@ -1,0 +1,11 @@
+GET http://server30.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:58 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTDz52i8ZNo3Y2E3YWM3ZDk5MzY1NGViMDY2Mjg2ZjdmYWMzYjAy;Path=/
+< X-Contextid: vp7AIgso/cuf3hCDb

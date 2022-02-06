@@ -1,0 +1,17 @@
+GET https://mustard-iris-p422.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 05:32:08 GMT
+< Etag: W/"462875a718e3430af5ec549493ef2e43"
+< X-Contextid: eIl0JApA/hLWywVkV
+< Last-Modified: Tue, 01 Feb 2022 05:32:08 GMT
+< Age: 71070
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bb804dBjoolaMjJkNWM3MmM5ODRlYzYyMTJmY2Y1MWMxZmVlYTUw;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

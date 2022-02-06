@@ -1,0 +1,17 @@
+GET https://doggonegoodtrainingwa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=q0947tp8omt6b90k5opqpbu11v; expires=Thu, 03-Mar-2022 23:56:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dea86e3c-a90b-4455-bbbb-1bb32e5aebe5; expires=Thu, 01-Feb-2024 23:56:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:56:23 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< X-Content-Type-Options: nosniff

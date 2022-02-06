@@ -1,0 +1,11 @@
+GET https://orders.crisfood.com
+
+
+< HTTP/1.1 200 OK
+< Server: Apache/2.4.29 (Ubuntu)
+< Cache-Control: no-cache, private
+< Set-Cookie: XSRF-TOKEN=eyJpdiI6IlcrMVwvTDBIY1hLTHlycTNHMUE2aU1RPT0iLCJ2YWx1ZSI6IlJ3MXlEdlZrMVwvZmdja2thc3U1UVRBMVNKbkQ5SVYwNXFDQlBua2xKYlwvTEdjcFQySEVQNldKTVA5bm5cL0Q4d1dCR1NrVUtJQU5MUHl1YUdZd3hGTGhBPT0iLCJtYWMiOiI1ZmQ2NTcxOTg2NjA4ZjJkYzlkNDUzNDIxMWZmNTcyZjU2N2JhYWNhYmRlM2NiODFhZDhkYjc0YWM5YWMzN2JlIn0%3D; expires=Sat, 29-Jan-2022 19:28:32 GMT; Max-Age=7200; path=/
+< Set-Cookie: laravel_session=eyJpdiI6ImxmUjZNSUVRRW1Ed05EVXpHcHI3ZkE9PSIsInZhbHVlIjoiSTJ0WUVKNEM1WnVjXC9BWWUyQ3FjTWxCZnBQeHdCVkZvcEFGT1JiWmZoenphU2YzU3dod3Zxd1pGM1VLMFNZaEhnXC83T05GXC81MXBpZzNORjlvWFBTVWc9PSIsIm1hYyI6IjVlMWRjZTliZTNiYzdhMDdjZGYyMzQzNGUzY2FiOTc3MGMzOWJiZThhNzM5OWEzZWExNzBkMGE2MWI2ZTc0NGYifQ%3D%3D; expires=Sat, 29-Jan-2022 19:28:32 GMT; Max-Age=7200; path=/; httponly
+< Content-Type: text/html; charset=UTF-8
+< Date: Sat, 29 Jan 2022 17:28:32 GMT
+< Vary: Accept-Encoding

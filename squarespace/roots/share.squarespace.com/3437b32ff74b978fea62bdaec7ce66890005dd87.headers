@@ -1,0 +1,11 @@
+GET http://share.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Status: 301 Moved Permanently
+< Vary: Origin
+< Location: https://share.squarespace.com/
+< Server: nginx/1.19.2
+< Date: Wed, 02 Feb 2022 00:54:50 GMT
+< Content-Type: text/html

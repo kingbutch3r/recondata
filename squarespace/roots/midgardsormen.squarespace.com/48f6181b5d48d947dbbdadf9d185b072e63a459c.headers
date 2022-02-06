@@ -1,0 +1,17 @@
+GET https://midgardsormen.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Last-Modified: Thu, 27 Jan 2022 21:07:10 GMT
+< Age: 447407
+< Date: Thu, 27 Jan 2022 21:07:10 GMT
+< Set-Cookie: crumb=BZaa81rAcZdIMzk5ODYwYzAzZWIzOTg0OTY5ZjE4NWJmYTI4ZGE1;Path=/
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Contextid: PcGYpSva/ANmBkJeY
+< Accept-Ranges: bytes
+< Etag: W/"2e386555e0c88eb4c1596be3eb622b43"
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

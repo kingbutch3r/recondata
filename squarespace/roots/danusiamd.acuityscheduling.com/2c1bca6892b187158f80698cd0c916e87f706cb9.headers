@@ -1,0 +1,15 @@
+GET https://danusiamd.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Tue, 01 Feb 2022 23:59:54 GMT
+< Set-Cookie: PHPSESSID=2gjnbgffu6rieb42gv1t5j1toq; expires=Thu, 03-Mar-2022 23:59:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1ed6eede-1612-4459-8ebc-1e69c18a5668; expires=Thu, 01-Feb-2024 23:59:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,12 @@
+GET http://miriam-mumtaz-rrk3.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://miriam-mumtaz-rrk3.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUQ4iY3LQagrNGU1MGI2OWUyM2Q1MDY3YWVhM2JiNTE2YzY5ZjQ4;Path=/
+< X-Contextid: pQvmQQ0W/AQxqrw6q
+< Content-Length: 0
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800
+< Date: Wed, 02 Feb 2022 01:07:45 GMT

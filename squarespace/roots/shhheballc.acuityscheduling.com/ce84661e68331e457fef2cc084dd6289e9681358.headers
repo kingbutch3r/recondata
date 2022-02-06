@@ -1,0 +1,15 @@
+GET https://shhheballc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:45 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=pr9b46kh0r1ubgp53lcbb9fv1o; expires=Thu, 03-Mar-2022 23:57:44 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6f9be88e-5009-4451-b5dd-c33595a03cf8; expires=Thu, 01-Feb-2024 23:57:45 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

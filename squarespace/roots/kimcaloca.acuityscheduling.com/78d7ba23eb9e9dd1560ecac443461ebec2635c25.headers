@@ -1,0 +1,17 @@
+GET https://kimcaloca.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:53:41 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=6tjdn8dpsgamh7dvakd92d1qdo; expires=Thu, 03-Mar-2022 23:53:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1fa17dff-5b88-42c2-9b35-3aebf6daf79b; expires=Thu, 01-Feb-2024 23:53:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"

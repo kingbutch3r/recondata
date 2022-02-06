@@ -1,0 +1,14 @@
+GET https://rsu21.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Date: Wed, 02 Feb 2022 01:13:41 GMT
+< Etag: W/"6d3579749de58ed29f45cf2853ac3ca4"
+< Set-Cookie: crumb=Bblyz/fZLgWAM2E3YTBjNDE3NGNmOTE4ZTFlNzg3ZWQ0YmNlNzIx;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: qQYSjDz1/I0onrRLM

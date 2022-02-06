@@ -1,0 +1,17 @@
+GET https://smartspineandrehab.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:56:30 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=m5i6vvqc09k1e5tn20c46h9os6; expires=Thu, 03-Mar-2022 23:56:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ada4bea2-b887-49ed-b15e-78376eb787c9; expires=Thu, 01-Feb-2024 23:56:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php

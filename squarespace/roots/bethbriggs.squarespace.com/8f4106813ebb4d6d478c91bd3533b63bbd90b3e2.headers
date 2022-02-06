@@ -1,0 +1,11 @@
+GET http://bethbriggs.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://bethbriggs.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVQCynFI0fyyNWFmMWY2Yjc0ZGE2MWNmMzg1MTk2NzY3NDY1NjY3;Path=/
+< X-Contextid: 50XPtLff/kBLGRT09
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:06:56 GMT

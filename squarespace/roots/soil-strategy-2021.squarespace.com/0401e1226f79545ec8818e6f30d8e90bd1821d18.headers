@@ -1,0 +1,13 @@
+GET https://soil-strategy-2021.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: USKNQpbf/nw8uFD4g
+< Set-Cookie: crumb=BQL/CxLQGmP7ZjE0ZmIzM2Q3YmI4NzQ4MTcwNTRjYjA4ZDJlYmE3;Path=/
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:21 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0

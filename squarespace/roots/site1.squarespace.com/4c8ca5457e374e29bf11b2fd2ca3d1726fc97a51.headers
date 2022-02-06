@@ -1,0 +1,13 @@
+GET https://site1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BfBQEBW1PUlkODI4ZGY4NmZhZWQzYWQ2NGQ3ZjU2OGM3MGM5MDA1;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: kN0SpQkP/dVRb7m5T
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:49 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0

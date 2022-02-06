@@ -1,0 +1,15 @@
+GET https://rumbiserima.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:55:06 GMT
+< Set-Cookie: PHPSESSID=k4k66p8bb9c21ts532ofjk9962; expires=Thu, 03-Mar-2022 23:55:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=23b1e5db-43c8-43a6-b546-e7436beb9c93; expires=Thu, 01-Feb-2024 23:55:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff

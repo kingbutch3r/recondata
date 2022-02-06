@@ -1,0 +1,17 @@
+GET https://serenespace.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=mqr2d5njd07bm0kotcsqmh35gm; expires=Fri, 04-Mar-2022 00:01:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3e359fc4-3c95-4554-8ad2-2429dbe68f90; expires=Fri, 02-Feb-2024 00:01:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:01:06 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,12 @@
+GET http://manuka-shoes.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=172800, s-maxage=172800
+< Server: Squarespace
+< X-Contextid: 5ChvGYgW/O3994hGL
+< Location: https://manuka-shoes.squarespace.com/
+< Set-Cookie: crumb=BVOKpATRgLznYzBkYzdmMmJkNzIyMDk4NzNiYTYwNDcyYzYwNzJm;Path=/
+< Age: 38658
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 14:21:05 GMT

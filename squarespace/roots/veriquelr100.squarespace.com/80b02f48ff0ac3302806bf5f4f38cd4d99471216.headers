@@ -1,0 +1,16 @@
+GET https://veriquelr100.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Etag: W/"cd964c7fb95c8e94457986e9cd7dffbf--gzip"
+< Vary: Accept-Encoding
+< Age: 6019
+< Date: Tue, 01 Feb 2022 23:09:20 GMT
+< Set-Cookie: crumb=BXwRV4RUkTWFZGQ4OTZkMTY1MjdjN2ZkMzE0ZmIyZDcwNDgyM2Mx;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: 0B7nMd57/wJp6y15g
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0

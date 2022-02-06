@@ -1,0 +1,17 @@
+GET https://jeninebeecher.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:28:43 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=btjtgfjh5d6u93cltecolqvm1i; expires=Fri, 04-Mar-2022 00:28:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ac839892-7b16-4358-af20-6545b1188cb9; expires=Fri, 02-Feb-2024 00:28:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

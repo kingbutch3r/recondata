@@ -1,0 +1,11 @@
+GET http://s30.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:51:07 GMT
+< Location: https://s30.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQxqR2tSqE0iOWNmM2FkNjk3ZTViMWQxYzkxMDY4NDhlZjBiYzk0;Path=/
+< X-Contextid: wPCcVm3b/sU85Hxz4
+< Content-Length: 0

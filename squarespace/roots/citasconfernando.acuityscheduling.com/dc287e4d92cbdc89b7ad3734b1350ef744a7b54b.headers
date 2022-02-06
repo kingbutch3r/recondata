@@ -1,0 +1,17 @@
+GET https://citasconfernando.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:24:57 GMT
+< Content-Length: 0
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=juulrh3lm8meh7promvaggdt0p; expires=Fri, 04-Mar-2022 00:24:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c521798e-4e1b-469b-8cce-8eaaf816ddd3; expires=Fri, 02-Feb-2024 00:24:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

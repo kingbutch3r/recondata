@@ -1,0 +1,11 @@
+GET http://bugle-springtail-5nb2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 09:35:37 GMT
+< Location: https://bugle-springtail-5nb2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUvEPhi6r2YPZmQ5OWI1ZWQ4YmFmY2E0MzJlNTFhOGFmYjk0NTYx;Path=/
+< X-Contextid: AliQ9vLy/Sp0bXCaS
+< Age: 315821

@@ -1,0 +1,17 @@
+GET https://gbkhalsa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=evpvik3gi07kisev952211su29; expires=Thu, 03-Mar-2022 23:56:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=860d6be9-2fbc-4186-9c1b-1549e55cb0b0; expires=Thu, 01-Feb-2024 23:56:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:56:02 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

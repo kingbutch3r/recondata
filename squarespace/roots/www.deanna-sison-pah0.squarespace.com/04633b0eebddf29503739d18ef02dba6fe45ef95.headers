@@ -1,0 +1,11 @@
+GET https://www.deanna-sison-pah0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: WUWmL5rl/qZB18yVM
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:12:07 GMT
+< Location: https://deanna-sison-pah0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXfU9PI67EQ2OGE1ZmM2NTJjNWQ0OTg3MTFhYTE5ZjI5YWUyNTRm;Path=/

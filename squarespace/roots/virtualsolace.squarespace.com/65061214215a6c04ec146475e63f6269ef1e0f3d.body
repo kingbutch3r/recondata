@@ -1,0 +1,937 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- virtualsolace -->
+<base href="">
+<meta charset="utf-8" />
+<title>Virtual Solace</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1494860117521-6H1FE9HBCFQCDYH24LNM/favicon.ico?format=100w"/>
+<link rel="canonical" href="https://www.virtualsolace.com"/>
+<meta property="og:site_name" content="Virtual Solace"/>
+<meta property="og:title" content="Virtual Solace"/>
+<meta property="og:url" content="https://www.virtualsolace.com"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/5919bd12d1758edfb7e132c9/t/5919c13b1e5b6c94074910e7/1494860092612/VS+Header+Image+%281%29.png?format=1500w"/>
+<meta property="og:image:width" content="200"/>
+<meta property="og:image:height" content="200"/>
+<meta itemprop="name" content="Virtual Solace"/>
+<meta itemprop="url" content="https://www.virtualsolace.com"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/5919bd12d1758edfb7e132c9/t/5919c13b1e5b6c94074910e7/1494860092612/VS+Header+Image+%281%29.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/5919bd12d1758edfb7e132c9/t/5919c13b1e5b6c94074910e7/1494860092612/VS+Header+Image+%281%29.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/5919bd12d1758edfb7e132c9/t/5919c13b1e5b6c94074910e7/1494860092612/VS+Header+Image+%281%29.png?format=1500w"/>
+<meta name="twitter:title" content="Virtual Solace"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/5919bd12d1758edfb7e132c9/t/5919c13b1e5b6c94074910e7/1494860092612/VS+Header+Image+%281%29.png?format=1500w"/>
+<meta name="twitter:url" content="https://www.virtualsolace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Raleway:wght@100;300;400;500;600;800">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"5919bd12d1758edfb7e132c9","identifier":"virtualsolace","websiteType":1,"contentModifiedOn":1642898219208,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Chicago","machineTimeZoneOffset":-21600000,"timeZoneOffset":-21600000,"timeZoneAbbr":"CST","siteTitle":"Virtual Solace","fullSiteTitle":"Virtual Solace","siteTagLine":"Action. Balance. Clarity.","siteDescription":"<p>Hi, I'm&nbsp;<a href=\"/about-elise-1\"><strong><em>Elise</em></strong></a>. I help business leaders and entrepreneurs focus on implementing simple, practical systems to help you take action, find balance, and gain clarity for your business so you can focus on what matters to you most.</p>","location":{"mapZoom":9.0,"mapLat":39.1193073,"mapLng":-94.7629295,"addressTitle":"","addressLine1":"","addressLine2":"","addressCountry":""},"logoImageId":"5919be7ba5790ae3f68f223a","socialLogoImageId":"5919c13b1e5b6c94074910e7","shareButtonOptions":{"3":true,"7":true,"6":true,"4":true,"1":true,"8":true,"2":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1494859387428-MPYGIWT22ZKP0BYTY77S/VS+Logo.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1494860091584-0U66ZZ0GF5ZROE8D11P1/VS+Header+Image+%281%29.png","authenticUrl":"https://www.virtualsolace.com","internalUrl":"https://virtualsolace.squarespace.com","baseUrl":"https://www.virtualsolace.com","primaryDomain":"www.virtualsolace.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":20,"userId":"elise@virtualsolace.com","screenname":"contact@virtualsolace.com","addedOn":1503949857873,"profileUrl":"mailto:contact@virtualsolace.com","iconEnabled":true,"serviceName":"email"},{"serviceId":2,"userId":"10100649006258875","screenname":"Virtual Solace","addedOn":1503949762980,"profileUrl":"https://www.facebook.com/virtualsolace/","iconUrl":"http://graph.facebook.com/10100649006258875/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":4,"userId":"727579360958545924","userName":"VirtualSolace","screenname":"Virtual Solace","addedOn":1503949840237,"profileUrl":"https://twitter.com/VirtualSolace","iconUrl":"http://pbs.twimg.com/profile_images/832612600420503552/pt-Zn1Zk_normal.jpg","collectionId":"59a47410c534a504742825fe","iconEnabled":true,"serviceName":"twitter"},{"serviceId":14,"userId":"XI5tLdACmn","userName":"elisefinger","screenname":"Elise Finger","addedOn":1503949871765,"profileUrl":"https://www.linkedin.com/in/elisefinger","iconUrl":"https://media.licdn.com/mpr/mprx/0_fOJWg2zZWqpdiEVYhOTdn71ZDh1v8IsYuH3FRMIZDGJqLUR-h7iWP21ZI_8qLEU12VSkPOp4h_iNQfUfLSpvv4jq5_izQ7x08SpEYJHJmC9MuMk_2pEXOS6HL9JLf7HadaZ5JbG5EqJ","iconEnabled":true,"serviceName":"linkedin"},{"serviceId":19,"userId":"115967896563221819","screenname":"Virtual Solace + Elise Finger ","addedOn":1508451360842,"profileUrl":"https://www.pinterest.com/virtualsolace/","iconUrl":"https://s-media-cache-ak0.pinimg.com/avatars/virtualsolace_1472659573_60.jpg","metaData":{"service":"pinterest"},"iconEnabled":true,"serviceName":"pinterest"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"2f823d30e2ccf1dd5c9cf8d7b333a0cac114ab27d91c5379ff1cfe68edced02d","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5919bd12d1758edfb7e132cc","websiteId":"5919bd12d1758edfb7e132c9","type":"Business","subjects":[],"country":"US","state":"KS","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"announcementBarSettings":{"style":2,"text":"<p class=\"\" style=\"white-space:pre-wrap;\"><strong>FIND VIRTUAL SOLACE AND SCHEDULE A CALL TODAY!</strong></p>","clickthroughUrl":{"url":"/interest-form","newWindow":true}},"popupOverlaySettings":{"style":1,"showOnScroll":false,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":14,"enableMobile":true,"enabledPages":["5919bd6929687fd2ca113931"],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"","businessHours":{"monday":{"text":"9am-4pm","ranges":[{"from":540,"to":960}]},"tuesday":{"text":"9am-4pm","ranges":[{"from":540,"to":960}]},"wednesday":{"text":"9am-4pm","ranges":[{"from":540,"to":960}]},"thursday":{"text":"9am-4pm","ranges":[{"from":540,"to":960}]},"friday":{"text":"Closed","ranges":[{}]},"saturday":{"text":"Closed","ranges":[{}]},"sunday":{"text":"Closed","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"enabled_for_blogs_and_pages","size":"small","shape":"round","color":"white"},"ampEnabled":true},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"<p class=\"\" style=\"white-space:pre-wrap;\">We are using cookies and pixels to help us improve, promote and protect our Services and to help ensure that we give you the best experience on our Website. You can find out more about which cookies and pixels we are using <a href=\"/privacy-notice\">here</a>. By continuing to use the Website, you are agreeing to our updated <a href=\"https://www.virtualsolace.com/terms\" target=\"_blank\">Terms of Use</a> and that you have read and understood our <a href=\"/privacy-notice\">Privacy Notice</a> and <a href=\"https://www.virtualsolace.com/disclaimers\" target=\"_blank\">Disclaimers</a>.</p>","cookieBannerTheme":"LIGHT","cookieBannerVariant":"BAR","cookieBannerPosition":"BOTTOM","cookieBannerCtaVariant":"BUTTON","cookieBannerCtaText":"I AGREE TO TERMS.","cookieBannerAcceptType":"OPT_IN"},"websiteCloneable":false,"collection":{"title":"Start Here","id":"5919bd6929687fd2ca113931","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","design":"Slideshow","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-controls":"Both","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","grid-aspect-ratio":"1:1 (Square)","gridSize":"350px","gridSpacing":"20px","headerPadding":"10px","homepage-index-nav":"Show On Scroll","logoWidth":"220px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"255px","slideshow-aspect-ratio":"16:9 (Widescreen)","slideshow-autoplay":"true","slideshow-transition":"Fade","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52e96934e4b0ea14d0f64568","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1127/scripts/","betaFeatureFlags":["campaigns_thumbnail_layout","commerce_etsy_shipping_import","background_art_onboarding","commerce_site_visitor_metrics","category-delete-product-service-enabled","google_analytics_4_gtag_js","commerce_restock_notifications","commerce_category_id_discounts_enabled","reduce_general_search_api_traffic","commerce_product_composer_ab_test_all_users","campaigns_show_apply_website_styles_button","nested_categories_migration_enabled","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","member_areas_spanish_interviews","commerce_afterpay_pdp","member_areas_schedule_interview","commerce_etsy_product_import","campaigns_hide_deleted_automations_panel","commerce_pdp_layouts_ga","commerce_product_branching","commerce_product_review_etsy_import","campaigns_new_subscriber_search","commerce_product_review_import_ga","commerce_activation_experiment_add_payment_processor_card","campaigns_blog_product_image_editor","startup_checklist","campaigns_banner_reduce_size","member_areas_pricing_options_discounts","product_composer_feedback_form_on_save","customer_account_creation_recaptcha","campaigns_global_uc_ab","campaigns_audience_card","viewer-role-contributor-invites","campaigns_section_reorder_arrows","commerce_clearpay"],"impersonatedSession":false,"tzData":{"zones":[[-360,"US","C%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":true};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://www.virtualsolace.com/home?format=rss" />
+<script type="application/ld+json">{"url":"https://www.virtualsolace.com","name":"Virtual Solace","description":"<p>Hi, I'm&nbsp;<a href=\"/about-elise-1\"><strong><em>Elise</em></strong></a>. I help business leaders and entrepreneurs focus on implementing simple, practical systems to help you take action, find balance, and gain clarity for your business so you can focus on what matters to you most.</p>","image":"//images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1494859387428-MPYGIWT22ZKP0BYTY77S/VS+Logo.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"","address":"","email":"contact@virtualsolace.com","telephone":"","sameAs":["mailto:contact@virtualsolace.com","https://www.facebook.com/virtualsolace/","https://twitter.com/VirtualSolace","https://www.linkedin.com/in/elisefinger","https://www.pinterest.com/virtualsolace/"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"","image":"https://static1.squarespace.com/static/5919bd12d1758edfb7e132c9/t/5919be7ba5790ae3f68f223a/1642898219208/","name":"","openingHours":"Mo 09:00-16:00, Tu 09:00-16:00, We 09:00-16:00, Th 09:00-16:00, , , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/5919bd12d1758edfb7e132c9/83/52e96934e4b0ea14d0f64568/5919bd12d1758edfb7e132d0/1127-05142015/1621981207005/site.css"/><script src="https://code.jquery.com/jquery-2.1.3.min.js"></script<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.7.0/jquery.modal.min.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.7.0/jquery.modal.min.js"></script>
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-85064752-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DF7591JS6S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DF7591JS6S');
+</script><script src="//cdnjs.cloudflare.com/ajax/libs/ResponsiveSlides.js/1.53/responsiveslides.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function() {
+      $(".rslides").responsiveSlides({
+        timeout: 10000,
+        pager: true
+      });
+      $('.rslides_tabs li a').css('background-color', $('figcaption.source').css('color'));
+      var elementHeights = $('.rslides li').map(function() {
+        return $(this).height();
+      }).get();
+      var maxHeight = Math.max.apply(null, elementHeights);
+      $('.rslides li').height(maxHeight);
+    });
+  </script><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<meta name="p:domain_verify" content="900040c0b3514003bb274b1e72c222ff"/>
+<script async src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-85064752-1');</script><!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var touchTest="ontouchstart"in window||navigator.msMaxTouchPoints;if(!touchTest){with(document.documentElement){className=className.replace(new RegExp("touch-styles"),"")}}})()</script>
+  </head>
+  
+  <body id="collection-5919bd6929687fd2ca113931" class="homepage-index-nav-show-on-scroll show-page-title index-section-separation-alternating-background design-slideshow grid-aspect-ratio-11-square grid-max-columns-four slideshow-aspect-ratio-169-widescreen slideshow-transition-fade slideshow-autoplay gallery-controls-both gallery-controls-color-light  meta-priority-none hide-entry-author hide-list-entry-footer pre-footer-content-custom  show-blog-category-navigation show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    gallery-design-grid aspect-ratio-auto lightbox-style-dark gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-custom hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-pill medium-button-style-solid medium-button-shape-rounded large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-pill tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-index collection-layout-default collection-5919bd6929687fd2ca113931 homepage view-list mobile-style-available logo-image has-banner-image index-page collection-home">
+
+    <div id="site">
+
+      <input type="checkbox" name="mobile-nav-toggle" id="mobileNavToggle" class="mobile-nav-toggle-box hidden" />
+
+      <div id="overlayNav">
+        
+
+  <div id="mobileNavWrapper" class="nav-wrapper">
+    <nav id="mobileNavigation">
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#banner-section">
+                        Banner Image
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#ready-section">
+                        Are You Ready?
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#about-elise-section">
+                        About
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#testimonials-section">
+                        Testimonials
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base">
+                <a href="/">
+                  Start Here
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/blog">
+                Blog
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/about">
+                  About
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/services">
+                  Services
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                Contact
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+
+
+      
+    </nav>
+  </div>
+
+
+      </div>
+
+      <header id="header" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="title-logo-wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage" class="tmpl-loading logo-image"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1494859387428-MPYGIWT22ZKP0BYTY77S/VS+Logo.png?format=1500w" alt="Virtual Solace" /></a></h1>
+            
+          </div><!-- comment the linebreak between these two elements because science
+          --><label for="mobileNavToggle" class="mobile-nav-toggle-label show-on-scroll-mobile"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></label><!-- comment the linebreak between these two elements because science
+          --><div id="headerNav" class="tmpl-loading" >
+
+  <div id="mainNavWrapper" class="nav-wrapper desktop-nav-wrapper show-on-scroll">
+    <nav id="mainNavigation" data-content-field="navigation" >
+      
+        
+          
+            
+              
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#banner-section">
+                        Banner Image
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#ready-section">
+                        Are You Ready?
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#about-elise-section">
+                        About
+                      </a>
+                    </div>
+                    
+                  
+                
+                  
+                    
+                    <div class="index home">
+                      <a href="/#testimonials-section">
+                        Testimonials
+                      </a>
+                    </div>
+                    
+                  
+                
+              
+              <div class="index base active">
+                <a href="/">
+                  Start Here
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/blog">
+                Blog
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/about">
+                  About
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+            
+              
+              <div class="index">
+                <a href="/services">
+                  Services
+                </a>
+              </div>
+            
+          
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/contact">
+                Contact
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      <div id="siteWrapper" class="clearfix">
+
+        <!-- Banner -->
+        
+          
+            
+              <!-- nothing to see here, move along -->
+            
+          
+        
+
+        
+        
+
+        <main id="page" role="main">
+          <div id="content" class="main-content" data-content-field="main-content" data-collection-id="5919bd6929687fd2ca113931" >
+
+            
+              
+
+              
+            
+
+           <!-- Create index sections -->
+
+  
+  <div id="banner-section" class="index-section page" data-url-id="banner" data-collection-id="5919bd7f579fb3dea4000f87"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper has-main-media has-main-image">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+            <div class="index-section-image content-fill">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1501605326641-FC3U8JCNO86TVWTGS40A/VS+Header+Image+%2810%29.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1501605326641-FC3U8JCNO86TVWTGS40A/VS+Header+Image+%2810%29.jpg" data-image-dimensions="1920x1080" data-image-focal-point="0.51,0.53" alt="VS Header Image (10).jpg"  />
+            </div>
+            <div class="index-image-overlay"></div>
+          
+        
+
+        <div class="content page-content has-main-media has-main-image tmpl-loading" id="banner-page" data-url-id="banner">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1507042443768" id="page-5919bd7f579fb3dea4000f87"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-2ed8c5e026ef40bb6eb6"><div class="sqs-block-content"><h2 style="margin-left:80px" class="text-align-center"><span style="font-size:72px"><strong>ACTION. BALANCE. CLARITY.</strong></span></h2></div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="ready-section" class="index-section no-main-image page" data-url-id="ready" data-collection-id="596e1eb329687ff504265abb"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="ready-page" data-url-id="ready">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1506714060978" id="page-596e1eb329687ff504265abb"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-614cd21c75266309f4da"><div class="sqs-block-content"><h1 class="text-align-center">Are you ready to...</h1><h2 class="text-align-center">Take <strong>ACTION</strong><em> </em>by delegating and automating<br />tasks that drain your energy?</h2><h2 class="text-align-center">Identify your ideal work/life <strong>BALANCE</strong><em><strong> </strong></em>and maintain it?</h2><h2 class="text-align-center">Gain <strong>CLARITY</strong><em><strong> </strong></em>to focus on high-priority items<br />to advance your business?</h2><h2 class="text-align-center"><strong>STOP</strong><em><strong> </strong></em>working IN your business and <strong>START</strong> working ON your business?</h2><h2 class="text-align-center">Work with a high-quality, exclusive service provider,<br />and virtual <strong>PARTNER</strong>?</h2></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_22_1500388416386_20147"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-poster
+            
+            
+            
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <div
+          
+              class="
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fill has-aspect-ratio
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+                padding-bottom:55.661373138427734%;
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1500390790725-SRBGQN3XTVH5KG34JN3C/image-asset.jpeg" alt="Look No Further - Let me help you findVirtual Solace for your business!" loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1500390790725-SRBGQN3XTVH5KG34JN3C/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1500390790725-SRBGQN3XTVH5KG34JN3C/image-asset.jpeg" data-image-dimensions="945x526" data-image-focal-point="0.5,0.5" alt=""  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </div>
+          
+
+        </div>
+
+        
+          
+          <figcaption class="image-card-wrapper" data-width-ratio>
+            <div class="image-card sqs-dynamic-text-container">
+
+              
+                <div class="image-title-wrapper"><div class="image-title sqs-dynamic-text"
+                
+  data-animation-override
+><p>Look No Further</p></div></div>
+              
+
+              
+                <div class="image-subtitle-wrapper"><div class="image-subtitle sqs-dynamic-text"
+                
+  data-animation-override
+><p>Let me help you find<br />Virtual Solace for your business!</p></div></div>
+              
+
+              
+                <div class="image-button-wrapper">
+                  <div class="image-button sqs-dynamic-text">
+                    <div class="image-button-inner">
+                      <a href="/interest-form" target="_blank" rel="noopener" class="sqs-button-element--primary">Take Action for Your Business Today!</a>
+                    </div>
+                  </div>
+                </div>
+              
+
+            </div>
+          </figcaption>
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="about-elise-section" class="index-section no-main-image page" data-url-id="about-elise" data-collection-id="596e25eab3db2b9fd0f9be88"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="about-elise-page" data-url-id="about-elise">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1526535931383" id="page-596e25eab3db2b9fd0f9be88"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="100" data-block-type="5" id="block-6b990e0a6681974c5d21"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+      <figure
+          class="
+            sqs-block-image-figure
+            image-block-outer-wrapper
+            image-block-v2
+            design-layout-poster
+            
+            
+            
+            image-position-left
+            image-linked
+          "
+          data-scrolled
+          data-test="image-block-v2-outer-wrapper"
+      >
+
+        <div class="intrinsic">
+          
+            <a
+                href="/about-elise-1"
+                
+          
+              class="
+                
+                  sqs-block-image-link
+                
+                image-inset"
+              data-animation-role="image"
+              data-description=""
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element sqs-image-min-height
+              
+                content-fill has-aspect-ratio
+              
+            " style="
+              position: relative;
+              
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              
+                padding-bottom:100%;
+              
+            ">
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1526535743663-HTI8XCQB7PMYWYBQAU5I/EliseFingerandFamily.jpg" alt=" - " loading="lazy"/></noscript>
+              <img data-src="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1526535743663-HTI8XCQB7PMYWYBQAU5I/EliseFingerandFamily.jpg" data-image="https://images.squarespace-cdn.com/content/v1/5919bd12d1758edfb7e132c9/1526535743663-HTI8XCQB7PMYWYBQAU5I/EliseFingerandFamily.jpg" data-image-dimensions="1666x1666" data-image-focal-point="0.5,0.5" alt="EliseFingerandFamily.jpg"  loading="lazy"/>
+              <div class="image-overlay" style="
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+"></div>
+            </div>
+          
+            </a>
+          
+
+        </div>
+
+        
+
+      </figure>
+
+    
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-b120ce8c8acada3e8d44"><div class="sqs-block-content"><h1>MEET Elise</h1><p><strong>Owner and Founder of Virtual Solace, LLC. </strong></p><p>Elise is a seasoned professional with over 15 years experience in business administration, executive assistance, project management, virtual assistance and much more. As a reformed (or recovering) perfectionist, her passion for organization combined with a love of business strategy, systems development and implementation propelled her to launch her own business, Virtual Solace.</p><p>Since 2012, Elise has been able to provide relief to many C-level executives and business leaders by helping them take action, discover a healthy work/life balance, and gain clarity for their life and business by serving as their virtual executive assistant and online business manager. Elise lives in the Kansas City metro area with her amazing husband and their two beautiful girls.</p></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_5_1507054632620_5375"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--left"
+  data-animation-role="button"
+  data-alignment="left"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+	<a
+    href="/about"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    
+  >
+    Read Elise's Story
+  </a>
+</div>
+</div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+  
+  <div id="testimonials-section" class="index-section no-main-image page" data-url-id="testimonials" data-collection-id="598355b5ebbd1a9ca1f2b474"
+    data-edit-main-image="Background" 
+  >
+    <div class="index-section-wrapper">
+
+      <!-- For Pages -->
+
+      
+
+        
+          
+        
+
+        <div class="content page-content" id="testimonials-page" data-url-id="testimonials">
+          <div class="content-inner has-content">
+            <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1507688573958" id="page-598355b5ebbd1a9ca1f2b474"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_6_1501779106634_13485"><div class="sqs-block-content"><div class="testimonialSlider">
+      <ul class="rslides">
+        <li>
+          <div class="sqs-widget sqs-block-modelsync sqs-block-quote sqs-block quote-block">
+            <div class="sqs-block-quote-content sqs-block-content">
+              <figure>
+                <blockquote>
+                  <span>&#8220;</span>
+
+<b>... I hit the jackpot with Elise.</b> Within the first two months, I was able to focus on long-term projects and was able to develop a strategic plan for C3. Our team has continued to grow and I’ve uncovered opportunities that could double or triple C3’s revenues. <br> <br>
+
+If you ever have the chance to work with her, I know she’ll be a great addition to your team.
+                  <span>&#8221;</span>
+                </blockquote>
+                <figcaption class="source">&mdash;
+                  <a href="https://www.linkedin.com/in/elisefinger/#endorsements">Jeff Greenfield, COO and Co-Founder at C3 Metrics</a>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="sqs-widget sqs-block-modelsync sqs-block-quote sqs-block quote-block">
+            <div class="sqs-block-quote-content sqs-block-content">
+              <figure>
+                <blockquote>
+                  <span>&#8220;</span>
+Elise's professionalism, attention to detail, and consistently positive attitude raised the game for the whole group. <b> She has a clear minded approach to her work, doesn’t buckle under pressure or tight deadlines, and can manage a wide variety of tasks. She works well independently and as part of the group and has a strong unwavering work ethic. </b> Elise is a pleasure to work with and an asset to anyone lucky enough to have her join their team. 
+                  <span>&#8221;</span>
+                </blockquote>
+                <figcaption class="source">&mdash;
+                   <a href="https://www.linkedin.com/in/elisefinger/#endorsements">Carolyn Bassett, Senior Director, Development and Corporate Relations at JA Worldwide</a>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="sqs-widget sqs-block-modelsync sqs-block-quote sqs-block quote-block">
+            <div class="sqs-block-quote-content sqs-block-content">
+              <figure>
+                <blockquote>
+                  <span>&#8220;</span>
+Elise was an integral member of our team, even though she was a contract resource... <b>She is a very quick learner and has a great attitude about her work. She makes good suggestions for how something could work better and asks questions when she is unsure of a process or procedure.</b> Elise has strong self-motivation and requires little direction or supervision yet she is also approachable and incorporates feedback into her tasks. Any team would be fortunate to have Elise as a member.
+
+                  <span>&#8221;</span>
+                </blockquote>
+                <figcaption class="source">&mdash;
+                 <a href="https://www.linkedin.com/in/elisefinger/#endorsements">Mark Bennett, Director at PricewaterhouseCoopers, LLP and Maintenance Director, Kapstone Paper and Packaging, Inc. (formerly Longview Fibre)
+</a>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="sqs-widget sqs-block-modelsync sqs-block-quote sqs-block quote-block">
+            <div class="sqs-block-quote-content sqs-block-content">
+              <figure>
+                <blockquote>
+                  <span>&#8220;</span>
+                    Elise has saved her Clients time, energy and money by managing their calendar and travel schedules, managing their inboxes, and strategically organizing their data systems. <b> One thing that is so remarkable about Elise is that she has the ability anticipate her Client's needs, but is also willing to take on new projects or tasks when needed... </b>
+                  <span>&#8221;</span>
+                </blockquote>
+                <figcaption class="source">&mdash;
+                 <a href="https://www.linkedin.com/in/elisefinger/#endorsements">Lisa Seal, Relationship Manager at Belay (formerly eaHELP)</a>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div></div></div></div></div></div>
+          </div>
+        </div>
+      
+
+      <!-- For Galleries -->
+
+      
+
+      <!-- For Albums -->
+
+      
+
+    </div>
+  </div>
+          </div>
+        </main>
+
+        <div id="preFooter">
+          <div class="pre-footer-inner with-custom">
+  <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1418681567150" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1403260543132_3969"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-white social-icons-size-large social-icons-shape-circle social-icons-style-border" >
+  <nav class="sqs-svg-icon--list">
+    <a href="mailto:contact@virtualsolace.com" target="_blank" class="sqs-svg-icon--wrapper email" aria-label="contact@virtualsolace.com">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#email-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#email-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.facebook.com/virtualsolace/" target="_blank" class="sqs-svg-icon--wrapper facebook" aria-label="Virtual Solace">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://twitter.com/VirtualSolace" target="_blank" class="sqs-svg-icon--wrapper twitter" aria-label="Virtual Solace">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.linkedin.com/in/elisefinger" target="_blank" class="sqs-svg-icon--wrapper linkedin" aria-label="Elise Finger">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#linkedin-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#linkedin-mask"></use>
+        </svg>
+      </div>
+    </a><a href="https://www.pinterest.com/virtualsolace/" target="_blank" class="sqs-svg-icon--wrapper pinterest" aria-label="Virtual Solace + Elise Finger ">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#pinterest-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#pinterest-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div>
+</div>
+
+        </div>
+
+        <footer id="footer" role="contentinfo">
+          <div class="footer-inner">
+            <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back To Top</a></div></nav></div>
+            
+
+
+            <div id="siteInfo"><a href="mailto:contact@virtualsolace.com" class="site-email">contact@virtualsolace.com</a></div>
+            <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1599679220849" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_2_1495916094023_4635"><div class="sqs-block-content"><body>
+<center><p><font size="1" face="raleway" color="#666666"> Copyright &copy; 2009 - <span id="CopyrightYear">2020</span> Virtual Solace • A <a href="https://www.virtualsolace.com">Virtual Solace, LLC</a> Brand • All rights reserved. <br><a href="https://www.virtualsolace.com/terms-of-use">Terms</a>  •  <a href="https://www.virtualsolace.com/privacy-notice">Privacy Notice</a>  •  <a href="https://www.virtualsolace.com/disclaimers">Disclaimer</a>  •  <a href="https://www.virtualsolace.com/whitelist">Whitelist Our Emails</a>  •  <a href="https://www.virtualsolace.com/contact">Contact</a> </p>
+<script language="javascript">
+var elem = document.getElementById("CopyrightYear");
+elem.innerHTML = new Date().getFullYear();
+</script></p></font></center></div></div></div></div></div>
+          </div>
+        </footer>
+
+        
+
+      </div>
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52e968b5e4b04d2aa2a3bba3/1127/scripts/site-bundle.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+	var trackcmp_email = '';
+	var trackcmp = document.createElement("script");
+	trackcmp.async = true;
+	trackcmp.type = 'text/javascript';
+	trackcmp.src = '//trackcmp.net/visit?actid=66100712&e='+encodeURIComponent(trackcmp_email)+'&r='+encodeURIComponent(document.referrer)+'&u='+encodeURIComponent(window.location.href);
+	var trackcmp_s = document.getElementsByTagName("script");
+	if (trackcmp_s.length) {
+		trackcmp_s[0].parentNode.appendChild(trackcmp);
+	} else {
+		var trackcmp_h = document.getElementsByTagName("head");
+      trackcmp_h.length && trackcmp_h[0].appendChild(trackcmp);
+	}
+</script>
+<script type="text/javascript">
+    (function(e,t,o,n,p,r,i){e.visitorGlobalObjectAlias=n;e[e.visitorGlobalObjectAlias]=e[e.visitorGlobalObjectAlias]||function(){(e[e.visitorGlobalObjectAlias].q=e[e.visitorGlobalObjectAlias].q||[]).push(arguments)};e[e.visitorGlobalObjectAlias].l=(new Date).getTime();r=t.createElement("script");r.src=o;r.async=true;i=t.getElementsByTagName("script")[0];i.parentNode.insertBefore(r,i)})(window,document,"https://diffuser-cdn.app-us1.com/diffuser/diffuser.js","vgo");
+    vgo('setAccount', '66100712');
+    vgo('setTrackByDefault', false);
+
+    vgo('process');
+</script><script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="email-icon" viewBox="0 0 64 64"><path d="M17,22v20h30V22H17z M41.1,25L32,32.1L22.9,25H41.1z M20,39V26.6l12,9.3l12-9.3V39H20z"/></symbol><symbol id="email-mask" viewBox="0 0 64 64"><path d="M41.1,25H22.9l9.1,7.1L41.1,25z M44,26.6l-12,9.3l-12-9.3V39h24V26.6z M0,0v64h64V0H0z M47,42H17V22h30V42z"/></symbol><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol><symbol id="linkedin-icon" viewBox="0 0 64 64"><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></symbol><symbol id="linkedin-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M25.8,44h-5.4V26.6h5.4V44z M23.1,24.3c-1.7,0-3.1-1.4-3.1-3.1c0-1.7,1.4-3.1,3.1-3.1 c1.7,0,3.1,1.4,3.1,3.1C26.2,22.9,24.8,24.3,23.1,24.3z M46,44h-5.4v-8.4c0-2,0-4.6-2.8-4.6c-2.8,0-3.2,2.2-3.2,4.5V44h-5.4V26.6 h5.2V29h0.1c0.7-1.4,2.5-2.8,5.1-2.8c5.5,0,6.5,3.6,6.5,8.3V44z"/></symbol><symbol id="pinterest-icon" viewBox="0 0 64 64"><path d="M32,16c-8.8,0-16,7.2-16,16c0,6.6,3.9,12.2,9.6,14.7c0-1.1,0-2.5,0.3-3.7 c0.3-1.3,2.1-8.7,2.1-8.7s-0.5-1-0.5-2.5c0-2.4,1.4-4.1,3.1-4.1c1.5,0,2.2,1.1,2.2,2.4c0,1.5-0.9,3.7-1.4,5.7 c-0.4,1.7,0.9,3.1,2.5,3.1c3,0,5.1-3.9,5.1-8.5c0-3.5-2.4-6.1-6.7-6.1c-4.9,0-7.9,3.6-7.9,7.7c0,1.4,0.4,2.4,1.1,3.1 c0.3,0.3,0.3,0.5,0.2,0.9c-0.1,0.3-0.3,1-0.3,1.3c-0.1,0.4-0.4,0.6-0.8,0.4c-2.2-0.9-3.3-3.4-3.3-6.1c0-4.5,3.8-10,11.4-10 c6.1,0,10.1,4.4,10.1,9.2c0,6.3-3.5,11-8.6,11c-1.7,0-3.4-0.9-3.9-2c0,0-0.9,3.7-1.1,4.4c-0.3,1.2-1,2.5-1.6,3.4 c1.4,0.4,3,0.7,4.5,0.7c8.8,0,16-7.2,16-16C48,23.2,40.8,16,32,16z"/></symbol><symbol id="pinterest-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M32,48c-1.6,0-3.1-0.2-4.5-0.7c0.6-1,1.3-2.2,1.6-3.4c0.2-0.7,1.1-4.4,1.1-4.4 c0.6,1.1,2.2,2,3.9,2c5.1,0,8.6-4.7,8.6-11c0-4.7-4-9.2-10.1-9.2c-7.6,0-11.4,5.5-11.4,10c0,2.8,1,5.2,3.3,6.1 c0.4,0.1,0.7,0,0.8-0.4c0.1-0.3,0.2-1,0.3-1.3c0.1-0.4,0.1-0.5-0.2-0.9c-0.6-0.8-1.1-1.7-1.1-3.1c0-4,3-7.7,7.9-7.7 c4.3,0,6.7,2.6,6.7,6.1c0,4.6-2,8.5-5.1,8.5c-1.7,0-2.9-1.4-2.5-3.1c0.5-2,1.4-4.2,1.4-5.7c0-1.3-0.7-2.4-2.2-2.4 c-1.7,0-3.1,1.8-3.1,4.1c0,1.5,0.5,2.5,0.5,2.5s-1.8,7.4-2.1,8.7c-0.3,1.2-0.3,2.6-0.3,3.7C19.9,44.2,16,38.6,16,32 c0-8.8,7.2-16,16-16c8.8,0,16,7.2,16,16C48,40.8,40.8,48,32,48z"/></symbol></svg>
+
+  </body>
+</html>

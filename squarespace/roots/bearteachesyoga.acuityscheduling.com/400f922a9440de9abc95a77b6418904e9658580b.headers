@@ -1,0 +1,15 @@
+GET https://bearteachesyoga.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:08 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=23uuj91fhn61i362e47eqkmrgg; expires=Thu, 03-Mar-2022 23:54:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3f6481ef-aa2f-41c7-89f4-f893375567f7; expires=Thu, 01-Feb-2024 23:54:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent

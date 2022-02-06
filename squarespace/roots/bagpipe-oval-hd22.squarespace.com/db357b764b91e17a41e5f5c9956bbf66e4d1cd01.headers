@@ -1,0 +1,16 @@
+GET https://bagpipe-oval-hd22.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Age: 560691
+< Date: Wed, 26 Jan 2022 13:31:58 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: fXeSAsBe/08bUoom0
+< Accept-Ranges: bytes
+< Etag: W/"8bf562edb2db82389d9a75b75a8156d2--gzip"
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Set-Cookie: crumb=BZ5jmGUPWsKRYjcwMDcyYmNkNjZjNGEzODAzMDQ0MzU5ZGQzMGQy;Path=/

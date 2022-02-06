@@ -1,0 +1,10 @@
+GET http://eugene-cyckowski-tt11.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BQIXNCgl3MJyYWEzOTU4OWFkZTkxYzgyMmZlOGM5NjMzZTBmNzc4;Path=/
+< X-Contextid: KHW1R9it/rNFbYxlm
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:13 GMT

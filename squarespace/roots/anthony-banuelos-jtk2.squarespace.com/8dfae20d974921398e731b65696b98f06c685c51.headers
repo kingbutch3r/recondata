@@ -1,0 +1,10 @@
+GET http://anthony-banuelos-jtk2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BUaHRb5Ms8WfNTUyMGQ3YWU3Y2E1MWU1ZTY5OWNhZGZlMWJjMTJi;Path=/
+< X-Contextid: NXMsBOxa/vnXJaXvd
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:21:27 GMT
+< Server: Squarespace

@@ -1,0 +1,15 @@
+GET https://yourgo2gals.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:34:42 GMT
+< Set-Cookie: PHPSESSID=91s3irqcdpo484955tqeq250pe; expires=Fri, 04-Mar-2022 00:34:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fe7e2ecb-869d-4f6e-af93-728935cbfb05; expires=Fri, 02-Feb-2024 00:34:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

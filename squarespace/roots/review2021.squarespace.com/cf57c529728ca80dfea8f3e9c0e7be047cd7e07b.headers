@@ -1,0 +1,11 @@
+GET http://review2021.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 22:08:43 GMT
+< Location: https://review2021.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfSbizTCPfdMNTYxNjljZWQxZmQ4OWJmZmUzNTBlNGY0NTUxMjYw;Path=/
+< X-Contextid: IdiNOkqG/Y50eGOuo
+< Age: 443078

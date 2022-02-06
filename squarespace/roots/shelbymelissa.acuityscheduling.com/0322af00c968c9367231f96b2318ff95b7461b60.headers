@@ -1,0 +1,17 @@
+GET https://shelbymelissa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=jqpkc1uqfkpsiu7jqseg1cls05; expires=Thu, 03-Mar-2022 23:56:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1616b8a4-e32c-431b-b14e-95e35067a028; expires=Thu, 01-Feb-2024 23:56:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:56:06 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

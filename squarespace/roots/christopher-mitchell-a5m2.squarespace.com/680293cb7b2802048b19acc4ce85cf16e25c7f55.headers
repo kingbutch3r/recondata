@@ -1,0 +1,12 @@
+GET http://christopher-mitchell-a5m2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800
+< Server: Squarespace
+< Set-Cookie: crumb=BXjjEwFLKCLEMjQ4Y2E0NmExNzg4MmExZWI4Mzg0NzgwNDlhNjdi;Path=/
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:21:46 GMT
+< Location: https://christopher-mitchell-a5m2.squarespace.com/
+< X-Contextid: lbzpWbiq/2JmHAYCN

@@ -1,0 +1,15 @@
+GET https://gsilktech.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=mb3tdur021tahg11sv8flh2nvd; expires=Fri, 04-Mar-2022 00:13:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ed3e94bf-3e2b-4a88-9f67-7da3d2b47e3d; expires=Fri, 02-Feb-2024 00:13:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:13:39 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff

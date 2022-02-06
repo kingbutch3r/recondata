@@ -1,0 +1,15 @@
+GET https://phasesofthewomb.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:56:43 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=p1ud35grvfff1rhmq3an8nbm4l; expires=Thu, 03-Mar-2022 23:56:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a6b0d7f5-16ec-4661-bd32-c558462e3028; expires=Thu, 01-Feb-2024 23:56:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

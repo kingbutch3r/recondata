@@ -1,0 +1,15 @@
+GET https://ridgesstitches.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=1s4mch4rtb29s8q4irhrr1d3hf; expires=Fri, 04-Mar-2022 00:32:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4a0d9465-8824-4153-8023-b2d6b0413f25; expires=Fri, 02-Feb-2024 00:32:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:32:32 GMT

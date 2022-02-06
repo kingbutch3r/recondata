@@ -1,0 +1,10 @@
+GET https://jan-dziubek-6kf0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: hsysDJnX/o4yRF1XY
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:12:01 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSjjzk95kwxiZTE4NGM2ZjM3OTFlNTg3MTRjMzFiMzUzYjMzZmJk;Path=/

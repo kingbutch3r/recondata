@@ -1,0 +1,15 @@
+GET https://laurelfelt.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:41:11 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=mt9g2jvqupp6fc2rf0mg37ftvp; expires=Fri, 04-Mar-2022 00:41:10 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2c8e2368-d7d2-4a68-8a44-57e7e85955f8; expires=Fri, 02-Feb-2024 00:41:11 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

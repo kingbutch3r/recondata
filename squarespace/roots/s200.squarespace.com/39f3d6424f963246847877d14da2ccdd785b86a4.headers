@@ -1,0 +1,10 @@
+GET http://s200.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:50:23 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXHfmrWAC62zYTQwMzkyMDk0YjQ2YTJjZTc2ZWM5N2U1MTFjMmE0;Path=/
+< X-Contextid: KyFyshjy/6Yhj0sl0
+< Age: 0
+< Content-Type: text/html;charset=utf-8

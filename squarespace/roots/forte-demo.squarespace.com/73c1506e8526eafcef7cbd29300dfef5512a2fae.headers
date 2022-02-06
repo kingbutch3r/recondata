@@ -1,0 +1,11 @@
+GET http://forte-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 27060
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 17:51:55 GMT
+< Location: https://forte-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSWJMGOLWmoZYzA5N2Y1NjM0Y2FlZDhlM2ViODVjNzc0N2FhMWFh;Path=/
+< X-Contextid: o99Iu7Ch/AoCJFg8i

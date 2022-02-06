@@ -1,0 +1,16 @@
+GET https://labour-drug-policy.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BefGOSs73phzNzIxNzk1MzRkNWY1NzU2Zjc1NTViOTZkZWIzZGY4;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 432771
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 01:12:33 GMT
+< Etag: W/"8c234661718b3e10cfcfa2b7719e5e6b--gzip"
+< X-Contextid: yIu3bf11/YhXB6uRe

@@ -1,0 +1,11 @@
+GET https://syn-bt2ywgclz3.api.krisp.ai
+
+
+< HTTP/1.1 503 Service Temporarily Unavailable
+< Content-Length: 0
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< Cf-Ray: 6d6ef6e2da382e35-BOM
+< Date: Tue, 01 Feb 2022 23:29:54 GMT
+< Content-Type: text/plain; charset=utf-8

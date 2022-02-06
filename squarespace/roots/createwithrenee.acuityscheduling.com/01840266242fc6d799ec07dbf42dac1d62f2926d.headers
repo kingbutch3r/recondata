@@ -1,0 +1,15 @@
+GET https://createwithrenee.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=k82vmviqqmk4aa2d2ueo2mtq3v; expires=Fri, 04-Mar-2022 00:02:17 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=5869f5fa-0dee-4f09-9fd2-d9c9fff07887; expires=Fri, 02-Feb-2024 00:02:18 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:02:18 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache

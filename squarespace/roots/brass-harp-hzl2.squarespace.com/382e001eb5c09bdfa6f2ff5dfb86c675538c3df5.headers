@@ -1,0 +1,11 @@
+GET http://brass-harp-hzl2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=Bcw7iq0HzxKBZmNjYzAwMzRmNThhOWRkZmMxYTZhMThiZjEzNThj;Path=/
+< X-Contextid: fGQ6zIq7/DWyMCIHu
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:50 GMT
+< Location: https://brass-harp-hzl2.squarespace.com/
+< Server: Squarespace

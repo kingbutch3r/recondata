@@ -1,0 +1,13 @@
+GET https://andy-amick-azz0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BesFSvXr92/AYWZmMjU1ODM3ZGU2OTU5YmM3ZWFlN2FmM2E0NTk3;Path=/
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: oB0LfUHo/D5wyouPg
+< Date: Wed, 02 Feb 2022 01:12:41 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

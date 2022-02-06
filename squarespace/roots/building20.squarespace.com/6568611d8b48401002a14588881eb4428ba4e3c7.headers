@@ -1,0 +1,13 @@
+GET https://building20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:50:13 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbY1n4XfqzBNZDgxZGIxZmYwZmEzMDYxNmYwNzViODk0NzIzNWFh;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: dofPzQrd/ElRdDx1T

@@ -1,0 +1,11 @@
+GET https://www.emma-baker-6or1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BW3urQlsfYurYzE5YmViYzk4MmRmNTRmNGJkYjY2NmNmZjMyYjcy;Path=/
+< X-Contextid: RzWx4VYG/nlEGOohE
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:03 GMT
+< Location: https://emma-baker-6or1.squarespace.com/
+< Server: Squarespace

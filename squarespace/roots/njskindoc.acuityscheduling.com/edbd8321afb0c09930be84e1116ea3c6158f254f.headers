@@ -1,0 +1,17 @@
+GET https://njskindoc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=cnorl8m08umn6ocijrrtbol48o; expires=Thu, 03-Mar-2022 23:58:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=41e7c95f-0b93-454c-94c8-ec5870148437; expires=Thu, 01-Feb-2024 23:58:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:58:41 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

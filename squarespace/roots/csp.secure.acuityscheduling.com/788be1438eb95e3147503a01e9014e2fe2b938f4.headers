@@ -1,0 +1,15 @@
+GET https://csp.secure.acuityscheduling.com
+
+
+< HTTP/1.1 200 OK
+< X-Amz-Cf-Pop: MXP63-P2
+< X-Cache: Hit from cloudfront
+< Via: 1.1 4fb57eae12b36ac210ac39c8de044a44.cloudfront.net (CloudFront)
+< Last-Modified: Tue, 01 Feb 2022 19:34:00 GMT
+< Server: AmazonS3
+< Date: Wed, 02 Feb 2022 00:39:55 GMT
+< Age: 916
+< Content-Type: text/html
+< Etag: W/"0e11fab422ab6bda13f888463f1371e8"
+< Vary: Accept-Encoding
+< X-Amz-Cf-Id: 5sG5xsfebu8OeWLiWLDmydmZMsliGFXQ14WTX3Fnm2DVwg6lZe7zfw==

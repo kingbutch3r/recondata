@@ -1,0 +1,11 @@
+GET https://demo20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:51:40 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BdsV1veM/zN7NWQ2ZTllZjdlNWM0NWExODcyZjI1ZjJhYzVlOTNi;Path=/
+< X-Contextid: M8jNiODE/ARl0mUKx
+< Age: 0

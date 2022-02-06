@@ -1,0 +1,11 @@
+GET http://talesofcloth.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 08:23:27 GMT
+< Location: https://talesofcloth.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BY/vXt93sMi5Mjg5OGRlNTAzMTNlYjc5YTgwZjA3NDUyNzFhM2Uz;Path=/
+< X-Contextid: IxV9JEkL/DKSHGSlZ
+< Age: 234005

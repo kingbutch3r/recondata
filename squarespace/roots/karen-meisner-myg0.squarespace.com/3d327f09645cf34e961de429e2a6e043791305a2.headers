@@ -1,0 +1,16 @@
+GET https://karen-meisner-myg0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"b78c5e7b7d8467195fdef95c31e07d56"
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BXlF+WavVHplMThkYzlkYWY4YTgyM2RiM2E3YmNkZmEzYTI0NzNh;Path=/
+< Date: Fri, 28 Jan 2022 16:40:25 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: 801NLPBh/THt8gY7e
+< Accept-Ranges: bytes
+< Age: 376299
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Vary: Accept-Encoding

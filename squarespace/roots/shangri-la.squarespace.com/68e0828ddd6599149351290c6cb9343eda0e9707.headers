@@ -1,0 +1,11 @@
+GET http://shangri-la.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://shangri-la.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BT13Kexc8hA2ZDg0NmY1YjFjOTY2NmIyZTNiMTkyOThiNGYzMWEy;Path=/
+< X-Contextid: mXxqdi56/A9bdY1Xh
+< Age: 4938
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:34:42 GMT

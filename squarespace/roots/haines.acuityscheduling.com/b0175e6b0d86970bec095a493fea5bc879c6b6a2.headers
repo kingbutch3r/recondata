@@ -1,0 +1,17 @@
+GET https://haines.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=guarasdg9740nul7otd9qboh6l; expires=Fri, 04-Mar-2022 00:33:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e5217bd5-3831-4c4a-b4bc-5d47fbae001b; expires=Fri, 02-Feb-2024 00:33:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:33:03 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

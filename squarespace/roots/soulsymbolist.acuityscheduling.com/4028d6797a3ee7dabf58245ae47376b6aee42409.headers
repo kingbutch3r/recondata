@@ -1,0 +1,17 @@
+GET https://soulsymbolist.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ci9k69kfna5ramlo779r2is10a; expires=Fri, 04-Mar-2022 00:42:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dd521075-7791-4ccf-b327-d0668d020d2f; expires=Fri, 02-Feb-2024 00:42:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:42:58 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"

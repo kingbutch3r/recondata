@@ -1,0 +1,17 @@
+GET https://awcutalca.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:53:39 GMT
+< Set-Cookie: PHPSESSID=dohtvhpka8ivjidm95llotg9mf; expires=Thu, 03-Mar-2022 23:53:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8a0f998f-a1b0-4bd6-9307-1c0c13fc4cd5; expires=Thu, 01-Feb-2024 23:53:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php

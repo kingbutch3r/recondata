@@ -1,0 +1,16 @@
+GET http://theouts.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Set-Cookie: crumb=BdnijSBcUJ6xMTI5MmE2NDZiNmIzNjg3NzY4NjQ0MDBlM2FlMTgx;Path=/
+< X-Contextid: fx2SeN1C/3zRZFVYH
+< Etag: W/"e00f85a7b3f79b8d706ffd73c15d779c"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:22:31 GMT
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:22:31 GMT
+< X-Content-Type-Options: nosniff

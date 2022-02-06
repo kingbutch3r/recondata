@@ -1,0 +1,18 @@
+GET https://jpmchase.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< X-Cache: Hit from cloudfront
+< Via: 1.1 a98667e1ba0ec86bfa370f5e14af6ab6.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: nr5_QrqEFcwdsWsRRIa08Umwlym3uW4vd70LNe0BtL4ExgZjU16CEA==
+< X-Amz-Version-Id: Tvd1f9Y4eWCZiFyWlid.GeRHTsdSjeXx
+< Server: AmazonS3
+< Etag: "26411f84a01ae93c2c1116b2fa9c1aef"
+< Age: 25
+< Content-Length: 2802
+< Last-Modified: Wed, 10 Mar 2021 11:12:10 GMT
+< X-Amz-Server-Side-Encryption: AES256
+< Date: Tue, 01 Feb 2022 23:29:15 GMT
+< X-Amz-Cf-Pop: BOM50-C1
+< Content-Type: text/html

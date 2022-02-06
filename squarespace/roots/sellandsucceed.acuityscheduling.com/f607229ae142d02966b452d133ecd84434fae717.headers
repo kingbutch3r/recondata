@@ -1,0 +1,15 @@
+GET https://sellandsucceed.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:53:28 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=vt5kselq9l7f67f57t7svnr5eo; expires=Fri, 04-Mar-2022 00:53:27 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6dd59144-5968-4503-8bf0-41215a1bac1b; expires=Fri, 02-Feb-2024 00:53:28 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

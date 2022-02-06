@@ -1,0 +1,16 @@
+GET https://thewhitehart-inn.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 23821
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: Cdz1g9Ns/Q1jAhGW3
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 18:47:18 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Etag: W/"fa2645da47336df59b220adde467b827"
+< Set-Cookie: crumb=BaKPGvfuuc/ZNGZjOTA3NjIxNGM4ODE0NDgzZjNkN2Q3NDk3YjQz;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8

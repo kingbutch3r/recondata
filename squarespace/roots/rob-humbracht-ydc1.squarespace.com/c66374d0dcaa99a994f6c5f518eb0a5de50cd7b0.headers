@@ -1,0 +1,12 @@
+GET http://rob-humbracht-ydc1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:14:26 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BeJy14S1bODSZDBmZGY5ZDgwNTI0M2IwZTcwYmZmOGNiOWUzMDU2;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: xbhCren6/F8jjmeL6

@@ -1,0 +1,17 @@
+GET https://megbeeler.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=5m09s0dqg4kujr0svocp2g4mej; expires=Fri, 04-Mar-2022 00:28:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=24153591-1722-4699-8df4-e685c309d0f2; expires=Fri, 02-Feb-2024 00:29:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:29:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: User-Agent

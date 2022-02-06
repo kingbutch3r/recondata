@@ -1,0 +1,4 @@
+https://www.floatplane.com/activate-account?key=ce97085ee6423f7e5f1cb3f65c9fde5a4f22ba91754f27b01494e34ea12f829791706f845aaabe8955ee474b0ed5fed5&username=MHillier98
+https://www.floatplane.com/api/creator/discover?&page=0&limit=200
+https://www.floatplane.com/api/v3/creator/discover?page=0&limit=200
+https://edge01-na.floatplane.com/Videos/aU6BmI9F2i/480.mp4?wmsAuthSign=c2VydmVyX3RpbWU9OS85LzIwMjEgNzozNTowNiBQTSZoYXNoX3ZhbHVlPVBmT1lWeVhVWVA3cDlvTDUvRkZFSVE9PSZ2YWxpZG1pbnV0ZXM9MjAmaWQ9NWI1YzEyOGI5YWYzNjQyMGQ5YTU2YWI3&attachment=true&filename=CSF+-+Pop+the+Balloon%252C+Get+%2524100%21+%28480p%29

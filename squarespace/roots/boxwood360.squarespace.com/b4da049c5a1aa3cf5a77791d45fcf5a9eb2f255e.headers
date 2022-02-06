@@ -1,0 +1,11 @@
+GET http://boxwood360.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 371892
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 17:53:11 GMT
+< Location: https://boxwood360.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bb9nQbDZiQLtYTk2YzZiNzRhY2FmNTI2MTE2NTc0ZjdiMDk3NGI2;Path=/
+< X-Contextid: ELLKKbYm/P2xaojDm

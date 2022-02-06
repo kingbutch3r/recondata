@@ -1,0 +1,16 @@
+GET https://ryder-meehan-2h80.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: v50T0tib/OoRcixps
+< Set-Cookie: crumb=BdANpi5zWdw5Y2QwMzQ4YjYzZGE4Yjg3NzBhZTJlMzFhOWMzZmJi;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Etag: W/"1ed9c4b4a29425461909cbbb2dbedbe5--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:57 GMT

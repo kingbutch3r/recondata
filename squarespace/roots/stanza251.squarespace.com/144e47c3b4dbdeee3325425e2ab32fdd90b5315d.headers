@@ -1,0 +1,20 @@
+GET https://stanza251.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Date: Wed, 02 Feb 2022 01:13:59 GMT
+< Set-Cookie: crumb=Bax+l1+q8ISwZDRiMDU0ODJlOWIxMWIwZWQwYWQxMjI5YTBjYmRi;Path=/
+< Last-Modified: Wed, 02 Feb 2022 01:13:59 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 0
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Type: text/html;charset=utf-8
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Etag: W/"7dcaf65fb49034016c7eade988143d37"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: epjpVzmb/wgLeaSm3

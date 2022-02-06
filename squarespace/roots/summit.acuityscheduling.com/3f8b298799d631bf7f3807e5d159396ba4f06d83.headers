@@ -1,0 +1,17 @@
+GET https://summit.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=qalod0cgj3rm3a8a6c0l5bjp90; expires=Fri, 04-Mar-2022 00:41:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8084753c-b80d-47ab-8eb0-cb321c458d7b; expires=Fri, 02-Feb-2024 00:41:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:41:01 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"

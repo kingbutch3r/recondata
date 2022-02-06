@@ -1,0 +1,16 @@
+GET https://aardvark-sawfish-tp72.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 599959
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: jZJcC0Lu/iVV13f9V
+< Set-Cookie: crumb=BYZ9r384KmlrNjkzYTkyZjJjZjFiOTFhYjIwZTgwZmQzNWMxMzRj;Path=/
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"388db3e61bc8b7a2e842ee77bbd8840b--gzip"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Date: Wed, 26 Jan 2022 02:12:31 GMT

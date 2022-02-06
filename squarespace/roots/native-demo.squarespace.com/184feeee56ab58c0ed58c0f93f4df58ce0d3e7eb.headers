@@ -1,0 +1,17 @@
+GET https://native-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Age: 19482
+< Etag: W/"9099594ccf98ff7d804acf29b7b17e32"
+< Last-Modified: Tue, 01 Feb 2022 19:30:39 GMT
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BetuaKVH2Z0jOWNlODdiN2Y1MzA3YjFjN2ZlNTczYjVhODQ4MDVi;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Contextid: U71sSF8a/yIXl9hOE
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Date: Tue, 01 Feb 2022 19:30:39 GMT

@@ -1,0 +1,14 @@
+GET https://beagle-ferret-t9a2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: max-age=300, s-maxage=300
+< Set-Cookie: crumb=BUGC3fzaVdLwOTMyYmMzMTJiZDBjNThjMDE2OTI2OGFiNzcyN2M5;Path=/
+< Date: Wed, 02 Feb 2022 00:52:00 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: p0c08ra1/wu7IJCwQ
+< Age: 0
+< Content-Type: text/html;charset=utf-8

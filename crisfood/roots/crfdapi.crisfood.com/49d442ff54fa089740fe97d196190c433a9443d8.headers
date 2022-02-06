@@ -1,0 +1,12 @@
+GET https://crfdapi.crisfood.com
+
+
+< HTTP/1.1 302 Found
+< Server: Apache/2.4.29 (Ubuntu)
+< Location: https://crisfood.com
+< Content-Length: 326
+< Date: Sat, 29 Jan 2022 17:28:31 GMT
+< Cache-Control: no-cache, private
+< Set-Cookie: XSRF-TOKEN=eyJpdiI6Ik5LWmNURkJDMmxseXhYVmVPRUJESWc9PSIsInZhbHVlIjoiYjV1QUp2cXhrTzdSUFwvNW9KbEpVNTZJcW5GQ3R6cUJobGloc1h3RldnY1dyNmxKejlNNG1yc2VwZDlmM21GTmR1eWFVNkxcLytPdFRlU3lSMjB2bHF3Zz09IiwibWFjIjoiYzAzYTdkNzEzNTM4YzY4ZGMxNTg5MzAyMDIxMTdhZjk2ZGU2YjJhMzVjMGE1NDBiNTZhMzI4ZWJmMzU0NTg5MCJ9; expires=Sat, 29-Jan-2022 19:28:31 GMT; Max-Age=7200; path=/
+< Set-Cookie: laravel_session=eyJpdiI6Ik9UWkxkMEhSVlI4ajYyYlI4SEJUNXc9PSIsInZhbHVlIjoiV2RwM1F6RDh1bFM0NjFOaGdGZTBXSXZDbWJEbFBrOWMyMDFrZnViQjZlMnhRcElEeVd1R0xPcmhUcGRocGxEOWsxd2RoY1UrRUhxRVJEV3RNcENYaXc9PSIsIm1hYyI6ImQyNzMzNzhiOThmZTEzZjY2NDQxODE4Mjg0M2U4OTA5OWI3YjBmM2ZjMDA4NDdlMjhmNmUzMmNhMDUyMjg0OWQifQ%3D%3D; expires=Sat, 29-Jan-2022 19:28:31 GMT; Max-Age=7200; path=/; httponly
+< Content-Type: text/html; charset=UTF-8

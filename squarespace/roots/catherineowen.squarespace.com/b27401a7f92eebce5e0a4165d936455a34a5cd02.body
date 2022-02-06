@@ -1,0 +1,1788 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  
+  <!-- This is Squarespace. --><!-- catherineowen -->
+<base href="">
+<meta charset="utf-8" />
+<title>Catherine Owen</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="http://catherineowen.squarespace.com"/>
+<meta property="og:site_name" content="Catherine Owen"/>
+<meta property="og:title" content="Catherine Owen"/>
+<meta property="og:url" content="http://catherineowen.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="Catherine Owen"/>
+<meta itemprop="url" content="http://catherineowen.squarespace.com"/>
+<meta name="twitter:title" content="Catherine Owen"/>
+<meta name="twitter:url" content="http://catherineowen.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/6SX9KKSpyX4MhLKBLFyVVQl9Vb9fCBPrV0r4AiuPhntfelM2fFHN4UJLFRbh52jhWD9awhFRZRIowRJX5248FcIuwDZKjQZyZgTTHKoRjWsGZW4Tdcmzihm0O1FUiABkZWF3jAF8OcFzdPURjWsGZW4Tdcmzihm0O1FUiABkZWF3jAF8OcFzdPUCdhFydeyzSabCiaiaOcFyiey8Sc80ZANaZAt0SaBujW48Sagyjh90jhNlJ6U3ScNt-AuyOAozicIKfAZuiYmkjPu3ifG4fHCgIMMjMPMfH6qJnMIbMg6OJMJ7fbRKHyMMeMw6MKG4f5w7IMMj2PMfH6qJn3IbMg6IJMJ7fbK3MsMMeMt6MKGHfO2IMsMMeM96MKGHfOYIMsMMeMv6MKG4fHXgIMMjgKMfH6qJn6IbMg6bJMJ7fbKOMsMMeMS6MKG4fJ3gIMMjIPMfH6qJ7bIbMg6JJMJ7fbK7MsMMegJ6MKG4fJqgIMMjfPMfH6qJK6IbMg6QJMJ7fbKemsMgeMw6MKG4fJFmIMIj2PMfH6qJyB9bMs6IJMJ7fbKBmsMgeMt6MKG4fVN9IMIjgPMfH6qJ6B9bMs6VJMJ7fbKgmsMgeMS6MKG4fJ4mIMIjIPMfH6qJyu9bMs6JJMJ7fbKJmsMgegJ6MTMg3JP9069.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"573ccf1922482e6a536ba6ad","identifier":"catherineowen","websiteType":1,"contentModifiedOn":1642104097174,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Catherine Owen","fullSiteTitle":"Catherine Owen","siteTagLine":"Copy/Content/Creative","siteDescription":"","shareButtonOptions":{"8":true,"3":true,"4":true,"6":true,"2":true,"7":true,"1":true},"authenticUrl":"http://catherineowen.squarespace.com","internalUrl":"http://catherineowen.squarespace.com","baseUrl":"http://catherineowen.squarespace.com","typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"e46c56cc","showOwnerLogin":false},"websiteSettings":{"id":"573ccf1922482e6a536ba6af","websiteId":"573ccf1922482e6a536ba6ad","subjects":[],"country":"US","state":"GA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Work","id":"5d4ddd801dfdef0001468713","fullUrl":"/","type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"TGutter":"3%","TMaxWidth":"400","TPerRow":"3","gallery-auto-play":"false","galleryPlaySpeed":"3","hide-thumbnail-titles":"false","outerPadding":"75px","pagePadding":"24px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","thumbnail-layout":"Basic Grid","topPadding":"0px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"4fd11f32c4aad9b01c9e624c","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/4fd1028ee4b02be53c65dfb3/1356/scripts/","betaFeatureFlags":["commerce_site_visitor_metrics","commerce_product_review_etsy_import","category-delete-product-service-enabled","campaigns_hide_deleted_automations_panel","campaigns_show_apply_website_styles_button","customer_account_creation_recaptcha","member_areas_schedule_interview","campaigns_new_subscriber_search","commerce_onboarding_tools_screen_test","commerce_product_branching","campaigns_banner_reduce_size","member_areas_pricing_options_discounts","viewer-role-contributor-invites","commerce_etsy_shipping_import","commerce_product_composer_ab_test_all_users","commerce_restock_notifications","campaigns_section_reorder_arrows","commerce_category_id_discounts_enabled","commerce_etsy_product_import","nested_categories_migration_enabled","commerce_clearpay","google_analytics_4_gtag_js","campaigns_audience_card","member_areas_spanish_interviews","commerce_activation_experiment_add_payment_processor_card","campaigns_global_uc_ab","reduce_general_search_api_traffic","commerce_afterpay_pdp","campaigns_thumbnail_layout","commerce_pdp_layouts_ga","campaigns_blog_product_image_editor","background_art_onboarding","startup_checklist","commerce_product_review_import_ga","product_composer_feedback_form_on_save"],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://catherineowen.squarespace.com/work?format=rss" />
+<script type="application/ld+json">{"url":"http://catherineowen.squarespace.com","name":"Catherine Owen","description":"","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/573ccf1922482e6a536ba6ad/29/4fd11f32c4aad9b01c9e624c/573ccf1922482e6a536ba6b3/1356-05142015/1642103795830/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+</head>
+
+<body class="blog-sidebar-display-auto index-thumb-title-position-below index-item-layout-auto thumbnail-layout-basic-grid thumbnails-on-open-page-show-all   layout-style-left page-borders-none underline-body-links gallery-page-controls-tiny-thumbnails  social-icon-style-normal   show-category-navigation   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5d4ddd801dfdef0001468713 collection-type-index collection-layout-default homepage view-list mobile-style-available site-title has-primary-nav" id="collection-5d4ddd801dfdef0001468713">
+
+  <div id="canvas">
+
+      
+  <div id="mobileNav" class="">
+    <div id="mobileNavWrapper" class="wrapper">
+      <nav class="main-nav mobileNav">
+        <ul>
+          
+
+            
+              <li class="index-collection active-link">
+                
+                  <a href="/">Work</a>
+                
+              </li>
+            
+
+          
+
+            
+              <li class="page-collection">
+                
+                  <a href="/about">About</a>
+                
+                
+              </li>
+            
+
+          
+
+            
+              <li class="page-collection">
+                
+                  <a href="/contact-1">CONTACT</a>
+                
+                
+              </li>
+            
+
+          
+          
+        </ul>
+      </nav>
+    </div>
+  </div>
+  <div id="mobileMenuLink"><a>Menu</a></div>
+
+
+
+    <header id="header">
+      <div id="logo" data-content-field="site-title">
+        
+        <h1 class="logo"><a href="/">Catherine Owen</a></h1>
+        <div class="logo-subtitle">Copy/Content/Creative</div>
+        
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.all("#header .logo, #header .logo-subtitle").each(function (text) {
+            text.plug(Y.Squarespace.TextShrink, {
+              parentEl: Y.one('#header'),
+              triggerWidth: 750
+            });
+          });
+        });
+
+        // Show spinner on page load if loading bookmarked url
+        if (window.location.hash && window.location.hash !== '#') {
+          document.querySelector('body').className += ' index-loading';
+        }
+      </script>
+      <div id="topNav" data-content-field="navigation">
+<nav class="main-nav">
+  <ul>
+  
+  
+
+      <li class="index-collection active-link">
+
+        
+          
+            <a href="/">Work</a>
+          
+        
+
+      </li>
+
+  
+
+      <li class="page-collection">
+
+        
+
+          
+            <a href="/about">About</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+
+      <li class="page-collection">
+
+        
+
+          
+            <a href="/contact-1">CONTACT</a>
+          
+
+          
+
+
+        
+
+      </li>
+
+  
+  
+  
+  </ul>
+</nav>
+</div>
+
+    </header>
+
+    <div class="page-divider"></div>
+
+    <div class="extra-wrapper page-header">
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Header Content: Work" data-type="block-field" id="page-header-5d4ddd801dfdef0001468713"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+    </div>
+
+    <section id="page" role="main" data-content-field="main-content">
+      <!-- CATEGORY NAV -->
+      
+      <div id="projectPages" data-collection-id="">
+  
+    
+      <div class="project gallery-project" data-url="/mcdonalds/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">McDonalds</h2>
+          
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661858926-DAN685GS03M71HW4LH7I/Screen+Shot+2022-01-08+at+12.10.39+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661858926-DAN685GS03M71HW4LH7I/Screen+Shot+2022-01-08+at+12.10.39+PM.png" data-image-dimensions="670x574" data-image-focal-point="0.5,0.5" alt="Screen Shot 2022-01-08 at 12.10.39 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661858926-DAN685GS03M71HW4LH7I/Screen+Shot+2022-01-08+at+12.10.39+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661740089-KEW3AR2VZCCKF7GRC5FQ/McD+bakery+for+app+9-25.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661740089-KEW3AR2VZCCKF7GRC5FQ/McD+bakery+for+app+9-25.png" data-image-dimensions="1552x1558" data-image-focal-point="0.5,0.5" alt="McD bakery for app 9-25.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661740089-KEW3AR2VZCCKF7GRC5FQ/McD+bakery+for+app+9-25.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/ghx/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">GHX</h2>
+          
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660633024-NP2HD9QKZ13YVTIPD2DF/Screen+Shot+2022-01-08+at+11.49.25+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660633024-NP2HD9QKZ13YVTIPD2DF/Screen+Shot+2022-01-08+at+11.49.25+AM.png" data-image-dimensions="442x346" data-image-focal-point="0.5,0.5" alt="Screen Shot 2022-01-08 at 11.49.25 AM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660633024-NP2HD9QKZ13YVTIPD2DF/Screen+Shot+2022-01-08+at+11.49.25+AM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659875143-K7Q0XHUWFTOUDDY6H02O/GHX+1.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659875143-K7Q0XHUWFTOUDDY6H02O/GHX+1.png" data-image-dimensions="1864x1306" data-image-focal-point="0.5,0.5" alt="GHX 1.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659875143-K7Q0XHUWFTOUDDY6H02O/GHX+1.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659853148-2CE3GJN54F498QT08DZA/GHX+3.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659853148-2CE3GJN54F498QT08DZA/GHX+3.png" data-image-dimensions="1752x646" data-image-focal-point="0.5,0.5" alt="GHX 3.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659853148-2CE3GJN54F498QT08DZA/GHX+3.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659865893-KIWUMKPC03IU1TFMT9GI/GHX+2.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659865893-KIWUMKPC03IU1TFMT9GI/GHX+2.png" data-image-dimensions="1740x1068" data-image-focal-point="0.5,0.5" alt="GHX 2.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659865893-KIWUMKPC03IU1TFMT9GI/GHX+2.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659800141-AGDRB274CDPL1WEOPYZS/Screen+Shot+2022-01-08+at+11.35.16+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659800141-AGDRB274CDPL1WEOPYZS/Screen+Shot+2022-01-08+at+11.35.16+AM.png" data-image-dimensions="1754x650" data-image-focal-point="0.5,0.5" alt="Screen Shot 2022-01-08 at 11.35.16 AM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641659800141-AGDRB274CDPL1WEOPYZS/Screen+Shot+2022-01-08+at+11.35.16+AM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660045037-R0491UUQ0HSWGMWYZN3Z/Screen+Shot+2022-01-08+at+11.40.31+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660045037-R0491UUQ0HSWGMWYZN3Z/Screen+Shot+2022-01-08+at+11.40.31+AM.png" data-image-dimensions="1480x620" data-image-focal-point="0.5,0.5" alt="Screen Shot 2022-01-08 at 11.40.31 AM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660045037-R0491UUQ0HSWGMWYZN3Z/Screen+Shot+2022-01-08+at+11.40.31+AM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/weg/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">SunTrust Bank</h2>
+          <div class="project-description"><p style="white-space: pre-wrap;">If you have several different accounts at your bank, you're less likely to leave it. But most importantly, if you use the bank's online bill payment service, you're REALLY not likely to leave. (You'd have to be really, really upset!) </p><p style="white-space: pre-wrap;">SunTrust Bank noticed that they had a lower rate of online bill pay use among small business people than among personal banking customers and set a goal of increasing it. This activation kit made that happen: an 11% increase in use after six months. It did so by giving small business customers a choice of easy ways to get started paying their bills online, with a Quick Start Guide,&nbsp;a User's Guide and a DVD walkthrough.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464053759080-MO0YP5OOGFSS9VTL3MHG/ST+acct+kit.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464053759080-MO0YP5OOGFSS9VTL3MHG/ST+acct+kit.jpg" data-image-dimensions="6600x5100" data-image-focal-point="0.5,0.5" alt="ST acct kit.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464053759080-MO0YP5OOGFSS9VTL3MHG/ST+acct+kit.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/habitat-for-humanity/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Habitat for Humanity</h2>
+          <div class="project-description"><p class="" style="white-space:pre-wrap;">Habitat for Humanity International’s annual calendar is highly anticipated by donors and friends of this world-class nonprofit. Habitat for helps people all over the world build affordable homes so their children can grow up in safe, decent places. </p><p class="" style="white-space:pre-wrap;">I developed the concept for Habitat’s 2020 calendar to communicate that a home is more than just a home — it touches everything in a child’s life. A home opens doors to education, because a child can go to the same school year after year. It opens doors to stability, because a family can put down roots and make friends. It opens doors to prosperity, because affordable housing means more money to spend on food, clothing and other essentials. And so a home can change the world for a family.</p><p class="" style="white-space:pre-wrap;">I interviewed and wrote the stories of new Habitat homeowners, including families in Puerto Rico who lost their homes to Hurricane Maria and a veteran in Texas who lost his home to Hurricane Harvey. I believe in storytelling, because nothing else can make experiences and benefits and outcomes real for people.</p><p class="" style="white-space:pre-wrap;">I also wrote and edited fund-raising direct mail letters to achieve a closer fit with Habitat’s brand personality.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565383960243-VC0EQNTEL2AYDGB217NH/2020+calendar+cover.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565383960243-VC0EQNTEL2AYDGB217NH/2020+calendar+cover.png" data-image-dimensions="1179x908" data-image-focal-point="0.5,0.5" alt="2020 calendar cover.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565383960243-VC0EQNTEL2AYDGB217NH/2020+calendar+cover.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565383966220-SKUJ7CTUZXC4UVINR7FL/2020+calendar+p+2.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565383966220-SKUJ7CTUZXC4UVINR7FL/2020+calendar+p+2.png" data-image-dimensions="1182x910" data-image-focal-point="0.5,0.5" alt="2020 calendar p 2.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565383966220-SKUJ7CTUZXC4UVINR7FL/2020+calendar+p+2.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394486-D9FTINYHT79M9T75PWCA/Screen+Shot+2019-06-04+at+10.53.41+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394486-D9FTINYHT79M9T75PWCA/Screen+Shot+2019-06-04+at+10.53.41+AM.png" data-image-dimensions="678x1088" data-image-focal-point="0.5,0.5" alt="Screen Shot 2019-06-04 at 10.53.41 AM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394486-D9FTINYHT79M9T75PWCA/Screen+Shot+2019-06-04+at+10.53.41+AM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394385-AAT5ZRPRW2C4HWD5QPU9/Screen+Shot+2019-06-04+at+10.53.59+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394385-AAT5ZRPRW2C4HWD5QPU9/Screen+Shot+2019-06-04+at+10.53.59+AM.png" data-image-dimensions="618x1045" data-image-focal-point="0.5,0.5" alt="Screen Shot 2019-06-04 at 10.53.59 AM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394385-AAT5ZRPRW2C4HWD5QPU9/Screen+Shot+2019-06-04+at+10.53.59+AM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394728-7L8F8SAR02AFN67HNRGF/Screen+Shot+2019-06-04+at+10.54.29+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394728-7L8F8SAR02AFN67HNRGF/Screen+Shot+2019-06-04+at+10.54.29+AM.png" data-image-dimensions="614x318" data-image-focal-point="0.5,0.5" alt="Screen Shot 2019-06-04 at 10.54.29 AM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660394728-7L8F8SAR02AFN67HNRGF/Screen+Shot+2019-06-04+at+10.54.29+AM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660395080-XFQQOOF4DH67C7V1YEGF/Screen+Shot+2019-06-04+at+10.54.20+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660395080-XFQQOOF4DH67C7V1YEGF/Screen+Shot+2019-06-04+at+10.54.20+AM.png" data-image-dimensions="616x1046" data-image-focal-point="0.5,0.5" alt="Screen Shot 2019-06-04 at 10.54.20 AM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660395080-XFQQOOF4DH67C7V1YEGF/Screen+Shot+2019-06-04+at+10.54.20+AM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660717981-5SWJ8TGZ3ANIMBN8SVMN/Sammy+story.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660717981-5SWJ8TGZ3ANIMBN8SVMN/Sammy+story.png" data-image-dimensions="821x727" data-image-focal-point="0.5,0.5" alt="Sammy story.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1559660717981-5SWJ8TGZ3ANIMBN8SVMN/Sammy+story.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/berkley-one/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Berkley One</h2>
+          <div class="project-description"><p>I recently led creative development for berkleyone.com, a new website for the launch of a new luxury insurance brand, supported by a social media campaign on LinkedIn and Twitter. I was ACD/copywriter on the projects for Anthem Worldwide; the design and UX were done by Punchkick out of Chicago.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406390502-KGCAXA9OO4Z0SJI6JO6I/Screen+Shot+2017-12-27+at+3.21.27+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406390502-KGCAXA9OO4Z0SJI6JO6I/Screen+Shot+2017-12-27+at+3.21.27+PM.png" data-image-dimensions="2500x1299" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.21.27 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406390502-KGCAXA9OO4Z0SJI6JO6I/Screen+Shot+2017-12-27+at+3.21.27+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406389552-A3WRG0KY0ET53QUAYMI7/Screen+Shot+2017-12-27+at+3.21.51+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406389552-A3WRG0KY0ET53QUAYMI7/Screen+Shot+2017-12-27+at+3.21.51+PM.png" data-image-dimensions="2500x1300" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.21.51 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406389552-A3WRG0KY0ET53QUAYMI7/Screen+Shot+2017-12-27+at+3.21.51+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406403405-9Q2OPXAQV7YSPL911CBC/Screen+Shot+2017-12-27+at+3.22.03+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406403405-9Q2OPXAQV7YSPL911CBC/Screen+Shot+2017-12-27+at+3.22.03+PM.png" data-image-dimensions="2500x1295" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.22.03 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406403405-9Q2OPXAQV7YSPL911CBC/Screen+Shot+2017-12-27+at+3.22.03+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406404851-KPWYC94U23COJ6IIM6TJ/Screen+Shot+2017-12-27+at+3.22.13+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406404851-KPWYC94U23COJ6IIM6TJ/Screen+Shot+2017-12-27+at+3.22.13+PM.png" data-image-dimensions="2500x1305" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.22.13 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406404851-KPWYC94U23COJ6IIM6TJ/Screen+Shot+2017-12-27+at+3.22.13+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406412565-QH97Z5WLWRA00MKOMDM0/Screen+Shot+2017-12-27+at+3.22.43+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406412565-QH97Z5WLWRA00MKOMDM0/Screen+Shot+2017-12-27+at+3.22.43+PM.png" data-image-dimensions="2496x1474" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.22.43 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406412565-QH97Z5WLWRA00MKOMDM0/Screen+Shot+2017-12-27+at+3.22.43+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406412539-ZMU78JYB9LRC7WYA9LIN/Screen+Shot+2017-12-27+at+3.23.03+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406412539-ZMU78JYB9LRC7WYA9LIN/Screen+Shot+2017-12-27+at+3.23.03+PM.png" data-image-dimensions="2498x1468" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.23.03 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406412539-ZMU78JYB9LRC7WYA9LIN/Screen+Shot+2017-12-27+at+3.23.03+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406423804-CTV9AUK9CF8WSULATQTM/Screen+Shot+2017-12-27+at+3.24.36+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406423804-CTV9AUK9CF8WSULATQTM/Screen+Shot+2017-12-27+at+3.24.36+PM.png" data-image-dimensions="2484x1464" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.24.36 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406423804-CTV9AUK9CF8WSULATQTM/Screen+Shot+2017-12-27+at+3.24.36+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406422427-RY6PJF8UGM2MUOT6V3K2/Screen+Shot+2017-12-27+at+3.25.46+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406422427-RY6PJF8UGM2MUOT6V3K2/Screen+Shot+2017-12-27+at+3.25.46+PM.png" data-image-dimensions="2480x1462" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.25.46 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406422427-RY6PJF8UGM2MUOT6V3K2/Screen+Shot+2017-12-27+at+3.25.46+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406427298-9DMPEVF3RHVPKP9H8H2W/Screen+Shot+2017-12-27+at+3.25.58+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406427298-9DMPEVF3RHVPKP9H8H2W/Screen+Shot+2017-12-27+at+3.25.58+PM.png" data-image-dimensions="2484x1472" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.25.58 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406427298-9DMPEVF3RHVPKP9H8H2W/Screen+Shot+2017-12-27+at+3.25.58+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023981908-QAWL0WTIL39O1FWAF51A/Screen+Shot+2018-01-26+at+10.30.13+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023981908-QAWL0WTIL39O1FWAF51A/Screen+Shot+2018-01-26+at+10.30.13+PM.png" data-image-dimensions="1080x1550" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.30.13 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023981908-QAWL0WTIL39O1FWAF51A/Screen+Shot+2018-01-26+at+10.30.13+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023963565-LSU4DVMQBRVF7VZIBVO4/Screen+Shot+2018-01-26+at+10.30.42+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023963565-LSU4DVMQBRVF7VZIBVO4/Screen+Shot+2018-01-26+at+10.30.42+PM.png" data-image-dimensions="754x746" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.30.42 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023963565-LSU4DVMQBRVF7VZIBVO4/Screen+Shot+2018-01-26+at+10.30.42+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023965746-TRQL0401BF4I3Q29Q8WC/Screen+Shot+2018-01-26+at+10.30.52+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023965746-TRQL0401BF4I3Q29Q8WC/Screen+Shot+2018-01-26+at+10.30.52+PM.png" data-image-dimensions="752x780" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.30.52 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023965746-TRQL0401BF4I3Q29Q8WC/Screen+Shot+2018-01-26+at+10.30.52+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023967114-TQSRHSV5EXCRJYADXC9O/Screen+Shot+2018-01-26+at+10.31.08+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023967114-TQSRHSV5EXCRJYADXC9O/Screen+Shot+2018-01-26+at+10.31.08+PM.png" data-image-dimensions="752x782" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.31.08 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023967114-TQSRHSV5EXCRJYADXC9O/Screen+Shot+2018-01-26+at+10.31.08+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023968234-WOBH6ET0G2MWOGF8W3V4/Screen+Shot+2018-01-26+at+10.31.17+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023968234-WOBH6ET0G2MWOGF8W3V4/Screen+Shot+2018-01-26+at+10.31.17+PM.png" data-image-dimensions="748x698" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.31.17 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023968234-WOBH6ET0G2MWOGF8W3V4/Screen+Shot+2018-01-26+at+10.31.17+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023976404-IRHYUKPWYZW14L10PW0Q/Screen+Shot+2018-01-26+at+10.30.32+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023976404-IRHYUKPWYZW14L10PW0Q/Screen+Shot+2018-01-26+at+10.30.32+PM.png" data-image-dimensions="746x714" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.30.32 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517023976404-IRHYUKPWYZW14L10PW0Q/Screen+Shot+2018-01-26+at+10.30.32+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024180730-KQO8GWATJYO2CZPURRGH/Screen+Shot+2018-01-26+at+10.35.17+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024180730-KQO8GWATJYO2CZPURRGH/Screen+Shot+2018-01-26+at+10.35.17+PM.png" data-image-dimensions="1204x976" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.35.17 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024180730-KQO8GWATJYO2CZPURRGH/Screen+Shot+2018-01-26+at+10.35.17+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024250247-OPUC86U39KI6A0O58H2X/Screen+Shot+2018-01-26+at+10.36.52+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024250247-OPUC86U39KI6A0O58H2X/Screen+Shot+2018-01-26+at+10.36.52+PM.png" data-image-dimensions="2500x1383" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.36.52 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024250247-OPUC86U39KI6A0O58H2X/Screen+Shot+2018-01-26+at+10.36.52+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024185282-VL70REGDDGLLCXKRJ4P7/Screen+Shot+2018-01-26+at+10.35.28+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024185282-VL70REGDDGLLCXKRJ4P7/Screen+Shot+2018-01-26+at+10.35.28+PM.png" data-image-dimensions="1204x798" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.35.28 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024185282-VL70REGDDGLLCXKRJ4P7/Screen+Shot+2018-01-26+at+10.35.28+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024270485-Z37ZWO8L9GMD2669HH9O/Screen+Shot+2018-01-26+at+10.35.08+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024270485-Z37ZWO8L9GMD2669HH9O/Screen+Shot+2018-01-26+at+10.35.08+PM.png" data-image-dimensions="1202x794" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.35.08 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024270485-Z37ZWO8L9GMD2669HH9O/Screen+Shot+2018-01-26+at+10.35.08+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024284310-SDQXJHOAX567GFNUPZEZ/Screen+Shot+2018-01-26+at+10.34.59+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024284310-SDQXJHOAX567GFNUPZEZ/Screen+Shot+2018-01-26+at+10.34.59+PM.png" data-image-dimensions="1208x796" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.34.59 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024284310-SDQXJHOAX567GFNUPZEZ/Screen+Shot+2018-01-26+at+10.34.59+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024538527-3LGPATRQ9TU88J5W33OZ/Screen+Shot+2018-01-26+at+10.31.44+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024538527-3LGPATRQ9TU88J5W33OZ/Screen+Shot+2018-01-26+at+10.31.44+PM.png" data-image-dimensions="752x702" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.31.44 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517024538527-3LGPATRQ9TU88J5W33OZ/Screen+Shot+2018-01-26+at+10.31.44+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/chickfila/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Chick-fil-A</h2>
+          <div class="project-description"><p><strong>BRAND STORYTELLING</strong><br />The late Truett Cathy was more than the inventor of the quick-serve chicken sandwich. He was more than the founder of a successful chain of restaurants. He was also a raconteur who inspired thousands with his enthusiasm and warm, giving approach to people. Here are some fresh takes on some of his favorite oral tales.&nbsp;</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026328855-IOXHP6TLZ7DX2A83PUYA/Truetts.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026328855-IOXHP6TLZ7DX2A83PUYA/Truetts.png" data-image-dimensions="502x376" data-image-focal-point="0.5,0.5" alt="Truetts.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026328855-IOXHP6TLZ7DX2A83PUYA/Truetts.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026069342-NQBMHLENTFFCWZQ16YSQ/Screen+Shot+2018-01-26+at+10.56.08+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026069342-NQBMHLENTFFCWZQ16YSQ/Screen+Shot+2018-01-26+at+10.56.08+PM.png" data-image-dimensions="974x1324" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 10.56.08 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026069342-NQBMHLENTFFCWZQ16YSQ/Screen+Shot+2018-01-26+at+10.56.08+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026257429-2N7V89X5PP51SC0O59WE/Wagon.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026257429-2N7V89X5PP51SC0O59WE/Wagon.png" data-image-dimensions="842x1296" data-image-focal-point="0.5,0.5" alt="Wagon.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026257429-2N7V89X5PP51SC0O59WE/Wagon.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026748465-7UT7Q3U8QLXUOWO5B4J2/Screen+Shot+2018-01-26+at+11.18.41+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026748465-7UT7Q3U8QLXUOWO5B4J2/Screen+Shot+2018-01-26+at+11.18.41+PM.png" data-image-dimensions="632x1082" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 11.18.41 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026748465-7UT7Q3U8QLXUOWO5B4J2/Screen+Shot+2018-01-26+at+11.18.41+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/medtronicdiabetes/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">MiniMed Insulin Pump Systems</h2>
+          <div class="project-description"><p>Medtronic, the company that introduced the cardiac pacemaker, is also the leader in medical devices for people living with diabetes. But until the introduction of its MiniMed® 530G pump system with insulin suspension technology, the company had never really spoken directly to patients. The job of this campaign was to show that a MiniMed system can help people live vital, active lives – without having to worry about their glucose levels.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463681044485-6ZX6F3WE0F1FE69VZA8I/MEDTRONIC_YES_brochure_06172015-1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463681044485-6ZX6F3WE0F1FE69VZA8I/MEDTRONIC_YES_brochure_06172015-1.jpg" data-image-dimensions="3300x2550" data-image-focal-point="-0.004032258064516129,0.0" alt="MEDTRONIC_YES_brochure_06172015-1.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463681044485-6ZX6F3WE0F1FE69VZA8I/MEDTRONIC_YES_brochure_06172015-1.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463681173047-IMB1C0K8E3FYIXLWCXLQ/MEDTRONIC_YES_brochure_06172015-2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463681173047-IMB1C0K8E3FYIXLWCXLQ/MEDTRONIC_YES_brochure_06172015-2.jpg" data-image-dimensions="6546x2550" data-image-focal-point="0.0,0.8782552083333334" alt="MEDTRONIC_YES_brochure_06172015-2.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463681173047-IMB1C0K8E3FYIXLWCXLQ/MEDTRONIC_YES_brochure_06172015-2.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1537988188246-94EEE9V1C8I6REN03Y2B/Screen+Shot+2018-09-26+at+2.45.11+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1537988188246-94EEE9V1C8I6REN03Y2B/Screen+Shot+2018-09-26+at+2.45.11+PM.png" data-image-dimensions="2500x1545" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-09-26 at 2.45.11 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1537988188246-94EEE9V1C8I6REN03Y2B/Screen+Shot+2018-09-26+at+2.45.11+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684189208-KNDEEI648DWK9Q5HFGE2/Guardian_Connect_Patient_Brochure_01292015_v4A-1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684189208-KNDEEI648DWK9Q5HFGE2/Guardian_Connect_Patient_Brochure_01292015_v4A-1.jpg" data-image-dimensions="2480x3507" data-image-focal-point="0.5,0.5" alt="Guardian_Connect_Patient_Brochure_01292015_v4A-1.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684189208-KNDEEI648DWK9Q5HFGE2/Guardian_Connect_Patient_Brochure_01292015_v4A-1.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463683459378-MYZI58T4R20XFUHBI0H1/digi+530.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463683459378-MYZI58T4R20XFUHBI0H1/digi+530.jpg" data-image-dimensions="870x446" data-image-focal-point="0.5,0.5" alt="digi 530.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463683459378-MYZI58T4R20XFUHBI0H1/digi+530.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464785198014-G8L32XZSSQPAO89I3IDA/LANDINGPAGE_MTD_Page_1b.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464785198014-G8L32XZSSQPAO89I3IDA/LANDINGPAGE_MTD_Page_1b.jpg" data-image-dimensions="2490x4500" data-image-focal-point="0.5,0.5" alt="LANDINGPAGE_MTD_Page_1b.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464785198014-G8L32XZSSQPAO89I3IDA/LANDINGPAGE_MTD_Page_1b.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684581087-ATQO71X0UDBOI29TTBHI/Medtronic_Poster_3_Page_3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684581087-ATQO71X0UDBOI29TTBHI/Medtronic_Poster_3_Page_3.jpg" data-image-dimensions="4800x7200" data-image-focal-point="0.5,0.5" alt="Medtronic_Poster_3_Page_3.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684581087-ATQO71X0UDBOI29TTBHI/Medtronic_Poster_3_Page_3.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684287215-4O3P6OIBI32P7RWH6W46/530+bro+cover.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684287215-4O3P6OIBI32P7RWH6W46/530+bro+cover.jpg" data-image-dimensions="3300x2460" data-image-focal-point="0.5,0.5" alt="530 bro cover.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684287215-4O3P6OIBI32P7RWH6W46/530+bro+cover.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684406821-R8WWNBGZ752E8GYVRC5P/inside.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684406821-R8WWNBGZ752E8GYVRC5P/inside.jpg" data-image-dimensions="919x712" data-image-focal-point="0.5,0.5" alt="inside.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463684406821-R8WWNBGZ752E8GYVRC5P/inside.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/nacht/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Citizens Bank</h2>
+          <div class="project-description"><p>Banking, at its best, is about what people want. What they want in the deepest part of their hearts. To have a home that is a safe, comfortable place to live and raise a family. (A place where the landlord can't raise your rent or tell you you can't have a Doberman Pinscher or paint the wall anything but white.) To send your child to college or go to college yourself. To dream about a future where you can retire without fear or worry. That's what Citizens Bank, one of the oldest banks in America, is really about. I believe that. It was my job for 4-1/2 years to help them tell their story.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464749077268-2FDB8HVHG9ZQFMFQGNGY/manifesto.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464749077268-2FDB8HVHG9ZQFMFQGNGY/manifesto.jpg" data-image-dimensions="1650x2205" data-image-focal-point="-0.005376344086021506,-0.004032258064516129" alt="manifesto.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464749077268-2FDB8HVHG9ZQFMFQGNGY/manifesto.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958383171-CR9KPEQDD4GU9OSSISJW/Miller+Zell+investments+spot_Page_04.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958383171-CR9KPEQDD4GU9OSSISJW/Miller+Zell+investments+spot_Page_04.jpg" data-image-dimensions="2343x1811" data-image-focal-point="0.5,0.5" alt="Miller Zell investments spot_Page_04.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958383171-CR9KPEQDD4GU9OSSISJW/Miller+Zell+investments+spot_Page_04.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464058132430-8JQJ8GSO6M9KSHB1ZQ0N/Citizens+Bank+HELOC.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464058132430-8JQJ8GSO6M9KSHB1ZQ0N/Citizens+Bank+HELOC.jpg" data-image-dimensions="2400x990" data-image-focal-point="0.5,0.5" alt="Citizens Bank HELOC.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464058132430-8JQJ8GSO6M9KSHB1ZQ0N/Citizens+Bank+HELOC.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958659857-2WCFIME4QC7XN2URLRJB/Citizens+Bank+POP+sml_Page_5.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958659857-2WCFIME4QC7XN2URLRJB/Citizens+Bank+POP+sml_Page_5.jpg" data-image-dimensions="1518x1071" data-image-focal-point="0.5,0.5" alt="Citizens Bank POP sml_Page_5.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958659857-2WCFIME4QC7XN2URLRJB/Citizens+Bank+POP+sml_Page_5.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958393792-2THJQANPK3M51VPEMYO4/Citizens+Bank+savings+spot.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958393792-2THJQANPK3M51VPEMYO4/Citizens+Bank+savings+spot.jpg" data-image-dimensions="3263x2484" data-image-focal-point="0.5,0.5" alt="Citizens Bank savings spot.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463958393792-2THJQANPK3M51VPEMYO4/Citizens+Bank+savings+spot.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/rr-resorts/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">R&R Resorts</h2>
+          <div class="project-description"><p class="" style="white-space:pre-wrap;">Retreat planning guides and a DYI yoga retreat email campaign designed to increase bookings.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432765344-7UJAD7WEPC4A7Y9ZODTY/Screen+Shot+2020-03-05+at+1.01.39+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432765344-7UJAD7WEPC4A7Y9ZODTY/Screen+Shot+2020-03-05+at+1.01.39+PM.png" data-image-dimensions="699x905" data-image-focal-point="0.5,0.5" alt="Screen Shot 2020-03-05 at 1.01.39 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432765344-7UJAD7WEPC4A7Y9ZODTY/Screen+Shot+2020-03-05+at+1.01.39+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432763636-YYULLGVM6RIO2RSYSBWN/Screen+Shot+2020-03-05+at+1.01.52+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432763636-YYULLGVM6RIO2RSYSBWN/Screen+Shot+2020-03-05+at+1.01.52+PM.png" data-image-dimensions="702x908" data-image-focal-point="0.5,0.5" alt="Screen Shot 2020-03-05 at 1.01.52 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432763636-YYULLGVM6RIO2RSYSBWN/Screen+Shot+2020-03-05+at+1.01.52+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432764418-Y82V8NHOUX59FVM3JHWW/Screen+Shot+2020-03-05+at+1.02.06+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432764418-Y82V8NHOUX59FVM3JHWW/Screen+Shot+2020-03-05+at+1.02.06+PM.png" data-image-dimensions="702x908" data-image-focal-point="0.5,0.5" alt="Screen Shot 2020-03-05 at 1.02.06 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432764418-Y82V8NHOUX59FVM3JHWW/Screen+Shot+2020-03-05+at+1.02.06+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432780921-MCXWFW4FO0OKGG6MUE28/Screen+Shot+2020-03-05+at+1.05.45+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432780921-MCXWFW4FO0OKGG6MUE28/Screen+Shot+2020-03-05+at+1.05.45+PM.png" data-image-dimensions="705x756" data-image-focal-point="0.5,0.5" alt="Screen Shot 2020-03-05 at 1.05.45 PM.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432780921-MCXWFW4FO0OKGG6MUE28/Screen+Shot+2020-03-05+at+1.05.45+PM.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/georgia-400-center/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Taylor & Mathis</h2>
+          <div class="project-description"><p>Atlanta's commercial real estate market was hot. On-fire hot. And so the people at Georgia 400 Center knew they needed to go big to compete in lease sales. They also knew that, once a broker brought a customer to visit their property, the odds that they would decide to lease space went up dramatically. This series of direct mail pieces supported a program that helped them meet their leasing goals by giving brokers cold, hard cash just for bringing their customers to visit the center.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736025743-E7UBVBXQ7HYV7IS4VEHM/GA4001.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736025743-E7UBVBXQ7HYV7IS4VEHM/GA4001.jpg" data-image-dimensions="1500x2100" data-image-focal-point="0.5,0.5" alt="GA4001.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736025743-E7UBVBXQ7HYV7IS4VEHM/GA4001.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736039717-5KZWCTZZGHTWT3QP4XYU/GA4001b.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736039717-5KZWCTZZGHTWT3QP4XYU/GA4001b.jpg" data-image-dimensions="3000x2100" data-image-focal-point="0.5,0.5" alt="GA4001b.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736039717-5KZWCTZZGHTWT3QP4XYU/GA4001b.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736074775-HBGT5MBC35RR2N15TSUN/GA4003.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736074775-HBGT5MBC35RR2N15TSUN/GA4003.jpg" data-image-dimensions="1788x1788" data-image-focal-point="0.5,0.5" alt="GA4003.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736074775-HBGT5MBC35RR2N15TSUN/GA4003.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464799215596-ZKSCSXJ0KRENFBOO0E1L/GA4002.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464799215596-ZKSCSXJ0KRENFBOO0E1L/GA4002.jpg" data-image-dimensions="1480x1496" data-image-focal-point="0.5,0.5" alt="GA4002.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464799215596-ZKSCSXJ0KRENFBOO0E1L/GA4002.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736068822-PQ065NU037Q85WTSFPPJ/GA4002b.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736068822-PQ065NU037Q85WTSFPPJ/GA4002b.jpg" data-image-dimensions="2980x1488" data-image-focal-point="0.5,0.5" alt="GA4002b.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736068822-PQ065NU037Q85WTSFPPJ/GA4002b.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736079240-M9CFS5JH1XY8UTCYNKHL/GA4004.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736079240-M9CFS5JH1XY8UTCYNKHL/GA4004.jpg" data-image-dimensions="2504x1184" data-image-focal-point="0.5,0.5" alt="GA4004.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736079240-M9CFS5JH1XY8UTCYNKHL/GA4004.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736090788-47Q9R389FHQXHK43VDJT/GA4004b.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736090788-47Q9R389FHQXHK43VDJT/GA4004b.jpg" data-image-dimensions="2250x1050" data-image-focal-point="0.5,0.5" alt="GA4004b.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736090788-47Q9R389FHQXHK43VDJT/GA4004b.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/new-gallery-2/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">SunTrust Investments</h2>
+          <div class="project-description"><p>Anyone you talk with about financial planning will tell you it's important to limit your risk by diversifying your investments. No argument here.&nbsp;But it's possible to think you're diversified when you actually aren't. That's because you may own, for example, several different mutual funds, even at several different banks and investment firms. But those mutual funds may be invested in many of the same things. That's where SunTrust Investments ClearSight technology comes in.&nbsp;It drills down into the fine details of ALL your investments. So you can know what you're really looking at when you look at your portfolio – and your future. This series of ads in investment trade pubs sought to make this point clear for investment advisors and CPAs, asking them to advise their clients to talk with a SunTrust advisor about ClearSight technology.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748158217-ALW9QZ5SC1R88X4V4RTB/ST+0117+ad+1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748158217-ALW9QZ5SC1R88X4V4RTB/ST+0117+ad+1.jpg" data-image-dimensions="2550x3300" data-image-focal-point="0.5,0.5" alt="ST 0117 ad 1.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748158217-ALW9QZ5SC1R88X4V4RTB/ST+0117+ad+1.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748176279-NE1JKLERJX9CG0Q2X4AX/ST+0117+ad+2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748176279-NE1JKLERJX9CG0Q2X4AX/ST+0117+ad+2.jpg" data-image-dimensions="2550x3300" data-image-focal-point="0.5,0.5" alt="ST 0117 ad 2.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748176279-NE1JKLERJX9CG0Q2X4AX/ST+0117+ad+2.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748186007-77A89Y6KESMWD6XUSE8B/ST+0117+ad+3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748186007-77A89Y6KESMWD6XUSE8B/ST+0117+ad+3.jpg" data-image-dimensions="2550x3300" data-image-focal-point="0.5,0.5" alt="ST 0117 ad 3.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748186007-77A89Y6KESMWD6XUSE8B/ST+0117+ad+3.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748192768-NDKDLMJ1C9Z8GOE9K306/ST+0117+ads+4.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748192768-NDKDLMJ1C9Z8GOE9K306/ST+0117+ads+4.jpg" data-image-dimensions="2550x3300" data-image-focal-point="0.5,0.5" alt="ST 0117 ads 4.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748192768-NDKDLMJ1C9Z8GOE9K306/ST+0117+ads+4.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798056118-9KTU9I1D8NA6D60W5VAM/Clearsight+Brochure+cover.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798056118-9KTU9I1D8NA6D60W5VAM/Clearsight+Brochure+cover.jpg" data-image-dimensions="3300x2550" data-image-focal-point="0.5,0.5" alt="Clearsight Brochure cover.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798056118-9KTU9I1D8NA6D60W5VAM/Clearsight+Brochure+cover.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798070726-TMN4CA0RMFJ035FMPC73/Clearsight+Brochure2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798070726-TMN4CA0RMFJ035FMPC73/Clearsight+Brochure2.jpg" data-image-dimensions="3300x2550" data-image-focal-point="0.5,0.5" alt="Clearsight Brochure2.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798070726-TMN4CA0RMFJ035FMPC73/Clearsight+Brochure2.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798093932-J9RREHX2EXMGNDCKG478/Clearsight+Brochure-3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798093932-J9RREHX2EXMGNDCKG478/Clearsight+Brochure-3.jpg" data-image-dimensions="3166x2550" data-image-focal-point="0.5,0.5" alt="Clearsight Brochure-3.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464798093932-J9RREHX2EXMGNDCKG478/Clearsight+Brochure-3.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797387001-5UV6I331GY66EMQ7B432/CO+portfolio+Suntrust_Page_02.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797387001-5UV6I331GY66EMQ7B432/CO+portfolio+Suntrust_Page_02.jpg" data-image-dimensions="1650x1275" data-image-focal-point="0.5,0.5" alt="CO portfolio Suntrust_Page_02.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797387001-5UV6I331GY66EMQ7B432/CO+portfolio+Suntrust_Page_02.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797401668-EAV1LGXCKPQNEROZEMCH/CO+portfolio+Suntrust_Page_03.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797401668-EAV1LGXCKPQNEROZEMCH/CO+portfolio+Suntrust_Page_03.jpg" data-image-dimensions="3300x1275" data-image-focal-point="0.5,0.5" alt="CO portfolio Suntrust_Page_03.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797401668-EAV1LGXCKPQNEROZEMCH/CO+portfolio+Suntrust_Page_03.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797431373-0A0W87AXEFGEJ4I173R1/CO+portfolio+Suntrust_Page_04.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797431373-0A0W87AXEFGEJ4I173R1/CO+portfolio+Suntrust_Page_04.jpg" data-image-dimensions="3300x1275" data-image-focal-point="0.5,0.5" alt="CO portfolio Suntrust_Page_04.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464797431373-0A0W87AXEFGEJ4I173R1/CO+portfolio+Suntrust_Page_04.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/weite/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Mitsubishi Electric HVAC</h2>
+          <div class="project-description"><p>Most people don't like to think much about heating and cooling systems. They do, however, like to be comfortable at home. And, of course, to save money. Some people even like to feel like they're treading as lightly as possible on the planet. So though product features are important, the compelling message is almost always an emotional one.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686952022-OYSXFNXTH5UG0N9O7RJ5/Mr+Slim+green.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686952022-OYSXFNXTH5UG0N9O7RJ5/Mr+Slim+green.jpg" data-image-dimensions="2550x3150" data-image-focal-point="0.5,0.5" alt="Mr Slim green.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686952022-OYSXFNXTH5UG0N9O7RJ5/Mr+Slim+green.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686542567-UMX82Y3BROR3YJYUTQ2R/Mr+Slim+shiver.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686542567-UMX82Y3BROR3YJYUTQ2R/Mr+Slim+shiver.jpg" data-image-dimensions="1275x1575" data-image-focal-point="0.5,0.5" alt="Mr Slim shiver.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686542567-UMX82Y3BROR3YJYUTQ2R/Mr+Slim+shiver.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686783971-SWJDM5Y19DMI6DJOAFJC/ME+4118+Mr+Slim+Ad+Concept+8_06+copy.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686783971-SWJDM5Y19DMI6DJOAFJC/ME+4118+Mr+Slim+Ad+Concept+8_06+copy.jpg" data-image-dimensions="1275x1575" data-image-focal-point="0.5,0.5" alt="ME 4118 Mr Slim Ad Concept 8_06 copy.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686783971-SWJDM5Y19DMI6DJOAFJC/ME+4118+Mr+Slim+Ad+Concept+8_06+copy.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/gallerym/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">MÖLNLYCKE DRESSINGS</h2>
+          <div class="project-description"><p>A 12-page brochure for <span style="font-size:12.0pt">MÖLNLYCKE </span>dressings for the prevention of pressure ulcers in the hospital setting. For the Atanta design and communications firm ICON.&nbsp;<!--EndFragment--></p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889222902-ET14XH93F6Y89B5ZG3VA/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889222902-ET14XH93F6Y89B5ZG3VA/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_1.jpg" data-image-dimensions="1700x2200" data-image-focal-point="0.5,0.5" alt="Mölnlycke_pamphlet_WIP_v28_Page_1.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889222902-ET14XH93F6Y89B5ZG3VA/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_1.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889219568-B8GYJRY555H0ETWVXH3O/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889219568-B8GYJRY555H0ETWVXH3O/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_2.jpg" data-image-dimensions="2500x1618" data-image-focal-point="0.5,0.5" alt="Mölnlycke_pamphlet_WIP_v28_Page_2.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889219568-B8GYJRY555H0ETWVXH3O/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_2.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889217516-CDSSBYIRSBBDYHZHUZHO/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889217516-CDSSBYIRSBBDYHZHUZHO/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_3.jpg" data-image-dimensions="2500x1618" data-image-focal-point="0.5,0.5" alt="Mölnlycke_pamphlet_WIP_v28_Page_3.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889217516-CDSSBYIRSBBDYHZHUZHO/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_3.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889204949-KBH11JIB68RLGCL86T0W/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_4.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889204949-KBH11JIB68RLGCL86T0W/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_4.jpg" data-image-dimensions="1224x792" data-image-focal-point="0.5,0.5" alt="Mölnlycke_pamphlet_WIP_v28_Page_4.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889204949-KBH11JIB68RLGCL86T0W/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_4.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889205125-FSXZELJ834DYS6AUA80D/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_5.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889205125-FSXZELJ834DYS6AUA80D/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_5.jpg" data-image-dimensions="1224x792" data-image-focal-point="0.5,0.5" alt="Mölnlycke_pamphlet_WIP_v28_Page_5.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889205125-FSXZELJ834DYS6AUA80D/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_5.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889206517-OA10C0UQB1TI8437EN4N/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_6.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889206517-OA10C0UQB1TI8437EN4N/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_6.jpg" data-image-dimensions="1224x792" data-image-focal-point="0.5,0.5" alt="Mölnlycke_pamphlet_WIP_v28_Page_6.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482889206517-OA10C0UQB1TI8437EN4N/Mo%CC%88lnlycke_pamphlet_WIP_v28_Page_6.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/new-gallery-4/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Oregon Wire</h2>
+          <div class="project-description"><p class="" style="white-space:pre-wrap;"><a href="https://oregonwire.co/">https://oregonwire.co</a></p><p class="" style="white-space:pre-wrap;">New website with new brand positioning, with Atlanta agency Utoka</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629934844-BW10IMB3ISDIKGW2HR96/OW2.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629934844-BW10IMB3ISDIKGW2HR96/OW2.png" data-image-dimensions="1359x955" data-image-focal-point="0.5,0.5" alt="OW2.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629934844-BW10IMB3ISDIKGW2HR96/OW2.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629942245-FHQIEMMQ2M3XT7JVK986/OW1.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629942245-FHQIEMMQ2M3XT7JVK986/OW1.png" data-image-dimensions="1338x966" data-image-focal-point="0.5,0.5" alt="OW1.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629942245-FHQIEMMQ2M3XT7JVK986/OW1.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629935327-0WJZPN9PVL1ZA6F6B2JQ/OW3.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629935327-0WJZPN9PVL1ZA6F6B2JQ/OW3.png" data-image-dimensions="1345x965" data-image-focal-point="0.5,0.5" alt="OW3.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629935327-0WJZPN9PVL1ZA6F6B2JQ/OW3.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629941656-LFYBITD013OUOHPXG4O4/OW4.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629941656-LFYBITD013OUOHPXG4O4/OW4.png" data-image-dimensions="1339x965" data-image-focal-point="0.5,0.5" alt="OW4.png"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629941656-LFYBITD013OUOHPXG4O4/OW4.png?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/vergnugungspark/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">Arby's</h2>
+          <div class="project-description"><p>There was a story going around that all the great fast food locations were gone. That buying a franchise wasn't a great idea anymore. We put that story to rest for Arby's in the trade magazines by highlighting their new franchise opportunities in airports, shopping centers and colleges.&nbsp;</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137903233-RI4B0T21BYK3WLEUVZP4/Arbys+rest.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137903233-RI4B0T21BYK3WLEUVZP4/Arbys+rest.jpg" data-image-dimensions="764x389" data-image-focal-point="0.5,0.5" alt="Arbys rest.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137903233-RI4B0T21BYK3WLEUVZP4/Arbys+rest.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137754737-1LPTE89P3JXO2N2UEJA1/Arbys+still+room.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137754737-1LPTE89P3JXO2N2UEJA1/Arbys+still+room.jpg" data-image-dimensions="436x562" data-image-focal-point="0.5,0.5" alt="Arbys still room.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137754737-1LPTE89P3JXO2N2UEJA1/Arbys+still+room.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464799483228-K8EDOSX53IKSQ2C0M9EH/Arby%27s+hat.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464799483228-K8EDOSX53IKSQ2C0M9EH/Arby%27s+hat.jpg" data-image-dimensions="436x562" data-image-focal-point="0.5,0.5" alt="Arby's hat.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464799483228-K8EDOSX53IKSQ2C0M9EH/Arby%27s+hat.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+      <div class="project gallery-project" data-url="/gebaude-1/" >
+      
+        <div class="project-meta">
+          <h2 class="project-title">MICHELIN/BFG</h2>
+          <div class="project-description"><p>For Michelin Tire, a pop-up store for a dealer event featured a video on Bridgestone's racing heritage. Because when you understand the thinking and technology that goes into Michelin/BFG's highest-performance products, you begin to understand exactly how amazing their tires are for you and your family.</p></div>
+        </div>
+        <div class="image-list">
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055458954-NU3423DENP4C9VV8S54B/Michelin+racing+heritage+kiosk+script+11-29_Page_1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055458954-NU3423DENP4C9VV8S54B/Michelin+racing+heritage+kiosk+script+11-29_Page_1.jpg" data-image-dimensions="1700x2200" data-image-focal-point="0.5,0.5" alt="Michelin racing heritage kiosk script 11-29_Page_1.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055458954-NU3423DENP4C9VV8S54B/Michelin+racing+heritage+kiosk+script+11-29_Page_1.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055495334-7LT27LH4Q9XC6KVMHWQ7/Michelin+racing+heritage+kiosk+script+11-29_Page_2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055495334-7LT27LH4Q9XC6KVMHWQ7/Michelin+racing+heritage+kiosk+script+11-29_Page_2.jpg" data-image-dimensions="1700x2200" data-image-focal-point="0.5,0.5" alt="Michelin racing heritage kiosk script 11-29_Page_2.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055495334-7LT27LH4Q9XC6KVMHWQ7/Michelin+racing+heritage+kiosk+script+11-29_Page_2.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055530836-XPCH76D7NGVYCBUDYSGT/Michelin+racing+heritage+kiosk+script+11-29_Page_3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055530836-XPCH76D7NGVYCBUDYSGT/Michelin+racing+heritage+kiosk+script+11-29_Page_3.jpg" data-image-dimensions="1700x2200" data-image-focal-point="0.5,0.5" alt="Michelin racing heritage kiosk script 11-29_Page_3.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055530836-XPCH76D7NGVYCBUDYSGT/Michelin+racing+heritage+kiosk+script+11-29_Page_3.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+
+          <div class="image">
+            
+              <img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055576399-IV00G7HESS2N7CI8UCJP/Michelin+racing+heritage+kiosk+script+11-29_Page_4.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055576399-IV00G7HESS2N7CI8UCJP/Michelin+racing+heritage+kiosk+script+11-29_Page_4.jpg" data-image-dimensions="1700x2200" data-image-focal-point="0.5,0.5" alt="Michelin racing heritage kiosk script 11-29_Page_4.jpg"  class="loading" data-load="false"/>
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055576399-IV00G7HESS2N7CI8UCJP/Michelin+racing+heritage+kiosk+script+11-29_Page_4.jpg?format=500w"></noscript>
+            
+            
+            <div class="image-meta">
+              
+              
+            </div>
+          </div>
+        
+        </div>
+      
+      </div>
+    
+  
+
+  <div class="project-controls">
+    <div>
+      <div id="projectNav"><span class="prev-project">prev</span> / <span class="next-project">next</span></div>
+      <a href="#">Back to Work</a>
+    </div>
+  </div>
+
+</div>
+
+
+
+<div id="projectThumbs" >
+  <div class="wrapper">
+    
+      
+        <a class="project" href="/mcdonalds/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661858926-DAN685GS03M71HW4LH7I/Screen+Shot+2022-01-08+at+12.10.39+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661858926-DAN685GS03M71HW4LH7I/Screen+Shot+2022-01-08+at+12.10.39+PM.png" data-image-dimensions="670x574" data-image-focal-point="0.5,0.5" alt=""  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641661858926-DAN685GS03M71HW4LH7I/Screen+Shot+2022-01-08+at+12.10.39+PM.png?format=500w"></noscript></div></div><div class="project-item-count">2</div></div>
+            <div class="project-title">McDonalds</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/ghx/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660633024-NP2HD9QKZ13YVTIPD2DF/Screen+Shot+2022-01-08+at+11.49.25+AM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660633024-NP2HD9QKZ13YVTIPD2DF/Screen+Shot+2022-01-08+at+11.49.25+AM.png" data-image-dimensions="442x346" data-image-focal-point="0.5,0.5" alt=""  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1641660633024-NP2HD9QKZ13YVTIPD2DF/Screen+Shot+2022-01-08+at+11.49.25+AM.png?format=500w"></noscript></div></div><div class="project-item-count">6</div></div>
+            <div class="project-title">GLOBAL HEALTHCARE EXCHANGE</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/weg/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464060329380-KC061FQWEHJTP2J95S80/St+Acct+Open+Guide+cover.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464060329380-KC061FQWEHJTP2J95S80/St+Acct+Open+Guide+cover.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="St Acct Open Guide cover.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464060329380-KC061FQWEHJTP2J95S80/St+Acct+Open+Guide+cover.jpg?format=500w"></noscript></div></div><div class="project-item-count">1</div></div>
+            <div class="project-title">SunTrust Bank</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/habitat-for-humanity/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565385430089-9MWHXO672HPND02XE8C1/Anna%2Bphoto2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565385430089-9MWHXO672HPND02XE8C1/Anna%2Bphoto2.jpg" data-image-dimensions="297x287" data-image-focal-point="0.5,0.5" alt="Anna+photo2.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1565385430089-9MWHXO672HPND02XE8C1/Anna%2Bphoto2.jpg?format=500w"></noscript></div></div><div class="project-item-count">7</div></div>
+            <div class="project-title">Habitat for Humanity</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/berkley-one/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406741521-96EC7DUNGKW4VG05H21M/Screen+Shot+2017-12-27+at+3.31.08+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406741521-96EC7DUNGKW4VG05H21M/Screen+Shot+2017-12-27+at+3.31.08+PM.png" data-image-dimensions="1244x598" data-image-focal-point="0.5,0.5" alt="Screen Shot 2017-12-27 at 3.31.08 PM.png"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1514406741521-96EC7DUNGKW4VG05H21M/Screen+Shot+2017-12-27+at+3.31.08+PM.png?format=500w"></noscript></div></div><div class="project-item-count">21</div></div>
+            <div class="project-title">Berkley One</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/chickfila/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026095146-BMO3VTZAWAGXNGY4EFZB/Screen+Shot+2018-01-26+at+11.00.06+PM.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026095146-BMO3VTZAWAGXNGY4EFZB/Screen+Shot+2018-01-26+at+11.00.06+PM.png" data-image-dimensions="502x376" data-image-focal-point="0.5,0.5" alt="Screen Shot 2018-01-26 at 11.00.06 PM.png"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1517026095146-BMO3VTZAWAGXNGY4EFZB/Screen+Shot+2018-01-26+at+11.00.06+PM.png?format=500w"></noscript></div></div><div class="project-item-count">4</div></div>
+            <div class="project-title">Chick-fil-A</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/medtronicdiabetes/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464202934293-FJB1KL64LZDFTYDOTZLE/Jonni+guitar.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464202934293-FJB1KL64LZDFTYDOTZLE/Jonni+guitar.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="Jonni guitar.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464202934293-FJB1KL64LZDFTYDOTZLE/Jonni+guitar.jpg?format=500w"></noscript></div></div><div class="project-item-count">11</div></div>
+            <div class="project-title">Medtronic Diabetes</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/nacht/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055805594-RK0TFN9WUZ35PXIR4P1K/CB3.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055805594-RK0TFN9WUZ35PXIR4P1K/CB3.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="CB3.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464055805594-RK0TFN9WUZ35PXIR4P1K/CB3.jpg?format=500w"></noscript></div></div><div class="project-item-count">5</div></div>
+            <div class="project-title">Citizens Bank</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/rr-resorts/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432829951-121XB804FU2JK48JG69H/beach+image+from+MT_SalesKit_010620.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432829951-121XB804FU2JK48JG69H/beach+image+from+MT_SalesKit_010620.jpg" data-image-dimensions="1271x915" data-image-focal-point="0.5,0.5" alt="beach image from MT_SalesKit_010620.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1583432829951-121XB804FU2JK48JG69H/beach+image+from+MT_SalesKit_010620.jpg?format=500w"></noscript></div></div><div class="project-item-count">4</div></div>
+            <div class="project-title">R&R Resorts</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/georgia-400-center/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736115891-QUVN6N44BDUO8Y9YNXJI/thumbnail.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736115891-QUVN6N44BDUO8Y9YNXJI/thumbnail.jpg" data-image-dimensions="1200x1200" data-image-focal-point="0.5,0.5" alt="thumbnail.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464736115891-QUVN6N44BDUO8Y9YNXJI/thumbnail.jpg?format=500w"></noscript></div></div><div class="project-item-count">7</div></div>
+            <div class="project-title">Taylor & Mathis</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/new-gallery-2/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748389934-877OHPOJAIAUM3GU7AQ8/ST+inv+thumb.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748389934-877OHPOJAIAUM3GU7AQ8/ST+inv+thumb.jpg" data-image-dimensions="1200x1200" data-image-focal-point="0.5,0.5" alt="ST inv thumb.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464748389934-877OHPOJAIAUM3GU7AQ8/ST+inv+thumb.jpg?format=500w"></noscript></div></div><div class="project-item-count">10</div></div>
+            <div class="project-title">SunTrust Investments</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/weite/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686757922-TJ67UCYM5GFRTB5SITIS/DVP4948916+crop.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686757922-TJ67UCYM5GFRTB5SITIS/DVP4948916+crop.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt=""  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1463686757922-TJ67UCYM5GFRTB5SITIS/DVP4948916+crop.jpg?format=500w"></noscript></div></div><div class="project-item-count">5</div></div>
+            <div class="project-title">Mitsubishi Electric HVAC</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/gallerym/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482887987664-2AVUBBQAY1U2C56N37F1/Molnlyke+thumbnail.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482887987664-2AVUBBQAY1U2C56N37F1/Molnlyke+thumbnail.png" data-image-dimensions="745x677" data-image-focal-point="0.5,0.5" alt="Molnlyke thumbnail.png"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1482887987664-2AVUBBQAY1U2C56N37F1/Molnlyke+thumbnail.png?format=500w"></noscript></div></div><div class="project-item-count">6</div></div>
+            <div class="project-title">MÖLNLYCKE</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/new-gallery-4/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629892906-QET3I1H7NHYZXUIN617O/OW+thumb.png" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629892906-QET3I1H7NHYZXUIN617O/OW+thumb.png" data-image-dimensions="288x255" data-image-focal-point="0.5,0.5" alt="OW thumb.png"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1558629892906-QET3I1H7NHYZXUIN617O/OW+thumb.png?format=500w"></noscript></div></div><div class="project-item-count">4</div></div>
+            <div class="project-title">Oregon Wire</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/vergnugungspark/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137969908-K4V0S92V3RRNU4DXRFIZ/Arbys+rest.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137969908-K4V0S92V3RRNU4DXRFIZ/Arbys+rest.jpg" data-image-dimensions="764x389" data-image-focal-point="0.5,0.5" alt="Arbys rest.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464137969908-K4V0S92V3RRNU4DXRFIZ/Arbys+rest.jpg?format=500w"></noscript></div></div><div class="project-item-count">3</div></div>
+            <div class="project-title">Arby's</div>
+          </div>
+        </a>
+      
+        <a class="project" href="/gebaude-1/">
+          <div>
+            <div class="project-image"><div class="intrinsic"><div class="content-fill"><img data-src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464057178092-2EC9B1JEBUQSOXDV45HF/Bridgestone2.jpg" data-image="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464057178092-2EC9B1JEBUQSOXDV45HF/Bridgestone2.jpg" data-image-dimensions="1500x1500" data-image-focal-point="0.5,0.5" alt="Bridgestone2.jpg"  data-load="false"/><noscript><img src="https://images.squarespace-cdn.com/content/v1/573ccf1922482e6a536ba6ad/1464057178092-2EC9B1JEBUQSOXDV45HF/Bridgestone2.jpg?format=500w"></noscript></div></div><div class="project-item-count">4</div></div>
+            <div class="project-title">MICHELIN/BFG</div>
+          </div>
+        </a>
+      
+    
+
+  </div>
+</div>
+    </section>
+
+    <div class="extra-wrapper page-footer">
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content: Work" data-type="block-field" id="page-footer-5d4ddd801dfdef0001468713"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+    </div>
+
+    <div class="page-divider"></div>
+
+    <footer id="footer">
+      <div class="sqs-layout sqs-grid-1 columns-1 empty" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1463684690594" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-1 span-1"></div></div></div>
+      
+        
+      
+    </footer>
+
+  </div>
+
+  <div></div>
+
+  <script src="https://static1.squarespace.com/static/ta/4fd1028ee4b02be53c65dfb3/1356/scripts/site-bundle.js" type="text/javascript"></script>
+
+  <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+
+
+</body>
+
+</html>

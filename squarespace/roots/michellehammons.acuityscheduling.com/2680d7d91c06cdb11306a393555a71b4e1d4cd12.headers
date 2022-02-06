@@ -1,0 +1,17 @@
+GET https://michellehammons.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=c2t6u9v5vaabefir089bb9illb; expires=Fri, 04-Mar-2022 00:36:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=52bb6cea-7ce6-462c-b162-7bff884a204c; expires=Fri, 02-Feb-2024 00:36:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:36:16 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff

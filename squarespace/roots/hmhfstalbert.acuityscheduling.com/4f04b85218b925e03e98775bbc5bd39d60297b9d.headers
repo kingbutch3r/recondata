@@ -1,0 +1,15 @@
+GET https://hmhfstalbert.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:42:33 GMT
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=bckogagh8rts1p0uc7lq0nccou; expires=Fri, 04-Mar-2022 00:42:32 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b2728559-4efb-48a0-8a94-9807ed46c8a5; expires=Fri, 02-Feb-2024 00:42:33 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

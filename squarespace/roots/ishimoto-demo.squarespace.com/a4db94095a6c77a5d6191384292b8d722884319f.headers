@@ -1,0 +1,16 @@
+GET https://ishimoto-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Fri, 28 Jan 2022 15:10:07 GMT
+< Etag: W/"f2c730d48236b4b4462f42556e8360e9--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BXNMzX9sF9xHN2E0ZDc0ZDcyOWFmZWQ3MDk4OWI0OTYzY2M4NWEy;Path=/
+< X-Contextid: vrZgZjUQ/mEjVAMB1
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Age: 382334
+< Accept-Ranges: bytes

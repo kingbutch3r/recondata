@@ -1,0 +1,17 @@
+GET https://churchinitiative.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:08:15 GMT
+< Set-Cookie: PHPSESSID=1f49l884ttp81b0dcmmcrejjd7; expires=Fri, 04-Mar-2022 00:08:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=908694fb-3db4-46ea-b6e3-6a8a90179284; expires=Fri, 02-Feb-2024 00:08:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate

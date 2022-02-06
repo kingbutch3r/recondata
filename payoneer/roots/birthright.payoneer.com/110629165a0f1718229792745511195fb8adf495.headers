@@ -1,0 +1,10 @@
+GET http://birthright.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://birthright.payoneer.com/
+< Content-Length: 229
+< Date: Tue, 01 Feb 2022 23:25:47 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer

@@ -1,0 +1,15 @@
+GET https://starbcllc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:48 GMT
+< Set-Cookie: PHPSESSID=4c5mpi7dornppct50uj7l7a7s5; expires=Thu, 03-Mar-2022 23:57:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=919c38af-9d26-4e22-a394-82c1a82011f5; expires=Thu, 01-Feb-2024 23:57:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

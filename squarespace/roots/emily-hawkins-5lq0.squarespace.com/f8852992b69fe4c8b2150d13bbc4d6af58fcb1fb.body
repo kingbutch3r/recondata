@@ -1,0 +1,511 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+  <head>
+	  
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  
+    <!-- This is Squarespace. --><!-- emily-hawkins-5lq0 -->
+<base href="">
+<meta charset="utf-8" />
+<title>The Center of Higher Learning</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://assets.squarespace.com/universal/default-favicon.ico"/>
+<link rel="canonical" href="http://www.chl.state.ms.us"/>
+<meta property="og:site_name" content="The Center of Higher Learning"/>
+<meta property="og:title" content="The Center of Higher Learning"/>
+<meta property="og:url" content="http://www.chl.state.ms.us"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/51ac9eb8e4b0361e5f406d46/t/5324a5f8e4b0c44d90aac030/1429961424812/TEST+HEADER.jpg?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="337"/>
+<meta itemprop="name" content="The Center of Higher Learning"/>
+<meta itemprop="url" content="http://www.chl.state.ms.us"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/51ac9eb8e4b0361e5f406d46/t/5324a5f8e4b0c44d90aac030/1429961424812/TEST+HEADER.jpg?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/51ac9eb8e4b0361e5f406d46/t/5324a5f8e4b0c44d90aac030/1429961424812/TEST+HEADER.jpg?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/51ac9eb8e4b0361e5f406d46/t/5324a5f8e4b0c44d90aac030/1429961424812/TEST+HEADER.jpg?format=1500w"/>
+<meta name="twitter:title" content="The Center of Higher Learning"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/51ac9eb8e4b0361e5f406d46/t/5324a5f8e4b0c44d90aac030/1429961424812/TEST+HEADER.jpg?format=1500w"/>
+<meta name="twitter:url" content="http://www.chl.state.ms.us"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Allerta+Stencil:wght@400&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,400;1,700&family=PT+Sans:wght@400&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"51ac9eb8e4b0361e5f406d46","identifier":"emily-hawkins-5lq0","websiteType":1,"contentModifiedOn":1641589094579,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/Chicago","machineTimeZoneOffset":-21600000,"timeZoneOffset":-21600000,"timeZoneAbbr":"CST","siteTitle":"The Center of Higher Learning","fullSiteTitle":"The Center of Higher Learning","siteTagLine":"Bldg. 1103, Room 103 | John C. Stennis Space Center","siteDescription":"","location":{"mapZoom":15.0,"mapLat":30.3712475,"mapLng":-89.61473030000002,"markerLat":30.3712475,"markerLng":-89.61473030000002,"addressTitle":"The Center of Higher Learning","addressLine1":"1103 Balch Blvd., Room 103","addressLine2":"Stennis Space Center, MS","addressCountry":"United States"},"logoImageId":"5324a5f8e4b0c44d90aac030","shareButtonOptions":{"3":true,"2":true,"1":true,"7":true,"8":true,"4":true,"6":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394910712875-E6XE2ARW9ZQEDDJEMA3C/TEST+HEADER.jpg","authenticUrl":"http://www.chl.state.ms.us","internalUrl":"http://emily-hawkins-5lq0.squarespace.com","baseUrl":"http://www.chl.state.ms.us","primaryDomain":"www.chl.state.ms.us","typekitId":"","statsMigrated":true,"imageMetadataProcessingEnabled":false,"screenshotId":"3b1e61bc","showOwnerLogin":false},"websiteSettings":{"id":"51ac9eb8e4b0361e5f406d47","websiteId":"51ac9eb8e4b0361e5f406d46","type":"Non-Profit","subjects":[{"systemSubject":"other","otherSubject":"Education"}],"country":"US","state":"MS","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"popupOverlaySettings":{"style":1,"showOnScroll":true,"scrollPercentage":25,"showOnTimer":true,"timerDelay":5000,"showUntilSignup":true,"displayFrequency":30,"enableMobile":true,"enabledPages":[],"showOnAllPages":true,"version":1},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"(228) 688-7662","businessHours":{"monday":{"text":"8:00am to 4:30pm","ranges":[{"from":480,"to":990}]},"tuesday":{"text":"8:00am to 4:30pm","ranges":[{"from":480,"to":990}]},"wednesday":{"text":"8:00am to 4:30pm","ranges":[{"from":480,"to":990}]},"thursday":{"text":"8:00am to 4:30pm","ranges":[{"from":480,"to":990}]},"friday":{"text":"8:00am to 4:30pm","ranges":[{"from":480,"to":990}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["USD"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Home","id":"51d1fc48e4b05d425c86faf3","fullUrl":"/","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","gallery-arrow-style":"Round Corners","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Slideshow","gallery-info-overlay":"Always Show","gallery-loop":"false","gallery-navigation":"Thumbnails","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"350px","gridSpacing":"20px","hdr-bg-image":"{background-image:none;background-position:center center;background-size:contain;background-attachment:fixed;background-repeat:repeat}","product-gallery-auto-crop":"true","product-image-auto-crop":"true","tweak-v1-related-products-title-spacing":"50px"},"templateId":"503ba86de4b04953d0f49846","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5016d42984ae3ecc9e018d91/1669/scripts/","betaFeatureFlags":["campaigns_banner_reduce_size","nested_categories_migration_enabled","commerce_pdp_layouts_ga","startup_checklist","member_areas_schedule_interview","reduce_general_search_api_traffic","commerce_site_visitor_metrics","scheduling_block_schema_editor","commerce_product_composer_ab_test_all_users","customer_account_creation_recaptcha","campaigns_blog_product_image_editor","member_areas_pricing_options_discounts","campaigns_global_uc_ab","background_art_onboarding","campaigns_hide_deleted_automations_panel","commerce_onboarding_tools_screen_test","commerce_clearpay","campaigns_new_subscriber_search","commerce_etsy_shipping_import","commerce_etsy_product_import","campaigns_show_apply_website_styles_button","category-delete-product-service-enabled","commerce_category_id_discounts_enabled","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","commerce_restock_notifications","commerce_product_review_import_ga","commerce_product_review_etsy_import","campaigns_section_reorder_arrows","google_analytics_4_gtag_js","campaigns_audience_card","member_areas_spanish_interviews","commerce_afterpay_pdp","viewer-role-contributor-invites","campaigns_thumbnail_layout","commerce_activation_experiment_add_payment_processor_card","commerce_product_branching"],"impersonatedSession":false,"demoCollections":[{"collectionId":"52123eefe4b0c3075746ceb4","deleted":false}],"tzData":{"zones":[[-360,"US","C%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://www.chl.state.ms.us","name":"The Center of Higher Learning","description":"","image":"//images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394910712875-E6XE2ARW9ZQEDDJEMA3C/TEST+HEADER.jpg","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"The Center of Higher Learning","address":"1103 Balch Blvd., Room 103\nStennis Space Center, MS\nUnited States","email":"chl@usm.edu","telephone":"(228) 688-7662","sameAs":[],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"1103 Balch Blvd., Room 103\nStennis Space Center, MS\nUnited States","image":"https://static1.squarespace.com/static/51ac9eb8e4b0361e5f406d46/t/5324a5f8e4b0c44d90aac030/1641589094579/","name":"The Center of Higher Learning","openingHours":"Mo 08:00-16:30, Tu 08:00-16:30, We 08:00-16:30, Th 08:00-16:30, Fr 08:00-16:30","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/51ac9eb8e4b0361e5f406d46/107/503ba86de4b04953d0f49846/5225f430e4b03c5b6851546d/1669-05142015/1641589094570/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script src="https://static1.squarespace.com/static/ta/5016d42984ae3ecc9e018d91/1669/scripts/site-bundle.js" type="text/javascript"></script>
+  </head>
+  
+  <body class="canvas-setting-site-width hide-delimiter  banner-content-empty banner-alignment-left   top-navigation-position-below-banner top-navigation-alignment-center   sidebar-position-right underline-sidebar-h3  footer-alignment-center  social-icon-style-normal social-icon-placement-bottom-only  blog-list-display-full blog-byline-bottom blog-dateline-top disable-pagination-border     hide-album-share-link   event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links    event-item-back-link    gallery-design-slideshow aspect-ratio-auto lightbox-style-dark gallery-navigation-thumbnails gallery-info-overlay-always-show gallery-aspect-ratio-32-standard gallery-arrow-style-round-corners gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-43-four-thirds product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark  opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-default button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-51d1fc48e4b05d425c86faf3 collection-type-page collection-layout-default homepage mobile-style-available has-logo-image has-page-thumbnail" id="collection-51d1fc48e4b05d425c86faf3" ontouchstart="">
+
+		
+		
+<!--MOBILE-->
+<nav id="mobile-navigation">
+  <span id="mobile-navigation-title"><a href="/">The Center of Higher Learning</a></span>
+  <span id="mobile-navigation-label"></span>
+  <ul>
+    
+      <li class=" active-link">
+        
+          
+            <a href="/">Home</a>
+          
+          
+        
+      </li>
+    
+      <li class="">
+        
+          <input type="checkbox" name="folder-toggle-51acb41fe4b03d75a85bc576" id="folder-toggle-51acb41fe4b03d75a85bc576" class="folder-toggle-box hidden" />
+          <label for="folder-toggle-51acb41fe4b03d75a85bc576" class="folder-toggle-label">Academic Programs</label>
+          
+            
+                <a href="/mississippi-state-university" class="">Mississippi State University Engineering</a>
+            
+            
+          
+            
+                <a href="/the-university-of-new-orleans" class="">The University of New Orleans Applied Physics & Engineering and Applied Science</a>
+            
+            
+          
+            
+                <a href="/the-university-of-southern-mississippi" class="">The University of Southern Mississippi Division of Marine Science</a>
+            
+            
+          
+            
+                <a href="/pearl-river-community-college-associate-degree" class="">Pearl River Community College Associate Degree</a>
+            
+            
+          
+            
+                <a href="/program-schedules" class="">Semester Course Schedules</a>
+            
+            
+          
+            
+                <a href="/program-request-form" class="">Program Request Form</a>
+            
+            
+          
+            
+                <a href="/exam-proctoring-services" class="">Exam Proctoring Services</a>
+            
+            
+          
+        
+      </li>
+    
+      <li class="">
+        
+          
+          
+            <a href="/program-schedules">Course Schedules</a>
+          
+        
+      </li>
+    
+      <li class="">
+        
+          <input type="checkbox" name="folder-toggle-521b6eaee4b03a3ebe2c1689" id="folder-toggle-521b6eaee4b03a3ebe2c1689" class="folder-toggle-box hidden" />
+          <label for="folder-toggle-521b6eaee4b03a3ebe2c1689" class="folder-toggle-label">Workforce Development</label>
+          
+            
+                <a href="/united-training-it-courses" class="">United Training / IT Courses</a>
+            
+            
+          
+            
+                <a href="/workplace-development" class="">Workforce Development</a>
+            
+            
+          
+        
+      </li>
+    
+      <li class="">
+        
+          
+            <a href="/staff">Staff</a>
+          
+          
+        
+      </li>
+    
+      <li class="">
+        
+          
+            <a href="/contact">Contact</a>
+          
+          
+        
+      </li>
+    
+    
+  </ul>
+</nav>
+
+
+		
+
+	  <div id="canvas-wrapper">
+	  	<div id="canvas">
+
+
+				<div id="page-header-wrapper">
+					<div id="page-header">
+
+				    <div id="navigation-top">
+				    	<div class="horizontal-navigation-bar clear with-logo">
+
+				    		<!-- // logo or site title markup in nav area -->
+					      
+					      	
+						      <div id="banner-wrapper" data-content-field="site-title">
+						        <a href="/"><img id="banner" src="//images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394910712875-E6XE2ARW9ZQEDDJEMA3C/TEST+HEADER.jpg?format=1500w" alt="The Center of Higher Learning" /></a>
+						      </div>
+					        
+
+					    		
+<nav id="main-navigation" class="main-nav" data-content-field="navigation">
+  <ul>
+  
+
+    
+
+    <li class="page-collection active-link"><a href="/">Home</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li aria-haspopup="true" class="folder-collection folder"><a href="#" onClick="return false;">Academic Programs</a><span class="delimiter">/</span><div class="subnav"><ul><li class="page-collection"><a href="/mississippi-state-university">Mississippi State University Engineering</a></li><li class="page-collection"><a href="/the-university-of-new-orleans">The University of New Orleans Applied Physics & Engineering and Applied Science</a></li><li class="page-collection"><a href="/the-university-of-southern-mississippi">The University of Southern Mississippi Division of Marine Science</a></li><li class="page-collection"><a href="/pearl-river-community-college-associate-degree">Pearl River Community College Associate Degree</a></li><li class="page-collection"><a href="/program-schedules">Semester Course Schedules</a></li><li class="page-collection"><a href="/program-request-form">Program Request Form</a></li><li class="page-collection"><a href="/exam-proctoring-services">Exam Proctoring Services</a></li></ul></div></li>
+  
+
+    
+
+    <li class="external-link"><a href="/program-schedules">Course Schedules</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li aria-haspopup="true" class="folder-collection folder"><a href="#" onClick="return false;">Workforce Development</a><span class="delimiter">/</span><div class="subnav"><ul><li class="page-collection"><a href="/united-training-it-courses">United Training / IT Courses</a></li><li class="page-collection"><a href="/workplace-development">Workforce Development</a></li></ul></div></li>
+  
+
+    
+
+    <li class="page-collection"><a href="/staff">Staff</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li class="page-collection"><a href="/contact">Contact</a><span class="delimiter">/</span></li>
+  
+     
+  </ul>
+</nav>
+
+
+				          
+					      
+
+				    	</div>
+				    </div><!-- navigation-top -->
+
+						<div id="banner-area-wrapper">
+							<div id="banner-area">
+
+							<!-- // page thumbnail image as banner image -->
+							
+                
+                  
+                    <div id="page-thumb" class="content-fill">
+                      <img data-src="https://images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394906836235-P35B69P0XH9QBSIX1TNP/CHL+WEB+HEADER.jpg" data-image="https://images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394906836235-P35B69P0XH9QBSIX1TNP/CHL+WEB+HEADER.jpg" data-image-dimensions="800x462" data-image-focal-point="0.5,0.6196581196581197" alt="CHL WEB HEADER.jpg"  />
+                    </div>
+                  
+                
+							
+
+							<div class="banner-overlay"></div>
+
+				      <!-- // logo or site title markup in banner area -->
+				      
+				      	
+					      <div id="banner-wrapper" data-content-field="site-title">
+					        <a href="/" rel="bookmark">
+					        	<img id="banner" src="//images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394910712875-E6XE2ARW9ZQEDDJEMA3C/TEST+HEADER.jpg?format=1500w" alt="The Center of Higher Learning" />
+						        <p id="logo-tagline" class="logo-subtitle">Bldg. 1103, Room 103 | John C. Stennis Space Center</p>
+						      </a>
+					      </div>
+				        
+				      
+
+							<!-- // page title markup in banner area -->
+				      
+					      <div id="page-title-wrapper" class="js-text-shrink" data-collection-id="51d1fc48e4b05d425c86faf3" data-edit-main-image="Page Banner">
+				          <h1 id="page-title" class="page-title">Home</h1>
+				      		
+				        </div>
+				      
+
+				      </div>
+				    </div><!-- banner-area-wrapper -->
+
+				    <div id="navigation-bottom">
+				    	<div class="horizontal-navigation-bar clear with-logo">
+
+				    		<!-- // logo or site title markup in nav area -->
+					      
+					      	
+						      <div id="banner-wrapper" data-content-field="site-title">
+						        <a href="/"><img id="banner" src="//images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394910712875-E6XE2ARW9ZQEDDJEMA3C/TEST+HEADER.jpg?format=1500w" alt="The Center of Higher Learning" /></a>
+						      </div>
+					        
+
+									
+<nav id="main-navigation" class="main-nav" data-content-field="navigation">
+  <ul>
+  
+
+    
+
+    <li class="page-collection active-link"><a href="/">Home</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li aria-haspopup="true" class="folder-collection folder"><a href="#" onClick="return false;">Academic Programs</a><span class="delimiter">/</span><div class="subnav"><ul><li class="page-collection"><a href="/mississippi-state-university">Mississippi State University Engineering</a></li><li class="page-collection"><a href="/the-university-of-new-orleans">The University of New Orleans Applied Physics & Engineering and Applied Science</a></li><li class="page-collection"><a href="/the-university-of-southern-mississippi">The University of Southern Mississippi Division of Marine Science</a></li><li class="page-collection"><a href="/pearl-river-community-college-associate-degree">Pearl River Community College Associate Degree</a></li><li class="page-collection"><a href="/program-schedules">Semester Course Schedules</a></li><li class="page-collection"><a href="/program-request-form">Program Request Form</a></li><li class="page-collection"><a href="/exam-proctoring-services">Exam Proctoring Services</a></li></ul></div></li>
+  
+
+    
+
+    <li class="external-link"><a href="/program-schedules">Course Schedules</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li aria-haspopup="true" class="folder-collection folder"><a href="#" onClick="return false;">Workforce Development</a><span class="delimiter">/</span><div class="subnav"><ul><li class="page-collection"><a href="/united-training-it-courses">United Training / IT Courses</a></li><li class="page-collection"><a href="/workplace-development">Workforce Development</a></li></ul></div></li>
+  
+
+    
+
+    <li class="page-collection"><a href="/staff">Staff</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li class="page-collection"><a href="/contact">Contact</a><span class="delimiter">/</span></li>
+  
+     
+  </ul>
+</nav>
+
+
+
+				          
+					      
+
+				    	</div>
+				    </div><!-- navigation-bottom -->
+
+				  </div>
+				</div><!-- page-header-wrapper -->
+				<div id="page-body-wrapper" class="one-sidebar">
+					<div id="page-body">
+
+						<div id="content-wrapper">
+							<div id="content">
+
+								<div id="page-body-header" class="extra-wrapper">
+									<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Home Header Content" data-type="block-field" data-updated-on="1394911648288" id="page-header-51d1fc48e4b05d425c86faf3"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-3dddb407de714c316b3e"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.66667175292969%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394911636006-SEBJ6WYRWIAV1KV8LKS0/P1.jpg" alt="P1.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394911636006-SEBJ6WYRWIAV1KV8LKS0/P1.jpg" data-image="https://images.squarespace-cdn.com/content/v1/51ac9eb8e4b0361e5f406d46/1394911636006-SEBJ6WYRWIAV1KV8LKS0/P1.jpg" data-image-dimensions="1800x1200" data-image-focal-point="0.5,0.5" alt="P1.jpg" data-load="false" data-image-id="5324a994e4b09aa77d048920" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div></div></div></div>
+								</div>
+
+						    <!-- // CATEGORY NAV -->
+						    
+
+						    <div class="main-content" data-content-field="main-content" data-collection-id="51d1fc48e4b05d425c86faf3" data-edit-main-image="Page Banner">
+									<div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1634828809542" id="page-51d1fc48e4b05d425c86faf3"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-5311422a6f6f3a666a07"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">&nbsp;<br>The Center of Higher Learning, created in 1989 to coordinate all academic activity at the John C. Stennis Space Center, is a consortium of three universities and one community college which provides a coordinated, multi-university approach for interdisciplinary education. &nbsp;We offer a number of graduate degree programs and individual academic classes through our academic partners – the University of Southern Mississippi, Mississippi State University, the University of New Orleans, and Pearl River Community College.</p><p class="" style="white-space:pre-wrap;">CHL also provides short-term, non-academic training classes to Stennis and the surrounding community.&nbsp; We have ongoing classes and can also design and develop courses upon demand.&nbsp; Please let us know if we can help you meet your training needs.</p><p class="" style="white-space:pre-wrap;">The Center of Higher Learning office is located in Bldg. 1103, Room 103. Please stop by and we will be glad to answer any questions you have about academic classes, admission and registration procedures, fees, textbooks, course descriptions, and academic advisement.</p></div></div><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-1b5610c1299d5f29f9a1"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+								</div>
+
+								<div id="page-body-footer" class="extra-wrapper">
+									<div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Home Footer Content" data-type="block-field" data-updated-on="1386879127696" id="page-footer-51d1fc48e4b05d425c86faf3"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+								</div>
+
+							</div>
+						</div> <!-- content-wrapper -->
+
+						<div id="sidebar-one-wrapper" class="vertical-navigation-bar-wrapper">
+							<div id="sidebar-one" class="vertical-navigation-bar">
+								
+<nav id="main-navigation" class="main-nav" data-content-field="navigation">
+  <ul>
+  
+
+    
+
+    <li class="page-collection active-link"><a href="/">Home</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li aria-haspopup="true" class="folder-collection folder"><a href="#" onClick="return false;">Academic Programs</a><span class="delimiter">/</span><div class="subnav"><ul><li class="page-collection"><a href="/mississippi-state-university">Mississippi State University Engineering</a></li><li class="page-collection"><a href="/the-university-of-new-orleans">The University of New Orleans Applied Physics & Engineering and Applied Science</a></li><li class="page-collection"><a href="/the-university-of-southern-mississippi">The University of Southern Mississippi Division of Marine Science</a></li><li class="page-collection"><a href="/pearl-river-community-college-associate-degree">Pearl River Community College Associate Degree</a></li><li class="page-collection"><a href="/program-schedules">Semester Course Schedules</a></li><li class="page-collection"><a href="/program-request-form">Program Request Form</a></li><li class="page-collection"><a href="/exam-proctoring-services">Exam Proctoring Services</a></li></ul></div></li>
+  
+
+    
+
+    <li class="external-link"><a href="/program-schedules">Course Schedules</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li aria-haspopup="true" class="folder-collection folder"><a href="#" onClick="return false;">Workforce Development</a><span class="delimiter">/</span><div class="subnav"><ul><li class="page-collection"><a href="/united-training-it-courses">United Training / IT Courses</a></li><li class="page-collection"><a href="/workplace-development">Workforce Development</a></li></ul></div></li>
+  
+
+    
+
+    <li class="page-collection"><a href="/staff">Staff</a><span class="delimiter">/</span></li>
+  
+
+    
+
+    <li class="page-collection"><a href="/contact">Contact</a><span class="delimiter">/</span></li>
+  
+     
+  </ul>
+</nav>
+
+
+								
+								<div class="site-info">
+									<h3 class="site-title">The Center of Higher Learning</h3>
+							    
+							  </div>
+							  
+								<div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Sidebar One Content" data-type="block-field" data-updated-on="1636385719989" id="sidebar-one-blocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_4_1510782770284_5102"><div class="sqs-block-content"><h1 style="white-space:pre-wrap;"><strong><em>CHL News</em></strong></h1></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1594053802905_15149"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1604952308691_11023"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;"><strong><em>NEW:</em> MSU, UNO, and USM Spring 2022 course schedules available </strong><a href="/program-schedules"><strong>here</strong></a><strong>.</strong></p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1602087165199_11245"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_4_1437407897978_6416"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;"><strong>Need a computer lab for your training needs? CHL has two fully-equipped computer training labs. See details </strong><a href="/s/CHLLabs.pdf" target="_blank"><strong>here</strong></a></p></div></div></div></div></div>
+							</div>
+						</div><!-- sidebar-one-wrapper -->
+
+					<div class="clearer" id="body-clearer"></div>
+
+		      </div>
+		    </div> <!-- page-body-wrapper -->
+		    <div id="page-footer-wrapper">
+		      <div id="page-footer">
+		        
+		          
+		        
+		        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1378224247637" id="footer-blocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-e740e5c6fd99e8867241"><div class="sqs-block-content"><p>The Center of Higher Learning | NASA / John C. Stennis Space Center | 1-228-688-7662</p></div></div></div></div></div>
+		      </div>
+		    </div><!-- page-footer-wrapper -->
+
+
+		  </div>
+		</div> <!-- canvas-wrapper -->
+
+		<script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script>
+
+	</body>
+</html>

@@ -1,0 +1,10 @@
+GET http://chemicalpeels10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:00:58 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYHx4zzPJb0DMWEzNDAxMjIxYThhOGNlYzA1MjIyMzMzMjRkMGQ0;Path=/
+< X-Contextid: NRbic9Ss/6Jlk1NP9
+< Age: 0

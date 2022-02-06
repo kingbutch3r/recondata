@@ -1,0 +1,13 @@
+GET http://delivery-stage.squarespace.net
+
+
+< HTTP/1.1 307 Temporary Redirect
+< Location: https://delivery-stage.squarespace.net/
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:49:32 GMT
+< Content-Length: 75
+< Via: 1.1 google
+< Cache-Control: no-cache, no-store, must-revalidate, private, max-age=0
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Accel-Expires: 0

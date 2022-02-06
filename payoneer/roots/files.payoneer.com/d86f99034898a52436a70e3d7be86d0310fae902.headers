@@ -1,0 +1,12 @@
+GET https://files.payoneer.com
+
+
+< HTTP/1.1 403 Forbidden
+< Date: Tue, 01 Feb 2022 23:25:45 GMT
+< Content-Type: text/xml
+< Content-Length: 146
+< X-Cache: Error from cloudfront
+< Via: 1.1 d83aae3465916ebee8e7d45c657dc360.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM52-C1
+< Server: CloudFront
+< X-Amz-Cf-Id: Re5CvMOAifF7osydj9PJWAgjAhR0v_R1xLR45Rq4bk7L5nDo8rl-7Q==

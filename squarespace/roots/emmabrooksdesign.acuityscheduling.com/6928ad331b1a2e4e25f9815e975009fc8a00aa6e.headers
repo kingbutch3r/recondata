@@ -1,0 +1,15 @@
+GET https://emmabrooksdesign.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:21:30 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=814th1pbpc96pqsqoemd4dj2cs; expires=Fri, 04-Mar-2022 00:21:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f3769b44-046c-4a1a-820b-55151333d0c9; expires=Fri, 02-Feb-2024 00:21:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

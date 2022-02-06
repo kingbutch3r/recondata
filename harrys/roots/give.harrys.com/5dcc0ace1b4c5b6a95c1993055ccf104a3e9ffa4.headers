@@ -1,0 +1,17 @@
+GET https://give.harrys.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 29027
+< X-Timer: S1643477970.914248,VS0,VE1
+< Vary: Accept-Encoding
+< X-Cluster-Name: ap-northeast-1-prod-eks-15
+< Content-Type: text/html
+< X-Cache-Hits: 0, 1
+< X-Served-By: cache-iad-kiad7000029-IAD, cache-tyo11949-TYO
+< X-Cache: MISS, HIT
+< Date: Sat, 29 Jan 2022 17:39:29 GMT
+< X-Lambda-Id: d03eb24e-3db5-4f45-ba3d-961b9130e22f
+< Via: 1.1 varnish, 1.1 varnish
+< Server: openresty

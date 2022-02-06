@@ -1,0 +1,11 @@
+GET http://downloads.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Accept-Ranges: bytes
+< X-Served-By: cache-bom4722-BOM
+< X-Cache: HIT
+< X-Cache-Hits: 0
+< Retry-After: 0
+< Location: https://downloads.unfold.com/

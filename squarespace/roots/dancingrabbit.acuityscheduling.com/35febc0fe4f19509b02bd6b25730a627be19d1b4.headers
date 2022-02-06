@@ -1,0 +1,15 @@
+GET https://dancingrabbit.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:40:54 GMT
+< Set-Cookie: PHPSESSID=7tk202f2n7u2m4f0pbo9vqat8q; expires=Fri, 04-Mar-2022 00:40:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=157f916a-15f3-4a03-83e1-3c7078aeca8d; expires=Fri, 02-Feb-2024 00:40:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

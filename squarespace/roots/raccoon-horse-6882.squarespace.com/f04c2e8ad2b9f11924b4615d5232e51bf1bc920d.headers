@@ -1,0 +1,16 @@
+GET https://raccoon-horse-6882.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: 4NEAsjYj/J9TYfzbM
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 364489
+< Date: Fri, 28 Jan 2022 20:03:40 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"10cb61f048821599415a9012e2f3dd59"
+< Server: Squarespace
+< Set-Cookie: crumb=BefAK/+iA09qYWY0MDI1NTQ4MWE1Y2Y3MTBkMGFjZmY3NzcwYjE3;Path=/

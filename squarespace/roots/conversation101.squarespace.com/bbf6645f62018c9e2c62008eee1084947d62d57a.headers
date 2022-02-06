@@ -1,0 +1,10 @@
+GET http://conversation101.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:12:48 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZq+atawfa/gY2YxNjc1Y2ZmZmY1YTgxYmU3ZTM0MmJjNmM0ZmJm;Path=/
+< X-Contextid: PzlUUOuI/7g5rDn9X

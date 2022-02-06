@@ -1,0 +1,11 @@
+GET http://li-wang-ib31.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 02:26:55 GMT
+< Location: https://li-wang-ib31.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWuN0q6tU7p7NjM2NGUwOTQ4NGEyNjQyNzQ1YmFjODUxZjJkMDYz;Path=/
+< X-Contextid: 0A6mzw1S/kA1dpcZX
+< Age: 427610

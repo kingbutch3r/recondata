@@ -1,0 +1,12 @@
+GET https://ns120.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Pragma: no-cache
+< X-Contextid: rss9gZld/FqOOrkCe
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:07:08 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Server: Squarespace

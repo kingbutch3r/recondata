@@ -1,0 +1,11 @@
+GET http://www.tanamachi1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: http://tanamachi1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbCfvAPjmZSCOWFiYjhkOWIxYTBmODdhMmU0OTZkZWRmOTgwYTY2;Path=/
+< X-Contextid: P8h9gjiy/IH2N7m3x
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:50:53 GMT

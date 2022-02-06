@@ -1,0 +1,17 @@
+GET https://stephaniegraymassageithaca.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:53:31 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=0hqgspmbjuomririvlc4vk4clu; expires=Thu, 03-Mar-2022 23:53:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=16d23c0d-0189-47ed-900a-b339781449e0; expires=Thu, 01-Feb-2024 23:53:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

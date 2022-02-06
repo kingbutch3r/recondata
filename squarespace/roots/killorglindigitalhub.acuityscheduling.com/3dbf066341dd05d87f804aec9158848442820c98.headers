@@ -1,0 +1,15 @@
+GET https://killorglindigitalhub.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:56:47 GMT
+< Set-Cookie: PHPSESSID=dc6h3mja3sg8gm7iqmt3t0cclc; expires=Thu, 03-Mar-2022 23:56:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4973e0b8-603a-48d0-a718-8edffc680bc9; expires=Thu, 01-Feb-2024 23:56:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent

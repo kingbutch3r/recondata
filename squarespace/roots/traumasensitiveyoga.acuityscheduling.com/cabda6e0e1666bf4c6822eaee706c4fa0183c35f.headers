@@ -1,0 +1,15 @@
+GET https://traumasensitiveyoga.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=4afbrulblseceof1l7vn5fof8g; expires=Thu, 03-Mar-2022 23:54:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7cdfadae-1edc-41c4-87f6-ec4dce2f6f4e; expires=Thu, 01-Feb-2024 23:54:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:54:03 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff

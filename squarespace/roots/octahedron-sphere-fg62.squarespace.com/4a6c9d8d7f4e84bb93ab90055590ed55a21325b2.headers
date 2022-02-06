@@ -1,0 +1,11 @@
+GET http://octahedron-sphere-fg62.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 284kLMjN/K6g6Q36U
+< Age: 389006
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 13:14:25 GMT
+< Location: https://octahedron-sphere-fg62.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWTIwp2J2idtZDBkNmE4YTk0ZjRhOGQwNGI1YzlmZDYzNGU2NmY0;Path=/

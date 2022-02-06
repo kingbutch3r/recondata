@@ -1,0 +1,17 @@
+GET https://dexapnt.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=n3hj0k1ff0se08jvao0lgq579g; expires=Fri, 04-Mar-2022 00:42:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9ef59fdb-7105-46be-a4b8-0fd3f93514bf; expires=Fri, 02-Feb-2024 00:42:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:42:06 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,9 @@
+GET http://bacaa2010.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: KyjRRanz/uawiIpi1
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:59:59 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=1179DED94508D7746FF6CF4AFA1C92DA.v5-web017; Path=/; HttpOnly

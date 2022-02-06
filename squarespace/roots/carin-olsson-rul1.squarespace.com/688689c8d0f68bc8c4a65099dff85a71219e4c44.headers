@@ -1,0 +1,15 @@
+GET https://carin-olsson-rul1.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: aJR6CBTs/3YZjRrPm
+< Set-Cookie: crumb=BRpy+fRi20vvMzgwMDAwZDI3ZjNiMWE1NDI4ZjQ1MGY3MzQwMzlh;Path=/
+< Strict-Transport-Security: max-age=0
+< Content-Length: 3496
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:58 GMT
+< Etag: W/"21376369cd96460c64a742eb089a5567"
+< Server: Squarespace

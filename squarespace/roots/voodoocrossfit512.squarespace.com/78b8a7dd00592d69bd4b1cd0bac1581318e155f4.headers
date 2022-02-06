@@ -1,0 +1,10 @@
+GET https://voodoocrossfit512.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=Ba6a7ru2L+U7YzFmZTg5MWRiNzI1YzliZjE1ZjY3MmI1YzBmMjAy;Path=/
+< X-Contextid: xTWEJhlM/YAdLjRal
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:16:26 GMT
+< Server: Squarespace

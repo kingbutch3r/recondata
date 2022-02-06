@@ -1,0 +1,17 @@
+GET https://crowdz.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:49:13 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=lgals0s651q4oo00utdgekq1e3; expires=Fri, 04-Mar-2022 00:49:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b4e969b2-9bd3-4fdc-bc5e-7a19fb54f7a2; expires=Fri, 02-Feb-2024 00:49:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,25 @@
+GET https://www.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< X-Amz-Version-Id: crZMg2yry9AAgva1kxzoZE5zhxhtLxOz
+< Access-Control-Allow-Origin: https://registration.powerappsportals.com
+< X-Xss-Protection: 1; mode=block
+< Vary: Accept-Encoding
+< X-Cache: Hit from cloudfront
+< Cache-Control: must-revalidate, max-age=0, s-maxage=86400
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 15:17:38 GMT
+< Alt-Svc: clear
+< X-Frame-Options: SAMEORIGIN
+< X-Content-Type-Options: nosniff
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Amz-Cf-Pop: CDG52-P2
+< Via: 1.1 c554699ee704a19f7545cb8005037198.cloudfront.net (CloudFront), 1.1 google
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< X-Amz-Cf-Id: kfBU2ZBaVITa48vF9-i4zoF2RKmVQgJOr3-lZBox5HB47HmSsEBtDQ==
+< Age: 69300
+< Last-Modified: Mon, 31 Jan 2022 13:51:18 GMT
+< Etag: W/"2c5d90fbb3066e93fa69f7b5085141cd"
+< Content-Security-Policy: frame-src 'self' *.google.com snapwidget.com *.consensu.org *.sharethis.com *.doubleclick.net *.greenhouse.io *.payoneer.com *.trustpilot.com *.oraclecloud.com *.driftt.com *.ubembed.com *.youtube.com *.github.io *.userway.org v.qq.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.googletagmanager.com *.cookielaw.org *.convertexperiments.com *.marketo.net *.googleadservices.com *.bing.com *.licdn.com *.facebook.net *.taboola.com *.yimg.jp *.yahoo.co.jp *.doubleclick.net *.sharethis.com *.consensu.org snapwidget.com *.onetrust.com *.greenhouse.io *.payoneer.com *.mouseflow.com *.salesloft.com *.trendemon.com *.trustpilot.com *.ubembed.com *.google.com *.dynatrace.com *.oraclecloud.com *.baidu.com *.driftt.com *.youtube.com *.daumcdn.net unpkg.com *.yandex.ru *.cloudflare.com *.strattic.com *.6sc.co *.jsdelivr.net *.bootstrapcdn.com *.twitter.com *.ads-twitter.com *.highcharts.com *.github.io *.qualtrics.com *.microsoft.com  *.userway.org *.tiktok.com *.googleoptimize.com accessibilityserver.org *.adnxs.com *.pdst.fm;

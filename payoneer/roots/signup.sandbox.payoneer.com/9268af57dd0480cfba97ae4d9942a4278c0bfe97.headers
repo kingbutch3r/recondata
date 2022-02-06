@@ -1,0 +1,15 @@
+GET https://signup.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 23:26:22 GMT
+< Pragma: no-cache
+< Via: 1.1 google
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Cache-Control: no-cache, private, no-transform, no-store
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Set-Cookie: GCLB=CL77zvu7pNfDrwE; path=/; HttpOnly
+< Content-Type: text/html; charset=utf-8

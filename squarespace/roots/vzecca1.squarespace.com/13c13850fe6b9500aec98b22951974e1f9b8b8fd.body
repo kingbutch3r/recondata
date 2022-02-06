@@ -1,0 +1,914 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> 
+  
+   <meta name="Robots" content="index,follow" />  
+  
+  
+  <!-- vzecca1 -->
+
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+
+  <link id="primaryStylesheet" rel="stylesheet" type="text/css" href="/display/common.css?styleId=537793&amp;RK=1262567578427&amp;CE=75"/>
+  
+  <link id="slideShowStylesheet" rel="stylesheet" type="text/css" href="/universal/styles/squarespace-gallery-slideshow.css?CE=75"/>
+  
+  
+  
+  <!-- Google Web Fonts -->
+  <script type="text/javascript">
+    	WebFontConfig = {};
+  
+   
+    (function() {
+      var wf = document.createElement('script');
+      wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+          '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+      wf.type = 'text/javascript';
+      wf.async = 'true';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(wf, s);
+    })();
+  </script>
+
+  <script type="text/javascript" src="/universal/yui/yahoo-dom-event/yahoo-dom-event.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/connection/connection_core-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/json/json-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/animation/animation-min.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/selector/selector.js?CE=75"></script>
+<script type="text/javascript" src="/universal/yui/element/element.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/global.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/lightbox.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/api.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/base64.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/census.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/yui2-yui3-bridge.js?CE=75"></script>
+<script type="text/javascript" src="/universal/scripts/squarespace-gallery-slideshow.js?CE=75"></script>
+
+
+  <script type="text/javascript">
+  // <![CDATA[
+
+    Squarespace.Constants.SS_AUTHKEY = encodeURIComponent("");
+    Squarespace.Constants.WEBSITE_TITLE =  "Your Website" 
+    
+     Squarespace.Constants.CURRENT_MODULE_ID = "5258426"; 
+    
+    
+    
+    Squarespace.Constants.ADMINISTRATION_UI =  false; 
+    
+    
+    
+    Squarespace.Constants.CORE_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.CORE_V6_APPLICATION_DOMAIN = "squarespace.com";
+    Squarespace.Constants.V5_FRONTSITE = "http://www.squarespace.com";
+    Squarespace.Constants.WEBSITE_ID = "444570";
+
+    
+
+    
+
+    
+
+  // ]]>
+  </script>
+
+      <title> - James D. McNaughton</title>
+    <meta property="og:title" content=" - James D. McNaughton" /> 
+  
+
+  
+
+  
+
+  <!-- End Heading -->
+
+  
+
+  <script type="text/javascript" src="/universal/scripts/cookie-min.js"></script>
+  <script type="text/javascript" src="/universal/scripts/eu-cookie-policy.js"></script>
+
+</head>
+
+<body  id="modulePage5258426"   >
+
+  <script type="text/javascript">
+  YAHOO.util.Event.onDOMReady(function() {
+    if (document.location.href.indexOf("SSLogoutOk=true") != -1) {
+      new Squarespace.FixedPositionTip("Logout Successful", "You have been successfully logged out.", { xMargin: 15, yMargin: 15, icon: "/universal/images/helptip-info.png", orientation: "upper-right", viewportFixed: true, autoHide: 1800 }).show();
+    }
+  });
+</script>
+
+    
+
+  <script type="text/javascript">
+    YAHOO.util.Event.onDOMReady(function() { new Squarespace.Census.hit(); } );
+  </script>
+
+  <script type="text/javascript">
+    YAHOO.util.Event.addListener(document, "keyup", function (e) { if (!e) { e = event; } if (e.keyCode == 27) { document.location.href = "/display/Login?returnUrl=%2F"; } });
+  </script>
+
+
+
+
+  
+
+  <div id="canvasWrapper"><div id="canvas">
+  
+  
+
+  <div id="pageHeaderWrapper"><div id="pageHeader">
+
+      <div id="navigationTop"><div id="navigationTop-sectionContent2283402" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationTop-moduleContentWrapper5258426">
+
+    <div id="navigationTop-moduleContent5258426">
+
+              <a id="navigationTop-moduleLink5258426" class=" " href="/" ><span>home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5257636">
+
+    <div id="navigationTop-moduleContent5257636">
+
+              <a id="navigationTop-moduleLink5257636" class=" " href="/about/" ><span>about</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5258469">
+
+    <div id="navigationTop-moduleContent5258469">
+
+              <a id="navigationTop-moduleLink5258469" class=" " href="/links/" ><span>links</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5258490">
+
+    <div id="navigationTop-moduleContent5258490">
+
+              <a id="navigationTop-moduleLink5258490" class=" " href="/videos/" ><span>videos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5258536">
+
+    <div id="navigationTop-moduleContent5258536">
+
+              <a id="navigationTop-moduleLink5258536" class=" " href="/guestbook/" ><span>guestbook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5299898">
+
+    <div id="navigationTop-moduleContent5299898">
+
+              <a id="navigationTop-moduleLink5299898" class=" " href="/guestbookform/" ><span>Guestbook Form</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5258619">
+
+    <div id="navigationTop-moduleContent5258619">
+
+              <a id="navigationTop-moduleLink5258619" class=" " href="/events/" ><span>events</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5299990">
+
+    <div id="navigationTop-moduleContent5299990">
+
+              <a id="navigationTop-moduleLink5299990" class=" " href="/photos/" ><span>James D McNaughton :: Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5267703">
+
+    <div id="navigationTop-moduleContent5267703">
+
+              <a id="navigationTop-moduleLink5267703" class=" " href="/foundation/" ><span>foundation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationTop-moduleContentWrapper5299946">
+
+    <div id="navigationTop-moduleContent5299946">
+
+              <a id="navigationTop-moduleLink5299946" class=" " href="/contactform/" ><span>James D McNaughton :: Contact Form</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+    
+        
+      
+  
+      <div id="bannerAreaWrapper"><div id="bannerArea">
+
+              <div id="siteTitleWrapper">
+          <h1 id="siteTitle"><a href="http://www.jimmymcnaughton.com/"></a></h1>
+          
+        </div>
+      
+      
+      </div></div>
+    
+    
+    
+
+      <div id="navigationBottom"><div id="navigationBottom-sectionContent2283402" class="horizontalNavigationBar"><ul class="content-navigation">
+    
+  <li class="module active-module  " id="navigationBottom-moduleContentWrapper5258426">
+
+    <div id="navigationBottom-moduleContent5258426">
+
+              <a id="navigationBottom-moduleLink5258426" class=" " href="/" ><span>home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5257636">
+
+    <div id="navigationBottom-moduleContent5257636">
+
+              <a id="navigationBottom-moduleLink5257636" class=" " href="/about/" ><span>about</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5258469">
+
+    <div id="navigationBottom-moduleContent5258469">
+
+              <a id="navigationBottom-moduleLink5258469" class=" " href="/links/" ><span>links</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5258490">
+
+    <div id="navigationBottom-moduleContent5258490">
+
+              <a id="navigationBottom-moduleLink5258490" class=" " href="/videos/" ><span>videos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5258536">
+
+    <div id="navigationBottom-moduleContent5258536">
+
+              <a id="navigationBottom-moduleLink5258536" class=" " href="/guestbook/" ><span>guestbook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5299898">
+
+    <div id="navigationBottom-moduleContent5299898">
+
+              <a id="navigationBottom-moduleLink5299898" class=" " href="/guestbookform/" ><span>Guestbook Form</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5258619">
+
+    <div id="navigationBottom-moduleContent5258619">
+
+              <a id="navigationBottom-moduleLink5258619" class=" " href="/events/" ><span>events</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5299990">
+
+    <div id="navigationBottom-moduleContent5299990">
+
+              <a id="navigationBottom-moduleLink5299990" class=" " href="/photos/" ><span>James D McNaughton :: Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5267703">
+
+    <div id="navigationBottom-moduleContent5267703">
+
+              <a id="navigationBottom-moduleLink5267703" class=" " href="/foundation/" ><span>foundation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="navigationBottom-moduleContentWrapper5299946">
+
+    <div id="navigationBottom-moduleContent5299946">
+
+              <a id="navigationBottom-moduleLink5299946" class=" " href="/contactform/" ><span>James D McNaughton :: Contact Form</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  </ul><br class="clearer"/></div></div>
+
+
+  </div></div>
+  
+  
+
+  
+
+  
+  <div id="pageBodyWrapper"><div id="pageBody">
+  
+  <div id="sidebar1Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar1" class="verticalNavigationBar">
+
+  
+
+    <div id="sectionContent2283402" class="sectionWrapper promotedContainer "><div class="iw-s1"><div class="iw-s2"><div class="iw-s3"><div class="iw-s4"><div class="section">
+
+       <div class="caption">Top</div> 
+
+      
+        
+          <ul class="content-navigation">
+  <li class="module active-module  " id="moduleContentWrapper5258426">
+
+    <div id="moduleContent5258426">
+
+              <a id="moduleLink5258426" class=" " href="/" ><span>home</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5257636">
+
+    <div id="moduleContent5257636">
+
+              <a id="moduleLink5257636" class=" " href="/about/" ><span>about</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5258469">
+
+    <div id="moduleContent5258469">
+
+              <a id="moduleLink5258469" class=" " href="/links/" ><span>links</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5258490">
+
+    <div id="moduleContent5258490">
+
+              <a id="moduleLink5258490" class=" " href="/videos/" ><span>videos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5258536">
+
+    <div id="moduleContent5258536">
+
+              <a id="moduleLink5258536" class=" " href="/guestbook/" ><span>guestbook</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5299898">
+
+    <div id="moduleContent5299898">
+
+              <a id="moduleLink5299898" class=" " href="/guestbookform/" ><span>Guestbook Form</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5258619">
+
+    <div id="moduleContent5258619">
+
+              <a id="moduleLink5258619" class=" " href="/events/" ><span>events</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5299990">
+
+    <div id="moduleContent5299990">
+
+              <a id="moduleLink5299990" class=" " href="/photos/" ><span>James D McNaughton :: Photos</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5267703">
+
+    <div id="moduleContent5267703">
+
+              <a id="moduleLink5267703" class=" " href="/foundation/" ><span>foundation</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+
+  <li class="module   " id="moduleContentWrapper5299946">
+
+    <div id="moduleContent5299946">
+
+              <a id="moduleLink5299946" class=" " href="/contactform/" ><span>James D McNaughton :: Contact Form</span></a>
+      
+
+      
+
+    </div>
+
+  </li>
+
+</ul>
+
+        
+
+      
+  
+    </div></div></div></div></div></div>
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  <div id="sidebar2Wrapper" class="verticalNavigationBarWrapper"><div class="iw-vnb1"><div class="iw-vnb2"><div class="iw-vnb3"><div class="iw-vnb4"><div id="sidebar2" class="verticalNavigationBar">
+
+  
+
+  
+
+</div></div></div></div></div></div>
+  
+  
+
+  <div id="contentWrapper"><div id="content">
+    
+          
+    
+
+
+  
+
+ 
+  
+    <html>
+<head>
+<meta name="description" content="This tribute site is in honor of James D. McNaughton, a New York City Police Officer who was killed in Iraq." />
+<meta name="keywords" content="jimmy mcnaughton, james mcnaughton, james d. mcnaughton, ssg james mcnaughton, tribute, benefit, fundraiser, wounded warriors project, nypd, army, intrepid fallen heros fund, design and graphics by ArtAID, sponsored by Millennium Protective Services." />
+<style>
+
+    #encFilmMain
+    {
+      width:600px; /* Max width of the container */
+    }
+    #encFilm 
+    {
+      height:350px;  /* Max height of the container */
+      padding:5px 5px 5px 5px;      
+    }
+    #encFilmInner
+    {
+      position:relative;
+      padding:5px 5px 5px 155px;
+      height:340px; /* Inner films height. It will be -10 from Max height */
+      width:480px; /* this will be -20px from full width of #encFilmMain*/
+      overflow:hidden;
+    }
+    #encScrollBarTop
+    {           
+    
+      text-align:center;
+      color:#fff;
+    }
+    #encScrollBarBottom
+    {    
+    
+      text-align:center;
+      color:#fff;
+    }
+    #encScrollBarTop a, #encScrollBarBottom a
+   {
+      line-height:20px;
+      padding:2px;
+      color:#fff;
+      display:block;
+      text-decoration:none;
+    }
+    #encNav
+    {
+      position:relative;
+      color:#fff;
+      top:0px;
+    }
+  </style>
+
+<script src="/storage/DV.js" type="text/javascript">
+
+/***********************************************
+* Pagination Combo Box- by Axel Schneider (http://axelschneider.info/)
+* Visit JavaScript Kit at http://www.javascriptkit.com/ for this script and 100s more
+* Please keep this notice intact
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+//Define your images using arbitrary variables, to be passed in as arguments later down the page:
+var twelve = '<img src="/storage/2012.jpg" width="625" height=800 border="0" alt="Jimmy McNaughton 2012 Tribute flyer">' 
+</script>
+
+
+  <script type="text/javascript">
+  /*
+    Copyright (c) 2009 Muneer Mohammad (http://www.encodez.com/)
+    Permission is hereby granted, free of charge, to any person obtaining
+    a copy of this code, to deal in the code without restriction, including
+    without limitation the rights to use, copy, modify, merge, publish,
+    distribute, sublicense, and/or sell copies of the code, and to
+    permit persons to whom the Software is furnished to do so, subject to
+    the following conditions:
+     
+    The above copyright notice and this permission notice shall be
+    included in all copies or substantial portions of the code.
+    
+    THE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+    EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+    NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+    LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+    OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+    WITH THE CODE OR THE USE OR OTHER DEALINGS IN THE CODE.
+  */
+  
+  
+  var gTop=0;
+  var gIncVal=0;
+  // var timeOutValue can be used to adjust the speed of scroller.
+  var timeOutValue=10;
+    
+    
+  function scrollMe(arg)
+  {    
+    var objEncNav=document.getElementById('encNav');
+    
+    // var scrollAmount define the fast and
+    // the amount of scrolling pane
+    var scrollAmount=240;
+    var objEncNavHeight=parseInt(objEncNav.offsetHeight);
+    var objEncNavTop=objEncNav.style.top;
+    
+    // var barHeight defines the heigt of inner layer
+    // it must set -10 from max height
+    var barHeight=290;   
+    
+    if(!objEncNavTop)
+      objEncNavTop=0;
+    else
+      objEncNavTop=objEncNavTop.substring(0,objEncNavTop.length-2);
+      
+    if(arg>0)
+    {
+      if(objEncNavTop>=0 || objEncNavTop>(-(objEncNavHeight-(barHeight+scrollAmount))))
+      {
+        incrementValue=scrollAmount;
+      }
+      else if(objEncNavTop<(-(objEncNavHeight-(barHeight+scrollAmount))))
+      {
+        incrementValue=(objEncNavHeight-barHeight)+parseInt(objEncNavTop);
+      }
+      else
+      {
+        incrementValue=0;
+      }
+      encSmoothScroll("minus", parseInt(objEncNavTop), parseInt(incrementValue));
+    }
+    else
+    {
+      if(objEncNavTop<0 && ((parseInt(objEncNavTop)+scrollAmount) < 0))
+      {
+        incrementValue=scrollAmount;
+      }
+      else
+      {
+        incrementValue=-objEncNavTop-0;     
+      }
+      encSmoothScroll("plus", parseInt(objEncNavTop), parseInt(incrementValue));
+    }
+  }
+  function encSmoothScroll(dir, currentVal, incValue)
+  {
+    gTop=currentVal;
+    gIncVal=incValue;
+    encScrollBy(dir, 0)
+  }
+  function encScrollBy(dir, val)
+  { 
+    if(val<gIncVal)
+    {
+      var tmpInc;      
+      if((gIncVal-val)>1)      
+      {
+        tmpInc=Math.ceil((gIncVal-val)/10);
+        if(tmpInc <1)
+          tmpInc=1;
+      }
+      else
+      {
+        tmpInc=gIncVal-val;
+      }
+      
+      val+=tmpInc;
+      
+      var objEncNav=document.getElementById('encNav');
+      if(dir=="plus")
+      {
+        objEncNav.style.top=gTop+val+"px";
+      }
+      else if(dir=="minus")
+      {
+        objEncNav.style.top=gTop-val+"px";
+      }
+      var t=setTimeout("encScrollBy('"+dir+"', "+val+");", timeOutValue);
+    }
+    else
+    {
+      clearTimeout(t);
+    }
+  }
+  </script>
+
+
+
+
+</head>
+
+<body>
+<div>
+<table border=0 cellspacing=0 align="left" id="mtable" background="/storage/jimmy_main.jpg">
+<tr><td width=215 height=363 valign="top">
+
+<div id="menu">
+<a href="/index.html">Home</a><br>
+<a href="/about">About Jimmy</a><br>
+<a href="/events">Events</a><br>
+<a href="/photos">Photographs</a><br>
+<a href="/videos">Videos</a><br>
+<a href="/foundation">McNaughton Foundation</a><br>
+<a href="/guestbook">Guestbook</a><br>
+<a href="/links">Links</a><br>
+<a href="/contactform">Contact</a><br><br><br><br><br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3CTJ6SX7MCUW4">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://area-77.com/cliparts/cliparts/wallpaper-454472"><img class="img img-responsive" typeof="foaf:Image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif"  width="1" height="1">
+</form>
+</div>
+
+</td><td width="600"> &nbsp; </td>
+
+<td width=800 valign="top">
+
+<div id="encFilmMain">
+<div id="encFilm">  
+<div id="encFilmInner">
+<div id="encNav">
+<div id="rsidetext">
+
+<p style="text-align: justify;">
+
+
+<p><b>Welcome</b>
+
+<p style="text-align: justify;">
+
+Due to the ongoing uncertainty around Covid-19, we have decided to postpone the 16th Annual Tribute to James McNaughton this year. Please check back for updates.
+
+<p style="text-align: justify;">
+
+This site is in honor of James D. McNaughton, a New York City Police Officer who was killed in Iraq. Jimmy was a Staff Sergeant with the Army Reserve's 306th Military Police Battalion, based out of Uniondale, Long Island.  Coming from a family of police officers, he joined the NYPD a little over 8 years ago as a member of the first Police Academy class to graduate after 9/11.  He was assigned to Transit Bureau, District 2 in Lower Manhattan. He reported for duty in the Army on October 4th, 2002.  On August 2nd, 2005, Jimmy's Unit was assigned a dangerous mission, which was between him and a couple other Sergeants.  Jimmy volunteered over the other soldiers because they had children and he knew the severity of the mission. While on this mission, Jimmy was training an Iraqi officer up in a tower and was struck by a sniper. James McNaughton, 27, was the first New York City Cop to give his life for his country as a soldier in the line of duty while serving in Iraq.
+
+</td><td width=20>
+&nbsp;
+</div></td></tr></table>
+</div>
+
+</body>
+</html>
+
+
+  
+
+
+</div></div> <!-- Content -->
+  
+    
+  
+    </div></div> <!-- Page Body -->
+
+    
+    
+    <div id="pageFooterWrapper"><div id="pageFooter">
+  
+              <table border=0 width=1033><tr><td width=400><a href="http://www.army.mil/" target=new><img src="/storage/army_logo.gif" width=55 height=72 border=0 alt="army logo"></a> <a href="http://www.nyc.gov/html/nypd/html/home/home.shtml" target=new><img src="/storage/nypd_logo.gif" width=53 height=72 alt="nypd logo" border=0></a> <a href="http://www.artaid.org" target=new><img src="/storage/artaidlogo.gif" height=60 border=0 alt="ArtAID"></a>
+
+</td><td valign=top align=left>
+<font face=verdana size="1" color=#CEC4A1><i>"Our Troops deserve our grateful respect. They are our modern samurai. Most people don't know what the word samurai means. It means to serve and Jimmy has been serving his whole life." -William McNaughton</i></font></td></tr></table>
+
+<table border=0 width=1033><tr><td width=400><a href="https://www.facebook.com/events/1346501575459247/" target=new><img src="/storage/facebook icon.png" valign=bottom height=65 border=0 alt="facebook"></a> <a href="https://twitter.com/McNaughtonEvent" target=new><img src="/storage/twitter icon.png" valign=bottom height=65 border=0 alt="twitter"></a> <a href="https://www.instagram.com/mcnaughtonevent/?hl=en" target=new><img src="/storage/instagram icon.png" width=55 height=65 border=0 alt="instagram"></a>
+
+<pre>
+</pre><marquee><b><a href="" onClick="dv.showDV(twelve); return
+false"><font color=red size=4>Due to the ongoing uncertainty around Covid-19, we have decided to postpone the 16th Annual Tribute to James McNaughton this year. </font></a></b></marquee>
+
+      
+  
+      
+  
+    </div></div>
+  
+  </div></div> <!-- Canvas -->
+  
+   
+
+
+  <div class="clearer" id="bodyClearer"></div>
+
+  
+
+
+
+</body>
+</html>

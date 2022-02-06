@@ -1,0 +1,17 @@
+GET https://nevins-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 539834
+< Content-Type: text/html;charset=utf-8
+< Last-Modified: Wed, 26 Jan 2022 18:58:26 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: 2M4Drcmo/69KU87Tu
+< Etag: W/"0fe352dc6a7e3a2f4e1630aec03b337e"
+< Set-Cookie: crumb=BWvFXu2DD1JPZTExMTBjNzNhZjcxMzM0Nzk0NGUwYWVlYzk3YWFj;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Date: Wed, 26 Jan 2022 18:58:26 GMT
+< X-Content-Type-Options: nosniff

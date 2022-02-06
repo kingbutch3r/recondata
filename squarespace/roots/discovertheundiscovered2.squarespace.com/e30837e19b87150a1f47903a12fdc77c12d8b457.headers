@@ -1,0 +1,10 @@
+GET http://discovertheundiscovered2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:14 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWutFKpz8CYzYTY1MWE4YTkyZmI2Y2Y5Njg1N2U1MTY2NDhhNTQz;Path=/
+< X-Contextid: el5uQuEL/zBl9f3sT

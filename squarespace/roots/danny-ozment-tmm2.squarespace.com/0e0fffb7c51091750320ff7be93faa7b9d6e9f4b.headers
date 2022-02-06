@@ -1,0 +1,13 @@
+GET https://danny-ozment-tmm2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:22:05 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUVU6S8HZqrzNTJmM2VlNGYxMjAxOWVkOTU3MzdjZDFiOTg2YTJm;Path=/
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: hTTubzIU/RFeCd0U2
+< Age: 0

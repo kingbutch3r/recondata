@@ -1,0 +1,15 @@
+GET https://ucflaunchpad.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:59:06 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=phes3p4t8t6u4s907865bpt2lk; expires=Thu, 03-Mar-2022 23:59:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b6d3cfe6-855d-4ed9-b70e-b95952754736; expires=Thu, 01-Feb-2024 23:59:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

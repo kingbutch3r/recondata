@@ -1,0 +1,10 @@
+GET https://thelegendofkorraepi1and2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BQx3bCcM79R2OThmZWRlMjBhYjQyZWRkNDRhYTc2MGZhZjFkNzQy;Path=/
+< X-Contextid: 6muQrvIl/umMSeD4s
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:19:54 GMT
+< Server: Squarespace

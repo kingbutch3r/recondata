@@ -1,0 +1,14 @@
+GET https://aaron-kessler-n1d1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: HpyLUOdx/nqOG7tl0
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZhxxBoZXY0bOTU0MjY0MGQwNTFiZjQ3ZjRmMzU1YjhhODA4OWI0;Path=/
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:14:46 GMT
+< Strict-Transport-Security: max-age=0

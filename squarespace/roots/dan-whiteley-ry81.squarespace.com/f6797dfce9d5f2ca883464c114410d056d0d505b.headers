@@ -1,0 +1,11 @@
+GET http://dan-whiteley-ry81.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 38923
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 14:25:24 GMT
+< Location: https://dan-whiteley-ry81.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Ba9e3/5jxqj8NTdhNzY0MjY5MWRmNWJhZGU2NTYzOTk5Zjk0MGVh;Path=/
+< X-Contextid: U6AwERs0/FwnJ5NDR

@@ -1,0 +1,17 @@
+GET https://alexiglecia.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:15 GMT
+< Set-Cookie: PHPSESSID=g70k1thbjj2dla688lss6kerdp; expires=Thu, 03-Mar-2022 23:54:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9bc92ac7-3a14-456c-8bb2-bd9b54d7a526; expires=Thu, 01-Feb-2024 23:54:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Length: 0

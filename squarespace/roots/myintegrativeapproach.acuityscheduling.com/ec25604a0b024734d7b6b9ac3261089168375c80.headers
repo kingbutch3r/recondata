@@ -1,0 +1,17 @@
+GET https://myintegrativeapproach.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:13:34 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=ank9khc43lictu7pct1ec5c8bt; expires=Fri, 04-Mar-2022 00:13:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6c9a356d-f4fe-4363-b861-911f16727300; expires=Fri, 02-Feb-2024 00:13:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

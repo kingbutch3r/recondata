@@ -1,0 +1,17 @@
+GET https://landmarkinsuranceinc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:58:26 GMT
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=bentjupqql1mrg0n7q8ngl8g42; expires=Thu, 03-Mar-2022 23:58:25 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6ff8ba2f-36a5-4e96-a9e8-cc6d161bb1cd; expires=Thu, 01-Feb-2024 23:58:26 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff

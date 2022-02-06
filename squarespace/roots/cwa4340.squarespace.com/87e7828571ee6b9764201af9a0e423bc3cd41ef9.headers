@@ -1,0 +1,11 @@
+GET https://cwa4340.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:49:47 GMT
+< Location: http://cwa4340.squarespace.com/;jsessionid=521637482043CDD509FB487BD1544258.v5-web010
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=521637482043CDD509FB487BD1544258.v5-web010; Path=/; HttpOnly
+< X-Contextid: 7uuVqfnM/j0m6mudQ

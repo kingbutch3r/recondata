@@ -1,0 +1,17 @@
+GET https://facebyvalleyjay.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=8fb4telovn3c7iolcoe202l3pd; expires=Fri, 04-Mar-2022 00:44:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=57edc660-5dd9-4fa4-b2c0-8f0a1af9e2ce; expires=Fri, 02-Feb-2024 00:45:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:45:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

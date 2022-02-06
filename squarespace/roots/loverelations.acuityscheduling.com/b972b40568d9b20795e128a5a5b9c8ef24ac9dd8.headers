@@ -1,0 +1,17 @@
+GET https://loverelations.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=veok5pdglvbb3bm4sb7ou3k1k3; expires=Fri, 04-Mar-2022 00:35:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=625c7598-3bf7-4ed4-beff-19e7f7f3f272; expires=Fri, 02-Feb-2024 00:35:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:35:40 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

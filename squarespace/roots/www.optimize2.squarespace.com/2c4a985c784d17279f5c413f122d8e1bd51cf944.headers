@@ -1,0 +1,11 @@
+GET http://www.optimize2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:52:23 GMT
+< Location: http://optimize2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BYkbBLyrNZ2NNWVmZjc5NjdhYjI3OTU0ZGIxNTUxODE2NDFjMDky;Path=/
+< X-Contextid: gVPYWR1o/U6kmQ7G9
+< Age: 0
+< Content-Length: 0

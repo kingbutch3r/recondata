@@ -1,0 +1,17 @@
+GET https://performancearchery.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=au8mkk83v74vv9rin7oc7d3ecr; expires=Fri, 04-Mar-2022 00:48:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=45d7d3b3-0ad6-4cb9-b273-c1d229045e2e; expires=Fri, 02-Feb-2024 00:48:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:48:21 GMT
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Length: 0

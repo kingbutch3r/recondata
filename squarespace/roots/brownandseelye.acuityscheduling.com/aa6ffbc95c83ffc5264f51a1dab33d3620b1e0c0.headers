@@ -1,0 +1,17 @@
+GET https://brownandseelye.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:08:32 GMT
+< Set-Cookie: PHPSESSID=3ep80qvaav3k9lur3ldn9qmdp6; expires=Fri, 04-Mar-2022 00:08:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c4c3719b-ae3e-4dba-af24-51904c2aa015; expires=Fri, 02-Feb-2024 00:08:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

@@ -1,0 +1,17 @@
+GET https://mollyzackaryvoicestudio.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=geindj6pj2vp4lf5rqd7efv53q; expires=Fri, 04-Mar-2022 00:25:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=89f9ada8-830c-4493-ab6d-8e51175f36c7; expires=Fri, 02-Feb-2024 00:25:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:25:12 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

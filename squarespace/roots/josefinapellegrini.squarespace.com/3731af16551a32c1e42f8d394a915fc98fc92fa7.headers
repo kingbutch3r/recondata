@@ -1,0 +1,16 @@
+GET http://josefinapellegrini.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"26c96cb02655ad335e776568495c3f2d"
+< Set-Cookie: crumb=BSApcT/66merNjAwNjBkOWY3NzEyZjIwMWM4MzJhMjViYWI1NjBi;Path=/
+< X-Contextid: aSxKFEqS/5wjXkXZ1
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Age: 0
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Date: Tue, 01 Feb 2022 23:49:46 GMT
+< X-Content-Type-Options: nosniff

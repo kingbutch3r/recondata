@@ -1,0 +1,15 @@
+GET https://eha.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=4ud6tvbaaq3bmb5p86qlt0megq; expires=Thu, 03-Mar-2022 23:54:10 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7d7daa74-4beb-4365-846b-e1f2b8a0e01e; expires=Thu, 01-Feb-2024 23:54:11 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:54:11 GMT
+< Pragma: no-cache

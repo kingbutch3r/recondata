@@ -1,0 +1,15 @@
+GET https://umhsvolunteerw17.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:53:24 GMT
+< Set-Cookie: PHPSESSID=s52aen12h4sufl5cnqkhrgsor8; expires=Thu, 03-Mar-2022 23:53:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cd233ffd-1afb-4243-8fd1-ca52b8f7477c; expires=Thu, 01-Feb-2024 23:53:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,17 @@
+GET https://africaarchield.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Tue, 01 Feb 2022 23:59:47 GMT
+< Set-Cookie: PHPSESSID=3m2i9kk4upa165rhpktjus6h5h; expires=Thu, 03-Mar-2022 23:59:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=572d5fd8-7ad5-4619-a44d-ead233c3b1b6; expires=Thu, 01-Feb-2024 23:59:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Content-Length: 0
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

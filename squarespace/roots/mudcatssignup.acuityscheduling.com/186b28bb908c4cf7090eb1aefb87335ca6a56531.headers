@@ -1,0 +1,17 @@
+GET https://mudcatssignup.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:27:21 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=gkqnl6035eg9lsoe73go5c5i97; expires=Fri, 04-Mar-2022 00:27:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fd1fcbbf-b86b-4744-b13a-96ed48b60c42; expires=Fri, 02-Feb-2024 00:27:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

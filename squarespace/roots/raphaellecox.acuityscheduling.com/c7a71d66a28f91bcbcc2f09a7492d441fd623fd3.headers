@@ -1,0 +1,15 @@
+GET https://raphaellecox.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=ahrgr3mm90da8j6oq3lno0m2m6; expires=Fri, 04-Mar-2022 00:44:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f3aba9f1-bdfa-439d-a1bd-ce42eaa277df; expires=Fri, 02-Feb-2024 00:44:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:44:47 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff

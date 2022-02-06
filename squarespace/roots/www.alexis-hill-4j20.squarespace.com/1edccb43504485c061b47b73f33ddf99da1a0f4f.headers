@@ -1,0 +1,11 @@
+GET http://www.alexis-hill-4j20.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: http://alexis-hill-4j20.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUFzVHJrJJL4MjlmOWZmYzQwMjNiODQ0ZmRlNjk2MGMwZjgyNjVi;Path=/
+< X-Contextid: uPSebxec/eDdHeuah
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:49:45 GMT

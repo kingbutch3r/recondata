@@ -1,0 +1,10 @@
+GET https://www.forman2012.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: JSESSIONID=8765234B909656E0F48F5744DF4D9C22.v5-web020; Path=/; HttpOnly
+< X-Contextid: AQo4wal4/hbsWmMoc
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:16:21 GMT
+< Location: https://forman2012.squarespace.com/
+< Server: Squarespace

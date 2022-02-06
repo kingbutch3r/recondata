@@ -1,0 +1,14 @@
+GET https://cdn-brands.unfold.com
+
+
+< HTTP/1.1 403 Forbidden
+< Expires: Wed, 02 Feb 2022 00:49:35 GMT
+< X-Served-By: cache-mdw17340-MDW, cache-bom4736-BOM
+< X-Cache: MISS, MISS
+< X-Cache-Hits: 0, 0
+< Vary: Accept-Encoding
+< Date: Wed, 02 Feb 2022 00:49:36 GMT
+< Content-Length: 111
+< Cache-Control: private, max-age=0
+< Accept-Ranges: bytes
+< Content-Type: text/plain

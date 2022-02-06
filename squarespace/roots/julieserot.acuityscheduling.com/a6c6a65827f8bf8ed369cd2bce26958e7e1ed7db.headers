@@ -1,0 +1,17 @@
+GET https://julieserot.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:42:15 GMT
+< Set-Cookie: PHPSESSID=8hpjrm43a9frafp3e2npqbmlu1; expires=Fri, 04-Mar-2022 00:42:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e86ad7b3-1ef3-43ff-8d07-0c9057214d9b; expires=Fri, 02-Feb-2024 00:42:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"

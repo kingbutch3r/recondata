@@ -1,0 +1,11 @@
+GET http://oahhs-covid-19.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 269776
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 22:30:04 GMT
+< Location: https://oahhs-covid-19.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZE2fp5hJjPTNGE5MjJmMzUxZjFkYjhjNzhmZjYwMjVlNGNiOTM1;Path=/
+< X-Contextid: JYuhhPbp/iVFnIVHU

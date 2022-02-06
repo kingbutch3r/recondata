@@ -1,0 +1,11 @@
+GET http://vuvuzela-banjo-3xg2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:20:32 GMT
+< Location: https://vuvuzela-banjo-3xg2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTPjtDbz9LEhMzE0M2MxMzIwY2M3MDM2Mzg1YTY0NmU0Mzc1MzE5;Path=/
+< X-Contextid: RrPasA6I/6ceNNrUe

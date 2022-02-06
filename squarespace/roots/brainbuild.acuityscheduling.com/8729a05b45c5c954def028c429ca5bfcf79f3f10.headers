@@ -1,0 +1,15 @@
+GET https://brainbuild.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=halihegvrl8a81d9qcgbbinf6r; expires=Fri, 04-Mar-2022 01:08:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2fc19030-82c8-4984-9948-c057b0bb30d2; expires=Fri, 02-Feb-2024 01:08:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 01:08:58 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

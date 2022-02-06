@@ -1,0 +1,11 @@
+GET http://saffron-caterpillar-nj72.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:51:48 GMT
+< Location: https://saffron-caterpillar-nj72.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZQt3ufuGqYZMjFhZmVlMjRlNTA0NDBlMjVmYWJhMzIyODZkOTI3;Path=/
+< X-Contextid: ycYev0So/P1W5uZ4t

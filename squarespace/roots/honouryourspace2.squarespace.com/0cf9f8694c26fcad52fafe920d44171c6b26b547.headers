@@ -1,0 +1,10 @@
+GET https://honouryourspace2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:52:19 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUJu1iyxyKxSNzgxNzliNTdkMDZmODhhZTNhMjg5NzY1YjM3MjEz;Path=/
+< X-Contextid: IUVcg6tI/qub3FqCG
+< Age: 0

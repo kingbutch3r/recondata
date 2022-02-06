@@ -1,0 +1,12 @@
+GET https://bole-f692.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Cache-Control: no-cache, must-revalidate
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: JCnZu0CT/R4KMdOB3
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:18:42 UTC
+< Pragma: no-cache
+< Server: Squarespace

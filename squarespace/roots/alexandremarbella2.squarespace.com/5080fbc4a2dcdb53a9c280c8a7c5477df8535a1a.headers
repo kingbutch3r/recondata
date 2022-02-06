@@ -1,0 +1,13 @@
+GET https://alexandremarbella2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:19:06 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: HLxCziSM/PETGG2xZ
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcCMRHdUb9yBYThjNDE3YThmOTBmODQ0N2Q5OGQ2YzFiZmZlY2Fi;Path=/
+< X-Content-Type-Options: nosniff

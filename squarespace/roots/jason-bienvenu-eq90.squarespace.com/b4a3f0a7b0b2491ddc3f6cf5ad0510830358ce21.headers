@@ -1,0 +1,13 @@
+GET https://jason-bienvenu-eq90.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BQNZX0eT37KEY2VhNDZkZDIzZjQwNjJkY2MyZDkzMmU0OGU2MTRl;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Contextid: r0UpksSe/YDuaT5l6
+< Date: Wed, 02 Feb 2022 01:11:44 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff

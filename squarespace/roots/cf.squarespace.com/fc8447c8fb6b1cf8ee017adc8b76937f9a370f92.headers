@@ -1,0 +1,12 @@
+GET http://cf.squarespace.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Amz-Bucket-Region: us-east-1
+< Date: Wed, 02 Feb 2022 00:55:09 GMT
+< X-Amz-Cf-Id: ueNNzqwW07DJokhUcamBaJza6J2VU1u1bOHCLdYc-XN8tUcIimcF0A==
+< Content-Type: application/xml
+< Server: AmazonS3
+< X-Cache: Error from cloudfront
+< Via: 1.1 49a7052b1cf6cbcdc134f38b7efabee4.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM50-C1

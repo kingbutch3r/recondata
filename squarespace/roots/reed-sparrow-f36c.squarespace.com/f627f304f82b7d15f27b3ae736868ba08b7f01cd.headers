@@ -1,0 +1,11 @@
+GET http://reed-sparrow-f36c.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BZjkkc9n8v0vYWVmMzZkNjAyZGZjNGUxNzA3YTI2MWEzNmJjNzBh;Path=/
+< X-Contextid: EL7GEm2w/BZKx9BVS
+< Age: 426123
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 03:02:40 GMT
+< Location: https://reed-sparrow-f36c.squarespace.com/

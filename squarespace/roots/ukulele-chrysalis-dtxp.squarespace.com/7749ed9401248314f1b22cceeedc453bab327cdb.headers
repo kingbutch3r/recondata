@@ -1,0 +1,19 @@
+GET https://ukulele-chrysalis-dtxp.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 01:05:31 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:05:31 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BVzuSVbYvWFHZDNhYWFmN2U3M2IwMTFjNjQ4MTliMWNkMWE2Yzc3;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: vGk2aPdL/lZi7zmTI
+< Strict-Transport-Security: max-age=43200
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"b8aa4aec42e17eee6b763bdfaea11d67"
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding

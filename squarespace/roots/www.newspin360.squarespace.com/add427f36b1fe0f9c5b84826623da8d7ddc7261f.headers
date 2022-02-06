@@ -1,0 +1,11 @@
+GET https://www.newspin360.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=Bdob5YG83JAyOTNmNzdiNmQ2MjRkYjhjOWUwZWM2ODc1ZmY4N2E0;Path=/
+< X-Contextid: cSwH9vc6/R6qrybb5
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:49:52 GMT
+< Location: https://newspin360.squarespace.com/

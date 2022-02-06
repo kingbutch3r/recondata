@@ -1,0 +1,15 @@
+GET https://chrisdblc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:57:43 GMT
+< Set-Cookie: PHPSESSID=5r5b55vssa25cv503aevgrji08; expires=Thu, 03-Mar-2022 23:57:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a77c78fa-3796-479c-8edb-e407070538e7; expires=Thu, 01-Feb-2024 23:57:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,16 @@
+GET https://cecilie-korst-rmn1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< X-Contextid: B3eKengI/Hxj2p3ww
+< Age: 12635
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Tue, 01 Feb 2022 21:20:24 GMT
+< Etag: W/"5ca751ea9e6961dc5797b11b0cc602b9--gzip"
+< Set-Cookie: crumb=BR/z6aGvFlSANTdmODM4MWJlOWEzYTE1YjRjMWU1ZmVkODFmMWNh;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes

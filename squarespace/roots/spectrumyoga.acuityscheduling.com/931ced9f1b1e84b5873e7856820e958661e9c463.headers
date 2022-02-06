@@ -1,0 +1,17 @@
+GET https://spectrumyoga.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=28flugmlb26p30ou8498ndktvt; expires=Thu, 03-Mar-2022 23:54:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=98bdffe5-be30-41ff-8565-e745d98e59ed; expires=Thu, 01-Feb-2024 23:54:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Location: /schedule.php
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:54:05 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

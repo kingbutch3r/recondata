@@ -1,0 +1,17 @@
+GET https://bonsaitonight.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:40:51 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=kvdp8pi9f6bac7eon4lv9heud7; expires=Fri, 04-Mar-2022 00:40:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d3b064dd-8e6e-4804-8ca2-30a0927af49c; expires=Fri, 02-Feb-2024 00:40:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

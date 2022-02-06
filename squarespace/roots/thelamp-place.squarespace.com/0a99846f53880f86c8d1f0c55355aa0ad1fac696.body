@@ -1,0 +1,577 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <meta name="viewport" content="initial-scale=1">
+  
+  <!-- This is Squarespace. --><!-- thelamp-place -->
+<base href="">
+<meta charset="utf-8" />
+<title>The Lamp Place</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1473218631234-JXAPHLLZQFWAIVQIFH1J/favicon.ico?format=50w"/>
+<link rel="canonical" href="http://www.thelampplace.com"/>
+<meta property="og:site_name" content="The Lamp Place"/>
+<meta property="og:title" content="The Lamp Place"/>
+<meta property="og:url" content="http://www.thelampplace.com"/>
+<meta property="og:type" content="website"/>
+<meta itemprop="name" content="The Lamp Place"/>
+<meta itemprop="url" content="http://www.thelampplace.com"/>
+<meta name="twitter:title" content="The Lamp Place"/>
+<meta name="twitter:url" content="http://www.thelampplace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/2ARquKQecIKcueqqtjtjuP6NzL20H1_1IV2OlehA7vqfeztffFHN4UJLFRbh52jhWD9hZRIo52ZcwAb3Fhw3whIu52ItwDmR5g7VMPG0iey8deBlSfu3deBRZPoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOYsGZAUydWMlSeUyjh90SaBujW48Sagyjh90jhNlOYsGZAUydWg3deBRZPoRdhXCiaiaO1sGZAUydWMlSeUyjh90SaBujW48Sagyjh90jhNlOYiaikoX-emCjAu3SeUyjh90jhNlJ6U3ScNt-AuyOAozicI7fbKnMsMMeMI6MKG4fH3gIMMjfkMfH6qJtKGbMg62JMJ7fbRRHyMMeMX6MKG4fHvgIMMjgfMfH6qJCMIbMg65JMJ7f6K3UMIbMg6BJMJ7f6KUUMIbMg6VJMJ7fbKlMsMMeMj6MKG4fHtgIMMjIfMfH6qJK3IbMg6YJMJ7fbKwMsMMegI6MKG4fHqgIMMjffMfH6qJ76IbMg6PJMJ7fbK4MsMMeMq6MKG4fJGgIMMjIkMfqMeDCCYBgb.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,400;1,700&family=Playfair+Display:wght@400">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-2443790b78f767c2ba201-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-2443790b78f767c2ba201-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"56f1986f1d07c03a581835c8","identifier":"thelamp-place","websiteType":1,"contentModifiedOn":1478222983554,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"The Lamp Place","fullSiteTitle":"The Lamp Place","siteDescription":"<p>Offering fine lamps and quality lamp shades, The Lamp Place is Lexington's only high-end store specializing in custom lamps, lamp repair and custom shades.&nbsp;</p>","location":{"mapLat":38.0361517,"mapLng":-84.4857379,"addressTitle":"The Lamp Place","addressLine1":"662 East Main St.","addressLine2":"Lexington, KY 40508","addressCountry":""},"shareButtonOptions":{"7":true,"8":true,"3":true,"4":true,"1":true,"6":true},"authenticUrl":"http://www.thelampplace.com","internalUrl":"http://thelamp-place.squarespace.com","baseUrl":"http://www.thelampplace.com","primaryDomain":"www.thelampplace.com","sslSetting":1,"isHstsEnabled":false,"socialAccounts":[{"serviceId":2,"userId":"1081579848","screenname":"The Lamp Place","addedOn":1458676895110,"profileUrl":"https://www.facebook.com/lampplacelex","iconUrl":"http://graph.facebook.com/1081579848/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"c5d32a1c","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"56f1986f1d07c03a581835cb","websiteId":"56f1986f1d07c03a581835c8","subjects":[],"country":"US","state":"KY","simpleLikingEnabled":true,"mobileInfoBarSettings":{"style":2,"isContactEmailEnabled":true,"isContactPhoneNumberEnabled":true,"isLocationEnabled":true,"isBusinessHoursEnabled":true},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"contactPhoneNumber":"(859) 255-8717","businessHours":{"monday":{"text":"","ranges":[{}]},"tuesday":{"text":"10am-4pm","ranges":[{"from":600,"to":960}]},"wednesday":{"text":"10am-4pm","ranges":[{"from":600,"to":960}]},"thursday":{"text":"10am-4pm","ranges":[{"from":600,"to":960}]},"friday":{"text":"10am-4pm","ranges":[{"from":600,"to":960}]},"saturday":{"text":"10am-2pm","ranges":[{"from":600,"to":840}]},"sunday":{"text":"","ranges":[{}]}},"contactEmail":"thelampplace@gmail.com","storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":false,"isShippingPhoneRequired":false,"showBillingPhoneNumber":false,"isBillingPhoneRequired":false,"currenciesSupported":["USD","CAD","GBP","AUD","EUR","CHF","NOK","SEK","DKK"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Our Story","id":"56f1a6a5555986b17a8451df","fullUrl":"/","publicCommentCount":0,"type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"outerPadding":"65px","pagePadding":"25px","product-gallery-auto-crop":"true","product-image-auto-crop":"false","topPadding":"80px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"50521cf884aeb45fa5cfdb80","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5052176b84aeb45fa5cfcc83/953/scripts/","betaFeatureFlags":["member_areas_spanish_interviews","commerce_onboarding_tools_screen_test","product_composer_feedback_form_on_save","campaigns_section_reorder_arrows","viewer-role-contributor-invites","campaigns_new_subscriber_search","startup_checklist","commerce_product_branching","campaigns_hide_deleted_automations_panel","commerce_restock_notifications","reduce_general_search_api_traffic","member_areas_schedule_interview","google_analytics_4_gtag_js","campaigns_global_uc_ab","commerce_category_id_discounts_enabled","customer_account_creation_recaptcha","commerce_afterpay_pdp","campaigns_show_apply_website_styles_button","commerce_clearpay","commerce_site_visitor_metrics","commerce_product_composer_ab_test_all_users","campaigns_audience_card","commerce_etsy_product_import","nested_categories_migration_enabled","member_areas_pricing_options_discounts","background_art_onboarding","commerce_etsy_shipping_import","commerce_activation_experiment_add_payment_processor_card","campaigns_blog_product_image_editor","campaigns_thumbnail_layout","commerce_pdp_layouts_ga","campaigns_banner_reduce_size","category-delete-product-service-enabled","commerce_product_review_etsy_import","commerce_product_review_import_ga"],"impersonatedSession":false,"demoCollections":[{"collectionId":"56d748fd01dbae7a6d77a0ff","deleted":false},{"collectionId":"56d74fac59827e4e2353b34b","deleted":false}],"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"http://www.thelampplace.com","name":"The Lamp Place","description":"<p>Offering fine lamps and quality lamp shades, The Lamp Place is Lexington's only high-end store specializing in custom lamps, lamp repair and custom shades.&nbsp;</p>","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"The Lamp Place","address":"662 East Main St.\nLexington, KY 40508","email":"thelampplace@gmail.com","telephone":"(859) 255-8717","sameAs":["https://www.facebook.com/lampplacelex"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"662 East Main St.\nLexington, KY 40508","name":"The Lamp Place","openingHours":", Tu 10:00-16:00, We 10:00-16:00, Th 10:00-16:00, Fr 10:00-16:00, Sa 10:00-14:00, ","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/56f1986f1d07c03a581835c8/77/50521cf884aeb45fa5cfdb80/56f1986f1d07c03a581835cf/953-05142015/1478223135997/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+  <script src="https://static1.squarespace.com/static/ta/5052176b84aeb45fa5cfcc83/953/scripts/site-bundle.js" type="text/javascript"></script>
+</head>
+
+<body class="show-products-category-navigation   page-borders-thick canvas-style-normal  header-subtitle-address banner-alignment-center blog-layout-center project-layout-left-sidebar thumbnails-on-open-page-show-all social-icon-style-round  hide-info-footer hide-page-banner hide-page-title   hide-article-author   event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts  event-item-back-link    product-list-titles-under product-list-alignment-center product-item-size-11-square  product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-56f1a6a5555986b17a8451df collection-layout-default homepage mobile-style-available site-title" id="collection-56f1a6a5555986b17a8451df">
+
+  <div id="canvas">
+
+    <div id="mobileNav" class="">
+      <div class="wrapper">
+        <nav class="main-nav mobileNav"><ul>
+  
+    
+
+        <li class="page-collection active-link">
+
+          
+
+            
+              <a href="/">Home</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/services">Services</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/press">Press & Media</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/gallery">Gallery</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/contact">Contact</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+    
+  
+</ul>
+</nav>
+
+      </div>
+    </div>
+    <div id="mobileMenuLink"><a>Menu</a></div>
+
+    <header id="header" class="clear">
+
+    
+
+      <div id="upper-logo">
+        <h1 class="logo" data-content-field="site-title">
+          <a href="/">The Lamp Place</a>
+        </h1>
+      </div>
+      <script>
+      if (parseInt(Y.one('body').getComputedStyle('width'),10) <= 640) {
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#upper-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#upper-logo')
+          });
+        });
+      }
+      </script>
+
+      
+      <div class="site-info" data-content-field="business-information">
+        <div class="site-address">662 East Main St.</div>
+        <div class="site-city-state">Lexington, KY 40508</div>
+        <div class="site-phone">(859) 255-8717</div>
+      </div>
+      
+
+      <div class="site-tag-line">
+        
+      </div>
+
+      <div class="custom-info">
+        <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Header Subtitle: Custom Content" data-type="block-field" data-updated-on="1381761023501" id="customInfoBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-81eee4bbda3d9efd0834"><div class="sqs-block-content"><p class="text-align-center">Your Custom Text Here</p></div></div></div></div></div>
+      </div>
+
+      <div id="lower-logo">
+        <h1 class="logo" data-content-field="site-title"><a href="/">The Lamp Place</a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#lower-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#lower-logo')
+          });
+        });
+      </script>
+
+    
+      <div id="topNav">
+  <nav class="main-nav" data-content-field="navigation">
+    <ul>
+    
+      
+
+          <li class="page-collection active-link">
+
+            
+
+              
+                <a href="/">Home</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/services">Services</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/press">Press & Media</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/gallery">Gallery</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+
+          <li class="page-collection">
+
+            
+
+              
+                <a href="/contact">Contact</a>
+              
+
+              
+
+
+            
+
+          </li>
+
+      
+      
+    
+  </ul>
+  <div class="page-divider"></div>
+  </nav>
+</div>
+
+
+    </header>
+
+    <div class="page-divider top-divider"></div>
+
+    <!-- // page image or divider -->
+    
+      
+        
+        <div id="hero">
+          <div class="page-image" data-collection-id="56f1a6a5555986b17a8451df" data-edit-main-image="Banner" data-annotation-alignment="bottom left">
+            <div class="image-wrapper">
+              <img data-src="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1463509582182-6XSFPCTIWSDQ7PPX9ZB2/Storefront_2_edited.JPG" data-image="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1463509582182-6XSFPCTIWSDQ7PPX9ZB2/Storefront_2_edited.JPG" data-image-dimensions="500x332" data-image-focal-point="0.5,0.5" alt="Storefront_2_edited.JPG"  />
+            </div>
+            <div class="wrapper">
+              <h1 class="page-title">Our Story</h1>
+              <div class="page-description"></div>
+            </div>
+          </div>
+        </div>
+        
+      
+    
+
+    <section id="page" class="clear" role="main" data-content-field="main-content" data-collection-id="56f1a6a5555986b17a8451df" data-collection-id="56f1a6a5555986b17a8451df" data-edit-main-image="Banner" >
+
+      <!-- // CATEGORY NAV -->
+      
+
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1478222983552" id="page-56f1a6a5555986b17a8451df"><div class="row sqs-row"><div class="col sqs-col-11 span-11"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1473219093436_51150"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-10 span-10"><div class="sqs-block image-block sqs-block-image sqs-col-4 span-4 float float-left" data-aspect-ratio="161.98547215496367" data-block-type="5" id="block-yui_3_17_2_4_1463750865622_7177"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:161.9854736328125%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1473217797514-2YBAIM6H173CLJ1W2OKA/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1473217797514-2YBAIM6H173CLJ1W2OKA/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1473217797514-2YBAIM6H173CLJ1W2OKA/image-asset.jpeg" data-image-dimensions="600x973" data-image-focal-point="0.5384615384615384,0.0" alt="" data-load="false" data-image-id="57c4aba5ebbd1af6c1def3c5" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-be77c2055056a016a64d"><div class="sqs-block-content"><h2 class="text-align-center"><em>"One of Lexington's finest."</em><br /> </h2><p>For over 30 years, <strong>The Lamp Place</strong> has offered quality lamps and fine lampshades. We carry an array of table lamps, floor lamps, and chandeliers for all of your home decorating needs.</p><p>We offer the finest selection of silks, linens, paper, and parchment shades in an assortment of sizes, shapes, and colors. Choose from our vast selection of finials to complete your lamp attire.</p><p>Our trained staff will help you choose the proper style and fit for your lamps and lampshades.</p><p>The Lamp Place offers lamp repair services as well as custom-made lamps.</p><p>Whether it is a beloved musical instrument, a fine vase, or a keepsake champagne bottle, bring in your cherished object and we will create a lamp.&nbsp;</p></div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_2_1473216654252_65553"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1473216654252_66032"><div class="sqs-block-content"><h1 class="text-align-center">Our Story</h1></div></div><div class="sqs-block image-block sqs-block-image sqs-col-3 span-3 float float-left" data-aspect-ratio="101.28205128205127" data-block-type="5" id="block-yui_3_17_2_20_1458695781028_12135"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:600px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  data-animation-override
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:101.28205108642578%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1473216959134-E5G7Y33Q082UXFD3N40N/image-asset.jpeg" alt="Mark Shawk, Owner" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1473216959134-E5G7Y33Q082UXFD3N40N/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/56f1986f1d07c03a581835c8/1473216959134-E5G7Y33Q082UXFD3N40N/image-asset.jpeg" data-image-dimensions="600x902" data-image-focal-point="0.5267857142857143,0.22023809523809523" alt="Mark Shawk, Owner" data-load="false" data-image-id="56f1fa5d356fb033660abb02" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p><strong>Mark Shawk, Owner</strong></p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-ea4cc5a4f87fde66de66"><div class="sqs-block-content"><p>Sometimes if you look back far enough you realize maybe your genes have had more influence on you than you realize. My grandmother, grandfather, father and mother have all influenced The Lamp Place at both the genetic level and physical level.<br /><br />My grandmother, who passed away before I knew her, collected whale oil lamps. Her collection was of such historical significant it was donated to a museum on the east coast.<br /><br />My grandfather restored and sold antiques. His house was an antique museum which he opened to the public on the weekends.<br /><br />Both my father and mother were also involved in antiques and antique lighting. <em>It turns out the roots of The Lamp Place can be traced back three generations both genetically and physically. </em></p></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_2_1473274098410_12507"><div class="sqs-block-content"><p class="text-align-center"><em><strong><a href="/press">Have a look at our media articles to get a sense of how The Lamp Place takes its history forward.</a></strong></em></p></div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_2_1473219093436_60436"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+
+    </section>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Our Story Footer Content" data-type="block-field" id="collection-56f1a6a5555986b17a8451df"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <!-- <div class="page-divider bottom-divider"></div> -->
+
+    <div class="info-footer-wrapper clear">
+      <div class="info-footer">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Info Footer Content" data-type="block-field" data-updated-on="1411670375842" id="infoFooterBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+      
+        
+        <div id="socialLinks" class="social-links sqs-svg-icon--list" data-content-field="connected-accounts">
+          
+
+
+  <a href="https://www.facebook.com/lampplacelex" target="_blank" class="sqs-svg-icon--wrapper facebook">
+    <div>
+      <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+        <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+        <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+      </svg>
+    </div>
+  </a>
+
+
+        </div>
+        
+      
+      </div>
+    </div>
+
+    <footer id="footer" class="clear">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1463747733568" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-0 span-0"></div><div class="col sqs-col-12 span-12"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1407708776025_50235"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-right social-icons-color-black social-icons-size-medium social-icons-shape-circle social-icons-style-knockout" >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://www.facebook.com/lampplacelex" target="_blank" class="sqs-svg-icon--wrapper facebook" aria-label="The Lamp Place">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div></div></div></div></div>
+    </footer>
+
+  </div>
+
+  <div></div>
+
+  <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol></svg>
+
+
+
+</body>
+
+</html>

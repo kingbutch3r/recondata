@@ -1,0 +1,17 @@
+GET https://bookstudiotime.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:05:09 GMT
+< Set-Cookie: PHPSESSID=n5qeoq07nbm04gpmlm8bchh4hj; expires=Fri, 04-Mar-2022 00:05:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=45abce9d-edd6-4dff-817a-28edc9c13369; expires=Fri, 02-Feb-2024 00:05:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

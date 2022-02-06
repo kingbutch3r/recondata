@@ -1,0 +1,15 @@
+GET https://kidscashandchaos.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:36:25 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=qgj88rd2p6dqt0uqiqul2a1mup; expires=Fri, 04-Mar-2022 00:36:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4885cd55-fbdb-4151-9fb1-91f3bc3206de; expires=Fri, 02-Feb-2024 00:36:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff

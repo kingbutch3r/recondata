@@ -1,0 +1,17 @@
+GET https://allclearplumbing.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=hhh9podskbhb12dr6g92f7tdvt; expires=Fri, 04-Mar-2022 00:09:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ec28136e-0507-467a-a24b-22a096626584; expires=Fri, 02-Feb-2024 00:09:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:09:07 GMT
+< Content-Type: text/html; charset=UTF-8

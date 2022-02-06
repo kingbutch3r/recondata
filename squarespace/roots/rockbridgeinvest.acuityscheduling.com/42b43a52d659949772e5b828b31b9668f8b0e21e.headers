@@ -1,0 +1,17 @@
+GET https://rockbridgeinvest.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=24v4titesl03rdqkrpid3hb4rv; expires=Fri, 04-Mar-2022 00:42:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2e8d0dc0-0ddc-461d-b566-99e698ce3570; expires=Fri, 02-Feb-2024 00:42:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:42:54 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

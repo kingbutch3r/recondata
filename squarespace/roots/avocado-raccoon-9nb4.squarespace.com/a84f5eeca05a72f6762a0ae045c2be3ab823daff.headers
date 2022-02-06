@@ -1,0 +1,11 @@
+GET http://avocado-raccoon-9nb4.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: WHMGoaO1/n2RGfvyg
+< Age: 374304
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 17:26:19 GMT
+< Location: https://avocado-raccoon-9nb4.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BR+WtS0Nl5jOZTIyYmU1NDk5NDU5Y2I2NzE5MzU3NDI0NWNlZTE3;Path=/

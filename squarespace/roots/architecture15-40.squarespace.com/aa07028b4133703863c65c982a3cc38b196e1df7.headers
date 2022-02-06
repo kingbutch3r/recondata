@@ -1,0 +1,11 @@
+GET http://architecture15-40.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 320476
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 07:48:30 GMT
+< Location: https://architecture15-40.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BeR2cfBPlyoiZjFkZjVlM2RiZjEwM2NiOGFjN2ZhZTg3MjU0ODM3;Path=/
+< X-Contextid: 3WTR1JqN/uW2RXOZN

@@ -1,0 +1,10 @@
+GET http://partners.sandbox.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://partners.sandbox.payoneer.com/
+< Content-Length: 235
+< Date: Tue, 01 Feb 2022 23:26:19 GMT
+< Cache-Control: private

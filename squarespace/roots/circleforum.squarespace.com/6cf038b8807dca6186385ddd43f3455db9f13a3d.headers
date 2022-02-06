@@ -1,0 +1,17 @@
+GET https://circleforum.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 01:08:03 GMT
+< Via: 1.1 12b082104e9893409b9ae6386e88d350.cloudfront.net (CloudFront)
+< Location: https://forum.squarespace.com/circle
+< X-Content-Type-Options: nosniff
+< Server: Apache
+< X-Cache: Hit from cloudfront
+< X-Amz-Cf-Pop: CDG3-C2
+< X-Amz-Cf-Id: OQeUODNun2YNi5QvbQmzxPk0wEF5gzWOlwO9YbpeJNA4HypwqmpM6Q==
+< Age: 85607
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: AWSALB=FQmziYFpmmgFct9vf3kdrPr4wmXv98PsAh7aJQM/tNvLWoPz2do48cSVvCEOirKUg8XosiuoIpKJzuUYC0Q3Q53eT02eR6m8YJIbrLhWJSw+AE4vaAR+uN3DiUDU; Expires=Tue, 08 Feb 2022 01:08:03 GMT; Path=/
+< Set-Cookie: AWSALBCORS=FQmziYFpmmgFct9vf3kdrPr4wmXv98PsAh7aJQM/tNvLWoPz2do48cSVvCEOirKUg8XosiuoIpKJzuUYC0Q3Q53eT02eR6m8YJIbrLhWJSw+AE4vaAR+uN3DiUDU; Expires=Tue, 08 Feb 2022 01:08:03 GMT; Path=/; SameSite=None

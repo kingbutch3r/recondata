@@ -1,0 +1,12 @@
+GET https://q10.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Length: 77576
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 01:08:22 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace
+< X-Contextid: MM6mjfZT/A0hibrfm
+< Cache-Control: no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8

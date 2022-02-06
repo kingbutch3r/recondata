@@ -1,0 +1,15 @@
+GET https://account.prelive.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Feature-Policy: vibrate none; geolocation none; camera 'none'; microphone 'none'
+< Content-Type: text/html
+< Server: nginx
+< Vary: Accept-Encoding
+< Etag: W/"61f8f7ad-61b"
+< Referrer-Policy: no-referrer
+< X-Frame-Options: sameorigin
+< Access-Control-Allow-Origin: *
+< Date: Tue, 01 Feb 2022 23:29:47 GMT
+< X-Content-Type-Options: nosniff
+< Last-Modified: Tue, 01 Feb 2022 09:04:45 GMT

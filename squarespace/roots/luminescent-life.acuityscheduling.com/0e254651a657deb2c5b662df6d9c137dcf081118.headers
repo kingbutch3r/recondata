@@ -1,0 +1,17 @@
+GET https://luminescent-life.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:02:24 GMT
+< Set-Cookie: PHPSESSID=652mg4c585sde6thvve8vnu58i; expires=Fri, 04-Mar-2022 00:02:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=aba0bdf7-23e2-43fd-9576-5eca6ca8881e; expires=Fri, 02-Feb-2024 00:02:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8

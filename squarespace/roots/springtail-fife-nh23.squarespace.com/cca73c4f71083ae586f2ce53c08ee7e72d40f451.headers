@@ -1,0 +1,11 @@
+GET http://springtail-fife-nh23.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 328698
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 06:08:09 GMT
+< Location: https://springtail-fife-nh23.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXStiAK7RovZZTc2MWE0ZDYxNWRhZDVmYTZlMWViY2ZiMDgzYmJk;Path=/
+< X-Contextid: SX8ydx1K/BHFTC9SM

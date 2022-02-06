@@ -1,0 +1,10 @@
+GET http://shrut11.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:14 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXDcasN7EMUUMTNlMDk4OTI4Njk1ZTEwMWU3MTRlMjcxZjMzNDFh;Path=/
+< X-Contextid: 5WyfkWqE/3oeKjzXw

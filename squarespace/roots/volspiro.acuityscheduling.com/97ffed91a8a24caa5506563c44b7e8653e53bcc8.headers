@@ -1,0 +1,17 @@
+GET https://volspiro.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:26:06 GMT
+< Set-Cookie: PHPSESSID=r780343d28a1v4g43lf1i4u8rb; expires=Fri, 04-Mar-2022 00:26:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4601b705-e6ba-41a5-bb96-114609dcd776; expires=Fri, 02-Feb-2024 00:26:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

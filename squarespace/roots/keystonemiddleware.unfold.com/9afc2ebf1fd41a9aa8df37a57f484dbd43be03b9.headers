@@ -1,0 +1,9 @@
+GET http://keystonemiddleware.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Location: https://unfold.com
+< Server: awselb/2.0
+< Date: Tue, 01 Feb 2022 23:49:23 GMT
+< Content-Type: application/octet-stream

@@ -1,0 +1,11 @@
+GET http://linda-quartey-biw1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 04:20:30 GMT
+< Location: https://linda-quartey-biw1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTIJiuakDUYhNDA0MmU2MjUzYmQ0YmQ4MmM2YTFkNGFhMjkyMjQx;Path=/
+< X-Contextid: rR7JPNuV/UAl8XCPj
+< Age: 246639

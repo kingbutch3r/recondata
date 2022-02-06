@@ -1,0 +1,11 @@
+GET http://mango-parsnip-bryl.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 8d8rOvYC/VCmqsUKD
+< Age: 462974
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 16:49:03 GMT
+< Location: https://mango-parsnip-bryl.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcxVvm+qb6fnYmUzMmFhZTNiNTcyYzAyZmM3MWFiMTIxZDBkNjkw;Path=/

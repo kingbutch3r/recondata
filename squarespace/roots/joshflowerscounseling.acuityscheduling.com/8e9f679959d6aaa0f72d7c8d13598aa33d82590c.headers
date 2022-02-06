@@ -1,0 +1,17 @@
+GET https://joshflowerscounseling.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:10:56 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=q8lg8q8m1be2jskeet6e7jioij; expires=Fri, 04-Mar-2022 00:10:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e07450e8-3b6d-4049-aa83-ffea6f9b9d43; expires=Fri, 02-Feb-2024 00:10:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

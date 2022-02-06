@@ -1,0 +1,10 @@
+GET http://workspace-1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BcRtuDvziFLaYmFmODRiYmI1YTEzOTlmNmFhYTNkODgxMzRiZWM5;Path=/
+< X-Contextid: sL1nmofI/aJW5wvB4
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:12:36 GMT
+< Server: Squarespace

@@ -1,0 +1,10 @@
+GET https://cnexeg6l8eawkpswymla-verify.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:49:43 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BebJx6q70xb6MmU1ZTM2NzUzNDc1YTA4ZTJkNDZkMWI3M2U5Yzg4;Path=/
+< X-Contextid: VAhi6mIf/nrtHk1BM
+< Age: 0
+< Content-Type: text/html;charset=utf-8

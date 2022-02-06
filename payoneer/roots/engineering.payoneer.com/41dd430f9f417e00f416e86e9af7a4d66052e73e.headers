@@ -1,0 +1,14 @@
+GET http://engineering.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cf-Ray: 6d6ef1e7aff22e23-BOM
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Vary: Accept-Encoding
+< Server: cloudflare
+< X-Content-Type-Options: nosniff
+< Set-Cookie: __cfruid=de50766a1b74994530222daff5dee54b981013ca-1643757989; path=/; domain=.engineering.payoneer.com; HttpOnly
+< Date: Tue, 01 Feb 2022 23:26:29 GMT
+< Cache-Control: max-age=3600
+< Expires: Wed, 02 Feb 2022 00:26:29 GMT
+< Location: https://engineering.payoneer.com/

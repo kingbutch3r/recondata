@@ -1,0 +1,17 @@
+GET https://pineridgedaycamp.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:26:59 GMT
+< Set-Cookie: PHPSESSID=fk8kj4qnsanpctsouifbta6plo; expires=Fri, 04-Mar-2022 00:26:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=78252bc1-790d-4f39-a80e-c777349ea90a; expires=Fri, 02-Feb-2024 00:26:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

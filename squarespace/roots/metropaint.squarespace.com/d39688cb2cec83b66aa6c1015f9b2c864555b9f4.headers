@@ -1,0 +1,15 @@
+GET http://metropaint.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: hYCUBMGy/rQeOVfhu
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:02:53 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Baso/xO6yWtuOWNkNTU1OTFjN2ZiNzIzZWRhODYwNjRiNGY1YTk3;Path=/
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Age: 0
+< Etag: W/"a605433e9646590a06fcdbb1e327faca"

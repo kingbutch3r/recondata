@@ -1,0 +1,17 @@
+GET https://lionshead.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:58:58 GMT
+< Set-Cookie: PHPSESSID=bcomgslolsuh8j742mdjpk5d0m; expires=Thu, 03-Mar-2022 23:58:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f4e7040c-73de-4b39-ab47-94114105ce14; expires=Thu, 01-Feb-2024 23:58:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8

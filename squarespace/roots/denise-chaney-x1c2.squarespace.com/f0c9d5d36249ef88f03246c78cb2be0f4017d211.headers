@@ -1,0 +1,16 @@
+GET https://denise-chaney-x1c2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Age: 298145
+< Date: Sat, 29 Jan 2022 14:30:25 GMT
+< Etag: W/"ccdbb5f4493a13b7f0fd648e14b97ccd"
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BVMakohHAC65Y2I4OGE3ZDEzYjY1NTY0YzA1YjE3YWE2OGU2ZDE2;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: nskhJP3j/jI6gh1qy

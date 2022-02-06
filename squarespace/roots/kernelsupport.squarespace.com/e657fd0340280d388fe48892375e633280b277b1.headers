@@ -1,0 +1,12 @@
+GET http://kernelsupport.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 14:10:34 GMT
+< X-Contextid: HwJUOdW9/kedC9uJ4
+< Age: 121212
+< Location: https://kernelsupport.squarespace.com/
+< Set-Cookie: crumb=BSGA3K6ZAA38OWU4NWU1NGZiYTIwYzhkMWFiMmFiMmU3Mzk3NDA2;Path=/

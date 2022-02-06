@@ -1,0 +1,17 @@
+GET https://coloradomuscletherapy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:47:58 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=1n5na1dbm2bljphgruihd8himk; expires=Fri, 04-Mar-2022 00:47:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2b327324-86f5-45f5-ad63-85a0b8ae6b56; expires=Fri, 02-Feb-2024 00:47:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

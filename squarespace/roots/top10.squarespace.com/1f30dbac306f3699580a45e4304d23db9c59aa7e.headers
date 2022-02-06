@@ -1,0 +1,14 @@
+GET https://top10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: 7RgxojAh/E2AOxxN5
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:50:05 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BfhFhXyFF2ztYzYwNTQ5OTJiODVkNTA1NzVjN2M5NThhNDg3Njdk;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8

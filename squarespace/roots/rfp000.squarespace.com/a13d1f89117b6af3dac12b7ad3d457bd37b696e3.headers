@@ -1,0 +1,11 @@
+GET http://rfp000.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 547120
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 16:50:58 GMT
+< Location: https://rfp000.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BaFklQl0elWDOTNlZDFhOWRkNDgwMWY2Mzk5MWMwMTdhYzQ1NmEx;Path=/
+< X-Contextid: RllS326g/NaBtpRc2

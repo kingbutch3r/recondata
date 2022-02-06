@@ -1,0 +1,17 @@
+GET https://onlyonet.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:40:39 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=nui229ct5p36amcmjb0u06495s; expires=Fri, 04-Mar-2022 00:40:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8cc03058-0f61-4dcc-9269-ed312f5f9f53; expires=Fri, 02-Feb-2024 00:40:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

@@ -1,0 +1,11 @@
+GET http://chartreuse-octopus-r3j2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 9ayr58MQ/hZLwTwDG
+< Age: 248215
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 03:55:40 GMT
+< Location: https://chartreuse-octopus-r3j2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRrx3CpxkNIUYmViZDc1NWViMDNhMzE0MGE1NDNiZDQwM2IxYmJi;Path=/

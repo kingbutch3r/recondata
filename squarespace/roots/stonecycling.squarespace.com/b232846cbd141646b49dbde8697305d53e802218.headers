@@ -1,0 +1,16 @@
+GET https://stonecycling.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=Bf3W14/PrxvxYjBiMWNjNDc3ZDM0N2JlYmFjMGUzNDg3Yzc3OWQ1;Path=/
+< Etag: W/"dd37253ea766e30a5a531ce10ac3f376--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 49731
+< X-Contextid: ZhVQdqVr/nNgHQRBB
+< Date: Tue, 01 Feb 2022 11:34:10 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes

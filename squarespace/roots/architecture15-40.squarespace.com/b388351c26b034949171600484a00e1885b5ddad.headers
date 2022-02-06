@@ -1,0 +1,14 @@
+GET https://architecture15-40.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: e2D1cIwt/K7IdISLJ
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:48 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BYFQJVoUiVKENmM3ZTgxMjg1M2EwN2JiODk3MjFlZTNkYTcyZWFk;Path=/
+< Content-Length: 3208

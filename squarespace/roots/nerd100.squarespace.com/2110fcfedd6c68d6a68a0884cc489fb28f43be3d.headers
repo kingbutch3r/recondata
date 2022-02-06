@@ -1,0 +1,12 @@
+GET http://nerd100.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BattwJqLVgX8ZWQ4ZTRmMjZkZTFhNzM5YzA0YjVhYWVkNzc1M2Rl;Path=/
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:52:07 GMT
+< X-Contextid: Y50p2orQ/hItMAwDq
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,11 @@
+GET http://tortoise-bat-n9f2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:20:15 GMT
+< Location: https://tortoise-bat-n9f2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BU2vVT9lBN4FZmYwYmNiYmQ1ODVmMzcyYWMwOWI0ZTM2ZjE2ODdj;Path=/
+< X-Contextid: kLNVo382/vwbozgSm
+< Content-Length: 0
+< Age: 0

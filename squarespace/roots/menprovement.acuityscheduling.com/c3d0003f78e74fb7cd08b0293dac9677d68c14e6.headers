@@ -1,0 +1,15 @@
+GET https://menprovement.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:41:38 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ooq2q4ks5cg0a6fp7h4n93v2g4; expires=Fri, 04-Mar-2022 00:41:37 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3292cb06-2154-4cba-8b32-c1f1892661c8; expires=Fri, 02-Feb-2024 00:41:38 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"

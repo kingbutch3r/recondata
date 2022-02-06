@@ -1,0 +1,17 @@
+GET https://cha-ology.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:46:01 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=5kbl6gjs7hn7bbmpvui52liss9; expires=Fri, 04-Mar-2022 00:46:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=189aae0a-c71d-4991-9c78-7392cc6afcdd; expires=Fri, 02-Feb-2024 00:46:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate

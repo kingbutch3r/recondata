@@ -1,0 +1,10 @@
+GET http://sfjapantown100.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:00:30 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSc+165o9qoKOWJhNTBjZmJlODcxODVjMjg0NTllOWEwYjNhNWFi;Path=/
+< X-Contextid: TRtJ9d2K/w94BRopZ

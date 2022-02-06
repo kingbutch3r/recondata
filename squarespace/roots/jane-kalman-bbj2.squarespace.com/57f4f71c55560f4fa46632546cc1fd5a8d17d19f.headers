@@ -1,0 +1,13 @@
+GET https://jane-kalman-bbj2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: 0uQMu3Ea/nnYJzkwY
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:52:39 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcS3h7Y3w4cyODUwYmU1NzViYjkwMTBlNWZmMWI2ZDI0ZTgyNjM0;Path=/

@@ -1,0 +1,17 @@
+GET https://sagebhobbs.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:31:23 GMT
+< Set-Cookie: PHPSESSID=6c00cbodij8doioshqcupu808k; expires=Fri, 04-Mar-2022 00:31:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f3a29943-b3b7-4539-aeca-40703718059d; expires=Fri, 02-Feb-2024 00:31:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php

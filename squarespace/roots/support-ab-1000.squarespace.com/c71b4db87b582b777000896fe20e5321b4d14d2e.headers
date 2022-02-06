@@ -1,0 +1,15 @@
+GET https://support-ab-1000.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=Be94UCUyvLofMDU5MTE0NDkxNWM4ZGRiZTc0MjVkMDI4YWE0MDhh;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Server: Squarespace
+< X-Contextid: ttiNNak5/hUwmzzEP
+< Content-Type: text/html;charset=utf-8
+< Age: 332913
+< Date: Sat, 29 Jan 2022 04:39:32 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff

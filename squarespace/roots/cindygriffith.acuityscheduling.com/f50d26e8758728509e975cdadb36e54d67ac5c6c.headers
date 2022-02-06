@@ -1,0 +1,17 @@
+GET https://cindygriffith.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:14:25 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=pptnmbtglusbpk55f4rlg2cbm6; expires=Fri, 04-Mar-2022 00:14:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1424d9fa-3657-414f-8db4-d844ae924137; expires=Fri, 02-Feb-2024 00:14:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

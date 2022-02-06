@@ -1,0 +1,17 @@
+GET https://peaceandhealing.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:10:42 GMT
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=v3jipc0o0g445d47p8r069k6su; expires=Fri, 04-Mar-2022 00:10:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=87130a8b-e38c-443c-89ae-7c3e40c99274; expires=Fri, 02-Feb-2024 00:10:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

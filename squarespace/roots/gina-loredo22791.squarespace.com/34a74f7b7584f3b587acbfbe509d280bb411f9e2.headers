@@ -1,0 +1,12 @@
+GET http://gina-loredo22791.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:14:09 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BWwbQ/LkkJe4NmYxNzEzY2NhZWIyMTEzMjdlYWU4MDJlN2YzN2Uy;Path=/
+< X-Contextid: kWa0Q4TB/8kVR0LgL
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

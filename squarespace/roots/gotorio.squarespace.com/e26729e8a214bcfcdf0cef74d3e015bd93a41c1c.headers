@@ -1,0 +1,11 @@
+GET https://gotorio.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:23:14 GMT
+< Location: http://gotorio.squarespace.com/;jsessionid=366F58F08CD40C38DBE2191E2229D06F.v5-web012
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=366F58F08CD40C38DBE2191E2229D06F.v5-web012; Path=/; HttpOnly
+< X-Contextid: Br2jEI1K/Bo1iiRAo

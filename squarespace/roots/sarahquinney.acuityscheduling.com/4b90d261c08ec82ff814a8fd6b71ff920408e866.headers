@@ -1,0 +1,17 @@
+GET https://sarahquinney.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=qcln6rtp4fgt4sp7fcp6id2eoo; expires=Fri, 04-Mar-2022 00:45:44 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=01d9754d-6884-4efb-b957-38d962997c23; expires=Fri, 02-Feb-2024 00:45:45 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:45:45 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

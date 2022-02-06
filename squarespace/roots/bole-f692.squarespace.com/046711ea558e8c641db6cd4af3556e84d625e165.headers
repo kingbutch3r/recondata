@@ -1,0 +1,14 @@
+GET http://bole-f692.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BXYLuV0u4e0NM2M3NzA1ZGQ4MWEzNDM4YzhiNTlhMjU5NjZlNWE4;Path=/
+< X-Contextid: 4xmnHpZe/jBdWyRuk
+< Age: 0
+< Content-Length: 3208
+< Date: Wed, 02 Feb 2022 01:18:36 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

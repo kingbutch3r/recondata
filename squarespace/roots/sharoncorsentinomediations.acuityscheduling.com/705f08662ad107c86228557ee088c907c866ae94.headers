@@ -1,0 +1,17 @@
+GET https://sharoncorsentinomediations.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:35:39 GMT
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=nsqard671sk6v6si7o4v4d769v; expires=Fri, 04-Mar-2022 00:35:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2f7d0d8e-5ad6-44dd-a345-2df921139c23; expires=Fri, 02-Feb-2024 00:35:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Content-Length: 0

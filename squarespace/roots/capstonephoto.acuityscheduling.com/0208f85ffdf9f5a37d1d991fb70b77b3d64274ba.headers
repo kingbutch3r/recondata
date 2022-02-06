@@ -1,0 +1,17 @@
+GET https://capstonephoto.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:26:21 GMT
+< Set-Cookie: PHPSESSID=tl4d313j8t2g7jt6l84vnqua09; expires=Fri, 04-Mar-2022 00:26:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a92218d2-7519-40bf-bf40-6823c91209a4; expires=Fri, 02-Feb-2024 00:26:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

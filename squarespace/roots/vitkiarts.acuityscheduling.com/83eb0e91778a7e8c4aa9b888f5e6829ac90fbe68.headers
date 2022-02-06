@@ -1,0 +1,17 @@
+GET https://vitkiarts.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=pvslr19iql5grssb41fsl8p297; expires=Fri, 04-Mar-2022 00:39:40 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=78cdb79a-c111-47dc-a43c-7728cf38eda7; expires=Fri, 02-Feb-2024 00:39:41 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:39:41 GMT
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

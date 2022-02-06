@@ -1,0 +1,17 @@
+GET https://davidaiarnold.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=3glkmid86u513u2dv99g97gpa3; expires=Thu, 03-Mar-2022 23:59:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d94d929b-a93d-4b0d-98e8-cc24a7e365e0; expires=Thu, 01-Feb-2024 23:59:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:59:51 GMT
+< Content-Length: 0

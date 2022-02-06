@@ -1,0 +1,15 @@
+GET http://harkerpodcastnetwork.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 09:21:50 GMT
+< Etag: W/"21d023f16cea9c0f86cfb95218948df5"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: 70rU6Xe1/ZGmK7A6d
+< Age: 315358
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BVxxToT0IW2PYjg2ZTJmNWIzMGIxY2QzMjVmNmE2NDcwNDNmNDZk;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

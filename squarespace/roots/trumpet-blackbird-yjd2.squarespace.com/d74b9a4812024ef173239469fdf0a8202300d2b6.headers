@@ -1,0 +1,13 @@
+GET https://trumpet-blackbird-yjd2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BWgrCYvKa/ZvNWMwMjc2NGI4NWVjMmE3Mzk0N2RhNWZjODYzNDVi;Path=/
+< X-Contextid: lW65PCYN/dRYzicZO
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:19:50 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,10 @@
+GET https://ecm2010.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:51:47 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUX+adpcZER7NDEzZGI1Nzc4OTc5MDdhMjI1ZDk4Y2U0NDZmM2Rh;Path=/
+< X-Contextid: fCibO4hd/OS5fdZYu

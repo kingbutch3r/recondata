@@ -1,0 +1,15 @@
+GET https://pinetperalta.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:56:11 GMT
+< Set-Cookie: PHPSESSID=p3bgbqgrf02rpvfqvulv5u8pga; expires=Thu, 03-Mar-2022 23:56:10 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7601129e-8e80-40b9-8e48-e4eaed1ca281; expires=Thu, 01-Feb-2024 23:56:11 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

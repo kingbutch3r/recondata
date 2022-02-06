@@ -1,0 +1,11 @@
+GET http://community.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Expires: Wed, 02 Feb 2022 00:26:23 GMT
+< Location: https://community.payoneer.com/
+< Vary: Accept-Encoding
+< Cf-Ray: 6d6ef1c5c8c184ad-BOM
+< Date: Tue, 01 Feb 2022 23:26:23 GMT
+< Cache-Control: max-age=3600
+< Server: cloudflare

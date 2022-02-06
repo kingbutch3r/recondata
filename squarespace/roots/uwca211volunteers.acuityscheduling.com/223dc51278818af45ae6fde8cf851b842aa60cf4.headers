@@ -1,0 +1,17 @@
+GET https://uwca211volunteers.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:37:04 GMT
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=tclikoj0n53bovo6if8pqso8ia; expires=Fri, 04-Mar-2022 00:37:03 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=152676be-87cb-4b5c-aae6-7b10e390405a; expires=Fri, 02-Feb-2024 00:37:04 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php

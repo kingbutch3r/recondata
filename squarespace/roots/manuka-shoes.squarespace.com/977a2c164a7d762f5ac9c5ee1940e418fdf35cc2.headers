@@ -1,0 +1,16 @@
+GET https://manuka-shoes.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 01:53:06 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BaA6VU+3gAOIODAyMjcxOGRhYTE2YWQwMGY0MGJmMDRjMmY2MzUx;Path=/
+< Accept-Ranges: bytes
+< Etag: W/"3fd02650ebd6132ac6bcdd8194715e50--gzip"
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Age: 338326
+< X-Contextid: o8jVMfkL/quf271la
+< Content-Type: text/html;charset=utf-8

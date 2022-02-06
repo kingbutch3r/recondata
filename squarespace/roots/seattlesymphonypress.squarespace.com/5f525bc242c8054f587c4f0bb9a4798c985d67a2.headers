@@ -1,0 +1,11 @@
+GET http://seattlesymphonypress.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:56:31 GMT
+< Location: https://seattlesymphonypress.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbgOhni/wOmJZmNlMDkxMjU4NzRkNjQ5ZmEwMmIxYWFhMzZlZTFh;Path=/
+< X-Contextid: B1lFs1aN/VlUUHc7e

@@ -1,0 +1,11 @@
+GET http://ukulele-roadrunner-lhfl.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 14:55:26 GMT
+< Location: https://ukulele-roadrunner-lhfl.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQglLP4Q5o6fOGUxYjc0NzY2ZDdhNGY5N2I1MmZhNDllODc4MTM2;Path=/
+< X-Contextid: uYOmQ9MZ/H6WSv4Op
+< Age: 381649

@@ -1,0 +1,11 @@
+GET http://www.shannon-gray-m7m2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BUOfnc/HsRnQOTNjMDU2MDIxOWYyM2M5ZTQzMWYzNWQ1MDg3MjBh;Path=/
+< X-Contextid: lwzL16cZ/SHeqR41o
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:21:51 GMT
+< Location: http://shannon-gray-m7m2.squarespace.com/
+< Server: Squarespace

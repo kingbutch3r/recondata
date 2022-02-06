@@ -1,0 +1,10 @@
+GET http://xt-cust.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BVNYy8wVe0QJN2UwYmFjNTc3NjhlMTFlZGI0NDgxMmVkMWYyYjJl;Path=/
+< X-Contextid: vUsZDDKZ/JS9fq64C
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:49:43 GMT

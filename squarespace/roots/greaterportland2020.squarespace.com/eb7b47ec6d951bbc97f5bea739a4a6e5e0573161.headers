@@ -1,0 +1,16 @@
+GET https://greaterportland2020.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 103370
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: L6UjnZP8/gePMWhVC
+< Set-Cookie: crumb=BSOKhIPnzL4sMTI3MTg0YmUxYWVhMDcxMDFjMmIwZTgyZjY5YmE0;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Date: Mon, 31 Jan 2022 19:09:46 GMT
+< Etag: W/"5fd7d0e321fc6c9903a8324e6aa591da--gzip"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

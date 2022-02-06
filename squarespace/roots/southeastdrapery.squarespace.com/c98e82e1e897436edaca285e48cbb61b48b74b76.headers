@@ -1,0 +1,16 @@
+GET http://southeastdrapery.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Tue, 01 Feb 2022 19:45:26 GMT
+< Age: 18655
+< Date: Tue, 01 Feb 2022 19:45:26 GMT
+< Etag: W/"fbbe8ea105c5ac752977de03048cca98"
+< Server: Squarespace
+< X-Contextid: vDnHGKuD/QCrMm6LG
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BZWkFOFIBjuqNTFlYzBiZjljOWQ4MmZiMTRiNzE4YTczYjFkMjRk;Path=/

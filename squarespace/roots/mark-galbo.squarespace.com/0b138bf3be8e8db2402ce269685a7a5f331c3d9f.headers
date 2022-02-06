@@ -1,0 +1,13 @@
+GET https://mark-galbo.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: 2CnLoHd7/14VPACCI
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:56:37 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BeSV6XdjxXSLMTdhMDg2MmZlMzc0NTRlYTJiMjc4OTkxOGM2ZGEx;Path=/

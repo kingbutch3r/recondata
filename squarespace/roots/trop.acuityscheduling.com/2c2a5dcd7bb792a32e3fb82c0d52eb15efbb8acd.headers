@@ -1,0 +1,17 @@
+GET https://trop.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=i8935ikt0j81hbec2rneqhghup; expires=Fri, 04-Mar-2022 00:27:08 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c7ce1a65-a286-47c5-be6a-1f57cf42b8b6; expires=Fri, 02-Feb-2024 00:27:09 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:27:09 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

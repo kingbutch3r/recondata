@@ -1,0 +1,10 @@
+GET http://club500.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:56:32 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BavJOXhXJCKbODczZGFlODUxNWEyOWEzN2ViODQ1ZTliYzAzYzcy;Path=/
+< X-Contextid: iawFUxIi/Anx2mpfZ

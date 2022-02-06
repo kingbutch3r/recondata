@@ -1,0 +1,17 @@
+GET https://francesgoodall.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:17:57 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=860c0mb6hk9q1t8f5q3hgj2uet; expires=Fri, 04-Mar-2022 00:17:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=c1722bff-42bb-45f2-9028-65c62dfb3d79; expires=Fri, 02-Feb-2024 00:17:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

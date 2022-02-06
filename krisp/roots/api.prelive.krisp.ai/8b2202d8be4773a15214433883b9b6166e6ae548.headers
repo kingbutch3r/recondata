@@ -1,0 +1,15 @@
+GET https://api.prelive.krisp.ai
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=utf-8
+< X-Dns-Prefetch-Control: off
+< X-Frame-Options: SAMEORIGIN
+< X-Download-Options: noopen
+< X-Content-Type-Options: nosniff
+< Content-Security-Policy: default-src 'none'
+< Date: Tue, 01 Feb 2022 23:29:46 GMT
+< Content-Length: 139
+< X-Xss-Protection: 1; mode=block
+< Cache-Control: no-cache, no-store
+< Cross-Origin-Opener-Policy: same-origin

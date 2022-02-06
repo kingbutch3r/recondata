@@ -1,0 +1,12 @@
+GET https://blog.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Location: https://newsroom.squarespace.com/
+< Set-Cookie: crumb=BZtHP2P6RH0nY2Y5NmY3Zjk1ZTk3Mzc5YWE5NGI4NDUxZGZhNDIx;Path=/
+< Set-Cookie: SS_MID=5f006f5d-d8c6-4375-9511-bf95e8715405;Path=/;Domain=.squarespace.com;Expires=Mon, 27 Feb 2023 00:55:06 GMT
+< X-Contextid: ViaGhCIW/gM6AXvWN
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:55:06 GMT
+< Server: Squarespace

@@ -1,0 +1,14 @@
+GET https://dev.upld.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< Server: cloudflare
+< Date: Tue, 01 Feb 2022 23:29:49 GMT
+< Content-Length: 21
+< Cf-Ray: 6d6ef6c4cf7e6eb9-BOM
+< Etag: W/"15-ga8EF/lp+ThIsc8w/OHbk4hPrME"
+< X-Powered-By: Express
+< Vary: Accept-Encoding
+< Content-Type: application/json; charset=utf-8
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"

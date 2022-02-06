@@ -1,0 +1,14 @@
+GET https://filesapi.qa.payoneer.com
+
+
+< HTTP/1.1 403 Forbidden
+< Content-Type: application/json
+< X-Amzn-Requestid: 06062067-acce-445b-9a17-c63791c723f8
+< X-Amzn-Errortype: ForbiddenException
+< X-Cache: Error from cloudfront
+< Via: 1.1 9e071895cd70ce9c96e164bb18e314c4.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM50-C1
+< X-Amz-Cf-Id: GveaFwQHgWoiZnLN1i3lx7K9yzyAv5g_OKcHFYvamPCK3YcrmtxtCg==
+< Content-Length: 23
+< Date: Tue, 01 Feb 2022 23:25:38 GMT
+< X-Amz-Apigw-Id: M4sp6F-FjoEFZNg=

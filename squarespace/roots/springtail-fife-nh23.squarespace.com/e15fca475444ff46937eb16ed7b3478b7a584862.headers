@@ -1,0 +1,16 @@
+GET https://springtail-fife-nh23.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sun, 30 Jan 2022 22:12:08 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 182662
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BbKdgY2MlFM9MTkzZTBjNzU5NTU5ZjE5ZjVjODdhOWJlZGRhY2Fi;Path=/
+< X-Contextid: EFNDtU4I/tScfEDfy
+< X-Frame-Options: SAMEORIGIN

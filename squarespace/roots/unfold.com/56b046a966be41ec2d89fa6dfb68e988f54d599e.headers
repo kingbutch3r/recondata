@@ -1,0 +1,17 @@
+GET https://unfold.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"f8ed9145b78779c45037e89e17396a8e"
+< Last-Modified: Wed, 26 Jan 2022 14:56:58 GMT
+< Accept-Ranges: bytes
+< Age: 550344
+< Set-Cookie: crumb=BRApBn/cC0kjM2Q4ZTg3MjJjYjEzZjNkYzcwYzIxZDk2M2QzMWIx;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Date: Wed, 26 Jan 2022 16:04:29 GMT
+< Vary: Accept-Encoding
+< X-Contextid: FiTmSAUi/CyU6vlzr
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

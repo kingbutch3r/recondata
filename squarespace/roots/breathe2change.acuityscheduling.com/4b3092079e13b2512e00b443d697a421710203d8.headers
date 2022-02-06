@@ -1,0 +1,11 @@
+GET http://breathe2change.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: https://breathe2change.acuityscheduling.com/
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:03:25 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0

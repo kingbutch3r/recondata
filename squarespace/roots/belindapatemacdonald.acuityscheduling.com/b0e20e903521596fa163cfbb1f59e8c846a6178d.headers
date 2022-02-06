@@ -1,0 +1,17 @@
+GET https://belindapatemacdonald.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=g47t9jda74l1n2uq81ok3564o1; expires=Thu, 03-Mar-2022 23:59:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3c90fc9e-d144-4e2d-9837-95fa86faae32; expires=Thu, 01-Feb-2024 23:59:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Tue, 01 Feb 2022 23:59:43 GMT
+< Content-Length: 0
+< Vary: User-Agent
+< Pragma: no-cache
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8

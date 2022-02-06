@@ -1,0 +1,12 @@
+GET http://url5145.krisp.ai
+
+
+< HTTP/1.1 404 Not Found
+< Via: 1.1 86ff5414b8411608882320ec79e9e2f6.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: BOM52-C1
+< X-Amz-Cf-Id: HWGyS7bxtbBvJ0bKYXxpRNWELcAAap21JsothZxglilkV_-26evCtA==
+< Content-Type: text/html
+< Server: nginx
+< Date: Tue, 01 Feb 2022 23:29:37 GMT
+< X-Cache: Error from cloudfront
+< Content-Length: 162

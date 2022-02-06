@@ -1,0 +1,10 @@
+GET http://hudson-demo.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BT+D6iuzXw+4ODZlYzk1MTgxNjc4OGUwOTg2MjUwNGI1YTA0YTRj;Path=/
+< X-Contextid: RZL77JaE/cC0uSkdq
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:24:22 GMT
+< Server: Squarespace

@@ -1,0 +1,17 @@
+GET https://giftedservicessjcsd.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:00:47 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=f9rn61prceigkeradtefmuq4rs; expires=Fri, 04-Mar-2022 00:00:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=65f347d4-bf6f-4155-a1d7-2c9ed85a8437; expires=Fri, 02-Feb-2024 00:00:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload

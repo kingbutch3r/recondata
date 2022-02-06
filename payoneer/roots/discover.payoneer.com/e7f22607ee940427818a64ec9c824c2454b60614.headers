@@ -1,0 +1,12 @@
+GET https://discover.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 190
+< Set-Cookie: GCLB=CJWf6LDet531kwE; path=/; HttpOnly
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Content-Type: text/html
+< Location: https://www.payoneer.com
+< Via: 1.1 google
+< Date: Tue, 01 Feb 2022 23:25:46 GMT

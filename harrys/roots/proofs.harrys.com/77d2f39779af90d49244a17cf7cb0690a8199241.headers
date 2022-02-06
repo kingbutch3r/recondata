@@ -1,0 +1,12 @@
+GET https://proofs.harrys.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 17:39:35 GMT
+< Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1k
+< Upgrade: h2,h2c
+< Etag: "117-571de2bf97380"
+< Content-Length: 279
+< Content-Type: text/html
+< Last-Modified: Thu, 26 Jul 2018 02:58:38 GMT
+< Accept-Ranges: bytes

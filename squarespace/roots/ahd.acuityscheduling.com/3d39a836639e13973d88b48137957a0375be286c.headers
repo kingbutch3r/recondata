@@ -1,0 +1,15 @@
+GET https://ahd.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Tue, 01 Feb 2022 23:59:34 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=bgi6d7ev76idb8kvllml04ffad; expires=Thu, 03-Mar-2022 23:59:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b4ad58b9-a9cf-4a6b-94c1-97ce31423692; expires=Thu, 01-Feb-2024 23:59:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

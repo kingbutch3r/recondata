@@ -1,0 +1,11 @@
+GET http://gazelle-bobcat-3da8.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BWzZGomF8oh6ZmQ0OTFmOTI4M2RiNjcxODgzYjg5OWE3YzBjMGY4;Path=/
+< X-Contextid: GnJL0uGi/CzHwdvER
+< Age: 538604
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 19:18:38 GMT
+< Location: https://gazelle-bobcat-3da8.squarespace.com/

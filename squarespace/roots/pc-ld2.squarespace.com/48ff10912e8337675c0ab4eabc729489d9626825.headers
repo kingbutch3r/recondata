@@ -1,0 +1,9 @@
+GET http://pc-ld2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:52:15 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=2711169280EF1CB9646E2A68BEFB598F.v5-web019; Path=/; HttpOnly
+< X-Contextid: cgektICm/9aWHIalH

@@ -1,0 +1,14 @@
+GET https://kuba-james.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: d1DpFkA6/W1UZm3UK
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BTCpYI/iHcx5M2IxNGEzNTRkMjhhZWY5YTk4MGUwYTJjNjcxMjgy;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Length: 3208
+< Date: Tue, 01 Feb 2022 23:51:02 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

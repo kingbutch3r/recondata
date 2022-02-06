@@ -1,0 +1,16 @@
+GET http://s3media.squarespace.com
+
+
+< HTTP/1.1 403 Forbidden
+< X-Served-By: cache-bom4725-BOM
+< X-Amz-Request-Id: G7WYZJVSTAMYBQRF
+< X-Amz-Id-2: G1fFkx6eSG1E+xud+SuPJLWgCflTjTVYTvfMgWd8uJfTLipjz7tNg6navVk9H3CscbeFPtl4Wh4=
+< X-Amz-Bucket-Region: us-east-1
+< Via: 1.1 varnish
+< Server: AmazonS3
+< X-Timer: S1643763308.570278,VS0,VE591
+< Date: Wed, 02 Feb 2022 00:55:08 GMT
+< X-Cache: MISS
+< X-Cache-Hits: 0
+< Content-Type: application/xml
+< Accept-Ranges: bytes

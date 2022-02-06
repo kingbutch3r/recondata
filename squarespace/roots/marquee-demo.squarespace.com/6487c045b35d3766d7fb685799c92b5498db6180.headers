@@ -1,0 +1,11 @@
+GET http://marquee-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Thu, 27 Jan 2022 23:30:04 GMT
+< Location: https://marquee-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfRzTRXqQhCIOTI5N2Q4YzFhYmE1MDU3MTM1NjA5NjAwZTAwYzBk;Path=/
+< X-Contextid: gd1l51zz/T7hjejqM
+< Age: 438750
+< Content-Length: 0

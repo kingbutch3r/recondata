@@ -1,0 +1,11 @@
+GET http://vivian-ho-rrdg.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BX4CWrIwt6UgMzRlODg3ODIxOGU2ZWEwMThkMzk5NTgzMzA3OTRi;Path=/
+< X-Contextid: wCc4g9oj/DMZ5Tca2
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:26:00 GMT
+< Location: https://vivian-ho-rrdg.squarespace.com/

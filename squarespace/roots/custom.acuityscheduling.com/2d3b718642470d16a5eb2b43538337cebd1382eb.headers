@@ -1,0 +1,9 @@
+GET https://custom.acuityscheduling.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: AWSALB=ht6ZFTqlLKfvDnLJKjgXrkdUTDJfAyVSM26tbYA2r3hmtdHBu9soqXbZL5p3eLomgG21KOL7Asj0L2arSEjZX1lQPqNRb64tLtUO2G4Cl/B7Kghmq06jmYbPaoXZ; Expires=Wed, 09 Feb 2022 00:19:38 GMT; Path=/
+< Set-Cookie: AWSALBCORS=ht6ZFTqlLKfvDnLJKjgXrkdUTDJfAyVSM26tbYA2r3hmtdHBu9soqXbZL5p3eLomgG21KOL7Asj0L2arSEjZX1lQPqNRb64tLtUO2G4Cl/B7Kghmq06jmYbPaoXZ; Expires=Wed, 09 Feb 2022 00:19:38 GMT; Path=/; SameSite=None; Secure
+< Vary: Accept-Encoding
+< Date: Wed, 02 Feb 2022 00:19:38 GMT
+< Content-Type: text/html; charset=utf-8

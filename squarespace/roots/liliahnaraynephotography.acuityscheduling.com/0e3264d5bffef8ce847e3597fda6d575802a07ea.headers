@@ -1,0 +1,17 @@
+GET https://liliahnaraynephotography.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=ng93qbpa35rme4tn8eq3o4tuc7; expires=Fri, 04-Mar-2022 00:46:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8decdb9a-6b3c-4f1f-aebd-08a92e1e7fed; expires=Fri, 02-Feb-2024 00:46:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:46:20 GMT
+< Content-Type: text/html; charset=UTF-8

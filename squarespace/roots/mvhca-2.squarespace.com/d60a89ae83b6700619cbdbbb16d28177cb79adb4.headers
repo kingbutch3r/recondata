@@ -1,0 +1,17 @@
+GET https://mvhca-2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 423843
+< Set-Cookie: crumb=BWCmsyrRS46iMThlMDkwYzVmZmNkYTIzZGMyZWY5MjYyZGJjZGFl;Path=/
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: CoAu7H5b/RmmmJk1y
+< Etag: W/"14f21c9fbe9e89e52c16d81dedb4805a"
+< Last-Modified: Fri, 28 Jan 2022 03:07:12 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Date: Fri, 28 Jan 2022 03:07:12 GMT

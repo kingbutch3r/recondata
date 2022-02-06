@@ -1,0 +1,9 @@
+GET http://a7956feecc.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 166
+< Location: https://a7956feecc.payoneer.com/
+< Server: openresty
+< Date: Tue, 01 Feb 2022 23:25:37 GMT
+< Content-Type: text/html

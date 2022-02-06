@@ -1,0 +1,23 @@
+GET http://status.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=259200
+< X-Download-Options: noopen
+< X-Runtime: 0.034337
+< X-Statuspage-Skip-Logging: true
+< Referrer-Policy: strict-origin-when-cross-origin
+< Age: 1508
+< Vary: Accept,Accept-Encoding,X-Forwarded-Host,X-Forwarded-Scheme,X-Forwarded-Proto,Fastly-SSL
+< X-Cache: HIT
+< Content-Type: text/html; charset=utf-8
+< X-Request-Id: 23ba2cef-4257-4338-8809-0f94d00d95ab
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< Cache-Control: no-cache
+< Date: Wed, 02 Feb 2022 00:54:49 GMT
+< Location: https://status.squarespace.com/
+< X-Permitted-Cross-Domain-Policies: none
+< Content-Length: 97
+< X-Xss-Protection: 1; mode=block
+< X-Statuspage-Version: fdfee86f28367c43b2fd8f4b4d5f6abb754dad8e

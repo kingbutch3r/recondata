@@ -1,0 +1,15 @@
+GET https://dgcpa.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:55:32 GMT
+< Set-Cookie: PHPSESSID=tb3h1i5nma9m0g1vn4e21i4c3n; expires=Thu, 03-Mar-2022 23:55:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=13a26f10-f024-48c6-9119-f68cc314cd22; expires=Thu, 01-Feb-2024 23:55:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

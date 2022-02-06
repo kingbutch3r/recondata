@@ -1,0 +1,10 @@
+GET http://arugula-primrose-sg42.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:17:23 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSIEaD1NScqtOGI0YTVjNGM0NTdhYTYzZGZmY2U3YWY1ODZmZDJj;Path=/
+< X-Contextid: RHJ0Lqor/Smnd2yl6
+< Age: 0
+< Content-Type: text/html;charset=utf-8

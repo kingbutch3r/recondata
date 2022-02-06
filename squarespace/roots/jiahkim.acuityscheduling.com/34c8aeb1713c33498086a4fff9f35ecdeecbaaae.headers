@@ -1,0 +1,17 @@
+GET https://jiahkim.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:19:08 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=ls4ff5kvgq7slgomu5q6hjh2cr; expires=Fri, 04-Mar-2022 00:19:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=26fc255e-d7e4-4151-8801-6f7fb6725ab6; expires=Fri, 02-Feb-2024 00:19:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

@@ -1,0 +1,12 @@
+GET http://roy-stenbro.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BWZCX84HCqcONjkzNTYzODhiMmFmMDNjNzE3OGQxNTZhOTM1MTEw;Path=/
+< X-Contextid: 4NSCR5CZ/TN0eb0gP
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:01:38 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

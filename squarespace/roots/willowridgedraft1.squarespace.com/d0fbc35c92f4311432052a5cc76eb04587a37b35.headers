@@ -1,0 +1,16 @@
+GET https://willowridgedraft1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 362096
+< Date: Fri, 28 Jan 2022 20:16:11 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Contextid: yfciYFHM/D4IvmLv1
+< Set-Cookie: crumb=BbIP4UG5qvf0MTMzNTFiMjI0Yzk0MDBjZjA3MmM5ZDIxNjZkNzI1;Path=/
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"88875a74b8f07b78713a361f184e1d30--gzip"
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

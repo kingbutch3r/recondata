@@ -1,0 +1,15 @@
+GET https://pinklaw.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=l7062pv8lbecmb824a515k4ip2; expires=Fri, 04-Mar-2022 00:43:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2bd5c4da-3c99-480b-bc1a-53c4cadb8d00; expires=Fri, 02-Feb-2024 00:44:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:44:00 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

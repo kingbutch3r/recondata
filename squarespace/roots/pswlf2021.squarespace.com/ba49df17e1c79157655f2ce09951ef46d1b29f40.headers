@@ -1,0 +1,11 @@
+GET http://pswlf2021.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://pswlf2021.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSfu0HE31Dz3N2RmNGQ5Nzc1ZDU5ZDc4ZGRjYTBiN2Q4MGI4NzJh;Path=/
+< X-Contextid: XD8JJSuB/1vmENQXe
+< Age: 228906
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 09:38:11 GMT

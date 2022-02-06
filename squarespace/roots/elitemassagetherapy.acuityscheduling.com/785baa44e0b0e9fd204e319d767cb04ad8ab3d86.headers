@@ -1,0 +1,15 @@
+GET https://elitemassagetherapy.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=a43spmu4tucaj2p26o0infhe2h; expires=Fri, 04-Mar-2022 00:47:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cb6c1e9f-b661-4f4d-96ce-2b0b8dc81e5f; expires=Fri, 02-Feb-2024 00:47:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:47:55 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,17 @@
+GET https://photosorganized.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:59:33 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=495eo7ni2jnf1tu3k2j68uck1f; expires=Thu, 03-Mar-2022 23:59:32 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f3a164c5-ceb0-48fd-9ec4-afc0a40fe559; expires=Thu, 01-Feb-2024 23:59:33 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,11 @@
+GET http://iap.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Accept-Ranges: bytes
+< X-Served-By: cache-bom4742-BOM
+< X-Cache: HIT
+< X-Cache-Hits: 0
+< Retry-After: 0
+< Location: https://iap.unfold.com/
+< Content-Length: 0

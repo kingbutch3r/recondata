@@ -1,0 +1,17 @@
+GET https://nvla.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:55:02 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=8r9tor3k3mmlvn3qd3lb75iiac; expires=Thu, 03-Mar-2022 23:55:01 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=73f10b08-61df-4a1b-b8f6-d4316a1039ca; expires=Thu, 01-Feb-2024 23:55:02 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Vary: User-Agent

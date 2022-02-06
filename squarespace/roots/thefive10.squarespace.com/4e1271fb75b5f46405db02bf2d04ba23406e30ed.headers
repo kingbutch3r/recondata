@@ -1,0 +1,11 @@
+GET https://thefive10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BZ53qqmoGBbRNWE4MTQ3NzAwM2U0Yjk4M2IyNGQ1MWI0ZmZiZmVj;Path=/
+< X-Contextid: GI7rXyDU/qpu1sVgJ
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:49:55 GMT

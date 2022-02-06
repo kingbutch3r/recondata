@@ -1,0 +1,17 @@
+GET https://smallbusinessresults.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:39:08 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=3ghbat1tligd9u4m3hhsmksutt; expires=Fri, 04-Mar-2022 00:39:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=95adb976-c7b7-447a-901e-fc347fe31ad8; expires=Fri, 02-Feb-2024 00:39:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

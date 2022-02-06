@@ -1,0 +1,14 @@
+GET https://bradgood-7-0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:56:22 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: 1Ci0PdXy/6YwVAKnz
+< Content-Length: 3208
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWy5GXq9pcS8NjIxMjhmNzQ0YmI0ZGQ0ZTBlYjg1Yzk2MzAyNTM4;Path=/
+< Strict-Transport-Security: max-age=43200
+< Age: 0

@@ -1,0 +1,16 @@
+GET https://astm-coe.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BZndgNcII4HtOTVjNGEyZWNlNGU0MDg2ZTlkM2JkMzIwYWQxMGY1;Path=/
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:56:16 GMT
+< Server: Squarespace
+< X-Contextid: UKu5Jvyj/uj6dm4a7
+< Age: 0
+< Etag: W/"18fb3f1fe36cdcdef8ff4a6ddfe0b017--gzip"
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding

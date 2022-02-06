@@ -1,0 +1,17 @@
+GET https://trbe.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:00:59 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=2hfvectlckktlo5ccn5dam1522; expires=Fri, 04-Mar-2022 00:00:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b0348b25-7a4a-4cc5-902f-235bc6bdd319; expires=Fri, 02-Feb-2024 00:00:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate

@@ -1,0 +1,17 @@
+GET https://roberto-mighty-rjj1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"a226aaa8fc1a595b6869d04efebf531f"
+< Set-Cookie: crumb=BZHy7OX/FNZ3ZDk2MWE2NzkzMDkzY2YwZGMzYzMzYTBjN2NjYTc3;Path=/
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 01:15:20 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:15:20 GMT
+< Vary: Accept-Encoding
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: 2TXSDgG3/xDiRWXWR

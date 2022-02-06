@@ -1,0 +1,10 @@
+GET https://elaines30th.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:23:31 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSwYupR8jexsNjU1YzQ2NTBmM2ZiODViMzcyNzg4ZjM1ZWJiZmNi;Path=/
+< X-Contextid: hH1uMm28/BgedQSGH

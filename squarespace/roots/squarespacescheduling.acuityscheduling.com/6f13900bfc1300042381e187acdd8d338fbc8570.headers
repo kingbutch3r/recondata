@@ -1,0 +1,15 @@
+GET https://squarespacescheduling.acuityscheduling.com
+
+
+< HTTP/1.1 200 OK
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:11:07 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=dnskn8mvpu37tg81ch5qkat7rc; expires=Fri, 04-Mar-2022 00:11:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9fd8e547-3cac-4d9a-8347-7d49b18687cc; expires=Fri, 02-Feb-2024 00:11:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,17 @@
+GET https://clubfitness.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=458ddst44r2kpkrbnrjmmbqoq0; expires=Fri, 04-Mar-2022 00:38:35 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0d5765cf-d466-4423-a408-4ab1499842ff; expires=Fri, 02-Feb-2024 00:38:36 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:38:36 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,16 @@
+GET https://nicole-may-tl6c.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"363766fdece33d116d697337898155b4"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: jceHxQTs/ecPGyTU8
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Date: Sat, 29 Jan 2022 03:27:34 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQ55NYe3Y8uOYWZkOGEyOTY2ZmMxZGRlM2M1NjY3ODk1YTdiMWE4;Path=/
+< Age: 338109

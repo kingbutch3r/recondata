@@ -1,0 +1,11 @@
+GET http://trombone-copper-pxja.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://trombone-copper-pxja.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRSN8DF5Txm/NTA2Y2UzYzU5MWI4NzQ1NDk1YWQ2MWM1ZjYwN2Iy;Path=/
+< X-Contextid: kDMnU0mr/E9Z0hfVE
+< Age: 276803
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 20:30:36 GMT

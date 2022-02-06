@@ -1,0 +1,12 @@
+GET http://cdn-vod-drm2.floatplane.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=3600
+< Cf-Ray: 6d652ac0ca698565-BOM
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Date: Mon, 31 Jan 2022 18:57:39 GMT
+< Expires: Mon, 31 Jan 2022 19:57:39 GMT
+< Location: https://cdn-vod-drm2.floatplane.com/
+< Vary: Accept-Encoding
+< Server: cloudflare

@@ -1,0 +1,15 @@
+GET https://missinspirer.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:29:34 GMT
+< Set-Cookie: PHPSESSID=ek1db4b0eve329dnv1bo1ogsr9; expires=Fri, 04-Mar-2022 00:29:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ade1b6cf-679b-4dfd-8a57-20255ed0eecf; expires=Fri, 02-Feb-2024 00:29:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

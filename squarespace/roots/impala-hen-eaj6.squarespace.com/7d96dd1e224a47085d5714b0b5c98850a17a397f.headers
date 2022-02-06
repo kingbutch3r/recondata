@@ -1,0 +1,14 @@
+GET https://impala-hen-eaj6.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:50:03 GMT
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BdX61lecGZ2BN2NjM2NjZTdkMjkyMmE5YWEyYjIyZWIxOGE3ZWMy;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< X-Contextid: pJXonaNQ/NKWkQYg5
+< X-Frame-Options: SAMEORIGIN

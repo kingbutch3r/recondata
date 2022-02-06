@@ -1,0 +1,15 @@
+GET https://holisticmassage.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:02:54 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=f2fpiuhqpaaqmv111oh0mndv3a; expires=Fri, 04-Mar-2022 00:02:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e5bbaced-ae2e-4f02-b6b3-cf353877049a; expires=Fri, 02-Feb-2024 00:02:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,17 @@
+GET https://apexchiropractic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:34 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=g2f3h63eionvreigiacrfrfrmq; expires=Thu, 03-Mar-2022 23:57:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8b72c33f-fd2e-408e-9351-da534a80517c; expires=Thu, 01-Feb-2024 23:57:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php

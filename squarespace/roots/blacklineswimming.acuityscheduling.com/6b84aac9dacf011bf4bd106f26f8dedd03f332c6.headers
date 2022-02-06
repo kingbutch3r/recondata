@@ -1,0 +1,17 @@
+GET https://blacklineswimming.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=mfi7uo59vjr2aos24uk7s782ro; expires=Fri, 04-Mar-2022 00:54:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b8d4c596-b0a2-4fc1-b6de-a0fb6db3b590; expires=Fri, 02-Feb-2024 00:54:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:54:17 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

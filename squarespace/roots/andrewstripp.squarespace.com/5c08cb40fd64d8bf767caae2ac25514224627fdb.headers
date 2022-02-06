@@ -1,0 +1,15 @@
+GET http://andrewstripp.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 21:45:57 GMT
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BV0d9FfZth+uYmMyZTZlNjFkY2EzNTM3NWY0NGEyMGZhZmJjNWM5;Path=/
+< Etag: W/"0d4cc8328f42e70e21d2c156aded950b--gzip"
+< Age: 358846
+< Server: Squarespace
+< X-Contextid: famkuWKL/QF9DwZx7

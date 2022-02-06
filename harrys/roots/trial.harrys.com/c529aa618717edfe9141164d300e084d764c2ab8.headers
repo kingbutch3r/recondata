@@ -1,0 +1,13 @@
+GET https://trial.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: AmazonS3
+< X-Amz-Cf-Id: i0DCeEVTryYMUgInHzFTbdheiF10mOqAP9hre9E4XE2FMWU3Kc5B5g==
+< Date: Fri, 28 Jan 2022 19:43:22 GMT
+< Location: https://www.harrys.com/go/trial-sub-r/
+< X-Cache: Hit from cloudfront
+< Via: 1.1 203715eee1aff29c3cd146fbb151966c.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: SIN5-C1
+< Age: 78968
+< Content-Length: 0

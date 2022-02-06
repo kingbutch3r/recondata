@@ -1,0 +1,15 @@
+GET https://virtualcreationsadmin.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=726h8fkj31j8kullm7v4et947d; expires=Fri, 04-Mar-2022 00:21:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=26b044cb-412b-4f58-9343-dc8c5275df24; expires=Fri, 02-Feb-2024 00:21:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:21:52 GMT
+< P3p: CP="CAO PSA OUR"

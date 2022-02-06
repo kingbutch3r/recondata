@@ -1,0 +1,15 @@
+GET https://user.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Server: rhino-core-shield
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Cache-Control: no-cache, private, no-transform, no-store
+< Date: Tue, 01 Feb 2022 23:26:37 GMT
+< Vary: Accept-Encoding
+< Alt-Svc: clear
+< Via: 1.1 google
+< Set-Cookie: GCLB=CPWW_sn38qaVQQ; path=/; HttpOnly
+< Pragma: no-cache
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"

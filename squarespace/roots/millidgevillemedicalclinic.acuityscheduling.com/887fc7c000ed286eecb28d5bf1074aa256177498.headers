@@ -1,0 +1,17 @@
+GET https://millidgevillemedicalclinic.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:57:23 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=bqs12rl3pp968rpe2ga8u69h8j; expires=Thu, 03-Mar-2022 23:57:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=899c2f08-e401-4b5e-9245-1fd507ad8611; expires=Thu, 01-Feb-2024 23:57:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php

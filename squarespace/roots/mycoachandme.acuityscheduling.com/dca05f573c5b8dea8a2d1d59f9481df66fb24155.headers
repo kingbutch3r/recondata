@@ -1,0 +1,15 @@
+GET https://mycoachandme.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=j3h63s9bfqsns833f7rv5p4pmg; expires=Fri, 04-Mar-2022 00:05:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1aa2f523-0d59-46f7-a52a-b104c90b89b7; expires=Fri, 02-Feb-2024 00:05:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:05:03 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

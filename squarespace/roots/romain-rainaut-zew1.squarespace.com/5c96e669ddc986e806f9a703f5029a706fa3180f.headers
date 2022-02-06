@@ -1,0 +1,12 @@
+GET http://romain-rainaut-zew1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: UuzQEqHA/8KOg9m0a
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:15:53 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Set-Cookie: crumb=BSsuDRGsx220Y2M4MmEwMzI5ZTdkMGJmZTljNjdiNTRiNWY3YzYy;Path=/

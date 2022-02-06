@@ -1,0 +1,15 @@
+GET https://workwithcordelia.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:31 GMT
+< Set-Cookie: PHPSESSID=atu5v661g978q31muj324d4mmb; expires=Thu, 03-Mar-2022 23:54:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e0a11adc-9ddd-4060-9dc7-79c0668bbc0b; expires=Thu, 01-Feb-2024 23:54:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

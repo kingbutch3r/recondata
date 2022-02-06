@@ -1,0 +1,17 @@
+GET https://marga.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:54:10 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=7jrrh0mmam479209mbf2qfkvvf; expires=Thu, 03-Mar-2022 23:54:09 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=df7448d8-c5f7-4707-8225-58b2cba64582; expires=Thu, 01-Feb-2024 23:54:10 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

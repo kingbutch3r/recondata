@@ -1,0 +1,11 @@
+GET http://galapagos-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 08:53:08 GMT
+< Location: https://galapagos-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWKzg4lUCBLxMzk3M2MxM2I2YjIyNTY1NWY0NzZmYWQ4ZjVlZDU5;Path=/
+< X-Contextid: AK8jRnd4/tttELjN4
+< Age: 403381

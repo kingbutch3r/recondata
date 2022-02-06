@@ -1,0 +1,16 @@
+GET https://ryan-salinetti-uk01.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 09:51:06 GMT
+< Etag: W/"861e0fd142b7f951eb6f0869eac5ff0a--gzip"
+< Strict-Transport-Security: max-age=0
+< X-Contextid: HM1Jweey/HS8JFIlF
+< Age: 400917
+< Set-Cookie: crumb=BYrJ+LM9J7t/MTZkYTUyMzczNTRkMWVhYzFiM2M0ZTkxMmIxM2Nl;Path=/
+< Server: Squarespace

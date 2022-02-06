@@ -1,0 +1,11 @@
+GET http://chicken-dodecahedron-lh42.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 52803
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 10:37:21 GMT
+< Location: https://chicken-dodecahedron-lh42.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BWjf/MfV1Bz1N2E4YTJiZjI4MDliMWYzNTA2YzM4MTZhYTVjMjE2;Path=/
+< X-Contextid: rg85XWr2/5QtyI2Z6

@@ -1,0 +1,13 @@
+GET https://floatplane.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Date: Mon, 31 Jan 2022 18:57:40 GMT
+< Cache-Control: max-age=3600
+< Cf-Ray: 6d652ac5dc0485c9-BOM
+< Expires: Mon, 31 Jan 2022 19:57:40 GMT
+< Location: https://www.floatplane.com/

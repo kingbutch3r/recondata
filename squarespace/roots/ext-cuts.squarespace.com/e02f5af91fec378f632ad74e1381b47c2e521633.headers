@@ -1,0 +1,11 @@
+GET https://ext-cuts.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: sma2O0AH/773jJuWd
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:00:25 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BY5mS3nVf4dlYWEwYjBjODA2YTk2ZDkxZTA2ZWYwMGY2ZGIwZTAz;Path=/

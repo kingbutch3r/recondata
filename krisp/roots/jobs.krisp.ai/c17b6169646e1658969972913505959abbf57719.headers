@@ -1,0 +1,10 @@
+GET http://jobs.krisp.ai
+
+
+< HTTP/1.1 308 Permanent Redirect
+< Location: https://jobs.krisp.ai/
+< Refresh: 0;url=https://jobs.krisp.ai/
+< Server: Vercel
+< X-Vercel-Id: bom1::vwsfz-1643758181064-a3c6c11b3246
+< Date: Tue, 01 Feb 2022 23:29:41 GMT
+< Content-Type: text/plain

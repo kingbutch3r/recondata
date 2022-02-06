@@ -1,0 +1,15 @@
+GET https://new123456789246810.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=0
+< X-Contextid: HE8X2fxx/NoPgUxhJ
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Content-Length: 3208
+< Date: Tue, 01 Feb 2022 23:49:55 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BYLY8qhjJakHZTE3ZmM4NmM3MWViYzRhNGZlMDE1Y2YxMTA4N2I0;Path=/

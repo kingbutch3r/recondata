@@ -1,0 +1,9 @@
+GET http://bar3crange.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: awselb/2.0
+< Date: Wed, 02 Feb 2022 00:52:55 GMT
+< Content-Type: application/octet-stream
+< Content-Length: 0
+< Location: https://unfold.com

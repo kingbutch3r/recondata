@@ -1,0 +1,11 @@
+GET http://sfwda2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BWMhqzRiidrKZDg5ZjVhZWMwYjU4YjlhMzZjNGE3Njg0NzdjZTQ4;Path=/
+< X-Contextid: DZLVLRzn/xQZY9hWN
+< Age: 433029
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 01:01:45 GMT
+< Location: https://sfwda2.squarespace.com/
+< Server: Squarespace

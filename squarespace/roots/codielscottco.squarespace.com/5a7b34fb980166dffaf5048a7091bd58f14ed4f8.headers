@@ -1,0 +1,11 @@
+GET http://codielscottco.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 109226
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 18:40:41 GMT
+< Location: https://codielscottco.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Bd1lsQuPiL3RY2FlYTVkNDY0NDViZjE0NjkwNjM4MDQyOWY1YmJi;Path=/
+< X-Contextid: sfmn10ei/VIicnmrU

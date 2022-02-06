@@ -1,0 +1,11 @@
+GET http://uk.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Sl-Notranslate: 1
+< Server: Squarespace
+< X-Contextid: Lr17aubB/63aDaxiF
+< X-Server: Smartling
+< Date: Wed, 02 Feb 2022 00:54:55 GMT
+< Location: https://uk.squarespace.com/
+< X-Sl-Norewrite: 1

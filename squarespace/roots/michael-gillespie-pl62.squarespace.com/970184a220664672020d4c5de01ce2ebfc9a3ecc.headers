@@ -1,0 +1,16 @@
+GET https://michael-gillespie-pl62.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 02:55:27 GMT
+< Set-Cookie: crumb=BeQyt4khpkCHOTE0Zjk4MzE4NmIxNGI4MDk5YmM4NzVkZjg0NDA4;Path=/
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: bYzHi5XE/M0Lvpd6k
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Age: 339756
+< Etag: W/"4ee7ce4c5afc45b260c15fde7fc008d1"
+< Server: Squarespace

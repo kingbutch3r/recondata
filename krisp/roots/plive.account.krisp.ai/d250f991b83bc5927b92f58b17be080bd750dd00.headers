@@ -1,0 +1,11 @@
+GET http://plive.account.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:29:43 GMT
+< Expires: Wed, 02 Feb 2022 00:29:43 GMT
+< Location: https://plive.account.krisp.ai/
+< Server: cloudflare
+< Cf-Ray: 6d6ef6a7ecd06edd-BOM
+< Cache-Control: max-age=3600
+< Vary: Accept-Encoding

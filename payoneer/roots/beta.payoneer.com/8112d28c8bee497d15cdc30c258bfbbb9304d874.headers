@@ -1,0 +1,10 @@
+GET http://beta.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:26:26 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://beta.payoneer.com/
+< Content-Length: 223

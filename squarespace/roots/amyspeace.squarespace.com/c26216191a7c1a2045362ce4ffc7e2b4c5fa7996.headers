@@ -1,0 +1,16 @@
+GET https://amyspeace.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Contextid: toz1fT4s/hDbK3DNM
+< Etag: W/"6d0727708d2b5abaf9a24c3edb769da9"
+< Set-Cookie: crumb=BZhjS3dzGvHkODViNTBmMzViNmQ0NjZlMWE5Zjc5ZDE0NzA2NDM0;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:58:58 GMT

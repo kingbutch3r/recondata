@@ -1,0 +1,19 @@
+GET https://msoid.payoneer.com
+
+
+< HTTP/1.1 302 Found
+< X-Ms-Ests-Server: 2.1.12381.24 - KRSLR1 ProdSlices
+< Cache-Control: no-store, no-cache
+< P3p: CP="DSP CUR OTPi IND OTRi ONL FIN"
+< Expires: -1
+< Location: https://www.office.com/login#
+< X-Content-Type-Options: nosniff
+< Set-Cookie: fpc=AjcIz0_drf9JtMW4npTWZhY; expires=Thu, 03-Mar-2022 23:26:27 GMT; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: esctx=AQABAAAAAAD--DLA3VO7QrddgJg7WevrLPd0yatju0kKIUZfMm9A1XxpH81r2V5Vdh7hvJDp0SQoKwqeKmJhIHM_WlXxjVe7CQobJehtNUVkZLWGfQO4dAOdvLGBHySwMgjg7weqjvCMgV7aRr9uH27rjX3AflkB3yakJeRfnOofjzAJ4NW9yGKhdR22SndFe6RuEFesIA4gAA; domain=.msoid.payoneer.com; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: x-ms-gateway-slice=estsfd; path=/; secure; samesite=none; httponly
+< Set-Cookie: stsservicecookie=estsfd; path=/; secure; samesite=none; httponly
+< Content-Type: text/html; charset=utf-8
+< Vary: Accept-Encoding
+< X-Ms-Request-Id: e5e63594-b675-493a-8874-f6f086311c00
+< Date: Tue, 01 Feb 2022 23:26:27 GMT
+< Pragma: no-cache

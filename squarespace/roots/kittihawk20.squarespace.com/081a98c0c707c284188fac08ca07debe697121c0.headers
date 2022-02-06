@@ -1,0 +1,16 @@
+GET https://kittihawk20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Date: Sat, 29 Jan 2022 19:58:04 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYm4n2TKOCWUZjc2OTE0MzA1NWQ5ZmFlYjdlOGY0ZjhjMmUyOTk4;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Etag: W/"d24eff89267938112f19c57b71e2c79d--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 277308
+< X-Contextid: mewZ5vmu/huLRRPcF

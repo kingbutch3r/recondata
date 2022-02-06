@@ -1,0 +1,17 @@
+GET https://plive.account.krisp.ai
+
+
+< HTTP/1.1 200 OK
+< X-Frame-Options: sameorigin
+< Access-Control-Allow-Origin: *
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< Date: Tue, 01 Feb 2022 23:29:46 GMT
+< X-Content-Type-Options: nosniff
+< Feature-Policy: vibrate none; geolocation none; camera 'none'; microphone 'none'
+< Cf-Ray: 6d6ef6b47dd88519-BOM
+< Content-Type: text/html
+< Last-Modified: Tue, 01 Feb 2022 09:04:45 GMT
+< Vary: Accept-Encoding
+< Referrer-Policy: no-referrer

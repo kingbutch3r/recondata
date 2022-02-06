@@ -1,0 +1,17 @@
+GET https://proknowledge.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=njkg450h3k94ld2jmd6ggibn1n; expires=Fri, 04-Mar-2022 00:03:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7fab5888-17fe-4d22-b6b0-56d7ffce68cc; expires=Fri, 02-Feb-2024 00:03:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:03:20 GMT
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

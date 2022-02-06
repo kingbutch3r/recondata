@@ -1,0 +1,16 @@
+GET https://badger-yellow-pfg2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Thu, 27 Jan 2022 18:07:52 GMT
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Etag: W/"c37ad7b94e01c9bbbfbeec6c0f7e4d98--gzip"
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Age: 456277
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=Bdo8jpvS308sMzNjMTQ5ZjhlZWViNmU5ODhiN2Y0YTBmNmFhMmJl;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: N6GvFIU7/QdPomWvI

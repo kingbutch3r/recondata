@@ -1,0 +1,17 @@
+GET https://drdebbieswanson.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=a9lfohg1ljkhrkud3k9u6e53r4; expires=Fri, 04-Mar-2022 00:23:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ede39fbb-7b31-4280-82b6-6a0acd00c853; expires=Fri, 02-Feb-2024 00:23:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:23:55 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8

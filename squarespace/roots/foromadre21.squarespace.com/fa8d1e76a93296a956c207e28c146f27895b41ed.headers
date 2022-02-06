@@ -1,0 +1,16 @@
+GET https://foromadre21.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BetYTxlq9OdSMjJmOTI0MzNhZDgxYTFhODIxNGVkODYwMmU5NWQ1;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 362752
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"a16eb8a416527dbb526ab9fc156427d9--gzip"
+< Strict-Transport-Security: max-age=0
+< Date: Fri, 28 Jan 2022 20:04:36 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: B3p5NYXB/tQqmg0OF
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

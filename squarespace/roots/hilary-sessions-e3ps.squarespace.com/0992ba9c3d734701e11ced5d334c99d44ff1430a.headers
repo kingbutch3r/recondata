@@ -1,0 +1,14 @@
+GET https://hilary-sessions-e3ps.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:33 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BZInRBhQF2ueY2I2YWM4Y2NhN2E0MTcxMzI1MmNiNDcxZGY4OGFi;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: VFOvH0MB/ZK1VZGx6
+< Age: 0

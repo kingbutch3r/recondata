@@ -1,0 +1,16 @@
+GET https://thelamp-place.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"03f03f1dfd7db1decd7554d985fe92e7"
+< Server: Squarespace
+< X-Contextid: eebZwQVj/7wvoQDcd
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BYToI7RnxzD/NjhmNzJhMWQ5MmJiOTNiYWQwNzA4YWM5ODlmNDE3;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:01:23 GMT
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding

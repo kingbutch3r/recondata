@@ -1,0 +1,11 @@
+GET http://bounce.email.payoneer.com
+
+
+< HTTP/1.1 404 Not Found
+< Accept-Ranges: bytes
+< Content-Length: 33073
+< Content-Type: image/jpeg
+< Date: Tue, 01 Feb 2022 23:26:34 GMT
+< Server: Apache
+< Last-Modified: Thu, 20 Jan 2022 03:52:52 GMT
+< Etag: "8131-5d5fb6fc8aef7"

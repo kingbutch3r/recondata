@@ -1,0 +1,9 @@
+GET http://status.floatplane.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://status.floatplane.com/
+< Server: nginx/1.17.5
+< Date: Mon, 31 Jan 2022 18:57:41 GMT
+< Content-Type: text/html
+< Content-Length: 169

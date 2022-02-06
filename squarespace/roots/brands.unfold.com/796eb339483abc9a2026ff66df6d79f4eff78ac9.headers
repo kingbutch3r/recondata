@@ -1,0 +1,12 @@
+GET http://brands.unfold.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Fastmisc-Synth: true
+< Accept-Ranges: bytes
+< X-Cache-Hits: 0
+< Retry-After: 0
+< Location: https://pro.unfold.com/
+< Content-Length: 0
+< X-Served-By: cache-bom4731-BOM
+< X-Cache: HIT

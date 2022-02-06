@@ -1,0 +1,17 @@
+GET https://pieceofcakeicecream.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Set-Cookie: crumb=BUoK55XwhnPPYTVkZjczZjc1NTA5ZmJjYTgzNTk1ZGUzMTgxZTk1;Path=/
+< Last-Modified: Wed, 02 Feb 2022 00:56:36 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: 9uqgtCoM/BeyA8yhf
+< Date: Wed, 02 Feb 2022 00:56:36 GMT
+< Etag: W/"4d1fa3c6e6d48488e392ba3b60343fa2"
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff

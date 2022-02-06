@@ -1,0 +1,11 @@
+GET http://tom-merrick-sbc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 6wuVYyBZ/IKpmc5Vo
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:09 GMT
+< Location: https://tom-merrick-sbc2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbOcqw1+DahCNGU5YWE3NWYwZWU0NjI0ZmRhZTE4MWNiNjQ2NDU3;Path=/

@@ -1,0 +1,11 @@
+GET https://www.danielle-wilson-w7a2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BcngqiLxpQkANDllZDY2M2QyN2JkMmFiOTE2YmRlZWU4MDIwYzUy;Path=/
+< X-Contextid: MEePXQq2/XeMoSsNg
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:18:57 GMT
+< Location: https://danielle-wilson-w7a2.squarespace.com/

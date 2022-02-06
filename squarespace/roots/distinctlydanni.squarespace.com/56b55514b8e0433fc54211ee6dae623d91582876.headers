@@ -1,0 +1,11 @@
+GET http://distinctlydanni.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: ZdvLT7KK/QwvUdZ5R
+< Age: 0
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:52:09 GMT
+< Location: https://distinctlydanni.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BeazaM9fUSs7ZjNmYzI4YWU0M2YxMTM1NTI4ZmQ3YTY3MGRiNGY3;Path=/

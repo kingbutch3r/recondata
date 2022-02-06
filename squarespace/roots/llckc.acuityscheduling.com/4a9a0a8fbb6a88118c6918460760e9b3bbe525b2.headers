@@ -1,0 +1,15 @@
+GET https://llckc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=tng2cuc3ts22up7j4tpcfjq9vb; expires=Thu, 03-Mar-2022 23:57:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=531dd960-62e3-41ab-910a-589be8970d7f; expires=Thu, 01-Feb-2024 23:57:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:57:42 GMT
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,11 @@
+GET http://ukulele-pike-8mye.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Mon, 31 Jan 2022 15:57:44 GMT
+< Location: https://ukulele-pike-8mye.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVmGLw1jh7GKZTY5ZWQyMjhkMTU3MmFhNTQ2N2VjYjQ2YzQzYjNk;Path=/
+< X-Contextid: 2dC5V0Rt/br8Sse1H
+< Age: 118312
+< Content-Length: 0

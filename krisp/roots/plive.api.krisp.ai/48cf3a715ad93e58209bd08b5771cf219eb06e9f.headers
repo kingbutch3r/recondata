@@ -1,0 +1,18 @@
+GET https://plive.api.krisp.ai
+
+
+< HTTP/1.1 404 Not Found
+< X-Frame-Options: SAMEORIGIN
+< X-Content-Type-Options: nosniff
+< Content-Security-Policy: default-src 'none'
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< Cf-Ray: 6d6ef6b6fed5856b-BOM
+< Content-Type: text/html; charset=utf-8
+< X-Xss-Protection: 1; mode=block
+< Cache-Control: no-cache, no-store
+< Cf-Cache-Status: DYNAMIC
+< X-Dns-Prefetch-Control: off
+< X-Download-Options: noopen
+< Date: Tue, 01 Feb 2022 23:29:47 GMT
+< Cross-Origin-Opener-Policy: same-origin

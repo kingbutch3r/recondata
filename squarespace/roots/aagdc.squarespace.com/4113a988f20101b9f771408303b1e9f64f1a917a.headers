@@ -1,0 +1,9 @@
+GET http://aagdc.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 23:51:21 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=FC874CE6918342D1B14799B2F708C79D.v5-web008; Path=/; HttpOnly
+< X-Contextid: IZxgKGjF/vbqPhlAn
+< Content-Type: text/html;charset=UTF-8

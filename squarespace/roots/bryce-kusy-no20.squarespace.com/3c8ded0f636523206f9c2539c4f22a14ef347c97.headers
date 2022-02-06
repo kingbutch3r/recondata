@@ -1,0 +1,12 @@
+GET http://bryce-kusy-no20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BU1TG7M4Q1QQZTEzNTZjYjk1NDM5YmE1ZjAyMmFkNTQyMDQyNGNk;Path=/
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:50:21 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: TAlKwrTj/yW4A9KkQ

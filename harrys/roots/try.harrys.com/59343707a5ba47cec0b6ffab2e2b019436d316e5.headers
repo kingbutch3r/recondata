@@ -1,0 +1,13 @@
+GET http://try.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 17:39:12 GMT
+< X-Cache: Hit from cloudfront
+< X-Amz-Cf-Pop: SIN52-C3
+< X-Amz-Cf-Id: ZzzBxTblBiYTwzWluknI6lmKqBU-G7HbX0oM-0cflhJnZwnuR7wDxQ==
+< Age: 23
+< Location: https://www.harrys.com//
+< Server: AmazonS3
+< Via: 1.1 50f11b94d86cc6d83642be5c3577d6fc.cloudfront.net (CloudFront)

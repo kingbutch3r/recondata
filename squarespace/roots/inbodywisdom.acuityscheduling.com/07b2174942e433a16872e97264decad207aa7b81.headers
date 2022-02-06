@@ -1,0 +1,17 @@
+GET https://inbodywisdom.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:19:27 GMT
+< Set-Cookie: PHPSESSID=cj5jpdd5338dtc50ibiuckarvh; expires=Fri, 04-Mar-2022 00:19:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=138d41f2-ea0e-4c18-a4ac-6bff114bcbb8; expires=Fri, 02-Feb-2024 00:19:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent

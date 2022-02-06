@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html class="no-nav">
+<head>
+
+<title>Login - Payoneer Affiliates</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="google-site-verification" content="5AwdYe5sOj3u5K0fZdUZSgly4FQ0suCjsq4G0fh1N08" />
+
+
+
+<link rel="icon" type="image/x-icon" href="https://media.go2app.org/user_content/brand/logos/payoneeracquisition/favicon_1624267409.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="https://media.go2app.org/user_content/brand/logos/payoneeracquisition/favicon_1624267409.ico" />
+<link rel="stylesheet" type="text/css" href="/assets/shared/css/qtip/jquery.qtip.min.css?1474996391" />
+<link rel="stylesheet" type="text/css" href="/assets/css/jquery-ui-1.8.23.custom.min.css?1498074641" />
+<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" />
+<script type="text/javascript" src="/assets/js/jquery-1.8.2.min.js?1519321387"></script>
+<script type="text/javascript" src="/assets/shared/js/graph/jquery-ui-1.8.23.custom.min.js?1474996391"></script>
+<script type="text/javascript" src="/assets/shared/js/jquery/jquery.metadata-3620.min.js?1474996391"></script>
+<script type="text/javascript" src="/assets/shared/js/qtip/jquery.qtip.min.js?1490814329"></script>
+<script type="text/javascript" src="/assets/js/ho-global-base.min.js?1617224327"></script>
+<script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="/assets/css/base.min.css?1642801297" />
+<link rel="stylesheet" type="text/css" href="/assets/css/style12.min.css?1638221588" />
+
+<link rel="stylesheet" type="text/css" href="/assets/css/print.min.css?1474996390" media="print" />
+<style type='text/css'>#header, th, #pagingTop td { border-bottom-color: #4d73bf; }.form, .panel, .form.focus-handler:focus-within, .panel.focus-handler:focus-within, th, tfoot td, #app > div > div > div > div > div > div > div[style *= 'padding: 20px;'] { border-top-color: #4d73bf; }table.tablesorter tbody tr.highlight a, table.tablesorter tbody tr:hover a, table.tablesorter tbody tr:focus a, table.tablesorter tbody tr:focus-within a, #pagingBody tr.highlight a, #pagingBody tr:hover a, #pagingBody tr:focus a, #pagingBody tr:focus-within a { text-shadow: -1px -1px 0 #e0e7f4, 1px -1px 0 #e0e7f4, -1px 1px 0 #e0e7f4, 1px 1px 0 #e0e7f4; }table.tablesorter tbody tr.highlight td.groupCol a, table.tablesorter tbody tr:hover td.groupCol a, table.tablesorter tbody tr:focus td.groupCol a, #pagingBody tr.highlight td.groupCol a, #pagingBody tr:hover td.groupCol a, #pagingBody tr:focus td.groupCol a { text-shadow: -1px -1px 0 #c6d2ea, 1px -1px 0 #c6d2ea, -1px 1px 0 #c6d2ea, 1px 1px 0 #c6d2ea; }.icon-container { background: linear-gradient(to right, rgba(0,0,0,0) 0%, #e0e7f4 25px, #e0e7f4 100%); }#nav-col li ul li:not(.has-sub-children) a:hover{ background: #4d73bf; }#nav>ul li:not(.has-sub-children):hover>a{ background: #4d73bf; }#login-promo h2 a{ background: #4d73bf; }.panel.grid_12 .head>.action-links>a{ background: #4d73bf; }a[href="/admin/offers/add"].button, a[href="/admin/offers/add/ppc:1"].button{ background: #4d73bf; }.panel .head .action-links a[href^="/admin/customer_lists/edit/"]{ background: #4d73bf; }#feedback #submit{ background: #4d73bf; }#create-tag-dialog-button{ background: #4d73bf; }#addOffer{ background: #4d73bf !important; color: white; }#addOfferAndDefineTargeting{ background: #4d73bf !important; color: white; }#loginButton{ background: #4d73bf !important; color: white; }#euContinueButton{ background: #4d73bf !important; color: white; }#timeFrameFormSubmitInput{ background: #4d73bf !important; color: white; }.form-footer.grid_12>input[type=submit]{ background: #4d73bf !important; color: white; }.form-footer button, .form-footer input[type=submit], .table-footer button, .table-footer input[type=submit]{ background: #4d73bf !important; color: white; }#run input[type=submit]{ background: #4d73bf !important; color: white; }#LeadIndexForm .button-main{ background: #4d73bf !important; color: white; }#createInvoice{ background: #4d73bf !important; color: white; }.table-footer input[type=submit]{ background: #4d73bf !important; color: white; }#new-email-action input[type=submit]{ background: #4d73bf !important; color: white; }#cancel-email-button{ background: #4d73bf !important; color: white; }.next-tab-button{ background: #4d73bf !important; color: white; }.previous-tab-button{ background: #4d73bf !important; color: white; }#mail-room .btn.btn-warning{ background: #4d73bf !important; color: white; }#mail-room .btn.btn-default{ background: #4d73bf !important; color: white; }#mail-room .btn.btn-success{ background: #4d73bf !important; color: white; }#addOffer:hover, #addOfferAndDefineTargeting:hover, #cancel-email-button:hover, #mail-room .btn.btn-success:hover, #mail-room .btn.btn-warning:hover, #mail-room .btn.btn-default:hover, .next-tab-button:hover, .previous-tab-button:hover, #timeFrameFormSubmitInput:hover, .form-footer.grid_12>input[type=submit]:hover, #run input[type=submit]:hover, #new-email-action input[type=submit]:hover, #LeadIndexForm .button-main:hover, #createInvoice:hover, .table-footer input[type=submit]:hover{ background: #3c5994 !important; }#loginButton:active, #loginButton:focus, #loginButton:hover, #euContinueButton:active, #euContinueButton:focus, #euContinueButton:hover, .table-footer input[type=submit]:hover{ background: #3c5994 !important; }.form-footer input[type=submit]:hover, .form-footer input[type=submit]:active, .form-footer input[type=submit]:focus, .form-footer button:hover, .form-footer button:active, .form-footer button:focus, .table-footer input[type=submit]:hover, .table-footer input[type=submit]:active, .table-footer input[type=submit]:focus, .table-footer button:hover, .table-footer button:active, .table-footer button:focus{ background: #3c5994 !important; }a[href="/admin/offers/add"].button:active, a[href="/admin/offers/add"].button:focus, a[href="/admin/offers/add"].button:hover, a[href="/admin/offers/add/ppc:1"].button:active, a[href="/admin/offers/add/ppc:1"].button:focus, a[href="/admin/offers/add/ppc:1"].button:hover{ background: #3c5994 !important; }.panel.grid_12 .head>.action-links>a:active, .panel.grid_12 .head>.action-links>a:focus, .panel.grid_12 .head>.action-links>a:hover{ background: #3c5994 !important; }#login-promo h2 a:active, #login-promo h2 a:focus, #login-promo h2 a:hover{ background: #3c5994 !important; }.panel .head .action-links a[href^="/admin/customer_lists/edit/"]:hover, .panel .head .action-links a[href^="/admin/customer_lists/edit/"]:active{ background: #3c5994 !important; }#create-tag-dialog-button:hover{ background: #3c5994 !important; }.icon-container .icon:hover, .icon-container .icon:focus{ background-color: #c6d2ea; }tr.highlight td.groupCol, tr:hover td.groupCol, tr:focus td.groupCol{ background-color: #c6d2ea; }tr.highlight td.groupCol + td:not(.groupCol):before, tr:hover td.groupCol + td:not(.groupCol):before, tr:focus td.groupCol + td:not(.groupCol):before{ background-color: #c6d2ea; }.menu li:hover a, #nav > ul li ul li:not(.has-sub-children):hover > a{ background: #e0e7f4; }#file-browse-button:active, #file-browse-button:focus, #file-browse-button:hover, #login-promo h2 a:active, #login-promo h2 a:focus, #login-promo h2 a:hover, #loginForm a[href="/users/forgot_password"]:active, #loginForm a[href="/users/forgot_password"]:focus, #loginForm a[href="/users/forgot_password"]:hover, #main .form .add-remove-controls a.button:active, #main .form .add-remove-controls a.button:focus, #main .form .add-remove-controls a.button:hover, #main input[type=submit]:active, #main input[type=submit]:focus, #main input[type=submit]:hover, #main input[type=button]:active, #main input[type=button]:focus, #main input[type=button]:hover, a.button:active, a.button:focus, a.button:hover, button:active, button:focus, button:hover{ background: #e0e7f4; }.panel .head .action-links a:hover{ background: #e0e7f4; }.panel .head .action-links a:hover{ background: #e0e7f4; }table.tablesorter tbody tr.highlight, table.tablesorter tbody tr:hover, table.tablesorter tbody tr:focus, table.tablesorter tbody tr:focus-within, #pagingBody tr.highlight, #pagingBody tr:hover, #pagingBody tr:focus, #pagingBody tr:focus-within{ background: #e0e7f4; }#nav > ul li ul li.has-sub-children:hover > a{ background-color: #e0e7f4; }
+</style>
+
+</head>
+<body>
+	<div id="everything">
+				
+<div  id="header">
+  <div>
+    <div id="logo">
+      <a href="/"><img src="https://media.go2app.org/user_content/brand/logos/payoneeracquisition/logo_1624260172.png"></a>    </div>
+    <div id="search">
+          </div>
+
+        <div id="auth-status"  >
+
+      
+              <span class="auth-FirstName">
+          Guest        </span>
+        <span class="auth-Login">
+          <a href="/" title="Login">Login</a>        </span><br/>
+        <span class="auth-Feedback">
+            <a href="mailto:Affiliates@Payoneer.com">
+                Email Support            </a>
+        </span>
+      
+      
+          </div>
+  </div>
+</div>
+				<div id="main" >
+			<div id="nav-col">
+							</div>
+			<div id="content-col">
+												<div id="pageLoader">
+					<img src="/assets/img/page-loader.gif" />
+				</div>
+				<div id="content">
+					<div>
+												<h1 id="page-heading">
+														<span>Login</span>
+						</h1>
+												<div class="clear"></div>
+					</div>
+					<input id="accountId" value="" type="hidden">
+<div class="grid_12">
+ <div id="login">
+   <div class="panel" id="login-form">
+
+    <form id="loginForm" method="post" action="https://affiliates.payoneer.com/"><input type="hidden" name="_method" value="POST" /><input type="hidden" name="data[_Token][key]" value="f48a9a02462a30849d76855bfc8d077b55144fbb" id="Token721759880" />
+     <div class="head">
+      <h3>Login to Payoneer Affiliates </h3>
+     </div>
+
+     <div class="body form">
+      <ol> <li> <label for="UserEmail">Email:</label>
+                <input name="data[User][email]" type="text" class="input_med" value="" id="UserEmail" />           </li>
+           <li> <label for="UserPassword">Password:</label>
+                <input type="password" name="data[User][password]" class="input_med" label="" div="" value="" id="UserPassword" />           </li>
+           <li> <label class="empty"> &nbsp; </label>
+                <input type="submit" class="button" id="loginButton" value="Login" />
+                <a href="/users/forgot_password">Forgot Password?</a>           </li>
+            <li> <label class="empty"> &nbsp; </label>
+                    View our                    <a href="/privacy_policy">Privacy Policy</a>            </li>
+            <li> <label class="empty"> &nbsp; </label>
+                     You must have                     <a href="http://www.google.com/cookies.html" target="_blank" rel="noopener noreferrer">
+                             cookies enabled                     </a>
+                    to use this site.            </li>
+     </ol>
+    </div>
+   <input type="hidden" name="data[_Token][fields]" value="56b682232e568ff7c2e5968393c245234b610de2%3An%3A0%3A%7B%7D" id="TokenFields926454788" /></form>  </div>
+
+  <div id="login-promo">
+                 <h1> Don't have an account yet? </h1>
+            <div class="clear"></div>
+
+            			        <h2> <a href="/signup">Partner Sign Up</a><span> ></span>
+                    </h2>
+            
+                        <div class="clear"></div>
+       </div>
+  <div class="clear"></div>
+ </div>
+</div>
+
+<div class="clear"></div>
+
+<script type="text/javascript">
+	$('#UserEmail').focus();
+</script>
+					<div class="clear"></div>
+				</div>
+								<div id="footer" class="grid_12">
+					<p>
+														</div>
+				<div class="clear"></div>
+				                			</div>
+		</div>
+		<script type="text/javascript" src="/assets/shared/js/qtip/jquery.qtip.min.js?1490814329"></script>
+	</div>
+
+
+<script type="text/javascript" src="/assets/js/ho-dialog-modal-init.min.js?1614729867"></script>
+<script type="text/javascript" src="/assets/js/jquery.menu-aim.js?1502905689"></script>
+
+<script type='text/javascript'>
+	$(document).ready(function(){
+
+		window.hasoffersBrandTheme = {
+			'500': '#4d73bf',
+			'500c': '#ffffff',
+			'600': '#4f76c4',
+			'600c': '#ffffff'
+		};
+	});
+</script>
+
+
+</body>
+</html>

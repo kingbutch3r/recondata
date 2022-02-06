@@ -1,0 +1,12 @@
+GET https://web3500.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BTDjt9lU0NiSMTE3NjNiOGRiZjFkNTI3ZDVmYWE1ZDMxNDhjNTQ3;Path=/
+< X-Contextid: y8FBaoSh/kwtJVHDO
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:57 GMT
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Length: 3123
+< Server: Squarespace

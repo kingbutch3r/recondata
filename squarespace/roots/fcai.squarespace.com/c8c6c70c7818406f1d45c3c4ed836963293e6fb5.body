@@ -1,0 +1,1388 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  class="touch-styles">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <!-- This is Squarespace. --><!-- fcai -->
+<base href="">
+<meta charset="utf-8" />
+<title>FCAI</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1511859790359-GO8N1OKWYK7R4DETGMVG/favicon.ico"/>
+<link rel="canonical" href="https://fcai.squarespace.com"/>
+<meta property="og:site_name" content="FCAI"/>
+<meta property="og:title" content="FCAI"/>
+<meta property="og:url" content="https://fcai.squarespace.com"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5d9c7dc43dc97713cd0fc93f/1570536902123/%231logo-B%3AW.png?format=1500w"/>
+<meta property="og:image:width" content="1500"/>
+<meta property="og:image:height" content="981"/>
+<meta itemprop="name" content="FCAI"/>
+<meta itemprop="url" content="https://fcai.squarespace.com"/>
+<meta itemprop="thumbnailUrl" content="http://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5d9c7dc43dc97713cd0fc93f/1570536902123/%231logo-B%3AW.png?format=1500w"/>
+<link rel="image_src" href="http://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5d9c7dc43dc97713cd0fc93f/1570536902123/%231logo-B%3AW.png?format=1500w" />
+<meta itemprop="image" content="http://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5d9c7dc43dc97713cd0fc93f/1570536902123/%231logo-B%3AW.png?format=1500w"/>
+<meta name="twitter:title" content="FCAI"/>
+<meta name="twitter:image" content="http://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5d9c7dc43dc97713cd0fc93f/1570536902123/%231logo-B%3AW.png?format=1500w"/>
+<meta name="twitter:url" content="https://fcai.squarespace.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="description" content="" />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<script type="text/javascript" src="//use.typekit.net/ik/Xtt3wpeif8tTE45_8i0-VNJ6aVCLDwPD2T_rjRta9_Gfe03gfFHN4UJLFRbh52jhWD9oZ29k52JD52bU5AwkFRwoFD6kjQs8jyT5HKocjhBTO1FUiABkZWF3jAF8OcFzdPUcjhBTO1FUiABkZWF3jAF8OcFzdPUCdhFydeyzSabCiaiaOcZRjAq0SaBujW48Sagyjh90jhNlJ6U3ScNt-AuyOAozicIKIcBqdh48OAiyScBldhoqOWgkdkG4f5J7IMMjMkMfH6qJn3IbMg6IJMJ7f6K3UMIbMg6BJMJ7fbKlMsMMeMj6MKG4fJCgIMMjgkMfH6qJvDbbMs6IJMJ7fbRXFgMgeMj6MTMg_NWfv39.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,600;0,700;1,600;1,700&family=Roboto+Mono:wght@400;500&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,700">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-becb9ee2d17307955502f-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":2,"website":{"id":"59d528238419c2639782a4eb","identifier":"fcai","websiteType":1,"contentModifiedOn":1596451084568,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"Europe/Helsinki","machineTimeZoneOffset":7200000,"timeZoneOffset":7200000,"timeZoneAbbr":"EET","siteTitle":"FCAI","fullSiteTitle":"FCAI","siteTagLine":"Finnish Center for Artificial Intelligence","siteDescription":"<p>FCAI is a nation-wide competence center for Artificial Intelligence in Finland, initiated by Aalto University, University of Helsinki, and VTT Technical Research Centre of Finland.</p>","logoImageId":"5bc6fdcf4785d32e9b306796","socialLogoImageId":"5d9c7dc43dc97713cd0fc93f","shareButtonOptions":{"3":true,"7":true,"4":true,"8":true,"6":true,"2":true,"1":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1539767759557-R728ON03T8YEK46DGROD/%231logo-W_T.png","socialLogoImageUrl":"//images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1570536900289-75AWUAXL3NPPDG4O4PDH/%231logo-B%3AW.png","authenticUrl":"https://fcai.squarespace.com","internalUrl":"https://fcai.squarespace.com","baseUrl":"https://fcai.squarespace.com","sslSetting":3,"isHstsEnabled":false,"socialAccounts":[{"serviceId":4,"userId":"2481929184","userName":"CSAalto","screenname":"Computer Science","addedOn":1511858612775,"profileUrl":"https://twitter.com/fcai_fi","iconUrl":"http://pbs.twimg.com/profile_images/866909243777089536/lE47ttJK_normal.jpg","collectionId":"5a1d21b48c56a817eaf9b6fc","iconEnabled":true,"serviceName":"twitter"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"59d528238419c2639782a4ee","websiteId":"59d528238419c2639782a4eb","type":"Non-Profit","subjects":[],"country":"FI","state":"18","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":false,"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":false,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":true,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"<p>We use cookies and similar technologies to run this website and help us understand how you use it. <a href=\"/privacy-policy\" target=\"_blank\">Learn more</a>.</p>","cookieBannerTheme":"DARK","cookieBannerVariant":"BAR","cookieBannerPosition":"BOTTOM","cookieBannerCtaVariant":"ICON","cookieBannerCtaText":"OK","cookieBannerAcceptType":"OPT_IN"},"websiteCloneable":false,"collection":{"title":"HOME","id":"5b90fa65758d4649449d0968","fullUrl":"/","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"aspect-ratio":"Auto","banner-slideshow-controls":"Arrows","gallery-arrow-style":"No Background","gallery-aspect-ratio":"3:2 Standard","gallery-auto-crop":"true","gallery-autoplay":"false","gallery-design":"Grid","gallery-info-overlay":"Show on Hover","gallery-loop":"false","gallery-navigation":"Bullets","gallery-show-arrows":"true","gallery-transitions":"Fade","galleryArrowBackground":"rgba(34,34,34,1)","galleryArrowColor":"rgba(255,255,255,1)","galleryAutoplaySpeed":"3","galleryCircleColor":"rgba(255,255,255,1)","galleryInfoBackground":"rgba(0, 0, 0, .7)","galleryThumbnailSize":"100px","gridSize":"280px","gridSpacing":"10px","logoContainerWidth":"130px","product-gallery-auto-crop":"false","product-image-auto-crop":"true","siteTitleContainerWidth":"215px","tweak-v1-related-products-title-spacing":"50px"},"templateId":"52a74dafe4b073a80cd253c5","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1041/scripts/","betaFeatureFlags":["commerce_restock_notifications","commerce_product_composer_ab_test_all_users","COMMERCE_PRODUCT_REVIEWS_MERCHANT_EMAIL","campaigns_show_apply_website_styles_button","commerce_product_branching","campaigns_hide_deleted_automations_panel","commerce_pdp_layouts_ga","commerce_product_review_import_ga","member_areas_schedule_interview","campaigns_thumbnail_layout","scheduling_block_schema_editor","nested_categories_migration_enabled","commerce_clearpay","campaigns_global_uc_ab","reduce_general_search_api_traffic","commerce_etsy_product_import","commerce_product_review_etsy_import","viewer-role-contributor-invites","campaigns_new_subscriber_search","commerce_onboarding_tools_screen_test","campaigns_banner_reduce_size","commerce_category_id_discounts_enabled","background_art_onboarding","customer_account_creation_recaptcha","google_analytics_4_gtag_js","commerce_site_visitor_metrics","member_areas_pricing_options_discounts","campaigns_blog_product_image_editor","member_areas_spanish_interviews","commerce_afterpay_pdp","commerce_activation_experiment_add_payment_processor_card","campaigns_audience_card","commerce_etsy_shipping_import","startup_checklist","category-delete-product-service-enabled","campaigns_section_reorder_arrows"],"impersonatedSession":false,"tzData":{"zones":[[120,"EU","EE%sT",null]],"rules":{"EU":[[1981,"max",null,"Mar","lastSun","1:00u","1:00","S"],[1996,"max",null,"Oct","lastSun","1:00u","0",null]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><script type="application/ld+json">{"url":"https://fcai.squarespace.com","name":"FCAI","description":"<p>FCAI is a nation-wide competence center for Artificial Intelligence in Finland, initiated by Aalto University, University of Helsinki, and VTT Technical Research Centre of Finland.</p>","image":"//images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1539767759557-R728ON03T8YEK46DGROD/%231logo-W_T.png","@context":"http://schema.org","@type":"WebSite"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/59d528238419c2639782a4eb/93/52a74dafe4b073a80cd253c5/5a1674ffe4966b13427836b2/1041/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<!-- End of Squarespace Headers -->
+    <script>/* Must be below squarespace-headers */(function(){var e='ontouchstart'in window||navigator.msMaxTouchPoints;var t=document.documentElement;if(!e&&t){t.className=t.className.replace(/touch-styles/,'')}})()
+    </script>
+  </head>
+  <body id="collection-5b90fa65758d4649449d0968" class="transparent-header  nav-button-style-outline nav-button-corner-style-pill banner-button-style-solid banner-button-corner-style-pill banner-slideshow-controls-arrows meta-priority-date  hide-entry-author hide-list-entry-footer    hide-blog-sidebar center-navigation--info    event-show-past-events event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address   event-icalgcal-links  event-excerpts      gallery-design-grid aspect-ratio-auto lightbox-style-light gallery-navigation-bullets gallery-info-overlay-show-on-hover gallery-aspect-ratio-32-standard gallery-arrow-style-no-background gallery-transitions-fade gallery-show-arrows gallery-auto-crop   product-list-titles-under product-list-alignment-center product-item-size-11-square product-image-auto-crop product-gallery-size-11-square  show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-light hide-opentable-icons opentable-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-solid button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-5b90fa65758d4649449d0968 collection-type-page collection-layout-default homepage mobile-style-available has-banner-image general-page">
+    <a href="#" class="body-overlay"></a>
+    <div class="sqs-announcement-bar-dropzone"></div>
+    <div id="sidecarNav">
+      
+
+  <div id="mobileNavWrapper" class="nav-wrapper" data-content-field="navigation-mobileNav">
+    <nav id="mobileNavigation">
+      
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection active homepage">
+              <a href="/">
+                HOME
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/research">
+                Research & impact
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/what-we-offer">
+                What we offer
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/organization">
+                Organization
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/finnish-ai-ecosystem">
+                AI Ecosystem
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/open-positions">
+                Open positions
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/events">
+                Events
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/fcainews">
+                NEWS
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+    </nav>
+  </div>
+
+
+
+    </div>
+    <div id="siteWrapper" class="clearfix">
+
+      <div class="sqs-cart-dropzone"></div>
+
+      <header id="header" class="show-on-scroll" data-offset-el=".index-section" data-offset-behavior="bottom" role="banner">
+        <div class="header-inner">
+          <div id="logoWrapper" class="wrapper" data-content-field="site-title">
+            
+              <h1 id="logoImage"><a href="/"><img src="//images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1539767759557-R728ON03T8YEK46DGROD/%231logo-W_T.png?format=1500w" alt="FCAI" /></a></h1>
+            
+          </div><!--
+          --><div class="mobile-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><div class="mobile-nav-toggle fixed-nav-toggle"><div class="top-bar"></div><div class="middle-bar"></div><div class="bottom-bar"></div></div><!--
+          --><div id="headerNav">
+
+  <div id="mainNavWrapper" class="nav-wrapper" data-content-field="navigation-mainNav">
+    <nav id="mainNavigation" data-content-field="navigation-mainNav">
+      
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection active homepage">
+              <a href="/">
+                HOME
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/research">
+                Research & impact
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/what-we-offer">
+                What we offer
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/organization">
+                Organization
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/finnish-ai-ecosystem">
+                AI Ecosystem
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/open-positions">
+                Open positions
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/events">
+                Events
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+        
+          
+
+          
+
+            
+            <div class="collection">
+              <a href="/fcainews">
+                NEWS
+              </a>
+            </div>
+            
+
+          
+        
+        
+
+      
+    </nav>
+  </div>
+  <!-- style below blocks out the mobile nav toggle only when nav is loaded -->
+  <style>.mobile-nav-toggle-label { display: inline-block !important; }</style>
+
+
+</div>
+        </div>
+      </header>
+
+      
+        
+          
+            
+              
+                <div id="promotedGalleryWrapper" class="sqs-layout promoted-gallery-wrapper"><div class="row"><div class="col"></div></div></div>
+                
+                  
+                    <div class="banner-thumbnail-wrapper has-description" data-content-field="main-image" data-collection-id="5b90fa65758d4649449d0968" data-edit-main-image="" data-annotation-alignment="bottom left">
+                      
+                      <div class="color-overlay"></div>
+                      <figure id="thumbnail" class="loading content-fill">
+                        <img data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1544720154236-RYU496TS95RQ9FW11Y35/Untitled+2.png" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1544720154236-RYU496TS95RQ9FW11Y35/Untitled+2.png" data-image-dimensions="2500x811" data-image-focal-point="0.51,1.0" alt="Untitled 2.png"  />
+                      </figure>
+                      
+                      <div class="desc-wrapper" data-content-field="description" data-collection-id="5b90fa65758d4649449d0968"><p style="white-space: pre-wrap;"><strong>  </strong></p></div>
+                    </div>
+                  
+                
+              
+            
+          
+        
+      
+
+
+      
+      
+      
+
+      <main id="page" role="main">
+        
+        <!--
+        --><!--
+        --><!--
+        --><div id="content" class="main-content" data-content-field="main-content" data-collection-id="5b90fa65758d4649449d0968" data-edit-main-image="">
+         <div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1596451084562" id="page-5b90fa65758d4649449d0968"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1537533919901_111587"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-8 span-8"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1590652110830_23767"><div class="sqs-block-content"><p><center><h3 style="color:red">Wow! You have found the archive of FCAI's old website.</p>
+  The content on this site may be out-of-date and it is no longer being updated.</p>
+  Please visit our current, up-to-date website at <a href="https://fcai.fi"><u>fcai.fi →</u></a>
+ </h3></center></p></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1537533919901_111650"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">FCAI is a nation-wide competence center for Artificial Intelligence in Finland, initiated by Aalto University, University of Helsinki, and VTT Technical Research Centre of Finland. FCAI is one of the six Academy of Finland <a href="https://www.aka.fi/en/research-and-science-policy/flagship-programme/" target="_blank">Finnish flagships.</a></p><p style="text-align:center;white-space:pre-wrap;" class="">Our mission is to create <strong>Real AI for Real People in the Real World</strong>—a new type of AI, which is able to operate with humans in the complex world—and to renew the Finnish industry with the new AI.</p></div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1537533919901_116486"><div class="sqs-block-content">&nbsp;</div></div></div></div><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1537435925764_15842"><div class="sqs-block-content"><object data="/s/home-fig1.svg" type="image/svg+xml"></object></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1536843609431_67911"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html sqs-col-4 span-4 float float-left" data-block-type="2" id="block-yui_3_17_2_1_1536227950439_56685"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">REAL AI</h2><p style="text-align:center;white-space:pre-wrap;" class=""><strong>Real AI</strong>&nbsp;solutions will bring AI systems closer to human cognition. We do not attempt to replicate human cognition but provide ambitious and realistic technical solutions.</p></div></div><div class="sqs-block html-block sqs-block-html sqs-col-4 span-4 float float-right" data-block-type="2" id="block-yui_3_17_2_1_1536227950439_55964"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">REAL WORLD</h2><p style="text-align:center;white-space:pre-wrap;" class="">For AIs to be able to perform efficiently in the <strong>Real World</strong>, they need to work with scarce data and in situations where large, labeled training data sets are rare.</p><p style="text-align:center;white-space:pre-wrap;" class="">&nbsp;</p></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1536227950439_57422"><div class="sqs-block-content"><h2 style="text-align:center;white-space:pre-wrap;">REAL PEOPLE</h2><p style="text-align:center;white-space:pre-wrap;" class=""><strong>Real People</strong>&nbsp;will use AIs as companions and assistants – and AIs need guidance from people. AIs we create can interact with humans in ways that are understandable, trustworthy, and ethically applied.</p></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1556621884287_17668"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1576568065613_22055"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">FCAI WILL HOST A NEW ELLIS UNIT FOR TOP AI RESEARCH</h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>Finnish artificial intelligence research received a significant acknowledgement. Finnish Center for Artificial Intelligence FCAI will host one of the new European units of top AI research, as the European Laboratory for Learning and Intelligent Systems will establish one of its first units in Finland.</em></p><h3 style="text-align:center;white-space:pre-wrap;"><a href="https://fcai.fi/fcainews/2019/12/11/cycvkyoooukfr4iug4yb7kp84yxeup">Read more →</a></h3></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="64.64208242950107" data-block-type="5" id="block-yui_3_17_2_1_1576568065613_25130"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:800px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:64.64208221435547%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1576568963888-G7YI2A7A1A4ULGZRAV7C/ELLIS.jpg" alt="ELLIS.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1576568963888-G7YI2A7A1A4ULGZRAV7C/ELLIS.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1576568963888-G7YI2A7A1A4ULGZRAV7C/ELLIS.jpg" data-image-dimensions="800x534" data-image-focal-point="0.5,0.5" alt="ELLIS.jpg" data-load="false" data-image-id="5df88882d9f8f644bb3c06c3" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1576568065613_20887"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1575888014499_69673"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:730px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:54.79452133178711%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1580210263507-RHXHW6VRADK4K1I6RNHG/AIX-tampere.jpg" alt="AIX-tampere.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1580210263507-RHXHW6VRADK4K1I6RNHG/AIX-tampere.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1580210263507-RHXHW6VRADK4K1I6RNHG/AIX-tampere.jpg" data-image-dimensions="730x400" data-image-focal-point="0.5,0.5" alt="AIX-tampere.jpg" data-load="false" data-image-id="5e30185645c00d0d20a25f1f" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1575888014499_68542"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">AIX Forum on Intelligent machines takes place at tampere</h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>In the event&nbsp;companies and OEM's pitch their AI challenges, and a panel of top Finnish professors compete to solve them.</em></p><h3 style="text-align:center;white-space:pre-wrap;"><a href="https://www.eventbrite.com/e/aix-forum-on-intelligent-machines-tickets-90274558635">Read more and register →</a></h3></div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1575888014499_67490"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="4.772234273318872" data-block-type="21" id="block-yui_3_17_2_1_1561552385133_31803"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1555503545668_18708"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">newest trends of AI research discussed in AI Day</h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>FCAI’s third annual AI Day organized on November 26 attracted hundreds of participants to Dipoli.</em></p><h3 style="text-align:center;white-space:pre-wrap;"><a href="https://fcai.fi/fcainews/2019/11/29/how-ai-ready-is-europe-how-ai-changes-cancer-research-and-treatment-these-and-many-other-topics-were-discussed-at-ai-day-2019" target="_blank">Read more →</a><br><br></h3></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="68.76355748373102" data-block-type="5" id="block-yui_3_17_2_1_1561552385133_22445"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:842px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:68.76355743408203%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1561554355903-DRD4U1SZVQU2HL9LHIQN/AI_DAY_2019_banner.png" alt="AI_DAY_2019_banner.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1561554355903-DRD4U1SZVQU2HL9LHIQN/AI_DAY_2019_banner.png" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1561554355903-DRD4U1SZVQU2HL9LHIQN/AI_DAY_2019_banner.png" data-image-dimensions="842x595" data-image-focal-point="0.5,0.5" alt="AI_DAY_2019_banner.png" data-load="false" data-image-id="5d136db14ef7350001e876e8" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1553845585227_22978"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="4.772234273318872" data-block-type="21" id="block-yui_3_17_2_1_1575888014499_85517"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1552061821448_29232"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2228px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:50.94255065917969%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1552062529790-HCP1ZMPLLITXJCT11FZ8/%232Blogo-B%3AW.png" alt="#2Blogo-B:W.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1552062529790-HCP1ZMPLLITXJCT11FZ8/%232Blogo-B%3AW.png" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1552062529790-HCP1ZMPLLITXJCT11FZ8/%232Blogo-B%3AW.png" data-image-dimensions="2228x1135" data-image-focal-point="0.5,0.5" alt="#2Blogo-B:W.png" data-load="false" data-image-id="5c829841b208fcc16f043470" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block code-block sqs-block-code" data-block-type="23" id="block-yui_3_17_2_1_1571752897148_24769"><div class="sqs-block-content"><p><a id="community"></a></p></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1552061821448_21476"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Come to join FCAI Research community</h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>Are you a researcher based in Aalto University, University of Helsinki or VTT and interested in developing or applying AI in your field? Come to join FCAI as a community member by filling in the application below.</em></p></div></div><div class="sqs-block button-block sqs-block-button" data-block-type="53" id="block-yui_3_17_2_1_1552061821448_26020"><div class="sqs-block-content">
+
+<div
+  class="sqs-block-button-container--center"
+  data-animation-role="button"
+  data-alignment="center"
+  data-button-size="medium"
+  data-button-type="primary"
+>
+	<a
+    href="https://fcai.fi/join-fcai-community"
+    class="sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element"
+    target="_blank"
+  >
+    Join FCAI Community
+  </a>
+</div>
+</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1555503545668_16587"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1553845585227_31237"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">FCAI to work with The Alan Turing Institute on Data Science </h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>The Alan Turing Institute and The Finnish Centre for Artificial Intelligence (FCAI) have signed a memorandum of understanding (MOU), formally creating an ambitious agreement centred around the Turing’s&nbsp;data-centric engineering programme.</em></p><h3 style="text-align:center;white-space:pre-wrap;"><a href="https://fcai.fi/fcainews/2019/3/29/the-alan-turing-institute-to-work-with-the-finnish-centre-for-artificial-intelligence-on-data-science-research" target="_blank">Read more →</a></h3></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1553845585227_29052"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1024px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:56.25%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1553845679214-OQ0MB9RI46J14F3AMQYH/ATI_FCAI_+MOU.jpg" alt="ATI_FCAI_ MOU.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1553845679214-OQ0MB9RI46J14F3AMQYH/ATI_FCAI_+MOU.jpg" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1553845679214-OQ0MB9RI46J14F3AMQYH/ATI_FCAI_+MOU.jpg" data-image-dimensions="1024x576" data-image-focal-point="0.5,0.5" alt="ATI_FCAI_ MOU.jpg" data-load="false" data-image-id="5c9dcdae0d9297c602ce344a" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1553845585227_27996"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="59.436008676789584" data-block-type="5" id="block-yui_3_17_2_1_1546950045848_22267"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1380px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:59.43600845336914%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1546951334024-R3PLUC60UUIV1VDLVT9O/image.png" alt="image.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1546951334024-R3PLUC60UUIV1VDLVT9O/image.png" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1546951334024-R3PLUC60UUIV1VDLVT9O/image.png" data-image-dimensions="1380x600" data-image-focal-point="0.5,0.5" alt="image.png" data-load="false" data-image-id="5c349aa28985832853d80a56" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1546950045848_17630"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Significant boost for AI research from the Academy of Finland</h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>The Finnish Center for Artificial Intelligence (FCAI) has been selected as a Flagship of the Academy of Finland, which is a status granted to a very few selected centers of excellence with high societal impact.</em></p><h3 style="text-align:center;white-space:pre-wrap;"><a href="https://fcai.fi/fcainews/2019/1/8/significant-boost-for-ai-research-from-the-academy-of-finland" target="_blank">Read more →</a></h3></div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1546950045848_16664"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1542884116407_71150"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">FCAI SOCIETY: UNDERSTANDING AI ACROSS SCIENTIFIC DIVIDES</h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>As we pursue a holistic view of artificial intelligence across scientific borders,&nbsp;FCAI has sought experts from philosophy, ethics, sociology, legal studies, psychology and art to explore the impact AI will have in all aspects of our lives.</em></p><h3 style="text-align:center;white-space:pre-wrap;"><a href="/fcai-society" target="_blank">READ MORE →</a></h3></div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-aspect-ratio="60.95444685466378" data-block-type="5" id="block-yui_3_17_2_1_1542884116407_72869"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:800px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:60.95444869995117%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1542885177629-GLI2KWMYJ35QOYJWEMO6/Unto_Rautio_Aalto_1185_weblarge.png" alt="Unto_Rautio_Aalto_1185_weblarge.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1542885177629-GLI2KWMYJ35QOYJWEMO6/Unto_Rautio_Aalto_1185_weblarge.png" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1542885177629-GLI2KWMYJ35QOYJWEMO6/Unto_Rautio_Aalto_1185_weblarge.png" data-image-dimensions="800x600" data-image-focal-point="0.5,0.5" alt="Unto_Rautio_Aalto_1185_weblarge.png" data-load="false" data-image-id="5bf68f338a922de88eb761a2" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1538639637124_45586"><div class="sqs-block-content"><hr /></div></div><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1541745306679_44018"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:735px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:60.54421615600586%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1541746360426-QZDTLA39I73FXV3XT4G9/elements.png" alt="elements.png" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1541746360426-QZDTLA39I73FXV3XT4G9/elements.png" data-image="https://images.squarespace-cdn.com/content/v1/59d528238419c2639782a4eb/1541746360426-QZDTLA39I73FXV3XT4G9/elements.png" data-image-dimensions="735x445" data-image-focal-point="0.5,0.5" alt="elements.png" data-load="false" data-image-id="5be52eb84ae23769503862b7" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1541745306679_17290"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;">Elements of AI now available in Finnish</h1><p style="text-align:center;white-space:pre-wrap;" class=""><em>The highly popular AI MOOC directed by FCAI professor Teemu Roos (UH) and organised in collaboration with Reaktor is now available also in Finnish.&nbsp;Start learning AI in Finnish today!</em></p><h3 style="text-align:center;white-space:pre-wrap;"><a href="http://www.fcai.fi/fcainews/2018/9/12/elements-of-ai-becomes-the-most-popular-course-at-university-of-helsinki-ever" target="_blank">READ MORE →</a></h3></div></div></div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1540801198251_28004"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1537338044447_24112"><div class="sqs-block-content"><h1 style="text-align:center;white-space:pre-wrap;"><a href="http://fcai.fi/fcainews/" target="_blank">MORE FCAI NEWS →</a>﻿<br></h1></div></div></div></div></div>
+        </div><!--
+        -->
+        
+      </main>
+
+      <div id="preFooter">
+        <div class="pre-footer-inner">
+          <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Pre-Footer Content" data-type="block-field" data-updated-on="1511426812901" id="preFooterBlocks"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+        </div>
+      </div>
+
+      <footer id="footer" role="contentinfo">
+        <div class="footer-inner">
+          <div class="nav-wrapper back-to-top-nav"><nav><div class="back-to-top"><a href="#header">Back to Top</a></div></nav></div>
+          <div id="secondaryNavWrapper" class="nav-wrapper" data-content-field="navigation-secondaryNav">
+  <nav id="secondaryNavigation" data-content-field="navigation-secondaryNav">
+    
+      
+        
+
+        
+        <div class="folder" id="id5caf035524a694318e9dddd5">
+          <div class="folder-toggle" data-href="/research-programs">Research programs</div>
+          <div class="subnav">
+          
+
+            
+            <div class="collection" id="id5c9c960c8165f5979be30dc6">
+              <a href="/agile-probabilistic">
+                <span>Agile probabilistic AI</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5c9cde590852296eb5ed1406">
+              <a href="/simulator-based">
+                <span>Simulator-based inference</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5c9dd46a4785d39d6edc1484">
+              <a href="/deep-learning">
+                <span>Next-generation data-efficient deep learning</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5c9e15d9c83025ef63a6122d">
+              <a href="/privacy-preserving-and-secure">
+                <span>Privacy-preserving and secure AI</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5c9e360c104c7b8524e5f621">
+              <a href="/interactive-ai">
+                <span>Interactive AI</span>
+              </a>
+            </div>
+            
+            
+          
+          </div>
+        </div>
+        
+      
+      
+
+    
+      
+        
+
+        
+        <div class="folder" id="id5c1b8716aa4a99bb24cb6483">
+          <div class="folder-toggle" data-href="/ai-across-fields">AI Across Fields</div>
+          <div class="subnav">
+          
+
+            
+            <div class="collection" id="id5d68dba1380fbf000157b045">
+              <a href="/sigs">
+                <span>FCAI Special interest groups (SIGs)</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5bd01b53e4966b419579f85e">
+              <a href="/research/health">
+                <span>FCAI SIG: AI for Health</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5d68dd5959d7fb0001f2c539">
+              <a href="/language">
+                <span>FCAI SIG: LANGUAGE, SPEECH AND COGNITION</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5ddcca95c833493f0567b53e">
+              <a href="/edge-ai">
+                <span>FCAI SIG: Edge AI</span>
+              </a>
+            </div>
+            
+            
+          
+
+            
+            <div class="collection" id="id5d7b6b144cceba234194010d">
+              <a href="/aix-forum">
+                <span>AI Across Fields (AIX) Forum</span>
+              </a>
+            </div>
+            
+            
+          
+          </div>
+        </div>
+        
+      
+      
+
+    
+  </nav>
+</div>
+
+
+          
+          <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1571734746000" id="footerBlocks"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-713fe491a2c303b33937"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">FCAI has been initiated by</p><p class="" style="white-space:pre-wrap;">Aalto University, University of Helsinki, and VTT Technical Research Centre of Finland</p><p class="" style="white-space:pre-wrap;">FCAI © 2019</p></div></div></div><div class="col sqs-col-6 span-6"><div class="row sqs-row"><div class="col sqs-col-4 span-4"><div class="sqs-block socialaccountlinks-v2-block sqs-block-socialaccountlinks-v2" data-block-type="54" id="block-yui_3_17_2_1_1554294549144_4416"><div class="sqs-block-content">
+
+
+
+<div class="sqs-svg-icon--outer social-icon-alignment-right social-icons-color-white social-icons-size-small social-icons-style-regular " >
+  <nav class="sqs-svg-icon--list">
+    <a href="https://twitter.com/fcai_fi" target="_blank" class="sqs-svg-icon--wrapper twitter" aria-label="Computer Science">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div></div><div class="col sqs-col-2 span-2"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1571407129180_6914"><div class="sqs-block-content"><p style="text-align:right;white-space:pre-wrap;" class=""><strong>#FCAI @FCAI_fi</strong></p></div></div></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1554294549144_4483"><div class="sqs-block-content"><p style="text-align:right;white-space:pre-wrap;" class=""><a href="https://list.aalto.fi/mailman/listinfo/fcai-info" target="_blank">Join FCAI mailing list</a></p><p style="text-align:right;white-space:pre-wrap;" class="" data-rte-preserve-empty="true"></p></div></div></div></div></div>
+        </div>
+      </footer>
+
+    </div>
+
+    <script src="https://static1.squarespace.com/static/ta/52a74d9ae4b0253945d2aee9/1041/scripts/site-bundle.js" type="text/javascript"></script>
+    <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="twitter-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol></svg>
+
+  </body>
+</html>

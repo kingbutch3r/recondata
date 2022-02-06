@@ -1,0 +1,12 @@
+GET http://david-nguyen-1002.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:16:08 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Server: Squarespace
+< X-Contextid: OcIiwjCl/2LnDm0q8
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Pragma: no-cache

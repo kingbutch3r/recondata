@@ -1,0 +1,17 @@
+GET https://magicalmotheringmentoring.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=phc58afr6fcqldubg2e7hh5890; expires=Fri, 04-Mar-2022 00:11:44 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=109dc4b5-2046-47d6-8fd3-09756fa93d88; expires=Fri, 02-Feb-2024 00:11:45 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:11:45 GMT
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

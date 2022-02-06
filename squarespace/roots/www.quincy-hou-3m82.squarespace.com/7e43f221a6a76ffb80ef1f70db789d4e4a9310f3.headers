@@ -1,0 +1,11 @@
+GET https://www.quincy-hou-3m82.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:18:30 GMT
+< Location: https://quincy-hou-3m82.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BczbBoPBh4agNGJiN2EwMmQ5YzEzZDJhYjMyNjY1ZDE4YzAxYWMy;Path=/
+< X-Contextid: F2PdpeK0/ilwMhGMJ

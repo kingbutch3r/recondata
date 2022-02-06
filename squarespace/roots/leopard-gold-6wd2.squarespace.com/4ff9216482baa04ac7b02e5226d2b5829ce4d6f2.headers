@@ -1,0 +1,12 @@
+GET http://leopard-gold-6wd2.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Pragma: no-cache
+< X-Contextid: fCxeT5KE/SEr1mEAX
+< Date: Wed, 02 Feb 2022 01:26:32 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC

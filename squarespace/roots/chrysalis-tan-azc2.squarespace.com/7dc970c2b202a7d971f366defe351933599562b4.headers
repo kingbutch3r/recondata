@@ -1,0 +1,11 @@
+GET http://chrysalis-tan-azc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=Bb78dM9D+CMDOGVjM2NkMGQyMDQ2NTE4NzczNzQzZTNjZTkzZTA5;Path=/
+< X-Contextid: mN8QIdvd/gfV7ZaAH
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:12 GMT
+< Location: https://chrysalis-tan-azc2.squarespace.com/

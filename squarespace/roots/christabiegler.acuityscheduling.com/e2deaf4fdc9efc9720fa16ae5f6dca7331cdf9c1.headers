@@ -1,0 +1,17 @@
+GET https://christabiegler.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:29:01 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=2no5mgf5q8h6jqqm363c9619ge; expires=Fri, 04-Mar-2022 00:29:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bab6dc04-5d0f-4c18-8341-d5f38b0986a4; expires=Fri, 02-Feb-2024 00:29:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent

@@ -1,0 +1,17 @@
+GET https://www.tanyarubinstein.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:21:45 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=5qd8j3vj0fj864fq52ofhp1oma; expires=Fri, 04-Mar-2022 00:21:44 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=67e52f46-171b-4899-801f-aaf474b4100f; expires=Fri, 02-Feb-2024 00:21:45 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

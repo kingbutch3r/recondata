@@ -1,0 +1,19 @@
+GET http://static1.it.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Pragma: no-cache
+< Server: Squarespace
+< Content-Type: text/html; charset=UTF-8
+< Age: 159
+< X-Cache-Hits: 1, 1
+< X-Timer: S1643763300.839043,VS0,VE7
+< Cache-Control: no-cache, must-revalidate
+< X-Contextid: hvO9bsW2/FXhtLcRT
+< Via: 1.1 varnish, 1.1 varnish
+< X-Served-By: cache-dfw18671-DFW, cache-iad-kcgs7200104-IAD
+< X-Cache: HIT, HIT
+< Date: Wed, 02 Feb 2022 00:54:59 GMT
+< Tracepoint: Fastly

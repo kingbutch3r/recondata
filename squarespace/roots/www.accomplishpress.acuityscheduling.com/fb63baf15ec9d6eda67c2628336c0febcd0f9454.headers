@@ -1,0 +1,15 @@
+GET https://www.accomplishpress.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:38:50 GMT
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=q8pch8j7o7pjbgpmu3h0crma4u; expires=Fri, 04-Mar-2022 00:38:49 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dc998f34-4693-4dd4-a588-622d11a9a13e; expires=Fri, 02-Feb-2024 00:38:50 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload

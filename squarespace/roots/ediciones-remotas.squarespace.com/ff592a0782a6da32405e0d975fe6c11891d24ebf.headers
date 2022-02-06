@@ -1,0 +1,16 @@
+GET https://ediciones-remotas.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Age: 186561
+< Etag: W/"4e5b3d718dc3195e97c67143bd444cdc--gzip"
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: p0QivQyc/5Hv2KKx7
+< Accept-Ranges: bytes
+< Date: Sun, 30 Jan 2022 21:36:10 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BeTHtrYIdNQpMjZhMzQ5MmViMDdiNmVlZjY3MWE3YjJmYjQyZWI5;Path=/

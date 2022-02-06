@@ -1,0 +1,12 @@
+GET http://chat.floatplane.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Expires: Mon, 31 Jan 2022 19:57:43 GMT
+< Location: https://chat.floatplane.com/
+< Vary: Accept-Encoding
+< Cf-Ray: 6d652ad759ac85eb-BOM
+< Alt-Svc: h3=":443"; ma=86400, h3-29=":443"; ma=86400
+< Cache-Control: max-age=3600
+< Server: cloudflare
+< Date: Mon, 31 Jan 2022 18:57:43 GMT

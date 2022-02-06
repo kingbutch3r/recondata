@@ -1,0 +1,10 @@
+GET https://tsext-cust.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:52:21 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUlimGdMSrC5MGY5M2ExMjdkMzUxMjdkMzcwOThjN2FjYmI5MGVm;Path=/
+< X-Contextid: gvkVWi6Q/cwnQrL9A
+< Age: 0
+< Content-Type: text/html;charset=utf-8

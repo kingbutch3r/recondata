@@ -1,0 +1,17 @@
+GET https://thrivenow.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=gnslbt6vat311h16jokr938173; expires=Fri, 04-Mar-2022 00:44:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cd3d0e69-eab2-4106-8637-f2da245b4791; expires=Fri, 02-Feb-2024 00:44:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:44:20 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Content-Length: 0
+< Pragma: no-cache

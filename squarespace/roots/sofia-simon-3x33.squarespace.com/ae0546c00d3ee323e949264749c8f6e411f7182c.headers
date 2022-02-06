@@ -1,0 +1,11 @@
+GET http://sofia-simon-3x33.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:03:50 GMT
+< Location: https://sofia-simon-3x33.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcWbjFFDySSiZTNhMDE2ZDIzMWE5ZWI4ZDBlNDliYzk3NDdmMWU1;Path=/
+< X-Contextid: 5zyQEduu/ktYVOQn9

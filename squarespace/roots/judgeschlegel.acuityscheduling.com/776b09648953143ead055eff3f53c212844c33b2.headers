@@ -1,0 +1,17 @@
+GET https://judgeschlegel.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:17:23 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=kv0u8g1pqh4qfda8j0hniru6u1; expires=Fri, 04-Mar-2022 00:17:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e05be71b-10aa-4989-9922-db7c870627c5; expires=Fri, 02-Feb-2024 00:17:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0

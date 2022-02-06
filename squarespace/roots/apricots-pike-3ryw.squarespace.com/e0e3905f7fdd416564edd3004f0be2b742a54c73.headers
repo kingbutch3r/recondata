@@ -1,0 +1,17 @@
+GET https://apricots-pike-3ryw.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< X-Contextid: PaW1Hby3/SW9Mbamk
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"13bd2e8fe24001f23af8869353848f7e--gzip"
+< Set-Cookie: crumb=Bbrq4Jdw9q9tNThkZmM3NWUyNzgwMTAyMjFjODZkMjdhMDNlMTUz;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Frame-Options: SAMEORIGIN
+< Age: 422189
+< Date: Fri, 28 Jan 2022 04:08:55 GMT
+< Strict-Transport-Security: max-age=43200
+< Accept-Ranges: bytes

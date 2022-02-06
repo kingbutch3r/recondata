@@ -1,0 +1,18 @@
+GET https://www-staging-pt-origin.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< X-Contextid: st1uxaGt/YLo4PgiI
+< Content-Language: pt-BR
+< X-Server: Smartling
+< X-Sl-Norewrite: 1
+< Content-Type: text/html; charset=utf-8
+< Age: 14942
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Set-Cookie: crumb=BXpHGfJK9W+BZmNkN2Q3ZWE5MDk5MmFhMmU3NDcyYWVhMzBiZmYw;Path=/
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:55:06 GMT
+< X-Sl-Notranslate: 1
+< Server: Squarespace

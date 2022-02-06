@@ -1,0 +1,11 @@
+GET http://markhuphotography.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:56:28 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSPRedPrI6AwYjkwMWNlYWQ1MWMxYWJlYWI1MzkwNDA0NWRiMTJk;Path=/
+< X-Contextid: kJPraCVP/Q4v9fT6C
+< Age: 0

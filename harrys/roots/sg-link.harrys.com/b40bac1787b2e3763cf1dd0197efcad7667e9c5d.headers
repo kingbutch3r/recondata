@@ -1,0 +1,15 @@
+GET https://sg-link.harrys.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Sat, 29 Jan 2022 17:39:31 GMT
+< Age: 21
+< X-Cache: HIT
+< X-Cache-Hits: 1
+< X-Timer: S1643477972.849694,VS0,VE2
+< Content-Type: text/html
+< Accept-Ranges: bytes
+< X-Served-By: cache-bom4737-BOM
+< Content-Length: 162
+< Server: nginx
+< Via: 1.1 varnish

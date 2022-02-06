@@ -1,0 +1,14 @@
+GET http://cdn-custom.acuityscheduling.com
+
+
+< HTTP/1.1 200 OK
+< X-Cache: HIT
+< X-Cache-Hits: 1
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 00:19:32 GMT
+< Via: 1.1 varnish
+< Age: 7274
+< X-Timer: S1643761172.380452,VS0,VE0
+< Vary: Accept-Encoding
+< Content-Type: text/html; charset=utf-8
+< X-Served-By: cache-bom4729-BOM

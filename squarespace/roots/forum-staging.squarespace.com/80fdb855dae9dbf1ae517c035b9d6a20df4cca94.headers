@@ -1,0 +1,23 @@
+GET https://forum-staging.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Ips-Loggedin: 0
+< X-Xss-Protection: 0
+< Vary: Cookie,Accept-Encoding
+< X-Cache: Miss from cloudfront
+< Content-Type: text/html;charset=UTF-8
+< Set-Cookie: AWSALB=TvK1+5DaDB6gWcUecXcGP+tmFuZh5WNNVJO1JWSkX9s8LcoEPSUcTWaa8S85nuNgVT59MXTklL0o54TqhO0c9NotctvyL7q9TD8By/xeUqSRSm6Zulg5DfMw27vr; Expires=Wed, 09 Feb 2022 00:54:52 GMT; Path=/
+< Set-Cookie: AWSALBCORS=TvK1+5DaDB6gWcUecXcGP+tmFuZh5WNNVJO1JWSkX9s8LcoEPSUcTWaa8S85nuNgVT59MXTklL0o54TqhO0c9NotctvyL7q9TD8By/xeUqSRSm6Zulg5DfMw27vr; Expires=Wed, 09 Feb 2022 00:54:52 GMT; Path=/; SameSite=None
+< Set-Cookie: ips4_IPSSessionFront=ifra69cv379kgjvk9grqi5guc2; path=/; secure; HttpOnly
+< X-Amz-Cf-Id: TTesDTJWmCi6NWpoi3iV7kiCm_sB_eeMmvYFmv67FTkbR7NW6L4daw==
+< Last-Modified: Wed, 02 Feb 2022 00:54:52 GMT
+< Expires: Wed, 02 Feb 2022 01:09:52 GMT
+< Cache-Control: max-age=900, public, s-maxage=900, stale-while-revalidate, stale-if-error
+< Via: 1.1 f563f6fe63f48d6323a4aa2bc75a15b2.cloudfront.net (CloudFront)
+< Date: Wed, 02 Feb 2022 00:54:52 GMT
+< Server: Apache
+< X-Frame-Options: sameorigin
+< Referrer-Policy: strict-origin-when-cross-origin
+< X-Content-Type-Options: nosniff
+< X-Amz-Cf-Pop: MXP63-P2

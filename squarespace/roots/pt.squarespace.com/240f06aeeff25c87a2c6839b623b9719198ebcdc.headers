@@ -1,0 +1,25 @@
+GET https://pt.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Expires: 
+< X-Sl-Norewrite: 1
+< X-Sl-Norewrite: 1
+< Date: Wed, 02 Feb 2022 00:54:54 GMT
+< Server: nginx
+< Etag: W/"17c8fb207c2929631bc95ad1cede1fce"
+< X-Sl-Notranslate: 1
+< X-Sl-Notranslate: 1
+< Content-Language: pt-BR
+< X-Sl-Cached: 1
+< X-Server: Smartling
+< Content-Type: text/html; charset=utf-8
+< Age: 0
+< Last-Modified: Mon, 31 Jan 2022 14:11:56 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< X-Contextid: mpXg3VgX/X3am45ea
+< Accept-Ranges: bytes
+< Cache-Control: no-cache

@@ -1,0 +1,16 @@
+GET https://ilonasulikova.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< X-Contextid: UPc1s2LC/cgWp0kjh
+< Etag: W/"684b8bbbdf88fb73ae3f7d7c3102e604--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Wed, 02 Feb 2022 00:55:44 GMT
+< Content-Type: text/html;charset=utf-8
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BbAKEmyN4uZOYmZjZmE5ODcwNzk1YTBiODAzZjVhNDE0OTA5NmIy;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Age: 0
+< Server: Squarespace

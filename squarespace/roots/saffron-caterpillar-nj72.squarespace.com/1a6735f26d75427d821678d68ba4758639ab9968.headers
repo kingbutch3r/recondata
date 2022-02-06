@@ -1,0 +1,13 @@
+GET https://saffron-caterpillar-nj72.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BS04cossx5HANmEyZGU0ZDZiYTgwNjllOTM1ZTZjZDkyZGU3OWUw;Path=/
+< X-Contextid: 3hUovVCK/nlLPJO2k
+< Date: Wed, 02 Feb 2022 01:18:18 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

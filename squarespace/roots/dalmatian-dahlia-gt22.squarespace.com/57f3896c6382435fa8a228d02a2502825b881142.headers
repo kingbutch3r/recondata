@@ -1,0 +1,16 @@
+GET https://dalmatian-dahlia-gt22.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 127385
+< Etag: W/"343ce86593cdd85898ecd98fd9c0e233--gzip"
+< Date: Mon, 31 Jan 2022 13:53:51 GMT
+< X-Contextid: tycLWXyB/xKICCvXe
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BXbipDQOpR5mNDljYzBkMGVkYzcxMGZmNzg2NGQ0MjYzNTUyZTk5;Path=/
+< Strict-Transport-Security: max-age=0

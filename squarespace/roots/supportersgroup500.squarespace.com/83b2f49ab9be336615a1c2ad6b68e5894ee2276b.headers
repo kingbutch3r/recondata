@@ -1,0 +1,16 @@
+GET https://supportersgroup500.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"093eafeb09d3bc9c203668af228fe4cb--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 381933
+< Set-Cookie: crumb=BV95HL/UuLxuMjE0MjU4NzFiOWJhNWEyYjY0ZWEyMjMxOGRlOTA5;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Contextid: 1ROJHevJ/1yMIn3e8
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 15:01:40 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding

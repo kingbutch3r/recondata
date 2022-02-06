@@ -1,0 +1,12 @@
+GET https://pay.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 190
+< Location: https://www.payoneer.com/en/
+< Via: 1.1 google
+< Set-Cookie: GCLB=CImjq8zg0_C17gE; path=/; HttpOnly
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:26:24 GMT
+< Content-Type: text/html

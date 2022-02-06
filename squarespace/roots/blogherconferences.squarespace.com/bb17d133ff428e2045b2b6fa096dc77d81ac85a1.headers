@@ -1,0 +1,13 @@
+GET https://blogherconferences.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:55:18 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BU2oVwhZxRqDNzY3ZDU2Y2FkMTcwNWM3MjAwMDNiY2U4ODlmNzFm;Path=/
+< X-Contextid: xKeoQkH0/ltkW96Hc

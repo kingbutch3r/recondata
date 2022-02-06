@@ -1,0 +1,13 @@
+GET https://eatthe80.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: djwQByMh/eV26FCqe
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:11:40 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BYM5Xi6etK08ZWVhY2I3ODk2OWJhOTliNTI2Yjg2MWI2OWI4Njdi;Path=/
+< Strict-Transport-Security: max-age=0

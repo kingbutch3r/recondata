@@ -1,0 +1,13 @@
+GET https://static1.pt.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding
+< Vary: "Accept-Encoding"
+< Pragma: no-cache
+< Cache-Control: no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:54:55 GMT
+< Content-Type: text/html; charset=UTF-8
+< Server: Squarespace
+< X-Contextid: Rps9GIdX/VoKc3QTx
+< Tracepoint: "Akamai"

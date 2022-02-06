@@ -1,0 +1,16 @@
+GET https://julieadams1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Thu, 27 Jan 2022 22:51:57 GMT
+< Set-Cookie: crumb=BSkEekmqHkZ4YTJkNjMzMTAyODY1MDMxZWI5ZWI0MzVlZmMzYWUz;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: Hewv7odg/k9h2wwI0
+< Accept-Ranges: bytes
+< Age: 439148
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Etag: W/"0d82cd0244b5d92b64931203961711f5--gzip"

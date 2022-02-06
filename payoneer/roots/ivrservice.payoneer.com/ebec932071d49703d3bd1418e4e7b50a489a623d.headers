@@ -1,0 +1,10 @@
+GET http://ivrservice.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://ivrservice.payoneer.com/
+< Content-Length: 229
+< Date: Tue, 01 Feb 2022 23:26:27 GMT
+< Cache-Control: private

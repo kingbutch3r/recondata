@@ -1,0 +1,16 @@
+GET https://h340.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 26 Jan 2022 14:51:42 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BfKNndrozvD7NzU0ZGNjOTUxOTI0MmQxMWFhZjJlNzRiYmRmNmQz;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< X-Content-Type-Options: nosniff
+< Age: 550803
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: zwdpgmvP/3Oydj8xD
+< Etag: W/"49a14f0d3f0ef2d1733c95f56dd9d8f2--gzip"

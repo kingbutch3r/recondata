@@ -1,0 +1,11 @@
+GET http://drum-pomegranate-haf9.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:55:22 GMT
+< Location: https://drum-pomegranate-haf9.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BehUJuJKdxKPZGE5MDU0NjY0ODg3OTc0YWFmYTQ1YWU1YWIyZjBl;Path=/
+< X-Contextid: 61YMaAM0/xNyB8eKs

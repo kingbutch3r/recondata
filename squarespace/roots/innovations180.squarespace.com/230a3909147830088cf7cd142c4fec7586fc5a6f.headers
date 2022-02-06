@@ -1,0 +1,15 @@
+GET http://innovations180.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"7fae3449ab8ff28c5a96b50e458a9f0a--gzip"
+< Set-Cookie: crumb=BTnpfagckynwNGE3MmZjNGNmYmYyYmNjNDQ1MDIwY2FlZDM2MzRm;Path=/
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:47:39 GMT
+< Age: 3735
+< Server: Squarespace
+< X-Contextid: PAsx6t2F/bg6xBsZZ
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

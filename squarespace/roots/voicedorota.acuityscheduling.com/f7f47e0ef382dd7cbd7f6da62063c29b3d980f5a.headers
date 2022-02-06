@@ -1,0 +1,17 @@
+GET https://voicedorota.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:56:12 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=7mtpmgs596o4i53siqpntv2lro; expires=Thu, 03-Mar-2022 23:56:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fddc631c-aa66-4912-841d-898d3d51a3d6; expires=Thu, 01-Feb-2024 23:56:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate

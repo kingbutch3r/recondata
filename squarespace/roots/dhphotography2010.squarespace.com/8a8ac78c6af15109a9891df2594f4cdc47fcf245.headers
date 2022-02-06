@@ -1,0 +1,10 @@
+GET https://dhphotography2010.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:41 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWrv9U2l9173NTgxN2QwMjYxZTQ2YTE3MGU4Y2RiMGJkM2QyN2Iw;Path=/
+< X-Contextid: 6G2yc4uO/er9SzdMY

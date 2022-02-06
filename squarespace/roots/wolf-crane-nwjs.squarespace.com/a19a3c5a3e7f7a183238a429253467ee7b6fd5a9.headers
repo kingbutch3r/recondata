@@ -1,0 +1,16 @@
+GET https://wolf-crane-nwjs.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BRTiWrK5oIjxMTFhMTFmNDdmODczZDgzZGQ0ZGVhZDQ1MDZlMDRl;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: waLD5EFt/JUUDWzcm
+< Etag: W/"9cba1dfca43cbea84b06b4d48ec60456--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=0
+< Age: 409125
+< Date: Fri, 28 Jan 2022 07:28:11 GMT

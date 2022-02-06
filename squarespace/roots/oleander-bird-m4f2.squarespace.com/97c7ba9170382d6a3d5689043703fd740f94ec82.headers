@@ -1,0 +1,16 @@
+GET https://oleander-bird-m4f2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"88d6b9571ab67b4b38b888e94249dbcf"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Age: 98291
+< X-Content-Type-Options: nosniff
+< Date: Mon, 31 Jan 2022 22:02:07 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZrGUFcRUu33YjJlMjVhODcyZDBlMmEyZDFlYmRkZGY0OGZjZTQx;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Contextid: kzuQ1Vsm/a63xx2zC
+< Accept-Ranges: bytes

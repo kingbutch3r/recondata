@@ -1,0 +1,16 @@
+GET https://tom-merrick-sbc2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"17edd501873b443afc05f3031e699764--gzip"
+< Set-Cookie: crumb=BfiTzELysodrYmI3ZDBjNzczZWU4MTY2MTE2MGY3ZTQwYTdjZDIw;Path=/
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:52:10 GMT
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: o9r2X1Sj/R8CkI2xz
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

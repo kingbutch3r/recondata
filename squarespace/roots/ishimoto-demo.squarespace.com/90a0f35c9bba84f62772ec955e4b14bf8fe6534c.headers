@@ -1,0 +1,11 @@
+GET http://ishimoto-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 6kGLJVpn/dx0cUxmV
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:55:19 GMT
+< Location: https://ishimoto-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSofBHp/1oc3MDc1ZjAwYWM1NjQ1NWU2MjZlZmIxZDM0ZmYxZWE2;Path=/

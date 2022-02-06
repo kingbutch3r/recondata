@@ -1,0 +1,17 @@
+GET https://jimsalemfirstteam.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:09:47 GMT
+< Set-Cookie: PHPSESSID=abav428ccrnf0ssj0bba7f3ikr; expires=Fri, 04-Mar-2022 01:09:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b3725bcb-3d67-4ebd-8a87-8ee0f39a9cc4; expires=Fri, 02-Feb-2024 01:09:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent

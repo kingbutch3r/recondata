@@ -1,0 +1,10 @@
+GET http://ws02qa000.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:02:47 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSS3fY2BxYRgZWY3ZmExZTA0MjAzZDY2ODllMzVkODY2MmNiYTQ3;Path=/
+< X-Contextid: CthPxBZ2/71MWHr3n

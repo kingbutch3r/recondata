@@ -1,0 +1,15 @@
+GET https://embraceselfwellness.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:38:15 GMT
+< Set-Cookie: PHPSESSID=v8807lm1nncrci2p1r3c7b7ta7; expires=Fri, 04-Mar-2022 00:38:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1ce4b94f-79e1-4ba6-beae-3c00996363cb; expires=Fri, 02-Feb-2024 00:38:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,17 @@
+GET https://sacredspacescheduling.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=6bh5pt1dquf8bdp5pljkj09hse; expires=Fri, 04-Mar-2022 00:11:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=11754f37-fa3a-4a94-9c9b-3648b66d3deb; expires=Fri, 02-Feb-2024 00:11:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:11:06 GMT
+< Cache-Control: no-store, no-cache, must-revalidate

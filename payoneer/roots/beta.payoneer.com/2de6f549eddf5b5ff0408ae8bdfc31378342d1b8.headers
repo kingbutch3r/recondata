@@ -1,0 +1,29 @@
+GET https://beta.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html; charset=UTF-8
+< Server: rhino-core-shield
+< Vary: Accept-Encoding
+< Rbz-Geo-Code: IN
+< Date: Tue, 01 Feb 2022 17:12:20 GMT
+< Access-Control-Allow-Origin: https://registration.powerappsportals.com
+< Via: 1.1 819cd2dd67161d301a9388e0baebb3e4.cloudfront.net (CloudFront), 1.1 google
+< Etag: W/"f82094fb2adda4dc58618e6711219c16"
+< X-Amz-Version-Id: cDmkcl8o2QEBuUxUG2VEglzpkjk.jvpX
+< X-Xss-Protection: 1; mode=block
+< X-Cache: Hit from cloudfront
+< Cache-Control: must-revalidate, max-age=0, s-maxage=86400
+< X-Frame-Options: SAMEORIGIN
+< Rbz-Geo-Countrycode: IN
+< X-Content-Type-Options: nosniff
+< Rbz-Geo-Name: India
+< Age: 22446
+< X-Amz-Cf-Pop: CDG50-P2
+< X-Amz-Cf-Id: afJaRxF79nkUJYQAexEn9uOXQalq9GCQwsvdzP_cokethwyUhklzVA==
+< Last-Modified: Tue, 01 Feb 2022 14:51:11 GMT
+< Alt-Svc: clear
+< Content-Security-Policy: frame-src 'self' *.google.com snapwidget.com *.consensu.org *.sharethis.com *.doubleclick.net *.greenhouse.io *.payoneer.com *.trustpilot.com *.oraclecloud.com *.driftt.com *.ubembed.com *.youtube.com *.github.io *.userway.org v.qq.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.google-analytics.com *.googletagmanager.com *.cookielaw.org *.convertexperiments.com *.marketo.net *.googleadservices.com *.bing.com *.licdn.com *.facebook.net *.taboola.com *.yimg.jp *.yahoo.co.jp *.doubleclick.net *.sharethis.com *.consensu.org snapwidget.com *.onetrust.com *.greenhouse.io *.payoneer.com *.mouseflow.com *.salesloft.com *.trendemon.com *.trustpilot.com *.ubembed.com *.google.com *.dynatrace.com *.oraclecloud.com *.baidu.com *.driftt.com *.youtube.com *.daumcdn.net unpkg.com *.yandex.ru *.cloudflare.com *.strattic.com *.6sc.co *.jsdelivr.net *.bootstrapcdn.com *.twitter.com *.ads-twitter.com *.highcharts.com *.github.io *.qualtrics.com *.microsoft.com  *.userway.org *.tiktok.com *.googleoptimize.com accessibilityserver.org *.adnxs.com *.pdst.fm;
+< Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+< Referrer-Policy: no-referrer-when-downgrade
+< Rbz-Geo-Country: India

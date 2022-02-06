@@ -1,0 +1,15 @@
+GET https://bookmelissa.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Date: Tue, 01 Feb 2022 23:56:06 GMT
+< Set-Cookie: PHPSESSID=qduldsthjoksrmtl343q42j5so; expires=Thu, 03-Mar-2022 23:56:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e4387f4b-9b8b-4169-b338-aacdb8cbf49f; expires=Thu, 01-Feb-2024 23:56:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

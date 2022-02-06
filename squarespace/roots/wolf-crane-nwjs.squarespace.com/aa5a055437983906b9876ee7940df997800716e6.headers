@@ -1,0 +1,11 @@
+GET http://wolf-crane-nwjs.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 6NG22Rbi/Vfq173sK
+< Age: 121306
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 14:10:27 GMT
+< Location: https://wolf-crane-nwjs.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSZYFxQzZer+ZWU4OWMyYTc1MGUwNWIzNDI2MzUyYWRlMzk0MDRj;Path=/

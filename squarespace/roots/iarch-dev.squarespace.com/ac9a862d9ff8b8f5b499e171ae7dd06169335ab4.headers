@@ -1,0 +1,18 @@
+GET https://iarch-dev.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Date: Wed, 02 Feb 2022 01:22:54 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:22:54 GMT
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"6ba7d02c56ecae3ebc0e416f0569d8b0"
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Server: Squarespace
+< Set-Cookie: crumb=BT/lyawNTTr8MTBiMzIyODVkNmQ4YmQ3OTRlMzJjNzViNmI4YmVk;Path=/
+< X-Contextid: iHZSG4cJ/N2924OON
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

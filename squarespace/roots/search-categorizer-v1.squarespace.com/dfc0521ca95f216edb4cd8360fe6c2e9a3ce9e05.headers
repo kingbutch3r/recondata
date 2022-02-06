@@ -1,0 +1,9 @@
+GET https://search-categorizer-v1.squarespace.com
+
+
+< HTTP/1.1 405 Method Not Allowed
+< Content-Type: text/plain
+< Date: Wed, 02 Feb 2022 01:15:54 GMT
+< Server: Squarespace
+< X-Contextid: rUqY6feo/h6P0bMqJ
+< Content-Length: 0

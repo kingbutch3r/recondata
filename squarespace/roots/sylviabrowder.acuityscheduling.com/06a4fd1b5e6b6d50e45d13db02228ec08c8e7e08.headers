@@ -1,0 +1,17 @@
+GET https://sylviabrowder.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Location: /schedule.php
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=r170bqa0me3f2q7vdvhae0jqrc; expires=Fri, 04-Mar-2022 00:28:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ab95a289-b562-4929-9524-b3fc11176ef3; expires=Fri, 02-Feb-2024 00:28:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:28:30 GMT
+< P3p: CP="CAO PSA OUR"

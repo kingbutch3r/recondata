@@ -1,0 +1,13 @@
+GET https://alexi-ojeda-okm0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: SX2tG1yT/tyvHS5Xz
+< Date: Wed, 02 Feb 2022 01:12:18 GMT
+< Set-Cookie: crumb=BS/4rG1mBx7hMGZhMDYyOTgxODlhM2VhODcyMGY2N2YwOGQ4NWIx;Path=/

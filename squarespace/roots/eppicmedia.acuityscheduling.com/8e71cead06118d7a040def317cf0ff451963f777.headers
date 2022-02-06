@@ -1,0 +1,17 @@
+GET https://eppicmedia.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:54:16 GMT
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=uodanutf7439as3kdt01ngt5sf; expires=Thu, 03-Mar-2022 23:54:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=318c996a-e540-4c13-9b9a-839d1b92c2dd; expires=Thu, 01-Feb-2024 23:54:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload

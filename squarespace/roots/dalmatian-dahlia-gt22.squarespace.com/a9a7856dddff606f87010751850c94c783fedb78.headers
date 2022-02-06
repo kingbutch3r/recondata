@@ -1,0 +1,11 @@
+GET http://dalmatian-dahlia-gt22.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://dalmatian-dahlia-gt22.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BS2uBvVn93HfZDY2YjVjNGI3NzViOTkyMDQ0NjliN2JkZWMyYjg3;Path=/
+< X-Contextid: ZFLDQ4dd/oBF2JEdN
+< Age: 88519
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 00:41:31 GMT

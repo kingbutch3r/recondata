@@ -1,0 +1,11 @@
+GET http://olive-rose-5yfb.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:04:51 GMT
+< Location: https://olive-rose-5yfb.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcdE3hUgZ5Y+YThjOTNkNjk2Mjc3MDhhNmQ0YzEyNzllZmQxNTlj;Path=/
+< X-Contextid: velXQyhe/XNnzn2Gq
+< Age: 0

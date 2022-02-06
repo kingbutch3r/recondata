@@ -1,0 +1,17 @@
+GET https://adventureunleashed.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:59:13 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=rufhg6pgnap5jk9l3vuc8lk8da; expires=Thu, 03-Mar-2022 23:59:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=29b6b4e3-fb16-4885-b609-be7d45c9876a; expires=Thu, 01-Feb-2024 23:59:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent

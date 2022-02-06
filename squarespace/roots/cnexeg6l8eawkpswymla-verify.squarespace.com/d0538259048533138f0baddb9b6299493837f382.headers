@@ -1,0 +1,12 @@
+GET http://cnexeg6l8eawkpswymla-verify.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:58:15 UTC
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< X-Contextid: xZDtbUVI/rCEvZbV3
+< Content-Length: 77576

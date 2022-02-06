@@ -1,0 +1,16 @@
+GET https://jason-hughes-8dj2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 370760
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BWSaonJ6rY1YNjRhM2Q3MmNiNTgzNTQ2Yzc2NjVhZGM3ZDE3ZTE5;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< Server: Squarespace
+< X-Contextid: KzGJEwLJ/I6B7chGj
+< Accept-Ranges: bytes
+< Date: Fri, 28 Jan 2022 17:53:18 GMT
+< Etag: W/"6fe15175b812c9cf8acf95eb9b235747--gzip"
+< X-Content-Type-Options: nosniff

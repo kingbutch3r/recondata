@@ -1,0 +1,16 @@
+GET https://joel-meter-9fzl.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Contextid: IjI1s1dn/DfrLNMmC
+< Etag: W/"fc6f28f74654d906959f2341473d7552--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 01:06:42 GMT
+< Set-Cookie: crumb=BcG56A85NtdGYWFhZDlkY2I3ZTIxMjMzOWQ0MDA0Yzc2NTg2YTU0;Path=/
+< Age: 0

@@ -1,0 +1,11 @@
+GET http://beagle-ferret-t9a2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=Bfwbz6wWq6KcOGQyZjk2OGEwMjNhNTBlMDdhMTZiNGJhN2I3NTNh;Path=/
+< X-Contextid: prdJUIpz/m7Y197PQ
+< Age: 557341
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 14:29:49 GMT
+< Location: https://beagle-ferret-t9a2.squarespace.com/
+< Server: Squarespace

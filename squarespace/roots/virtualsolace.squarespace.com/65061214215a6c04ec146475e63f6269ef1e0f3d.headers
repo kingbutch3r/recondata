@@ -1,0 +1,15 @@
+GET http://virtualsolace.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Etag: W/"5e18dc10a96f0b3c1eed2da98da77165--gzip"
+< Server: Squarespace
+< X-Contextid: 2C1nToYp/SkHAJytO
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:24:27 GMT
+< Set-Cookie: crumb=BVP/maS5ePpvNGVmNWEzZGRmMzZlM2M4MzY4Y2Y3ZGNlMjNiYTNm;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

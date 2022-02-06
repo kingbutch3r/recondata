@@ -1,0 +1,15 @@
+GET https://seal-bluebird-5lap.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bca5tocE4tyvYTBkNjMzOThhMmNhYTYyNDNhYjE1NDRjNDAxNDBm;Path=/
+< Strict-Transport-Security: max-age=43200
+< X-Frame-Options: SAMEORIGIN
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:55:24 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: StzUjcSh/nNgSFiO2
+< Content-Length: 3598

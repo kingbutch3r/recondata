@@ -1,0 +1,11 @@
+GET http://s231.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BT0lFbFekkgMZmVjYjhhM2EwMDgwOTY2ODc1ZjM2MGQ3OTBhYTE2;Path=/
+< X-Contextid: 0f5ZJuPd/KiTtm8yx
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:42 GMT

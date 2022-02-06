@@ -1,0 +1,16 @@
+GET https://spadegardens-2020.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Set-Cookie: crumb=Bf9OFmMrVSGWOGQ3OGZjMWZiYzg1NTlkODNhMzUxYzJhY2ZlOTQ5;Path=/
+< Vary: Accept-Encoding
+< Age: 541771
+< Etag: W/"f9d07fe175aaebab521c9169bedc82b1--gzip"
+< Accept-Ranges: bytes
+< Date: Wed, 26 Jan 2022 18:20:11 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< X-Contextid: oWVrXxDk/wkCk1Gy7
+< Content-Type: text/html;charset=utf-8

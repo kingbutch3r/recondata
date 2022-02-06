@@ -1,0 +1,11 @@
+GET http://pazari-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=Bd/N+bvSwqO+Zjk3ZDFiZDY0YTA3MWIxODI3NzA3Y2QwMjM2NmM3;Path=/
+< X-Contextid: 9SPM5UFN/MRGWz6bE
+< Age: 513868
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 02:39:38 GMT
+< Location: https://pazari-demo.squarespace.com/
+< Server: Squarespace

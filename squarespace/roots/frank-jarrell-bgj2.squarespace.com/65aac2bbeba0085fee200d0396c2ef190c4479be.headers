@@ -1,0 +1,16 @@
+GET https://frank-jarrell-bgj2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"b88d32ca53effd2a385d5455849bdac5"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 376315
+< Date: Fri, 28 Jan 2022 16:49:18 GMT
+< X-Contextid: OOPjMGDL/NUE07Oij
+< Server: Squarespace
+< Set-Cookie: crumb=BbMA0vWRg9VVMTAwNTViODU3MDI4NDRlMDA4MjBhMDJhODcyZmU3;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff

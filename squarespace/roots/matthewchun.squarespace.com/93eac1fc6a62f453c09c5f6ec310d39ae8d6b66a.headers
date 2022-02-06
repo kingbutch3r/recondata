@@ -1,0 +1,15 @@
+GET http://matthewchun.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Date: Tue, 01 Feb 2022 07:45:23 GMT
+< Vary: Accept-Encoding
+< Etag: W/"8a6dbbe8a537c695340ce150643eee3d"
+< Set-Cookie: crumb=BQJXljDEfCftZWIxZTY1N2M2YzQ1MmU2MjdkNDRjYmMxOGJhNmNi;Path=/
+< X-Contextid: jjjGTtAb/HzYdo5rF
+< Age: 63681
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

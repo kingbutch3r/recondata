@@ -1,0 +1,15 @@
+GET https://externaltokenservice.sandbox.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 23:26:14 GMT
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache
+< Set-Cookie: GCLB=CPyA58yHybmM4AE; path=/; HttpOnly
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Vary: Accept-Encoding
+< Via: 1.1 google
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"

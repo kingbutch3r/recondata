@@ -1,0 +1,15 @@
+GET https://smilesdelivered.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:59:23 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=efa22ca8bj8gvhhq106vpnoqt4; expires=Thu, 03-Mar-2022 23:59:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=55831cc1-2892-4d0c-954f-72c6660ac662; expires=Thu, 01-Feb-2024 23:59:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache

@@ -1,0 +1,17 @@
+GET https://sfglobal.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=86ctc8j1d9niiqqk4oqjdbajhk; expires=Fri, 04-Mar-2022 00:16:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4083c17a-012e-4f27-b550-a1976a3902e1; expires=Fri, 02-Feb-2024 00:16:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:16:37 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent

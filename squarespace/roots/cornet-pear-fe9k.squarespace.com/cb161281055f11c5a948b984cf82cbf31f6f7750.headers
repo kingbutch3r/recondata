@@ -1,0 +1,18 @@
+GET https://cornet-pear-fe9k.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: P1n3CwCu/Buao7dVk
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Strict-Transport-Security: max-age=43200
+< Age: 205454
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Etag: W/"03463e733594774d0b8029d704375e58"
+< Set-Cookie: crumb=BZjwCXlao42HMWEyNzM4ZjI3NDliMTFjMzk2MTlhOGJlMzBjMTgz;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Sun, 30 Jan 2022 14:47:47 GMT

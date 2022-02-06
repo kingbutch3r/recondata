@@ -1,0 +1,15 @@
+GET https://cfpoappointment.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:41:51 GMT
+< Set-Cookie: PHPSESSID=jolu91oqn4n4ahgd7ht5p3mol0; expires=Fri, 04-Mar-2022 00:41:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7a1e3425-e5b3-4e83-94a3-df84273a52cf; expires=Fri, 02-Feb-2024 00:41:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

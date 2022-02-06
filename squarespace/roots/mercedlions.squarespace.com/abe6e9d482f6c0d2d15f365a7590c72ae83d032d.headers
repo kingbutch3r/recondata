@@ -1,0 +1,11 @@
+GET http://mercedlions.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://mercedlions.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUvoQ4zpVbBEMjkxYTdhY2EyOWU1ZWVhZjc1YmU5NzAwZThiYzZh;Path=/
+< X-Contextid: lgWj90uT/q4sueuTO
+< Age: 524080
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 23:52:07 GMT

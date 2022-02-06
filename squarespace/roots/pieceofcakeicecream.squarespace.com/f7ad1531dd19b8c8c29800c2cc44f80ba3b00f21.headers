@@ -1,0 +1,11 @@
+GET http://pieceofcakeicecream.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:56:35 GMT
+< Location: https://pieceofcakeicecream.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXjJ13bEX6QRZTllYjA1OWE5YjdmMmJlZGQ1ZGU2NmIzOWRhMDNl;Path=/
+< X-Contextid: wwy6RAGg/mgcn7b5S

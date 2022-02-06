@@ -1,0 +1,11 @@
+GET http://stage.new.account.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Vary: Accept-Encoding
+< Server: cloudflare
+< Cf-Ray: 6d6ef6c9cf3f0e0c-BOM
+< Date: Tue, 01 Feb 2022 23:29:49 GMT
+< Expires: Wed, 02 Feb 2022 00:29:49 GMT
+< Cache-Control: max-age=3600
+< Location: https://stage.new.account.krisp.ai/

@@ -1,0 +1,11 @@
+GET http://wells-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 260948
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 00:57:07 GMT
+< Location: https://wells-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXBWSqmUr+CzNDk3NjIzNjQxMWI3NzNjZjAzZjNmM2U5OWZmOGEx;Path=/
+< X-Contextid: YBLki4O5/Prt7eiTu

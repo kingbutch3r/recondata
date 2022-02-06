@@ -1,0 +1,16 @@
+GET https://nyc-kidsproject.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 422024
+< X-Contextid: QTSDN4ON/CTeY4fZB
+< Etag: W/"d056698250b3e02286adb51ac93d3242--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=BWR8Z5zYLUBPODIyN2NmMTg0MjVlYmJlMjVkMTRiY2E3ODEzMzIz;Path=/
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Date: Fri, 28 Jan 2022 04:09:26 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0

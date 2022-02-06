@@ -1,0 +1,13 @@
+GET http://john-jay-3w20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3208
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BWjM+KRwH+9HZjdiNzhhZTdhMzI4ZDhhMDRiOGI4YTY0MjJjZDM2;Path=/
+< X-Contextid: k9JUile8/3WNF7LlK
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:06:25 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

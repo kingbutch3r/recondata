@@ -1,0 +1,13 @@
+GET https://virtualnationaltraining2020.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=0
+< X-Contextid: q1RDNcpF/Ye2yIHsz
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:06:27 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BU+t9h42hyU6N2JlOTA0NWYzODFmZTk1YmZmN2RmMTQzZTZkZTk2;Path=/

@@ -1,0 +1,17 @@
+GET https://stunned.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=u8jlh150dpuacf1u82t98c15fu; expires=Thu, 03-Mar-2022 23:59:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=201c76ef-c23b-47d8-bed0-da01c24b57a2; expires=Thu, 01-Feb-2024 23:59:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:59:21 GMT
+< Strict-Transport-Security: max-age=63072000; preload

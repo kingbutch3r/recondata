@@ -1,0 +1,11 @@
+GET http://www.kiara-kukes-2x82.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 00:51:52 GMT
+< Location: http://kiara-kukes-2x82.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BacSCUzXVKuxNTY5MWU1YTRjODY3ZTY4YWUyY2ZmOTU3NDMxNjg5;Path=/
+< X-Contextid: ZJ16P7Id/A2Ld5X5u
+< Age: 0
+< Content-Length: 0

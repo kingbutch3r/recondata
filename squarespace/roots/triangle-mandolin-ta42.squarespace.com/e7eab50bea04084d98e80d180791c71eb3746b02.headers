@@ -1,0 +1,11 @@
+GET http://triangle-mandolin-ta42.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Thu, 27 Jan 2022 12:06:48 GMT
+< Location: https://triangle-mandolin-ta42.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BYHskdDpVsz3YzUzZjExMzVjOGNhYTE4ZGRiYmM3YzNhYzFiZDgw;Path=/
+< X-Contextid: uKakd23y/tfSIiE1P
+< Age: 479426
+< Content-Length: 0

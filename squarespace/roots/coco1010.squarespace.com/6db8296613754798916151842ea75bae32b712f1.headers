@@ -1,0 +1,10 @@
+GET http://coco1010.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:14 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BX/6TJxjlch5NzI0NzRiMjQxNjc1NGJjZDU3MDlmMDk5MTUwNDIy;Path=/
+< X-Contextid: M8Rf1cxX/cK3tSt7n

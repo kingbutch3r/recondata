@@ -1,0 +1,12 @@
+GET http://psd2-api.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 23:26:29 GMT
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Pragma: no-cache
+< Server: rhino-core-shield
+< Content-Length: 190
+< Location: https://psd2-api.payoneer.com/
+< Cache-Control: max-age=0, no-cache, no-store
+< Content-Type: text/html

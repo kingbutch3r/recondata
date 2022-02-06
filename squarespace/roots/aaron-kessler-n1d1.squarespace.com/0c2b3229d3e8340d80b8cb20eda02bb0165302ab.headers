@@ -1,0 +1,12 @@
+GET http://aaron-kessler-n1d1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:14:40 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BV5ba+lrKZ5pMWI4N2ZmYjMyZWU4NmZlNzk4MjExNWZiOTZlYTM4;Path=/
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: AMNjkjRf/496QzONg

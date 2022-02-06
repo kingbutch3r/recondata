@@ -1,0 +1,13 @@
+GET https://hospitality-house.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:25:38 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbKf+minKARSMGI3MTRkYjFhZDFlMTljYmJhMTQ4MzA5Y2ZhMzI2;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Contextid: 1DmIYuK1/Qf7qj0oK

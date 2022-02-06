@@ -1,0 +1,15 @@
+GET https://aecarophotographyscheduling.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:11:20 GMT
+< Set-Cookie: PHPSESSID=s3v0lo7lnt4bo1p5srmmm1ck5k; expires=Fri, 04-Mar-2022 00:11:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=954d19af-3b95-43cf-bf79-93679c69e97f; expires=Fri, 02-Feb-2024 00:11:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

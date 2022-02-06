@@ -1,0 +1,17 @@
+GET https://fcai.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"64f596504bd535cb8b4a352f7894cfcc"
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Last-Modified: Wed, 02 Feb 2022 00:55:42 GMT
+< Server: Squarespace
+< X-Contextid: rzFmxFJt/bUbBmVQs
+< Accept-Ranges: bytes
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:55:42 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BT919GwUlzGDYTU5MzdlZTU1NTMyYmFiYzI2ZGYyZjBiMTNhNTIz;Path=/

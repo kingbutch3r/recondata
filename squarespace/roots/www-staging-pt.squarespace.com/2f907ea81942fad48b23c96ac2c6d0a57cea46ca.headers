@@ -1,0 +1,10 @@
+GET https://www-staging-pt.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=Bfm9rqU/wUG3OGFiYzAyNmZmNmM4OGVlMjk5ZGYxZWQ1YmZiYWU5;Path=/
+< X-Contextid: 3UzjDEaM/9OFN5Nfb
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:02 GMT

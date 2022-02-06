@@ -1,0 +1,11 @@
+GET https://www.utopialighting1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://utopialighting1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcRBYVfYxVyYNzNmOWI3YmIzMTJkM2Q5MTc1OTE2Y2M3YjdjZWNh;Path=/
+< X-Contextid: O4RqYFhb/l1XO4mfv
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:15:09 GMT

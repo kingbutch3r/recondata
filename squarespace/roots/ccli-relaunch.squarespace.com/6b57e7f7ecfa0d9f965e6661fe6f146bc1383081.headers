@@ -1,0 +1,16 @@
+GET https://ccli-relaunch.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: RLRS0eLd/kj9guMb6
+< Server: Squarespace
+< Set-Cookie: crumb=Bci5GfB9kMTyZTAxOTdmNDE2MzdjZjhmOTA4ODFmYzUxMTdkMTkz;Path=/
+< Strict-Transport-Security: max-age=0
+< Etag: W/"9fab28fecc028512c92ff078a1013447"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Age: 154133
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Date: Mon, 31 Jan 2022 06:07:30 GMT

@@ -1,0 +1,17 @@
+GET https://bookshalisaelizabethartistry.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=3tlcsk2dsemp3r1n0odasp2mfe; expires=Fri, 04-Mar-2022 00:48:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=87e94071-5044-46aa-a652-da1154a4a8ce; expires=Fri, 02-Feb-2024 00:48:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:48:42 GMT
+< Location: /schedule.php

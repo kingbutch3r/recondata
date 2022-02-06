@@ -1,0 +1,11 @@
+GET http://cr-crdl.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 136388
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 11:31:12 GMT
+< Location: https://cr-crdl.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVPBM5cCTclfYTAyZGY0NTI4ZjhkNjI0ZjUzZGM5NDY3ZTkxZDM2;Path=/
+< X-Contextid: OZadphPG/Rdg9fuAN

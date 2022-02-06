@@ -1,0 +1,16 @@
+GET https://derek-sotak-rfs1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 07:33:52 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: hzjoDvT0/3vW5BdNg
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BXEHfuC7T4D9Yjg5YzhhYjJhNGU5ZDE2ODZmNmM0NDFmYzRkZDQw;Path=/
+< Age: 62232
+< Server: Squarespace
+< Etag: W/"e9f2eeabdaaf31156e4313a44d288d5b"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

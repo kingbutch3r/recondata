@@ -1,0 +1,11 @@
+GET http://theresa-duemler-yt62.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://theresa-duemler-yt62.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BR2g914iiED6NjVjMDYwNzU0NjMxYTU3ODYwODA3NzdjZWE4ZDE3;Path=/
+< X-Contextid: 4TYRd8wG/1rqKrcAv
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:51:44 GMT

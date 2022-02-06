@@ -1,0 +1,12 @@
+GET https://www.rachel-segal-ftd1.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< X-Contextid: oziTotsH/9hyH2ah0
+< Cache-Control: no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 01:14:53 UTC
+< Server: Squarespace
+< Content-Length: 77576

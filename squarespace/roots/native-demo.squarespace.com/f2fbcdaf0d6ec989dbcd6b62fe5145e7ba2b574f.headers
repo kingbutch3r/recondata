@@ -1,0 +1,12 @@
+GET http://native-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=Bc230Vmia9aqYTIxOWU5YzAzMzU3ZmE1NWRkZDc2ZDE1M2U0OWQ2;Path=/
+< Date: Mon, 31 Jan 2022 14:12:28 GMT
+< Location: https://native-demo.squarespace.com/
+< X-Contextid: cqlOl3IA/61JgNsIC
+< Age: 124971
+< Cache-Control: max-age=172800, s-maxage=172800
+< Content-Length: 0

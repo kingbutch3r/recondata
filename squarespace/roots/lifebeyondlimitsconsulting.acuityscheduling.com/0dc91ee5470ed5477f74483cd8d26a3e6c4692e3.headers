@@ -1,0 +1,15 @@
+GET https://lifebeyondlimitsconsulting.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=br64h1s1haok2qq0m3ar7un77i; expires=Fri, 04-Mar-2022 00:12:33 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=92d69c4b-b7c2-4d2c-9748-cb5c211cc689; expires=Fri, 02-Feb-2024 00:12:34 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:12:34 GMT

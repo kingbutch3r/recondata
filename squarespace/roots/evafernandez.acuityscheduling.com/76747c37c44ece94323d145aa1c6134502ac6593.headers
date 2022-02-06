@@ -1,0 +1,15 @@
+GET https://evafernandez.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=5qr9hesbgeijf25hs6kq3ja9mp; expires=Fri, 04-Mar-2022 00:49:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6001fe27-b486-4ec1-9d02-71fe1f5c1ca9; expires=Fri, 02-Feb-2024 00:49:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:49:14 GMT

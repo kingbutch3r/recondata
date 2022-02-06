@@ -1,0 +1,12 @@
+GET http://chris-shea-nrf2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: MnYH4Ykr/dAH4jOkO
+< Date: Wed, 02 Feb 2022 01:20:20 GMT
+< Set-Cookie: crumb=BZDNAAgw7Q3cZDllNzFhZmRkM2IzOWJlMDZiZjJkOTU0ZGViMGY3;Path=/
+< X-Content-Type-Options: nosniff

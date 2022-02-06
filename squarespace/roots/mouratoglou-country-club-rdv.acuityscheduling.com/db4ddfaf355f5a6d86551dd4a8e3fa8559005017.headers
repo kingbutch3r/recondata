@@ -1,0 +1,17 @@
+GET https://mouratoglou-country-club-rdv.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:43:51 GMT
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=mlnr389df2emdu62f4rp9ce57u; expires=Fri, 04-Mar-2022 00:43:50 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3e21c3ea-c1ed-4cbd-9aaf-8cbe5be2c837; expires=Fri, 02-Feb-2024 00:43:51 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,15 @@
+GET https://custommarketer.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=pvk4i525oql51vbiotcebs4vl0; expires=Fri, 04-Mar-2022 00:29:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=18c70646-4d56-4d9d-81dc-98205650867c; expires=Fri, 02-Feb-2024 00:29:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:29:39 GMT

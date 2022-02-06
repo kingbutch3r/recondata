@@ -1,0 +1,10 @@
+GET https://lifeoftheo1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BUBvEiS6/SpmNjExZmMzNGQ5YWE0Y2I5YWJhMjUzMGExOGQ5ZWFi;Path=/
+< X-Contextid: vNxwoXWX/P3Raye0p
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:51:01 GMT
+< Server: Squarespace

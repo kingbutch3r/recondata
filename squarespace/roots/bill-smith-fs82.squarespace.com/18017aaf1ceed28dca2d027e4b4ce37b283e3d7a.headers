@@ -1,0 +1,16 @@
+GET https://bill-smith-fs82.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"6f3f79c6f1ccd7160e73be694f5ec107--gzip"
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 334498
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcBLG95K3K/yZWViMzIwMmMxNDAyNjU2ZjNjNDQxZmJlZTU5Mzlm;Path=/
+< Date: Sat, 29 Jan 2022 04:23:33 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: AnRyvwHj/9p5J5WSW

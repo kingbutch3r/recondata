@@ -1,0 +1,13 @@
+GET http://forum-staging.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 183
+< X-Cache: Redirect from cloudfront
+< X-Amz-Cf-Pop: MXP63-P2
+< Location: https://forum-staging.squarespace.com/
+< Via: 1.1 ffda2e0e250dded3b46d3660131eadba.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: K6W2qTWmFouzEuaHfZEfwXsnsU7innyFS9xFTrM9YNAwAPVD7Cwc7Q==
+< Server: CloudFront
+< Date: Wed, 02 Feb 2022 00:54:49 GMT
+< Content-Type: text/html

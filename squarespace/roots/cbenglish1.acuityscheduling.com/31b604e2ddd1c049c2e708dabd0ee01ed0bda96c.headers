@@ -1,0 +1,17 @@
+GET https://cbenglish1.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:53:00 GMT
+< Set-Cookie: PHPSESSID=kjq2iuunh96tl5l1j5pbqb1uec; expires=Thu, 03-Mar-2022 23:52:59 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3e2e8f3f-e884-401d-a6d4-c87af30737a8; expires=Thu, 01-Feb-2024 23:53:00 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Pragma: no-cache
+< Location: /schedule.php

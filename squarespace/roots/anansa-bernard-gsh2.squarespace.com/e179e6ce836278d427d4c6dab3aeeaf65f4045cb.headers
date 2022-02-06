@@ -1,0 +1,12 @@
+GET http://anansa-bernard-gsh2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BSI8gM19E/uIOWRkYjQxNTNmMjM3NjZkNjYyMDUyMWJlNDdlNmZm;Path=/
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 00:52:34 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: Wu8uYcrk/YHJF7iOj

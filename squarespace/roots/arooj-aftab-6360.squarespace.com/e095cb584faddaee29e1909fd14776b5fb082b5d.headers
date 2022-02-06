@@ -1,0 +1,11 @@
+GET http://arooj-aftab-6360.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: R3MF2GRN/45Cc65UX
+< Age: 414707
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 05:59:35 GMT
+< Location: https://arooj-aftab-6360.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=Be8NE8EcnGhWNTYzZjBhMWRhNGVkY2UwMTgxMjE4OGY4ODA4ZmNm;Path=/

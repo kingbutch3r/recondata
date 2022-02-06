@@ -1,0 +1,19 @@
+GET https://gazelle-bobcat-3da8.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 541419
+< Set-Cookie: crumb=BSJt3v/kOX/OYzczMzk1NDAzZDY3MzAzYTVhMzllMGMzYjkwYjMz;Path=/
+< Vary: Accept-Encoding
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 26 Jan 2022 18:31:45 GMT
+< Last-Modified: Wed, 26 Jan 2022 18:31:45 GMT
+< X-Contextid: ppgyYpEJ/D8RJw8f1
+< Etag: W/"d739ad08816b76f4bbccfed934110145"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

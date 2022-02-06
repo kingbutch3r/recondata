@@ -1,0 +1,15 @@
+GET https://empoweredlifetime.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=m7vbae97fil171qhgqvfvhbf9e; expires=Fri, 04-Mar-2022 00:05:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=46b802ce-2255-40ba-b865-8492a00cdcff; expires=Fri, 02-Feb-2024 00:05:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:05:07 GMT

@@ -1,0 +1,15 @@
+GET https://pficanadafirearmstraining.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:11:35 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=qvhp400rhupoqs0dl7laco1frb; expires=Fri, 04-Mar-2022 00:11:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dc6ea2e0-411c-41fe-a1ae-a25e66f41aa2; expires=Fri, 02-Feb-2024 00:11:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

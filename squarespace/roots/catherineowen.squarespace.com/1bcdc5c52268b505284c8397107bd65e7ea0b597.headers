@@ -1,0 +1,16 @@
+GET https://catherineowen.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Vary: Accept-Encoding
+< Date: Sat, 29 Jan 2022 09:14:20 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BdntZI6N3LHUMzAyNDEzYzcyYzJlOTg2NGMyN2M1YTRkMWI1NzY1;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Contextid: UMSl78Dh/Yn2idag3
+< Accept-Ranges: bytes
+< Age: 317476
+< Etag: W/"b269fcdd10b33cb8f6945c711a7111ab"

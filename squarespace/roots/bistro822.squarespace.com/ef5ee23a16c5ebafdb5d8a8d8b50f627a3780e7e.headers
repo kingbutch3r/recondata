@@ -1,0 +1,11 @@
+GET http://bistro822.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://bistro822.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZsIMYR7zidvYjk1OTYyMjI0YjVhNGJjOTI2NzVkNWQyZTNhNzA4;Path=/
+< X-Contextid: YEp6M0Uu/aMCE70Ez
+< Age: 100959
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 20:48:44 GMT

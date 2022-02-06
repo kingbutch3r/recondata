@@ -1,0 +1,11 @@
+GET https://sbdepotmuseum.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=CEDAD6044D385E4AFC0F48A50309B583.v5-web020; Path=/; HttpOnly
+< X-Contextid: Ho9p13iz/3T3LMCj1
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:22:41 GMT
+< Location: http://sbdepotmuseum.squarespace.com/;jsessionid=CEDAD6044D385E4AFC0F48A50309B583.v5-web020

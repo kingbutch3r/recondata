@@ -1,0 +1,13 @@
+GET https://tariq-khan-zt61.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BYfD80XXZo4lNzFiNzRiMTY4ZWM2YjI2MDM1M2M2MDU3NWY1MWRk;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:14:13 GMT
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: fEGdzuif/o5iH8bw0
+< Age: 0

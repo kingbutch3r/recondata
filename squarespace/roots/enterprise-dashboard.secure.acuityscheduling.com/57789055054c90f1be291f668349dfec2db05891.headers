@@ -1,0 +1,13 @@
+GET http://enterprise-dashboard.secure.acuityscheduling.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://enterprise-dashboard.secure.acuityscheduling.com/
+< X-Amz-Cf-Pop: MXP63-P4
+< Via: 1.1 3175dee9d95fb9f9ca25e0cf503a3a00.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: C-ci-9uyHmDKBDTzzbnMUwNN-LSWPT59jJ2diSCtx5TlHtneosXmCw==
+< Server: CloudFront
+< Date: Wed, 02 Feb 2022 00:55:09 GMT
+< Content-Type: text/html
+< Content-Length: 183
+< X-Cache: Redirect from cloudfront

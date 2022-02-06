@@ -1,0 +1,11 @@
+GET http://www.jeff-reed-8hc0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: Z8v5eVd9/QQ35Jg9X
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:11:51 GMT
+< Location: http://jeff-reed-8hc0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVPku5O1kljkYzE3NDEwZTNjNTExMWFkNzhiODc2NmFjOGMzNTkw;Path=/

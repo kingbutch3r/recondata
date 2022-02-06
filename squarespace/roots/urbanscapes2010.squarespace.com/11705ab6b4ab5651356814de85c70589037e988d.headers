@@ -1,0 +1,10 @@
+GET https://urbanscapes2010.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:52:02 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTLQ4dk1z8hvODA5YTgzMDRmODQ3YTc4NzY3MGNhYzJkNWNhNmNk;Path=/
+< X-Contextid: RJuSUVHj/yisFTRNG

@@ -1,0 +1,15 @@
+GET https://server2.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Tue, 01 Feb 2022 23:53:06 GMT
+< Set-Cookie: PHPSESSID=o9lcpc7lukj6pn6ieli0rpviil; expires=Thu, 03-Mar-2022 23:53:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e2ef0e8f-4b04-4f18-a9ef-54b08dca9765; expires=Thu, 01-Feb-2024 23:53:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload

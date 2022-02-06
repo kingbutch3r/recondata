@@ -1,0 +1,12 @@
+GET https://gerald-strom-3j30.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:57:55 UTC
+< Pragma: no-cache
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: OEMfTfDS/m18RBa2b
+< Content-Length: 77576

@@ -1,0 +1,17 @@
+GET https://thepalmertongroup.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=e3d4s2nd1kjt9e925jks1l448o; expires=Fri, 04-Mar-2022 00:27:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7e829536-2dfb-483b-b1cc-7b55e6b0cad0; expires=Fri, 02-Feb-2024 00:27:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:27:31 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

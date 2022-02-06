@@ -1,0 +1,11 @@
+GET http://x3gctmfcdh2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BUJ6N6kaLAouN2EyNDg1NzdlNGNmOGRhMDRjZTY1YmZiOGViMmQ3;Path=/
+< X-Contextid: moVJtDzW/N8CVv5fO
+< Age: 49544
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 11:34:55 GMT
+< Location: https://x3gctmfcdh2.squarespace.com/
+< Server: Squarespace

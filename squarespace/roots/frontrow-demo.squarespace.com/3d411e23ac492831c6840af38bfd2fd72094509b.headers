@@ -1,0 +1,10 @@
+GET http://frontrow-demo.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BY12NjegRlRQYzQ0NDgyMmNhOWY1N2FlYWU0Y2RlNDIxMDM5MGVl;Path=/
+< X-Contextid: fbKRluOI/hQIeX8dc
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:15 GMT
+< Server: Squarespace

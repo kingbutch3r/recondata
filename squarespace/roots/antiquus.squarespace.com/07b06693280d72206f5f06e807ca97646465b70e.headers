@@ -1,0 +1,9 @@
+GET http://antiquus.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:56:17 GMT
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=0CB5D552073FB3AB7A7622260317ABBA.v5-web013; Path=/; HttpOnly
+< X-Contextid: vDo7Lxlb/a6Pa7QGQ

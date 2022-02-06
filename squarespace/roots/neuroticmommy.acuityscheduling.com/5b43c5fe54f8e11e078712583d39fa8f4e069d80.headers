@@ -1,0 +1,15 @@
+GET https://neuroticmommy.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:47:31 GMT
+< Set-Cookie: PHPSESSID=ju0dj25eo0sgiq9rj9ujds60hh; expires=Fri, 04-Mar-2022 00:47:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9235be90-b0bf-46d5-9612-8c1859ea0dd4; expires=Fri, 02-Feb-2024 00:47:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

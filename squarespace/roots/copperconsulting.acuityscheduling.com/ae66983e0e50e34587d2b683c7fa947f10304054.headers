@@ -1,0 +1,15 @@
+GET https://copperconsulting.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=lu6pe9d3o4gjc3eh1dp6tmh9ou; expires=Fri, 04-Mar-2022 00:12:28 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ec12e79c-5be7-43c2-803e-85531bb8d49f; expires=Fri, 02-Feb-2024 00:12:29 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Date: Wed, 02 Feb 2022 00:12:29 GMT

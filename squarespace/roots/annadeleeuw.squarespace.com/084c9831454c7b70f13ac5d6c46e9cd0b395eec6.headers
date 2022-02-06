@@ -1,0 +1,16 @@
+GET https://annadeleeuw.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Etag: W/"1f75f7ea2a54bae19c2fc07d1b123a61--gzip"
+< Set-Cookie: crumb=Bb9895pDJsvTNWM4YmIzZTAwOGFhMzM0Mjc4MWRiODJhMzg2OTc1;Path=/
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: 2azYhcZy/tj0IsCgS
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:02:37 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

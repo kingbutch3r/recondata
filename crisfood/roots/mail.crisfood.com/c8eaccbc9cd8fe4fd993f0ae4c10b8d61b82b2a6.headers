@@ -1,0 +1,10 @@
+GET http://mail.crisfood.com
+
+
+< HTTP/1.1 500 Internal Server Error
+< Date: Sat, 29 Jan 2022 17:28:33 GMT
+< Server: Apache
+< X-Powered-By: PHP/7.2.34
+< Upgrade: h2,h2c
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8

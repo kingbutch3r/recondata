@@ -1,0 +1,15 @@
+GET https://laxandlashbynikkib.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 01:08:45 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=q0dbmb5qrbvfp1c5k7cs1jc811; expires=Fri, 04-Mar-2022 01:08:44 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4e8d5351-4f00-435f-af4a-4cc667187114; expires=Fri, 02-Feb-2024 01:08:45 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

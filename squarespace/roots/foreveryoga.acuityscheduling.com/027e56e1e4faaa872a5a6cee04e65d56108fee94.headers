@@ -1,0 +1,15 @@
+GET https://foreveryoga.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=17i7ul84upjaj3bfejl6jlavl1; expires=Thu, 03-Mar-2022 23:54:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e12751b3-a941-4c14-be26-155648623aba; expires=Thu, 01-Feb-2024 23:54:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:54:07 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8

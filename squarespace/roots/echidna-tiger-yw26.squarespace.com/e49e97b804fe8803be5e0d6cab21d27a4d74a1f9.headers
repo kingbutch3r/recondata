@@ -1,0 +1,15 @@
+GET https://echidna-tiger-yw26.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Server: Squarespace
+< Set-Cookie: crumb=BVo4g1O5G1PzMmYzYmVlYjQ0ZjE1NWVmZmJkNjY4ODA5OTk5YWZh;Path=/
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:24:10 GMT
+< Etag: W/"780be3970a81b5f4e9a3ce6ec993f14e"
+< X-Content-Type-Options: nosniff
+< X-Contextid: GtNivyH2/7qYu6hNk
+< X-Frame-Options: SAMEORIGIN
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200

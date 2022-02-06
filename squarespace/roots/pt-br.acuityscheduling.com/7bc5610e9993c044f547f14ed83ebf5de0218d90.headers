@@ -1,0 +1,21 @@
+GET https://pt-br.acuityscheduling.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Content-Security-Policy: frame-ancestors 'self'
+< X-Frame-Options: SAMEORIGIN
+< Content-Language: pt-BR
+< X-Sl-Norewrite: 1
+< Content-Type: text/html; charset=utf-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:28:15 GMT
+< Set-Cookie: PHPSESSID=8gcjbmf4640feot5k6t3aubpsr; expires=Fri, 04-Mar-2022 00:28:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1c481200-d061-4462-9d73-832d451f7f53; expires=Fri, 02-Feb-2024 00:28:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< X-Sl-Notranslate: 1
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Server: Smartling

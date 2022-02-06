@@ -1,0 +1,11 @@
+GET http://chartreuse-antelope-dca3.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=Bb5cl6dIvYwwMTljOTU4M2JlYjNhNDU4ZWQ4NWZmYzdiMmY1N2Y5;Path=/
+< X-Contextid: AZ6MaPij/OjukkV3d
+< Age: 102537
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 20:56:58 GMT
+< Location: https://chartreuse-antelope-dca3.squarespace.com/
+< Server: Squarespace

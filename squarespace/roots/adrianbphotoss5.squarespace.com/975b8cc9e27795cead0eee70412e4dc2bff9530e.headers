@@ -1,0 +1,10 @@
+GET http://adrianbphotoss5.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:00:53 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbqxxCb6WeXmODQ2MjAyNTdjNWZkZDUzMDdhMWZhYjQ0MDFmYjk5;Path=/
+< X-Contextid: zzwtYQdv/goPoZCMU
+< Age: 0
+< Content-Type: text/html;charset=utf-8

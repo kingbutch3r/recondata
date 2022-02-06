@@ -1,0 +1,17 @@
+GET https://tatianaphotography.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:46:12 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=iq39evkgn05ifj02kn5fg8l9f6; expires=Fri, 04-Mar-2022 00:46:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=62e94220-9a9c-4127-81cd-9725c8bdc3da; expires=Fri, 02-Feb-2024 00:46:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"

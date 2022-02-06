@@ -1,0 +1,16 @@
+GET https://peaceinnovationlab.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BVLAK13gO1jONzdiMWIxZjcyYTRhMmFhZWJiN2ViMjg0NWE2NzBm;Path=/
+< Etag: W/"90d4e5bb543151f0372e07e9699e73f1--gzip"
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: h7PmIQ6z/6ptPh0FK
+< Age: 57657
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 09:22:37 GMT
+< Vary: Accept-Encoding

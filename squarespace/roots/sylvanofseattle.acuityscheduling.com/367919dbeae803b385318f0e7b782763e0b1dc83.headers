@@ -1,0 +1,17 @@
+GET https://sylvanofseattle.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=u4i4dnhpjl7bc9gbv88lmdmlov; expires=Fri, 04-Mar-2022 00:04:41 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8b80e5be-e74a-4404-833f-6f303a705f0d; expires=Fri, 02-Feb-2024 00:04:42 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:04:42 GMT
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Location: /schedule.php

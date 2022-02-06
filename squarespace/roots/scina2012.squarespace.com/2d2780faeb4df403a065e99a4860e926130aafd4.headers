@@ -1,0 +1,11 @@
+GET http://scina2012.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: mhDTMYXT/4tCRHaDV
+< Age: 53328
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 10:02:28 GMT
+< Location: https://scina2012.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVYdgmDmIhWeOGE1MTA1YmJlZmM5ZDVjY2QzNGExMDdmZjdiNjgw;Path=/

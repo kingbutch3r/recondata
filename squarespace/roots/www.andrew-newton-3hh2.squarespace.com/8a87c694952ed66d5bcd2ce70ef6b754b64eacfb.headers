@@ -1,0 +1,11 @@
+GET https://www.andrew-newton-3hh2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:20:46 GMT
+< Location: https://andrew-newton-3hh2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXW2VkmG4C3QZjk1ZGY2NGQ5NTdhMzM4OTk1OGEwZmNiMGI5NzU3;Path=/
+< X-Contextid: IqLTUdgc/ESjfIhzQ

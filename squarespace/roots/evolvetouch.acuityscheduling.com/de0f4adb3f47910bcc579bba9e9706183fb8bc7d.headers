@@ -1,0 +1,15 @@
+GET https://evolvetouch.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:54:22 GMT
+< Vary: Accept-Encoding,User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=tlb8gsdc5k29spc70kp6spdqa1; expires=Fri, 04-Mar-2022 00:54:21 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ebc07f06-cf30-4cd2-9173-3d1394faa2a3; expires=Fri, 02-Feb-2024 00:54:22 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

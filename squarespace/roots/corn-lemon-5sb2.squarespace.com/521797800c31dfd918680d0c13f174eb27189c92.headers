@@ -1,0 +1,11 @@
+GET http://corn-lemon-5sb2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: sidydyNM/1ipueeMC
+< Age: 353209
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 23:12:32 GMT
+< Location: https://corn-lemon-5sb2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVSUOpaV2SMhMjc5YWJmNjQ0ZTMzMDljZDI1YjE0M2VhOWM0OGIw;Path=/

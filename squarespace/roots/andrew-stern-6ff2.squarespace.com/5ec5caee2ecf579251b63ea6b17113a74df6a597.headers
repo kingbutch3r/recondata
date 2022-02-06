@@ -1,0 +1,11 @@
+GET http://andrew-stern-6ff2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Fri, 28 Jan 2022 07:12:19 GMT
+< Location: https://andrew-stern-6ff2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BUESKuhNKYXGZGY5Y2RiMDMxMjYxZjg5N2FiNmY1NmFjNTA4Yjg2;Path=/
+< X-Contextid: uCiq2Uuj/qJRz0hA3
+< Age: 409206
+< Content-Length: 0

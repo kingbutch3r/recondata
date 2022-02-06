@@ -1,0 +1,11 @@
+GET http://ciaran-woods-tik1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: od9fASPG/N1h5hxso
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:50:55 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bd6yozsvC5tKZmFjY2M2NjAwNWM4MjE5MDkxMjFiN2VmNWMzZDgw;Path=/

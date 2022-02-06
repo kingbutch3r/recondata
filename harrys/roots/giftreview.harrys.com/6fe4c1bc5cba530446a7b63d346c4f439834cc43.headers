@@ -1,0 +1,13 @@
+GET https://giftreview.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Via: 1.1 b95596d6887b20449c59c2fc9d141c4a.cloudfront.net (CloudFront)
+< X-Amz-Cf-Id: b_0X3-GbsFVqvUOXgsqeTWr8IxzW_xLXof1IbfsrnSM28LtNwbQyXg==
+< Age: 12769
+< Content-Length: 0
+< Server: AmazonS3
+< X-Cache: Hit from cloudfront
+< X-Amz-Cf-Pop: SIN5-C1
+< Date: Sat, 29 Jan 2022 14:06:46 GMT
+< Location: https://www.harrys.com//

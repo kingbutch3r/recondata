@@ -1,0 +1,16 @@
+GET https://c10.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: CgA7jWDD/ZngOIC4D
+< Set-Cookie: crumb=BQUBgUk+WdnwNDM4NWVhMjJjNmViY2RmZGU1MjQxYzk4YmVjZjFk;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Date: Fri, 28 Jan 2022 13:46:39 GMT
+< Etag: W/"4ce676cd8bd0a9be3c14399148323106--gzip"
+< X-Content-Type-Options: nosniff
+< Age: 386472
+< Content-Type: text/html;charset=utf-8
+< Accept-Ranges: bytes

@@ -1,0 +1,17 @@
+GET https://sofiaroper.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Pragma: no-cache
+< Vary: User-Agent
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:29:32 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=9gdpl45eu0pf5anl3befsl4gtq; expires=Fri, 04-Mar-2022 00:29:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8075be46-8cb6-44eb-9183-4a60f22b7d4b; expires=Fri, 02-Feb-2024 00:29:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

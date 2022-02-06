@@ -1,0 +1,11 @@
+GET https://www.casadacapelinha.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BUaQ6AHjUD+iNzYzZjRlOWE4Y2FiYTkwYzRjZmRmMDJkMjE1M2M3;Path=/
+< X-Contextid: uTPdphAM/xzJ3wtT7
+< Age: 0
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:49:58 GMT
+< Location: https://casadacapelinha.squarespace.com/

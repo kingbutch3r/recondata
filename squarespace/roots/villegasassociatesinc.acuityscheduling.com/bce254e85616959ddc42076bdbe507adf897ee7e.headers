@@ -1,0 +1,17 @@
+GET https://villegasassociatesinc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=2gcph7sgg6umpge3v34lo0acee; expires=Thu, 03-Mar-2022 23:58:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=2e8fbab2-713b-4167-8c35-f6f62b2177cc; expires=Thu, 01-Feb-2024 23:58:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:58:35 GMT

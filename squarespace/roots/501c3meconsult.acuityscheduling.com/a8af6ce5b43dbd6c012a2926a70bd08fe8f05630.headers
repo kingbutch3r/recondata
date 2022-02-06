@@ -1,0 +1,17 @@
+GET https://501c3meconsult.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=2q85fame1jrupvsk0mb4oerdoh; expires=Fri, 04-Mar-2022 00:41:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=df5531d4-5d64-4d2f-93cc-ee1bfe2dad3a; expires=Fri, 02-Feb-2024 00:41:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:41:16 GMT
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8

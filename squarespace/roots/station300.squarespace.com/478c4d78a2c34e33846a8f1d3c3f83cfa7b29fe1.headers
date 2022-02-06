@@ -1,0 +1,9 @@
+GET https://station300.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: JSESSIONID=0E57E4D3DFBFCEEAE67D14CA3FB108D5.v5-web008; Path=/; HttpOnly
+< X-Contextid: DmP5ZNEz/eyDx1WxT
+< Content-Type: text/html;charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:52:19 GMT
+< Server: Squarespace

@@ -1,0 +1,17 @@
+GET https://evelyngrundy.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:45:24 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=651a6mh5cqep6jvedb55djkrjt; expires=Fri, 04-Mar-2022 00:45:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d8abedce-36af-4221-b1e4-214f29f7ebbf; expires=Fri, 02-Feb-2024 00:45:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

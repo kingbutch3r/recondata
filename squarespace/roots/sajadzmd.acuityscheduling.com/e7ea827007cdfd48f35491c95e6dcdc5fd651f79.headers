@@ -1,0 +1,17 @@
+GET https://sajadzmd.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=dj2i5luq6h3kokfirn788b3c42; expires=Thu, 03-Mar-2022 23:59:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=4b042f07-c071-41da-89fd-072e96cc8762; expires=Thu, 01-Feb-2024 23:59:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:59:57 GMT
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

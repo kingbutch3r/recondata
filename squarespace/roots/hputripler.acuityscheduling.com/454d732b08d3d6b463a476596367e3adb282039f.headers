@@ -1,0 +1,17 @@
+GET https://hputripler.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=bpjqqqu4sd4jidt7r7pucda6mq; expires=Fri, 04-Mar-2022 00:29:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=dcf036be-59cc-4c5b-b106-27e31704e419; expires=Fri, 02-Feb-2024 00:29:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:29:07 GMT
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php

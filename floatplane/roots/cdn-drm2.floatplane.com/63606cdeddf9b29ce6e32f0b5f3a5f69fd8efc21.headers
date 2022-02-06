@@ -1,0 +1,23 @@
+GET http://cdn-drm2.floatplane.com
+
+
+< HTTP/1.1 400 Bad Request
+< Cdn-Requestpullsuccess: True
+< Cdn-Cachedat: 01/31/2022 18:57:41
+< Cdn-Edgestorageid: 797
+< Access-Control-Allow-Headers: *
+< Cache-Control: max-age=5, private
+< Cdn-Proxyver: 1.02
+< Cdn-Uid: 6b4db53f-2cd0-4b7a-8f35-1c944e61cc82
+< Cdn-Requestcountrycode: US
+< Access-Control-Request-Method: *
+< Date: Mon, 31 Jan 2022 18:57:41 GMT
+< Cdn-Pullzone: 77664
+< Access-Control-Allow-Methods: OPTIONS, GET
+< Cdn-Cache: MISS
+< Cdn-Requestpullcode: 400
+< Cdn-Status: 400
+< Cdn-Requestid: c0fa069496a9b262cb619ec4df5a3010
+< Content-Length: 0
+< Server: BunnyCDN-MU1-797
+< Access-Control-Allow-Origin: *

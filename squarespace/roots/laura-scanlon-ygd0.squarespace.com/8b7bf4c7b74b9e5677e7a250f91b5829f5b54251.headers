@@ -1,0 +1,11 @@
+GET http://laura-scanlon-ygd0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: l7vNvPzE/Gcn9gsLB
+< Age: 406831
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 07:49:30 GMT
+< Location: https://laura-scanlon-ygd0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSFyc1cHhf++YzY0ODU0MGE5MWUwMWRhOWJiMzhhNTIzNzk1Zjhj;Path=/

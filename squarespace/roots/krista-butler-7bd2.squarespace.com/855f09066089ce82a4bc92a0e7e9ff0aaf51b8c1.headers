@@ -1,0 +1,16 @@
+GET http://krista-butler-7bd2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Last-Modified: Fri, 28 Jan 2022 17:53:17 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BT61SadZ8GTkMjIyMTg4ZGFlZTA1NDJjMWIzYmE1OWY5MTdjZGI4;Path=/
+< Age: 372380
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"3c3d8a9f59912254b92f5605dc0dc09d"
+< Accept-Ranges: bytes
+< X-Content-Type-Options: nosniff
+< X-Contextid: VPMUiyUo/m1LPhbrO
+< Date: Fri, 28 Jan 2022 17:53:17 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding

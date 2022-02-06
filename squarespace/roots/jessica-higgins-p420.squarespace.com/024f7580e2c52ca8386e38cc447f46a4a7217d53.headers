@@ -1,0 +1,13 @@
+GET http://jessica-higgins-p420.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< X-Contextid: 9ucBO5pw/rQvPwKIx
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:44 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWI2stwEnIGVNDRlMWMwYmVkZGU1NDRhYzZlMzY2MWEwYTNlNDFl;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Etag: W/"3f87592f6c7b3bb6cd51623bc9fc2754"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

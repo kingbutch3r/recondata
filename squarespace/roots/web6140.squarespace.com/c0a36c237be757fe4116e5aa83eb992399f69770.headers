@@ -1,0 +1,11 @@
+GET http://web6140.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:05:33 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYkX1LuRT7cwN2M4Y2EyM2Q4MDcwNGFlNjdiZDNhZTMxNDY0MDBm;Path=/
+< X-Contextid: Ifobw7cE/h2JKb8ID

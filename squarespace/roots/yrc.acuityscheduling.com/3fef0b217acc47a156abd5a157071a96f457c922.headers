@@ -1,0 +1,17 @@
+GET https://yrc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:58:48 GMT
+< Set-Cookie: PHPSESSID=0qmh3q1tonnpjidpnk4o8s11dk; expires=Thu, 03-Mar-2022 23:58:47 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8cdf45af-86dc-44b5-9ba9-657cb3097d23; expires=Thu, 01-Feb-2024 23:58:48 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

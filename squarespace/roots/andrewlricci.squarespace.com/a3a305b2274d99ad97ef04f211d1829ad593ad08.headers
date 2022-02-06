@@ -1,0 +1,16 @@
+GET https://andrewlricci.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=Bepzg8X6sDULMTMwYWE1ODE1ZGMzMDdkZmRiYjJlZWVlOGQ2OWFm;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< X-Contextid: xtf4brfO/kTPIL1ig
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:00:50 GMT
+< Etag: W/"39b9fd7da9e6e49c407e73c22c004db7"
+< Age: 0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0

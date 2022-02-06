@@ -1,0 +1,15 @@
+GET https://imflash.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=23nk8k2j7trf6niemutn9biuj1; expires=Fri, 04-Mar-2022 00:14:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f766d81e-0dd6-445f-bd06-6de3ea953b44; expires=Fri, 02-Feb-2024 00:14:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:14:05 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload

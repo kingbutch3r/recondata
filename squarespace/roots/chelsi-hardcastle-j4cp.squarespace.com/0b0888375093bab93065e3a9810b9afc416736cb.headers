@@ -1,0 +1,16 @@
+GET https://chelsi-hardcastle-j4cp.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Date: Tue, 01 Feb 2022 23:50:17 GMT
+< Etag: W/"1f2b971201732f4447151024591b789e--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BWDyCa3jXU7VYjRiNjYwYjQ5MWJkZjVkNTJhYmY0Yjc2YWZhOTJl;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 0
+< X-Content-Type-Options: nosniff
+< X-Contextid: BKx5IIHu/5ilzKQs5

@@ -1,0 +1,13 @@
+GET https://help.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Fri, 28 Jan 2022 18:15:07 GMT
+< Server: AmazonS3
+< Via: 1.1 4bc700d87dc12c5b9fe83b91ddd63bea.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: SIN5-C1
+< X-Amz-Cf-Id: iEMoymGP_BBwppFOvkfpcGvKC6fzX1tR_3zWDqT56ivgj-C0koXNsQ==
+< Age: 84264
+< Content-Length: 0
+< Location: https://www.harrys.com/help
+< X-Cache: Hit from cloudfront

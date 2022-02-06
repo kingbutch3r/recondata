@@ -1,0 +1,17 @@
+GET https://jay-white-nrl1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Age: 51714
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Last-Modified: Tue, 01 Feb 2022 02:31:02 GMT
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BRiPEy0fwI1gMmNlZjE4MmFhNTFkOTYyMzZkOTllNzY1MTlmMjUw;Path=/
+< X-Contextid: QJIjCqxD/nQ6ekILw
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 10:29:04 GMT
+< Etag: W/"d11144fa0fbf82c6e135826137ad84d4"

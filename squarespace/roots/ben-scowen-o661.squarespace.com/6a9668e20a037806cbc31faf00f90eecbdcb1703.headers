@@ -1,0 +1,17 @@
+GET https://ben-scowen-o661.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 396653
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Server: Squarespace
+< Date: Fri, 28 Jan 2022 11:03:17 GMT
+< Last-Modified: Fri, 28 Jan 2022 05:57:42 GMT
+< Set-Cookie: crumb=BdZcg2aDMTquODUyOGRiZDBjNWFiMGI0YjdlMmJiODI3NTc5MjUw;Path=/
+< Etag: W/"04f02e222f2579132d35de209334aba4"
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: bU34DqsO/xS1LsuRi

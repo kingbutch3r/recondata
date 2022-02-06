@@ -1,0 +1,11 @@
+GET http://jamie-pfister-agb2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 16:40:21 GMT
+< Location: https://jamie-pfister-agb2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbGetxovngRCZGEyZmVlMjRiYWU1MzcwN2VjNjAwYzkwMGU4MzU5;Path=/
+< X-Contextid: US4OavYn/qAAGuz1A
+< Age: 31135

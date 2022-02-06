@@ -1,0 +1,14 @@
+GET https://kristin-sewell-1pu1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:15:52 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BZbmtV2OhRBTNGI1ZjZmYzczMDE0ZTE0Mjg3MDU0MjhhZWQ1ZDlk;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: vpsw5abi/Lxvvr6Wq
+< Age: 0
+< Content-Length: 3208

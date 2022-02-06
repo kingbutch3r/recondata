@@ -1,0 +1,11 @@
+GET http://triceratops-violin-9273.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 342681
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 01:44:57 GMT
+< Location: https://triceratops-violin-9273.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSsXIs7413fSNjM0MmRiNjAzMmM4MTgzMzMyYWVjODdjODcyY2Fl;Path=/
+< X-Contextid: Z2VJgMKz/d7WaG6md

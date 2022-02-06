@@ -1,0 +1,17 @@
+GET https://mckayhealingarts.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=315jqrv8gomtt19rhqg7f3j2kt; expires=Fri, 04-Mar-2022 00:39:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3bf263cd-8ce1-4492-b93d-4e3b3520de42; expires=Fri, 02-Feb-2024 00:39:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:39:40 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload

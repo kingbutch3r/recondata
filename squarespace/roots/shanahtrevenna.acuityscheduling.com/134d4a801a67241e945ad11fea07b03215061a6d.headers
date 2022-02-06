@@ -1,0 +1,17 @@
+GET https://shanahtrevenna.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:55:30 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=jhll765rhpf61dl10jn975k7vt; expires=Thu, 03-Mar-2022 23:55:29 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b085176d-b76f-4d83-96e5-387a49db707d; expires=Thu, 01-Feb-2024 23:55:30 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

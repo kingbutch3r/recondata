@@ -1,0 +1,15 @@
+GET https://nicolefugozibelmanlac.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Tue, 01 Feb 2022 23:56:54 GMT
+< Set-Cookie: PHPSESSID=o2ovs3fqgjtfpvkvvoe22qr3f7; expires=Thu, 03-Mar-2022 23:56:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=035562ed-fa6f-479d-98b3-2be729de97c5; expires=Thu, 01-Feb-2024 23:56:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

@@ -1,0 +1,11 @@
+GET http://productimprovementday.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 432632
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 01:12:23 GMT
+< Location: https://productimprovementday.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdGuE/+puqlBYjdhMThlNjAyZDUxOGJkY2ZhZjcwZWM1ZDZjYTkx;Path=/
+< X-Contextid: Uy14QYZ1/T632ixaN

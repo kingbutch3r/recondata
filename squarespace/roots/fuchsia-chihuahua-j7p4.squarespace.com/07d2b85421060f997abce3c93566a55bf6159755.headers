@@ -1,0 +1,15 @@
+GET https://fuchsia-chihuahua-j7p4.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:24:11 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BaQb4OVVR7/QMTY1ZjQzMTJkNzNhMDlmZTE3ZjBjYjAxNWE1ZmQ2;Path=/
+< Strict-Transport-Security: max-age=43200
+< Age: 0
+< Content-Length: 3208
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: odA4aDCc/1ZlyUk6F
+< X-Frame-Options: SAMEORIGIN

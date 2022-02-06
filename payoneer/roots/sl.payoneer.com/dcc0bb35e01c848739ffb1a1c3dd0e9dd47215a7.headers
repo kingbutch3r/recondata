@@ -1,0 +1,7 @@
+GET https://sl.payoneer.com
+
+
+< HTTP/1.1 204 No Content
+< Strict-Transport-Security: max-age=31536000; includeSubDomains
+< X-Robots-Tag: noindex
+< Date: Tue, 01 Feb 2022 23:25:44 GMT

@@ -1,0 +1,11 @@
+GET http://savoymiami.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BWJW7IYb2RVyMDUwOWYwYmI4ZGU2MzFmOWMxNDcwNjcxZGIyMTIy;Path=/
+< X-Contextid: DYXFIMNE/ZUyDICef
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:55:20 GMT
+< Location: https://savoymiami.squarespace.com/

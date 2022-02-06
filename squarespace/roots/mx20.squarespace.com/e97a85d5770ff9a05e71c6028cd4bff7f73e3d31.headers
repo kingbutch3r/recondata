@@ -1,0 +1,10 @@
+GET http://mx20.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:59:19 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXnGEqAGezYBZjE4ZmEyZTMyNGNjNjE1MDUwZTU2YTU2MGZkMTE3;Path=/
+< X-Contextid: USfFv04H/T984z7uL
+< Age: 0

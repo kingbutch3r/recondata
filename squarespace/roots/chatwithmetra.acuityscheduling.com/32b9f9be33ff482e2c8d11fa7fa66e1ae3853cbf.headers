@@ -1,0 +1,17 @@
+GET https://chatwithmetra.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:55:56 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=63du32oimg2or3v4ofnau5bduv; expires=Thu, 03-Mar-2022 23:55:55 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=0ce03a5a-9075-46c8-b520-0c759e5a4f32; expires=Thu, 01-Feb-2024 23:55:56 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent

@@ -1,0 +1,32 @@
+GET https://help.acuityscheduling.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: _zendesk_shared_session=-bGNvcTlpQm8rMVUxSnZia21vVFNjMFBUSkc5RzJlV3lYZ0c4QjdadWtRUEFpd3dKZktBbFBrdjJCUE1LSnVxZzRxWVJDRHpaR1dIdGQ5Z3VWakhIcTlXYnpja0JncFVJc0RqWElMcnA5NDhNRUVFN0ttZnNwcHZyV09hbng3SWdqdEZXeEljcjN1WU52TXRHNHloZGFBPT0tLVNPYmVsTm5ucVYxZlpVS1dEVGhuZmc9PQ%3D%3D--f15358ebbc5026342a74d8127458a2838199425b; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_authenticated=; path=/; expires=Thu, 01 Jan 1970 00:00:00 -0000; secure; HttpOnly; SameSite=None
+< Set-Cookie: _zendesk_session=BAh7CkkiD3Nlc3Npb25faWQGOgZFVEkiJTBlMjA3ZTYzMzkwZjA4NDQ2OWI3MmEyMDM1ZjlmMWNkBjsAVEkiDGFjY291bnQGOwBGaQPLSA9JIgpyb3V0ZQY7AEZpA%2FLaDUkiDmlzX21vYmlsZQY7AFRGSSITd2FyZGVuLm1lc3NhZ2UGOwBUewA%3D--212cf8bdc9b8632c8088d6f1a39700bf6f979e9d; path=/; secure; HttpOnly; SameSite=None
+< Set-Cookie: __cfruid=04e9525735729a96a39f65c586743ee93169b0ee-1643761609; path=/; domain=.help.acuityscheduling.com; HttpOnly; Secure; SameSite=None
+< Strict-Transport-Security: max-age=259200;
+< Cf-Cache-Status: DYNAMIC
+< Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=VSS9r4rNMSzwBP0KK6NJWPltiwJ6kqxOmfS3dvYCFPDVk4YQk%2BRX9dzcTWaiNQ%2FN4sdv8ndUfzW9D8aSjjOKE3rgj9FCfXH45IKGKSZ2OIsHETJRPBqBa1R%2Fe3Bcda%2BB2xVj20pCgTlcVCg%3D"}],"group":"cf-nel","max_age":604800}
+< Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+< Location: https://help.acuityscheduling.com/hc
+< X-Content-Type-Options: nosniff
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< Cf-Ray: 6d6f4a49c8f66ec8-BOM
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="NOI DSP COR NID ADMa OPTa OUR NOR"
+< X-Xss-Protection: 1; mode=block
+< Cache-Control: no-cache
+< X-Zendesk-Origin-Server: classic-app-server-66bdf8fd94-g2ftv
+< X-Request-Id: 6d6f4a49c8f66ec8-SEA
+< X-Request-Id: 6d6f4a49c8f66ec8-SEA
+< X-Zendesk-Zorg: yes
+< Zendesk-Api-Version: 2022-01-01
+< Content-Length: 102
+< Vary: Accept
+< Content-Security-Policy: frame-ancestors 'self' help.acuityscheduling.com;
+< Zendesk-Ep: 10
+< X-Runtime: 0.085364
+< Date: Wed, 02 Feb 2022 00:26:49 GMT

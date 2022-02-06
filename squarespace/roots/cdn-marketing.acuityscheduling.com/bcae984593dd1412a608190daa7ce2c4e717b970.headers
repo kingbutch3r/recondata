@@ -1,0 +1,22 @@
+GET http://cdn-marketing.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Via: 1.1 varnish
+< Pragma: no-cache
+< X-Cache: MISS
+< Vary: Accept-Encoding
+< X-Frame-Options: SAMEORIGIN
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Security-Policy: frame-ancestors 'self'
+< Strict-Transport-Security: max-age=63072000; preload
+< Age: 0
+< X-Served-By: cache-bom4720-BOM
+< Content-Type: text/html; charset=UTF-8
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 00:12:06 GMT
+< X-Cache-Hits: 0
+< X-Timer: S1643760725.121814,VS0,VE1077
+< Cache-Control: no-store, no-cache, must-revalidate

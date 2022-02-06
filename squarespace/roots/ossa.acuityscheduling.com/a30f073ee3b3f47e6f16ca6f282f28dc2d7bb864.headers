@@ -1,0 +1,17 @@
+GET https://ossa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=6k082senb49ehmpon120q8s70g; expires=Thu, 03-Mar-2022 23:56:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b774c603-bf70-46b0-896c-e9a149e36bb7; expires=Thu, 01-Feb-2024 23:56:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Date: Tue, 01 Feb 2022 23:56:07 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

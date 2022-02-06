@@ -1,0 +1,10 @@
+GET http://valerie-carmer.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:26:05 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZmWyHt/LAnkZTg5OGZiNTFjMmJkNzBkMWI4NGY1YmUwNTVlOWFk;Path=/
+< X-Contextid: 3K9HYI9s/WpMTwEGU

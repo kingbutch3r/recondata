@@ -1,0 +1,17 @@
+GET https://andrew-leonard-kt20.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< Last-Modified: Fri, 28 Jan 2022 21:46:19 GMT
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 21:46:19 GMT
+< Etag: W/"654012ee45f00b88ea1a665c00c90881"
+< Age: 357043
+< X-Contextid: 0NJOgymr/tckcTHTk
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BVpkXlfj6ERyMjAyYmVhNTQ1NjJjM2MyN2JiYzE4NTExOTYyNDMw;Path=/
+< Vary: Accept-Encoding

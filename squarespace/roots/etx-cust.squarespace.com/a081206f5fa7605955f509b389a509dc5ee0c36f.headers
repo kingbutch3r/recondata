@@ -1,0 +1,11 @@
+GET http://etx-cust.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BSYkPIy++QJQODQyZThlMjc0NjQxMzE4N2Q1ZDE2MzA1MzdmODhi;Path=/
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:07:28 GMT
+< X-Contextid: QhNW8jVj/hirroBaO
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8

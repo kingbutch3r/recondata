@@ -1,0 +1,10 @@
+GET http://web4600.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: cZPPw2Hp/eTME16bg
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:01:37 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BcKN1uOb8kroMDE1OWUzZjgzMTA5MTI3ZjhlZjQ2NDc4YWYzZmEw;Path=/

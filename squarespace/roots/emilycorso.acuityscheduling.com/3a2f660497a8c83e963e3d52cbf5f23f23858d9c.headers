@@ -1,0 +1,17 @@
+GET https://emilycorso.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:26:12 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=h6cl1kgan6o9sgomkummgp0bgr; expires=Fri, 04-Mar-2022 00:26:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b4a4ef94-04c4-494a-b416-c425110e2ea7; expires=Fri, 02-Feb-2024 00:26:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Strict-Transport-Security: max-age=63072000; preload

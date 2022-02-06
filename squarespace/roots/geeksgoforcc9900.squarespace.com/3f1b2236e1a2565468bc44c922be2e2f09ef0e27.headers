@@ -1,0 +1,10 @@
+GET http://geeksgoforcc9900.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:56 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bfu2oqHH1xAAZTMxOWQyM2FiZDY1NjQwODFlYWIxNGZmODg1OWY3;Path=/
+< X-Contextid: poo6ADAw/rkBNEvsr

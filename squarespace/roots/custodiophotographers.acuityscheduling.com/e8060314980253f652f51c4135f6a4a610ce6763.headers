@@ -1,0 +1,17 @@
+GET https://custodiophotographers.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:37:06 GMT
+< Set-Cookie: PHPSESSID=dgd3hcmsng0mv8evikfjr5p1en; expires=Fri, 04-Mar-2022 00:37:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=f8c33202-698e-4ec5-b34f-fd3919fcef8b; expires=Fri, 02-Feb-2024 00:37:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

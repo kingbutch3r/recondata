@@ -1,0 +1,16 @@
+GET https://tony-holmsten.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 17:00:41 GMT
+< Etag: W/"a1786801e9ee20e0c7f21e199a2bf86f"
+< Set-Cookie: crumb=BaNriWGCLIKFNTlkOWZiMTExNThlYWUxZWZlNDgwZThlZGIyNmZk;Path=/
+< Strict-Transport-Security: max-age=0
+< Age: 289450
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: UqdncAte/R0s7Ahj5
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

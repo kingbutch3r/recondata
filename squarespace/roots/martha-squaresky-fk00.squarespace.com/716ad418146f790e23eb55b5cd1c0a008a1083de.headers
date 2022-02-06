@@ -1,0 +1,12 @@
+GET http://martha-squaresky-fk00.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:07:07 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: iUImG9rP/r5Sci3iR
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BWUc7wQ/XGcEYjRmYWJjNDQ4OTc3YTRlNTkyNTEyZGY1MGM5YzA0;Path=/
+< X-Content-Type-Options: nosniff

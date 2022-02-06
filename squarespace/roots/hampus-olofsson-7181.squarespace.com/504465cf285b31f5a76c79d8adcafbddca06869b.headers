@@ -1,0 +1,10 @@
+GET https://hampus-olofsson-7181.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: rpkddMQ2/fnhP8m7Y
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:14:14 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BUx58a4wZQVxMjAxMjdkNjRiMTVhNDU5MzZkMTQ1M2NiNDFkZTA1;Path=/

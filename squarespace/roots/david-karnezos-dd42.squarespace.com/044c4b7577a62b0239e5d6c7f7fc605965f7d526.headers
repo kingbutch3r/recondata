@@ -1,0 +1,13 @@
+GET http://david-karnezos-dd42.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:17:21 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Set-Cookie: crumb=BVkP0TActtS1MTJkN2UxYmU5MDI2ZmNkM2MyY2RjODhiYTE4ZjVk;Path=/
+< X-Contextid: tbniaiZu/jZpOyLEK

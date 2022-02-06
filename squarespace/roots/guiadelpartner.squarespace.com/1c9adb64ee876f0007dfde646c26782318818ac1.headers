@@ -1,0 +1,11 @@
+GET http://guiadelpartner.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://guiadelpartner.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQ+VBDyZ9fdsZjFiZDJmMjhlZjU3MjJmNTcyODc2YWQ2Njc4N2M0;Path=/
+< X-Contextid: 1WmEPa51/07lCDAnm
+< Age: 54214
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 09:52:14 GMT

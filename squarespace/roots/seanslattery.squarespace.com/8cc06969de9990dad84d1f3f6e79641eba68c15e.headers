@@ -1,0 +1,15 @@
+GET http://seanslattery.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: kKABo6Em/PX0muqMR
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Etag: W/"62cd10290ef62e3d7691222b9604304d--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BR0X3rZMe7L4ZWNlNzJmZmM5NzIxMzU5NDBhNmM5N2ZkYjYxYzNi;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< X-Content-Type-Options: nosniff
+< Age: 15001
+< Date: Tue, 01 Feb 2022 19:41:21 GMT

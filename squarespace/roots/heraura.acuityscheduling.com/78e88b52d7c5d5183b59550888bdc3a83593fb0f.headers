@@ -1,0 +1,17 @@
+GET https://heraura.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=k7amr4o4kukhcdtoondokd8rdg; expires=Thu, 03-Mar-2022 23:55:56 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6615a06a-9177-4488-ad33-f7f4f2717fac; expires=Thu, 01-Feb-2024 23:55:57 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:55:57 GMT
+< Pragma: no-cache
+< Location: /schedule.php

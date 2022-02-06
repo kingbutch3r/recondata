@@ -1,0 +1,10 @@
+GET http://wc911.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:13:04 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BXoNFeUpjoQdNTQ4OTYxMjIzMWY4MzFkMDY0NGNjNTdjNWRmOWU1;Path=/
+< X-Contextid: Db9Zq2rm/fBePZS6M
+< Age: 0
+< Content-Type: text/html;charset=utf-8

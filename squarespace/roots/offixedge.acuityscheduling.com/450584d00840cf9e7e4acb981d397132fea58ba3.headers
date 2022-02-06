@@ -1,0 +1,17 @@
+GET https://offixedge.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:03:20 GMT
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=6msdf415v2vc9vdh21hbemeidj; expires=Fri, 04-Mar-2022 00:03:19 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=17b5a7c7-3938-4322-bdf4-ba1f951b79eb; expires=Fri, 02-Feb-2024 00:03:20 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Length: 0

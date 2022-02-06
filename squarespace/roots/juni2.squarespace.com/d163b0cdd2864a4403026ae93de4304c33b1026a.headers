@@ -1,0 +1,16 @@
+GET https://juni2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=0
+< X-Contextid: Fj6OPsZ2/1RBImdLS
+< Content-Type: text/html;charset=utf-8
+< Date: Sun, 30 Jan 2022 12:31:52 GMT
+< Etag: W/"fd0abc7c643c7d82089313d210dc26ad"
+< Server: Squarespace
+< Accept-Ranges: bytes
+< Age: 218943
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BbOgTTuPkhbNYmRiMmVlOGE0OTYwNjU2NzllYmFmNjNkZWUyMmVi;Path=/
+< X-Content-Type-Options: nosniff

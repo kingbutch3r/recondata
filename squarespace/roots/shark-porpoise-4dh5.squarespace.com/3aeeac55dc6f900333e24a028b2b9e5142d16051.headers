@@ -1,0 +1,18 @@
+GET https://shark-porpoise-4dh5.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BQWcMJ2W1Pa7NGQxNjExMjA5MTU1YjQ3MDVjMDI3OTYxNWE1Yjk2;Path=/
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Age: 0
+< Etag: W/"5ad85b60781ae3a63db671f56dd12d26"
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 01:23:50 GMT
+< Last-Modified: Wed, 02 Feb 2022 01:23:50 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: wfGYs53u/L8LLRL8D
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=43200

@@ -1,0 +1,16 @@
+GET https://peachtree50.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Age: 5026
+< Etag: W/"9c838ddb7b8d5fa615ec03b855caeb7e--gzip"
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: uvjmdjOh/YIL8kUJf
+< Date: Tue, 01 Feb 2022 23:47:38 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BZOd2DFK6WC0MWRhNjdmYzJiZTQxMzY0NjNlOWVhMDcwNTU0NmE3;Path=/

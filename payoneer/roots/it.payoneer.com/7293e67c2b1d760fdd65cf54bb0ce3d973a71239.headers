@@ -1,0 +1,20 @@
+GET http://it.payoneer.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-cache, must-revalidate
+< Location: https://login.microsoftonline.com/decee90c-ce03-461e-8c21-dd538e181c75/saml2?SAMLRequest=fZJNb%2BIwEIbv%2FIrK95DEIQUsQIKi3UXqdlGhPfRSGWdCLTl26pnstv%2B%2BTrL9lMrIB2s8z6t3ZjxDWZlaLBt6sNfw2ADS4CzEU2Usiu5xzhpvhZOoUVhZAQpSYrf8fSn4MBG1d%2BSUM%2BwLdpqSiOBJO9tjm%2FWcrX7eHySfJgXIsQyX6eG8TDmHLCtVPhoVY54BJGlS5qMeugWPQWHOgiAb9DqIDWwskrQU8gnnURJOuueZ4LnIs7seXYc2tZXU4Q9ENYo4Nu6o7bDSyjt0JTlrtIWhclVcgAKYJipSkGTR6DyFaKJ4GhVFnk0gnaRqnMdt07yX3%2F6fyUrbQtvj6VEc%2BiIUv%2Fb7bbT9s9v3IsvXEV04i00Ffgf%2Br1Zwc3357lnTsJbPzgL4zmnYhgJEtugkZq0n0Q3FL75FmoPR6r52nqSZxR%2BRd5FaXAXjm%2FXWhdrnLt%2FGD%2BcrSaf7azO6iMquVNTt0pDAEntTWRrj%2Fl14kARzRr4BdhYvBr2Vz19z8QI%3D&RelayState=http%3A%2F%2Fit.payoneer.com%2F
+< Server: Apache
+< Strict-Transport-Security: max-age=31536000
+< Feature-Policy: accelerometer 'none'; ambient-light-sensor 'none'; autoplay 'none'; camera 'none'; encrypted-media 'none'; fullscreen 'self'; geolocation 'none'; gyroscope 'none'; magnetometer 'none'; microphone 'none'; midi 'none'; payment 'none'; picture-in-picture 'none'; speaker 'none'; sync-xhr 'none'; usb 'none'; vr 'none'
+< Referrer-Policy: no-referrer-when-downgrade
+< X-Xss-Protection: 1; mode=block
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Set-Cookie: ns_s=215d1fb1c8fa0823c389ecc2c2ac28b4; path=/; HttpOnly
+< X-Ua-Compatible: IE=edge
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=utf-8
+< Date: Tue, 01 Feb 2022 23:25:53 GMT
+< Vary: Accept-Encoding,X-Requested-With
+< X-Frame-Options: SAMEORIGIN

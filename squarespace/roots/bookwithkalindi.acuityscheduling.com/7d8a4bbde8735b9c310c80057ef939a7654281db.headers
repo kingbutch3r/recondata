@@ -1,0 +1,17 @@
+GET https://bookwithkalindi.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:14:59 GMT
+< P3p: CP="CAO PSA OUR"
+< Pragma: no-cache
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=9naa3ol979g46bji5ia86tpo6m; expires=Fri, 04-Mar-2022 00:14:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bdf20443-5920-4cc9-8961-16882d35a8d2; expires=Fri, 02-Feb-2024 00:14:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

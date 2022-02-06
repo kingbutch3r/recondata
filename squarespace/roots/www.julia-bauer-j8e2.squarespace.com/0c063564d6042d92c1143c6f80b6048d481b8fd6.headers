@@ -1,0 +1,11 @@
+GET http://www.julia-bauer-j8e2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:52:16 GMT
+< Location: http://julia-bauer-j8e2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdqT6nhXRYGNYTA1M2E3NWU2ODFlYmU1NTYxNDhkZTU0ZTNjNjBk;Path=/
+< X-Contextid: AUnW4Urq/y8IzS4Mn
+< Age: 0

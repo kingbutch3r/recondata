@@ -1,0 +1,17 @@
+GET https://simplypassionatelife.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Pragma: no-cache
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Date: Wed, 02 Feb 2022 00:02:31 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=4uf8md90dooh7vekn13ktrtb1e; expires=Fri, 04-Mar-2022 00:02:30 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=319ee9fb-0ff4-4f8a-b7f8-912422604a06; expires=Fri, 02-Feb-2024 00:02:31 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php

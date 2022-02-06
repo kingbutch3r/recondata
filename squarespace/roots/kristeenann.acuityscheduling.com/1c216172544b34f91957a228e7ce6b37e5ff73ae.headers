@@ -1,0 +1,17 @@
+GET https://kristeenann.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:22:06 GMT
+< Set-Cookie: PHPSESSID=50sb672mcqragsdk9ovbsujr5q; expires=Fri, 04-Mar-2022 00:22:05 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b454b946-67a1-4fce-a3a5-b2788a22dd66; expires=Fri, 02-Feb-2024 00:22:06 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< P3p: CP="CAO PSA OUR"

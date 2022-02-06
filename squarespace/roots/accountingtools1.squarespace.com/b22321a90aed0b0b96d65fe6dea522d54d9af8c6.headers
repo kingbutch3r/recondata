@@ -1,0 +1,12 @@
+GET http://accountingtools1.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Cache-Control: no-cache, must-revalidate
+< Pragma: no-cache
+< Server: Squarespace
+< X-Contextid: zxTrLa6S/iM1ZXcxz
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:15:38 UTC
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC

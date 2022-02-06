@@ -1,0 +1,13 @@
+GET http://www-staging-pt-origin.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: qwpXofSL/DFVP9J6P
+< X-Sl-Norewrite: 1
+< Age: 15765
+< Set-Cookie: crumb=BUTD4lNjssGbNjJmZmE1MDM0OWZiMDFlOTc1ZThmOTM5MmM0NjUy;Path=/
+< Server: Squarespace
+< X-Server: Smartling
+< X-Sl-Notranslate: 1
+< Date: Wed, 02 Feb 2022 00:55:01 GMT
+< Location: https://www-staging-pt-origin.squarespace.com/

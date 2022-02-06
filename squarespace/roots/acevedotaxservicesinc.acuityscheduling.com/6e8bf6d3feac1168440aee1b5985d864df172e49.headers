@@ -1,0 +1,15 @@
+GET https://acevedotaxservicesinc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:58:35 GMT
+< Set-Cookie: PHPSESSID=oe5p479t6nevgkhodenne0b4p2; expires=Thu, 03-Mar-2022 23:58:34 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6ec7a024-13c4-4be6-a481-0f2bd2d55ea8; expires=Thu, 01-Feb-2024 23:58:35 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache

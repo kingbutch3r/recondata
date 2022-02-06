@@ -1,0 +1,16 @@
+GET https://aaron-ashmore-db42.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Age: 372246
+< Etag: W/"c0085017010fbf37971ab0c38c8c6943--gzip"
+< Server: Squarespace
+< Accept-Ranges: bytes
+< X-Contextid: 94BTfdFm/F4fYpeBr
+< Date: Fri, 28 Jan 2022 17:53:16 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BTEIFclv4fpMMTRkZTQxMjc1ZjQyZjRmMGE4Y2YyY2Y2NTM0NmE3;Path=/
+< Strict-Transport-Security: max-age=0

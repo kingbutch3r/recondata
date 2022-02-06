@@ -1,0 +1,11 @@
+GET http://tony-holmsten.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: ZhkX7epA/03fnZHcT
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:24:46 GMT
+< Location: https://tony-holmsten.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BRCK2qT7/zidMzA5MDdlNTZlYWFhNjNlODg1MWEwYWNhZjE0Yzc3;Path=/

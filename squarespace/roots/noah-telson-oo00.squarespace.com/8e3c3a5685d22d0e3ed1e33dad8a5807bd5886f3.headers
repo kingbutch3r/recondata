@@ -1,0 +1,12 @@
+GET http://noah-telson-oo00.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=Bdr0PzAauu6SNDU1ZmFkZDQyYTBhYjBhMDk0YmM5ZTc0ZGQ5Mjlj;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: pMReiisi/abgP1l2X
+< Date: Wed, 02 Feb 2022 00:49:40 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

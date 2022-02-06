@@ -1,0 +1,17 @@
+GET https://harmonica-jaguar-695g.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: 2GsxS6a0/gcJBcvOx
+< Date: Tue, 01 Feb 2022 22:07:45 GMT
+< Server: Squarespace
+< X-Frame-Options: SAMEORIGIN
+< Accept-Ranges: bytes
+< Age: 9713
+< Set-Cookie: crumb=BctbPRbPjFDGNmMzYTExNzVhMTIwNGExNjUyNTU5MzVjMmM3NWVi;Path=/
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"c67997dfd69f1c3991ef2801aaa05e3d--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200

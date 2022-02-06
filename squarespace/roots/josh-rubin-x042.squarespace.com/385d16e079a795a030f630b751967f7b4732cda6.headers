@@ -1,0 +1,16 @@
+GET https://josh-rubin-x042.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Set-Cookie: crumb=BT6K9IIgPBPENjRmNTlmNDdhODhkNWY2MTM3ZTVhMTVlNmMwZjFh;Path=/
+< Etag: W/"38de73d96055a94c67c1ea09b6bd7f6d"
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Tue, 01 Feb 2022 23:06:25 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: DW5kH3PJ/auDF1lDQ
+< Vary: Accept-Encoding
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:51:32 GMT

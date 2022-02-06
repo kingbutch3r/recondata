@@ -1,0 +1,16 @@
+GET https://joshua-farmer-xs82.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: CJU9mXXK/05D1CFMO
+< Date: Fri, 28 Jan 2022 17:53:17 GMT
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"f5987675d8b60819013717ada6de3d3b--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BYUnwSmR5ZiYMjdjNTYxYmU4MTMwZWU5MWFhOTQ1NmIxOTU4NGY2;Path=/
+< Strict-Transport-Security: max-age=0
+< Age: 372317

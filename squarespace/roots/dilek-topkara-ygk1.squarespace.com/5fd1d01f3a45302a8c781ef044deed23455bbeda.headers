@@ -1,0 +1,11 @@
+GET http://dilek-topkara-ygk1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 181814
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 22:20:41 GMT
+< Location: https://dilek-topkara-ygk1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSA/BLBKWW+9ZTI5M2FmNzU4NGRjNGMyZjRlMDRlMjQ2ZDUzNjhm;Path=/
+< X-Contextid: uM3w6Rkp/VjiL8iyX

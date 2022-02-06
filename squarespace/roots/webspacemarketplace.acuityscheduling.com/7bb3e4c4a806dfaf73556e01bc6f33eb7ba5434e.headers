@@ -1,0 +1,15 @@
+GET https://webspacemarketplace.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:01:03 GMT
+< Set-Cookie: PHPSESSID=2ob9r7c3f8e2guoll2cv49i488; expires=Fri, 04-Mar-2022 00:01:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8f4d2559-3ad2-4c4b-9d35-a19172d6b31e; expires=Fri, 02-Feb-2024 00:01:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8

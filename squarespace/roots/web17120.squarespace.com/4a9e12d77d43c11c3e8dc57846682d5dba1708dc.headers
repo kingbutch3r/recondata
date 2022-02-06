@@ -1,0 +1,12 @@
+GET http://web17120.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=Baq7eg/4trkXNTJjY2FmN2QwNmE0YzUzYjIyOTJkMDk1MzU4ZDBm;Path=/
+< X-Contextid: tYi0JU21/bEwe7JLv
+< Date: Tue, 01 Feb 2022 23:49:46 GMT
+< Server: Squarespace
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8

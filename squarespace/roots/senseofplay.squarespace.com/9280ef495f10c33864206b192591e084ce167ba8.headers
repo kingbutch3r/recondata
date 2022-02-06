@@ -1,0 +1,11 @@
+GET http://senseofplay.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=BRsBTRc6v+YjNWU3NThlNzVjZGZkMjk5MTcyMmM3N2FkMzI3OTVh;Path=/
+< X-Contextid: 9pXwCwvR/mbVbfCwo
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:55:40 GMT
+< Server: Squarespace

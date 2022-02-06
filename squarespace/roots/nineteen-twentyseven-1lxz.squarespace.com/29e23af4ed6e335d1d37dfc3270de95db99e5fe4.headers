@@ -1,0 +1,11 @@
+GET http://nineteen-twentyseven-1lxz.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:22:35 GMT
+< Location: https://nineteen-twentyseven-1lxz.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcGe58NVLD05YjcwZWUwNjcxN2Y4ZjJlOTBjNTEyNjA4Nzc3NTdl;Path=/
+< X-Contextid: jyRgGxSq/ZNhdx0Pa
+< Age: 0

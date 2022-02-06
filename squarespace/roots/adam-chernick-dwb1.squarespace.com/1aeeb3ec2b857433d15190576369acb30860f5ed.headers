@@ -1,0 +1,16 @@
+GET http://adam-chernick-dwb1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 17:53:14 GMT
+< Etag: W/"b6b93f4572270bf15e6147ece3faacaf"
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Accept-Ranges: bytes
+< Last-Modified: Fri, 28 Jan 2022 17:53:14 GMT
+< X-Contextid: ooMw4ipG/StCTSucb
+< Age: 372069
+< Set-Cookie: crumb=BZgeUZmcgvxLOThlMDk5NTg1MDA5ODEzNmE5OTI1ODNhMjJkNmE5;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

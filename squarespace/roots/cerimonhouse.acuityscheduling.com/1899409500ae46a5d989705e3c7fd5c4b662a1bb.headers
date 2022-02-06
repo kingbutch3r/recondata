@@ -1,0 +1,17 @@
+GET https://cerimonhouse.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=27h8n2r3ui1aaqao5ln3lm8306; expires=Fri, 04-Mar-2022 00:07:20 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8c27c483-8c38-4d52-b5f2-8c0a47c73e84; expires=Fri, 02-Feb-2024 00:07:21 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:07:21 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

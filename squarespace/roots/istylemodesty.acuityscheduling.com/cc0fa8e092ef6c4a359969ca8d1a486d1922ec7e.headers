@@ -1,0 +1,17 @@
+GET https://istylemodesty.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ik830lqf8o0ebag9crcvel8ntk; expires=Fri, 04-Mar-2022 00:49:02 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=73fa6229-a66a-4594-95f2-9ba9a4dec41a; expires=Fri, 02-Feb-2024 00:49:03 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:49:03 GMT
+< Strict-Transport-Security: max-age=63072000; preload

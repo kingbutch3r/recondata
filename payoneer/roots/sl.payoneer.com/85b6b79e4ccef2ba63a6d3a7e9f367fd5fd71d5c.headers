@@ -1,0 +1,9 @@
+GET http://sl.payoneer.com
+
+
+< HTTP/1.1 308 Permanent Redirect
+< Location: https://sl.payoneer.com/
+< X-Robots-Tag: noindex
+< Date: Tue, 01 Feb 2022 23:25:43 GMT
+< Content-Type: text/html
+< Content-Length: 164

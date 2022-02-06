@@ -1,0 +1,10 @@
+GET http://ex-sq.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: crumb=Ba6wOnGJ+cD8NDU5YjBhOWE4YzA0NmI1NjhmZmJmZjY2NzBmOWMw;Path=/
+< X-Contextid: dObNJEdg/4bmCvpH3
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:00:10 GMT
+< Server: Squarespace

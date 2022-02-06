@@ -1,0 +1,11 @@
+GET http://the-other-bridesmaid.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 391690
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 12:16:11 GMT
+< Location: https://the-other-bridesmaid.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZQeadcnLPs/Zjc2NjU5YjU5MDUxZGQ1M2I1YjlkMTJhMDk5N2Yy;Path=/
+< X-Contextid: I6zef8Dz/WsruDhKS

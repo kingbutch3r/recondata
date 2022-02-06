@@ -1,0 +1,9 @@
+GET http://squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:54:50 UTC
+< Location: http://www.squarespace.com/
+< Server: Squarespace
+< X-Contextid: XJXfNx0a/h6b5F1Db

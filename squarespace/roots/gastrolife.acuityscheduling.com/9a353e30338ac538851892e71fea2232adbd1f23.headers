@@ -1,0 +1,17 @@
+GET https://gastrolife.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:02:36 GMT
+< Set-Cookie: PHPSESSID=5ge4585nl8c4jmr89c3rqbrpcl; expires=Fri, 04-Mar-2022 00:02:35 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=df14958b-60f8-4fc5-bba0-92dabf16eb0b; expires=Fri, 02-Feb-2024 00:02:36 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

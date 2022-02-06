@@ -1,0 +1,15 @@
+GET https://kissmylash521.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:52:58 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=p8u41b6b7pm71mfgemp8na4ian; expires=Thu, 03-Mar-2022 23:52:57 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=83d86bdf-1a3e-4f2a-99c6-5cc14207e38f; expires=Thu, 01-Feb-2024 23:52:58 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

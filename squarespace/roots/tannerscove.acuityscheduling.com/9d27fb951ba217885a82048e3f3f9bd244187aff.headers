@@ -1,0 +1,17 @@
+GET https://tannerscove.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=e8v404494lsai0gf60a44hnpec; expires=Fri, 04-Mar-2022 00:08:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=42c6e46f-418b-4a90-8bc6-b36ddc8a9b10; expires=Fri, 02-Feb-2024 00:08:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:08:24 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

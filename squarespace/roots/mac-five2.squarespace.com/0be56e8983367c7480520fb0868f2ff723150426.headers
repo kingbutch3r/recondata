@@ -1,0 +1,15 @@
+GET https://mac-five2.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Date: Wed, 02 Feb 2022 00:52:24 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Etag: W/"9418e1f43f698b721f1a87b1cdf3ea78"
+< Set-Cookie: crumb=BQAoVtZ6G15hZTY3N2QwNTE3YWQyNWVmOWY0ZDZkOTI3ZWQ5MjAx;Path=/
+< X-Contextid: TdW8233X/uzqLneq8

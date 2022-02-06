@@ -1,0 +1,10 @@
+GET http://adrian-f-q7f1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:50:48 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSFqZYMTaIjhOWYyMmVmYjE4NzFlODBiZGQzYmY5OTNkZjBkNThj;Path=/
+< X-Contextid: 4HXMCltB/xLtxNcb4
+< Age: 0
+< Content-Type: text/html;charset=utf-8

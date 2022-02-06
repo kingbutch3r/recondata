@@ -1,0 +1,17 @@
+GET https://asm.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:19:44 GMT
+< Set-Cookie: PHPSESSID=0icvnrjm6tl3k37b9rjihop9tc; expires=Fri, 04-Mar-2022 00:19:43 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ab2b56c6-9879-4a6d-973a-a1a459383b96; expires=Fri, 02-Feb-2024 00:19:44 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent

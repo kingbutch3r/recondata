@@ -1,0 +1,17 @@
+GET https://talktotheomg.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:09:04 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=q3i5b6jlrqpkgdlopfftc57tgv; expires=Fri, 04-Mar-2022 00:09:03 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=103bdaea-1db6-4e72-b4c7-b0ae206207f6; expires=Fri, 02-Feb-2024 00:09:04 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

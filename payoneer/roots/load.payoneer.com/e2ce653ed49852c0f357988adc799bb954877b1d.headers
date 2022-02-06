@@ -1,0 +1,10 @@
+GET http://load.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://load.payoneer.com/
+< Content-Length: 223
+< Date: Tue, 01 Feb 2022 23:25:36 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer

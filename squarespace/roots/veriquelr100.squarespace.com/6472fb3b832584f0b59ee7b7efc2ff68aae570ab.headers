@@ -1,0 +1,11 @@
+GET http://veriquelr100.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=Be5FSAOvub7CMjNjMmNjYThmNGRjYWNjMTdhMGE1NjYzZGJlNGJl;Path=/
+< X-Contextid: 7wgSqtWe/l8B1NMXW
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:49:39 GMT
+< Location: https://veriquelr100.squarespace.com/

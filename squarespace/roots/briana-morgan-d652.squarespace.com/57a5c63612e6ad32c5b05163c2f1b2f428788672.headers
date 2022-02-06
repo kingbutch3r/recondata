@@ -1,0 +1,12 @@
+GET https://briana-morgan-d652.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: ZkLfyl9Y/2QgFI3xT
+< Cache-Control: no-cache, must-revalidate
+< Pragma: no-cache
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 01:17:38 UTC

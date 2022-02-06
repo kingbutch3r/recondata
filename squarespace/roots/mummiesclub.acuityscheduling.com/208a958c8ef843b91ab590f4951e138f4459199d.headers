@@ -1,0 +1,15 @@
+GET https://mummiesclub.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=0lngebk3ga4bl6t102q0jjjspo; expires=Thu, 03-Mar-2022 23:56:48 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a899af01-7a21-4d88-a6e2-66aa1fbfd84d; expires=Thu, 01-Feb-2024 23:56:49 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:56:49 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

@@ -1,0 +1,11 @@
+GET http://matsuya-demo.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 02:33:33 GMT
+< Location: https://matsuya-demo.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BaUFy3Z2ihAkMDFlYWFhOWRkYTQ3OTcxNDU2Y2E2NTAzNjIzNjcw;Path=/
+< X-Contextid: Zgdxaioi/5NIxJSvD
+< Age: 166954

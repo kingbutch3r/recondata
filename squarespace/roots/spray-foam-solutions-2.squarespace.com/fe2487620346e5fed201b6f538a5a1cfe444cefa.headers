@@ -1,0 +1,17 @@
+GET https://spray-foam-solutions-2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Etag: W/"705c59b85de10f1082ce14a05e4fb97f"
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Date: Fri, 28 Jan 2022 22:30:43 GMT
+< X-Contextid: 8t6eeQEk/nL4hOgw3
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Fri, 28 Jan 2022 22:30:43 GMT
+< Set-Cookie: crumb=BaDNfBV7shmyMzI5MzFlMTcwOGQwZTNkOTk4MmI5MGFhN2VjZTA4;Path=/
+< Accept-Ranges: bytes
+< Age: 355527
+< X-Content-Type-Options: nosniff

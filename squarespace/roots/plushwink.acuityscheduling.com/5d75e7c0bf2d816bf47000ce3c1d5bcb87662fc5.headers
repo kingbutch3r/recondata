@@ -1,0 +1,15 @@
+GET https://plushwink.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Set-Cookie: PHPSESSID=nfvljq8scgmr6l5l82vf05hsu8; expires=Fri, 04-Mar-2022 00:16:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=83149d3a-7093-4ed4-a34c-3a08c29f17d3; expires=Fri, 02-Feb-2024 00:16:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:16:15 GMT
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent

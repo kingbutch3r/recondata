@@ -1,0 +1,15 @@
+GET https://uptime.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Date: Tue, 01 Feb 2022 23:26:29 GMT
+< Vary: Accept-Encoding
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+< Content-Type: text/html; charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Set-Cookie: GCLB=CJ_UlOn6uqiQLQ; path=/; HttpOnly
+< Via: 1.1 google
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Cache-Control: no-cache, private, no-transform, no-store
+< Pragma: no-cache

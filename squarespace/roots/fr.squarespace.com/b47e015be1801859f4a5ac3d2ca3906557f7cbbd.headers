@@ -1,0 +1,24 @@
+GET https://fr.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Cache-Control: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Language: fr-FR
+< X-Server: Smartling
+< Vary: Accept-Encoding
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 0
+< Etag: W/"2fd612c15c856ca3dd37f5359f1a5fe8"
+< Expires: 
+< X-Contextid: DuJVQMDA/kniwTLkH
+< X-Sl-Norewrite: 1
+< X-Sl-Norewrite: 1
+< Date: Wed, 02 Feb 2022 00:55:01 GMT
+< Strict-Transport-Security: max-age=43200
+< Content-Type: text/html; charset=utf-8
+< Server: nginx
+< X-Sl-Notranslate: 1
+< X-Sl-Notranslate: 1
+< X-Sl-Cached: 1

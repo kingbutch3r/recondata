@@ -1,0 +1,11 @@
+GET https://www.cricket-lavender-7592.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: Tx54N03m/Bh7yFdZR
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 01:18:40 GMT
+< Location: https://cricket-lavender-7592.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BQmqwlkLD5BwZDI1MGUwYzgyZWZlYzA3MWMxNGU2MTQ4MDcyMWE3;Path=/

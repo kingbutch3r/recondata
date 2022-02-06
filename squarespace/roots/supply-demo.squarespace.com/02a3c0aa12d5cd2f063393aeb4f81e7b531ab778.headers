@@ -1,0 +1,16 @@
+GET https://supply-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Date: Thu, 27 Jan 2022 20:51:39 GMT
+< Strict-Transport-Security: max-age=0
+< X-Contextid: KATd8CGR/pxu05Alm
+< Etag: W/"9c1d7bca4207461f5dbbae8036539780"
+< Set-Cookie: crumb=BV1NFyI+/ErjZjM2OThmM2RjZDVjY2RlY2M0ZjUzNzA5MmJmOGM1;Path=/
+< Server: Squarespace
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Age: 448406
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

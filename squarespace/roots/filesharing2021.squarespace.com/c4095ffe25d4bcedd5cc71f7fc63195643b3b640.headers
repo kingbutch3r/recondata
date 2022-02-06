@@ -1,0 +1,11 @@
+GET https://filesharing2021.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:13:27 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BaGdkHOFw4QEZmQyMjRjYWVkMGMyZTBhNmVjNGE0NDhiZDA4NjI0;Path=/
+< X-Contextid: UzVZOgKT/pDnDx3KR
+< Age: 0
+< Content-Length: 3123
+< Content-Type: text/html;charset=utf-8

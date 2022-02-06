@@ -1,0 +1,16 @@
+GET https://cn-cgc.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 02 Feb 2022 01:01:01 GMT
+< Accept-Ranges: bytes
+< Etag: W/"97b9c628b0f16ae5e5cb612a2d66fefe--gzip"
+< Set-Cookie: crumb=BTa+Zq5tm7uuMzM2MTI3MWI5Yzg5NmQxZDEwMWM1ZGI2NjYxMGVj;Path=/
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: Z3dShZFa/uxVMUnfe
+< Age: 0
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff

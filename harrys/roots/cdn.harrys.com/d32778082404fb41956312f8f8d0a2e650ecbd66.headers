@@ -1,0 +1,24 @@
+GET http://cdn.harrys.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Amz-Replication-Status: COMPLETED
+< X-Amz-Meta-Never-Cache: true
+< X-Timer: S1643477969.034176,VS0,VE248
+< X-Amz-Id-2: hybB9Buz87FJUDLLR9lQdgcYzPGSfL48067MQb6V7ewfc4TOXEDU0fH3ouiogwepcXA4bCM1lg8=
+< Via: 1.1 varnish, 1.1 varnish
+< Orig-Status: 200
+< Cache-Control: public, max-age=10
+< Age: 0
+< X-Cache: MISS, MISS
+< X-Cache-Hits: 0, 0
+< X-Amz-Version-Id: KCqNXvLCs_XTljwTMeoDYIoXDCMI8ZVM
+< Server: AmazonS3
+< Fastly-Restarts: 1
+< Content-Type: text/html
+< Vary: Accept-Encoding
+< X-Amz-Request-Id: BS9JNNDEZE67ZJA1
+< Access-Control-Allow-Origin: *
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 17:39:29 GMT
+< X-Served-By: cache-iad-kcgs7200088-IAD, cache-bom4739-BOM

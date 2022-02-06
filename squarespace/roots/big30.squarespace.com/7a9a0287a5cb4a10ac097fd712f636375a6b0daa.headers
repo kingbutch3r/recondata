@@ -1,0 +1,11 @@
+GET http://big30.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: j10wxGPs/wQKLX9Fe
+< Age: 0
+< Content-Length: 0
+< Date: Tue, 01 Feb 2022 23:51:19 GMT
+< Location: https://big30.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BftoHqVJkZTrMDA2ZWFlMmJjMGVhMjBmOTM4OTgyYzRlY2RhYjk4;Path=/

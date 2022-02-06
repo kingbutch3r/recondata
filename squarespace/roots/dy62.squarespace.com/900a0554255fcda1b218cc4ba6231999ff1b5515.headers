@@ -1,0 +1,10 @@
+GET https://dy62.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BS3A6T21+DKFZTYzOTEyMDExNDFlYzZhYWYzZmVhZTgyY2ZhMGE5;Path=/
+< X-Contextid: UpSdIlUk/mHaFEBnd
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:18:10 GMT

@@ -1,0 +1,17 @@
+GET https://westfieldwellness.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Date: Wed, 02 Feb 2022 00:38:07 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=j59mvro7qdcos3n33eknof109c; expires=Fri, 04-Mar-2022 00:38:06 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d50fc052-09ae-4610-aa91-3ac0f5bc6c7f; expires=Fri, 02-Feb-2024 00:38:07 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

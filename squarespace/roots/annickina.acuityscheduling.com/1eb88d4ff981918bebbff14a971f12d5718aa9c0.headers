@@ -1,0 +1,17 @@
+GET https://annickina.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=shcvumebd5k2a3e4ovfs6n2e35; expires=Thu, 03-Mar-2022 23:55:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=91f11113-c5a8-4efa-9631-cb16c8ca4e69; expires=Thu, 01-Feb-2024 23:55:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:55:19 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php

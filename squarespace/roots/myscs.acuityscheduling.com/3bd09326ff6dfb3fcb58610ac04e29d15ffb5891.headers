@@ -1,0 +1,15 @@
+GET https://myscs.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:31:40 GMT
+< Set-Cookie: PHPSESSID=325j7d01qs6fo0kvil7ftas913; expires=Fri, 04-Mar-2022 00:31:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8961db5f-4c32-4b14-a0a7-33ff0f18f02a; expires=Fri, 02-Feb-2024 00:31:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff

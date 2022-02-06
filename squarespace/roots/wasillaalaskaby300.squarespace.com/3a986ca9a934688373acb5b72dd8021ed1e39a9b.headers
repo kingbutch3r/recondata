@@ -1,0 +1,11 @@
+GET https://wasillaalaskaby300.squarespace.com
+
+
+< HTTP/1.1 302 Found
+< X-Contextid: BC4oNHTp/JxqfY33J
+< Content-Length: 0
+< Content-Type: text/html;charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:52:02 GMT
+< Location: http://wasillaalaskaby300.squarespace.com/;jsessionid=D0D85E972D4007C4995684DB9825D929.v5-web014
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=D0D85E972D4007C4995684DB9825D929.v5-web014; Path=/; HttpOnly

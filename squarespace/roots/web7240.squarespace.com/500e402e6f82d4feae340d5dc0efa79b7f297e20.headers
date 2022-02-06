@@ -1,0 +1,12 @@
+GET https://web7240.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Server: Squarespace
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:04:57 UTC
+< X-Contextid: kMhS8tNf/9FMNZcNK

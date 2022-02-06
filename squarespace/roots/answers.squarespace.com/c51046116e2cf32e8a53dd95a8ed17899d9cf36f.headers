@@ -1,0 +1,13 @@
+GET http://answers.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: CloudFront
+< Content-Length: 183
+< Location: https://answers.squarespace.com/
+< Via: 1.1 d62d0235c86cff9cbc14eb8c55f7a9fa.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: CDG3-C2
+< Date: Wed, 02 Feb 2022 00:55:04 GMT
+< Content-Type: text/html
+< X-Cache: Redirect from cloudfront
+< X-Amz-Cf-Id: fgrY3tqs3yKYPlKMkwpslhK_11kEeVJ6wvXuu6-kEEDZqgDSvu7ujQ==

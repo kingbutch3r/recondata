@@ -1,0 +1,14 @@
+GET https://iwd2021.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:23 GMT
+< Set-Cookie: crumb=BRTGapmUIET+NTc1ZjA3NzM2NTY1MGJlYTQ1ZTkwMmNkODIwNDE3;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Cache-Control: max-age=300, s-maxage=300
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Contextid: vWYughzF/qk3AIjil

@@ -1,0 +1,16 @@
+GET https://alpaca-emu-c35p.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: pfpVxQf5/PLz4waGw
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Etag: W/"ee331ca8382d7d37eca561f51f293209"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Age: 36797
+< Date: Tue, 01 Feb 2022 13:36:44 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYOIa46lC9m3MTFiZWYyMTljZGFkZTY4ZWMxMWI5NzI5N2U5Mjdm;Path=/
+< Accept-Ranges: bytes

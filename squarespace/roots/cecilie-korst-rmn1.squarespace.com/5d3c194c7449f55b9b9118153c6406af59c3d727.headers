@@ -1,0 +1,16 @@
+GET http://cecilie-korst-rmn1.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Last-Modified: Wed, 02 Feb 2022 00:50:58 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BSaKVmZzuiI/ZTljN2E0ZDU3YzRmMDNhYWIyZGY2ZTk3YjU0N2Rl;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: 5ug70ALd/xtb9XmXp
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:50:58 GMT
+< Etag: W/"27b0eef51fe7c7ddc917bbb7d523c7c7"

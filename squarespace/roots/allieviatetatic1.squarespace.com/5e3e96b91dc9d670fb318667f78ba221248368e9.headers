@@ -1,0 +1,10 @@
+GET https://allieviatetatic1.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: WGMu3Uxc/MaXYodET
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:14:36 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BU/y1on2W45zNjAxYTY0YWViNGQ4M2JlYzMzZDlmMDA0N2JhZThm;Path=/

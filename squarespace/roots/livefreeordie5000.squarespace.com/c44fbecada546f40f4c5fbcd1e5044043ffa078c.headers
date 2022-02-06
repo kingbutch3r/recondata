@@ -1,0 +1,16 @@
+GET https://livefreeordie5000.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Contextid: Iqb00G73/u1dbJlJ9
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BZAvvLgwBj7CNzA2MDcxMmE0NzQ2ZmZlZDVlMjRjNmViNDkxMDBi;Path=/
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< Age: 178776
+< Date: Sun, 30 Jan 2022 22:11:57 GMT
+< Etag: W/"6ea210834225578fc4ba3ea975310dd2--gzip"
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8

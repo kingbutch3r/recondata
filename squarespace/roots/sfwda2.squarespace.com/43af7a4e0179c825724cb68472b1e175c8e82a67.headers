@@ -1,0 +1,16 @@
+GET https://sfwda2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Thu, 27 Jan 2022 22:10:53 GMT
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BSqrSZC4ZlG+MDZlNTBiOGE0ZGE1ZmVhNDgxNzY4YjUzNWUxMTA2;Path=/
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 443289
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"081a8481751000fe30f24214f53001d9--gzip"
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: gk17dcNY/nNUVNgws

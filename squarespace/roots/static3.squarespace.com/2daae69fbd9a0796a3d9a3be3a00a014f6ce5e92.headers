@@ -1,0 +1,16 @@
+GET http://static3.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Via: 1.1 varnish, 1.1 varnish
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:55:04 GMT
+< Cache-Control: max-age=180
+< Expires: Wed, 02 Feb 2022 00:58:04 GMT
+< Server: Squarespace
+< X-Contextid: dkzjkIF1/83I6SB8R
+< X-Served-By: cache-iad-kiad7000161-IAD, cache-bom4736-BOM
+< X-Cache: MISS, MISS
+< X-Timer: S1643763305.557646,VS0,VE255
+< Accept-Ranges: bytes
+< X-Cache-Hits: 0, 0

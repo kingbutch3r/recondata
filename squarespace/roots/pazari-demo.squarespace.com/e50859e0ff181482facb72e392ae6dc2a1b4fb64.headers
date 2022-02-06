@@ -1,0 +1,17 @@
+GET https://pazari-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Wed, 26 Jan 2022 18:09:12 GMT
+< Set-Cookie: crumb=BQiMLyZ1Vk9mMjI0NGFjY2VmMmYxZGRiMTNhZTY3MGMzMjg3MGJm;Path=/
+< Strict-Transport-Security: max-age=0
+< Age: 544499
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< X-Contextid: Bnbg4ohv/OtkQA3kR
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"377cf82f6b7eca228eca2a7463923945"
+< Last-Modified: Wed, 26 Jan 2022 17:12:21 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

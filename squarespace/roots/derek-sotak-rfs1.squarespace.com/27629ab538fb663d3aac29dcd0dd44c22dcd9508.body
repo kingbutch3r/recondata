@@ -1,0 +1,1575 @@
+<!doctype html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US" >
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- This is Squarespace. --><!-- derek-sotak-rfs1 -->
+<base href="">
+<meta charset="utf-8" />
+<title>Nachonomics</title>
+<link rel="shortcut icon" type="image/x-icon" href="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1418169300356-VE56FJW3I4EX542J3LFI/favicon.ico?format=100w"/>
+<link rel="canonical" href="http://www.nachonomics.com"/>
+<meta property="og:site_name" content="Nachonomics"/>
+<meta property="og:title" content="Nachonomics"/>
+<meta property="og:url" content="http://www.nachonomics.com"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Nachonomics, a site dealing with the art and business of nachos. Nacho review? We got those. Nacho articles? We got those as well, along with nacho essays, schematics, videos, etc. Basically any nacho need you may have, we've got it covered."/>
+<meta itemprop="name" content="Nachonomics"/>
+<meta itemprop="url" content="http://www.nachonomics.com"/>
+<meta itemprop="description" content="Nachonomics, a site dealing with the art and business of nachos. Nacho review? We got those. Nacho articles? We got those as well, along with nacho essays, schematics, videos, etc. Basically any nacho need you may have, we've got it covered."/>
+<meta name="twitter:title" content="Nachonomics"/>
+<meta name="twitter:url" content="http://www.nachonomics.com"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Nachonomics, a site dealing with the art and business of nachos. Nacho review? We got those. Nacho articles? We got those as well, along with nacho essays, schematics, videos, etc. Basically any nacho need you may have, we've got it covered."/>
+<meta name="description" content="Nachonomics, a site dealing with the art and business of nachos. Nacho 
+review? We got those. Nacho articles? We got those as well, along with 
+nacho essays, schematics, videos, etc. Basically any nacho need you may 
+have, we've got it covered." />
+<link rel="preconnect" href="https://images.squarespace-cdn.com">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Varela+Round:wght@;400">
+<script type="text/javascript" crossorigin="anonymous" nomodule="nomodule" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-style_loader_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-moment_js_vendor');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/commerce-fcbac5b8a178180235fd7-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/commerce-fcbac5b8a178180235fd7-min.en-US.js" ></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].css = ["//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"]; })(SQUARESPACE_ROLLUPS, 'squarespace-commerce');</script>
+<link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/commerce-0418f029ba9aeb9db8790-min.en-US.css"><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/performance-f741451202e1f5256043b-min.en-US.js" defer ></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-b498e8ddbc1e547b4126b-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-7273d8fcec67906942b35-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-a06ffe725bdba5fa69be1-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-16762741560c68b6cecac-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-90383b22a98fc69778d61-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-58ae73137091cd0a61360-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-e098487d217defba6c259-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-eeb99f32a31032af774cb-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-458fabab98b9c4e62a287-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-5668de53c0ce16e20cc01-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-087f588ab9d1edb87618e-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-8ea42d1a10eef92625b3a-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-1cc007b21ede0b73086c9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-90d16c21969e619b2ab92-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-4401d2b37b402258ba170-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-e97cd1bf8153477a2dd3d-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-b9eb16d1f0b9a3e33f7a9-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-e4ea05bd2ae9c1568e432-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-10e0f2b8a9642f236946d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-663fb8b8c08febe7303f1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-d4add49c63cdf96e8a125-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-6bb46aa47a418cb8dae94-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-60e14b9bac69739c96fa7-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-b51cdc757d4b89aaaafe5-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-568ad8f2a40e76c0175c8-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-877bf5213eca26ca28f14-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-847c5cb95913ef43a89dd-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-47606e375db2b296c3464-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-579d7bbe40f75c6432def-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-b186d09e02921fd7f8e00-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-bfd09aae8c79279d462a6-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-3d55c64c25996c7633fc2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f2d55ecb38afdcd7e3165-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-5c2f030f6ee94f066dc3d-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-aaa8810c465cb8b7aec6e-min.en-US.js"}},"pageType":1,"website":{"id":"512feaace4b07fdedd2bffab","identifier":"derek-sotak-rfs1","websiteType":1,"contentModifiedOn":1639506385646,"cloneable":false,"hasBeenCloneable":false,"siteStatus":{},"language":"en-US","timeZone":"America/New_York","machineTimeZoneOffset":-18000000,"timeZoneOffset":-18000000,"timeZoneAbbr":"EST","siteTitle":"Nachonomics","fullSiteTitle":"Nachonomics","siteTagLine":"The Business of Nachos","siteDescription":"<p><strong>Nachonomics: ('na-cho-'na-miks)</strong></p><strong>noun</strong>. The branch of knowledge concerned with the production, consumption, and distribution of nachos.","location":{"mapZoom":9.0,"mapLat":40.66283140769906,"mapLng":-74.19925689038087,"addressTitle":" ","addressLine1":"Nachonomics","addressLine2":"The Business of Nachos","addressCountry":" "},"shareButtonOptions":{"6":true,"2":true,"7":true,"4":true,"1":true,"3":true,"8":true},"authenticUrl":"http://www.nachonomics.com","internalUrl":"http://derek-sotak-rfs1.squarespace.com","baseUrl":"http://www.nachonomics.com","primaryDomain":"www.nachonomics.com","sslSetting":1,"isHstsEnabled":false,"socialAccounts":[{"serviceId":2,"userId":"32602651","userName":"derek.sotak","screenname":"Nachonomics","addedOn":1364180752684,"profileUrl":"http://www.facebook.com/nachonomics","iconUrl":"http://graph.facebook.com/32602651/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":62,"screenname":"Twitter","addedOn":1575434157164,"profileUrl":"https://twitter.com/nachonomics","iconEnabled":true,"serviceName":"twitter-unauth"}],"typekitId":"","statsMigrated":true,"imageMetadataProcessingEnabled":false,"screenshotId":"1e127841","showOwnerLogin":false},"websiteSettings":{"id":"512feaace4b07fdedd2bffac","websiteId":"512feaace4b07fdedd2bffab","type":"Business","subjects":[{"systemSubject":"other","otherSubject":"Other"}],"country":"US","state":"MA","simpleLikingEnabled":true,"mobileInfoBarSettings":{"isContactEmailEnabled":false,"isContactPhoneNumberEnabled":false,"isLocationEnabled":false,"isBusinessHoursEnabled":false},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":true,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":".","storeSettings":{"returnPolicy":"","termsOfService":"","privacyPolicy":"","expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":false,"isBillingPhoneRequired":false,"currenciesSupported":["USD","AUD","CAD","CHF","EUR","GBP"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":1,"showCustomCheckoutForm":true,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false},"isLive":true,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled"},"ampEnabled":false},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"isRestrictiveCookiePolicyAbsolute":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":""},"websiteCloneable":false,"collection":{"title":"Nachonomics.","id":"514cf8c7e4b05828023b11b9","fullUrl":"/","publicCommentCount":1,"type":1,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"outerPadding":"100px","pagePadding":"50px","product-gallery-auto-crop":"true","product-image-auto-crop":"true","topPadding":"80px"},"templateId":"50749216e4b0933ed3da0a8d","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/","betaFeatureFlags":["campaigns_hide_deleted_automations_panel","commerce_product_composer_ab_test_all_users","campaigns_section_reorder_arrows","commerce_product_branching","commerce_etsy_product_import","commerce_site_visitor_metrics","background_art_onboarding","commerce_afterpay_pdp","campaigns_blog_product_image_editor","commerce_product_review_etsy_import","commerce_pdp_layouts_ga","commerce_restock_notifications","campaigns_global_uc_ab","campaigns_thumbnail_layout","viewer-role-contributor-invites","member_areas_schedule_interview","commerce_activation_experiment_add_payment_processor_card","startup_checklist","commerce_category_id_discounts_enabled","campaigns_audience_card","category-delete-product-service-enabled","campaigns_show_apply_website_styles_button","campaigns_banner_reduce_size","nested_categories_migration_enabled","commerce_etsy_shipping_import","member_areas_spanish_interviews","google_analytics_4_gtag_js","member_areas_pricing_options_discounts","reduce_general_search_api_traffic","commerce_onboarding_tools_screen_test","commerce_clearpay","campaigns_new_subscriber_search","commerce_product_review_import_ga","customer_account_creation_recaptcha"],"impersonatedSession":false,"tzData":{"zones":[[-300,"US","E%sT",null]],"rules":{"US":[[1967,2006,null,"Oct","lastSun","2:00","0","S"],[1987,2006,null,"Apr","Sun>=1","2:00","1:00","D"],[2007,"max",null,"Mar","Sun>=8","2:00","1:00","D"],[2007,"max",null,"Nov","Sun>=1","2:00","0","S"]]}},"showAnnouncementBar":false};</script><script type="text/javascript"> SquarespaceFonts.loadViaContext(); Squarespace.load(window);</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="http://www.nachonomics.com/nachonomics?format=rss" />
+<script type="application/ld+json">{"url":"http://www.nachonomics.com","name":"Nachonomics","description":"<p><strong>Nachonomics: ('na-cho-'na-miks)</strong></p><strong>noun</strong>. The branch of knowledge concerned with the production, consumption, and distribution of nachos.","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":" ","address":"Nachonomics\nThe Business of Nachos\n ","telephone":".","sameAs":["http://www.facebook.com/nachonomics","https://twitter.com/nachonomics"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"Nachonomics\nThe Business of Nachos\n ","name":" ","@context":"http://schema.org","@type":"LocalBusiness"}</script><link rel="stylesheet" type="text/css" href="https://static1.squarespace.com/static/sitecss/512feaace4b07fdedd2bffab/46/50749216e4b0933ed3da0a8d/512feaade4b07fdedd2c00ec/681-05142015/1591045831309/site.css"/><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=$GA_TRACKING_ID$"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-39903744-1');</script><!-- End of Squarespace Headers -->
+  <script src="https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/core-0.2.0.min.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://static1.squarespace.com/static/ta/5074801ae4b0933ed3d9d554/681/scripts/combo/?dynamic-data.js&site.js"></script>
+  
+</head>
+
+<body class="page-borders-thin canvas-style-masthead-logo-left  header-subtitle-none banner-alignment-center blog-layout-right-sidebar project-layout-left-sidebar thumbnails-on-open-page-show-all social-icon-style-round       hide-article-author product-list-titles-under product-list-alignment-center product-item-size-43-four-thirds product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing   event-thumbnails event-thumbnail-size-32-standard event-date-label  event-list-show-cats event-list-date event-list-time event-list-address     event-excerpts  event-item-back-link     hide-opentable-icons opentable-style-dark newsletter-style-dark small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square button-style-default button-corner-style-square tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-514cf8c7e4b05828023b11b9 collection-type-blog collection-layout-default homepage view-list mobile-style-available site-title" id="collection-514cf8c7e4b05828023b11b9">
+
+  <div id="canvas">
+
+    <div id="mobileNav" class="">
+      <div class="wrapper">
+        <nav class="main-nav mobileNav"><ul>
+  
+
+        
+
+          <li class="blog-collection active-link">
+
+            
+              <a href="/">Nachonomics.</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/about">About.</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/faq">F.A.Q.</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          <li class="page-collection">
+
+            
+              <a href="/videos">Videos.</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+
+        
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="https://www.facebook.com/Nachonomics" target="_blank">Facebook.</a>
+              
+
+            </li>
+
+          
+
+            <li class=" folder external-link">
+
+              
+
+              
+                <a href="https://twitter.com/Nachonomics" target="_blank">Twitter.</a>
+              
+
+            </li>
+
+          
+
+            <li class="page-collection">
+
+              
+                <a href="/the-team">The Team.</a>
+              
+
+              
+
+            </li>
+
+          
+
+            <li class="page-collection">
+
+              
+                <a href="/submissions">Submissions.</a>
+              
+
+              
+
+            </li>
+
+          
+
+            <li class="page-collection">
+
+              
+                <a href="/contact">Contact.</a>
+              
+
+              
+
+            </li>
+
+          
+
+        
+
+      
+
+  
+
+        
+
+          <li class="products-collection">
+
+            
+              <a href="/store">Store.</a>
+            
+
+            
+
+          </li>
+
+        
+
+      
+
+  
+</ul>
+</nav>
+      </div>
+    </div>
+    <div id="mobileMenuLink"><a>Menu</a></div>
+
+    <header id="header" data-content-field="site-title" class="clear">
+
+    
+
+      <div id="upper-logo">
+        <h1 class="logo"><a href="/">Nachonomics</a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#upper-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#upper-logo')
+          });
+        });
+      </script>
+
+      
+      <div class="site-info">
+        <div class="site-address">Nachonomics</div>
+        <div class="site-city-state">The Business of Nachos</div>
+        <div class="site-phone">.</div>
+      </div>
+      
+
+      <div class="site-tag-line">
+        <span>The Business of Nachos</span>
+      </div>
+
+      <div class="custom-info">
+        <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Header Subtitle: Custom Content" data-type="block-field" id="customInfoBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+      </div>
+
+      <div id="lower-logo">
+        <h1 class="logo"><a href="/">Nachonomics</a></h1>
+      </div>
+      <script>
+        Y.use('squarespace-ui-base', function(Y) {
+          Y.one("#lower-logo .logo").plug(Y.Squarespace.TextShrink, {
+            parentEl: Y.one('#lower-logo')
+          });
+        });
+      </script>
+
+    
+      <div id="topNav">
+  <nav class="main-nav" data-content-field="navigation">
+    <ul>
+    
+
+        <li class="blog-collection active-link">
+
+          
+
+            
+              <a href="/">Nachonomics.</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/about">About.</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/faq">F.A.Q.</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="page-collection">
+
+          
+
+            
+              <a href="/videos">Videos.</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+
+        <li class="folder-collection folder">
+
+          
+
+            <a aria-haspopup="true" >Social.</a>
+            <div class="subnav">
+              <ul>
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="https://www.facebook.com/Nachonomics" target="_blank">Facebook.</a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li class="external-link">
+                      <a href="https://twitter.com/Nachonomics" target="_blank">Twitter.</a>
+                    </li>
+                  
+                
+                  
+                    <li class="page-collection">
+                      <a href="/the-team">The Team.</a>
+                    </li>
+                  
+                  
+                
+                  
+                    <li class="page-collection">
+                      <a href="/submissions">Submissions.</a>
+                    </li>
+                  
+                  
+                
+                  
+                    <li class="page-collection">
+                      <a href="/contact">Contact.</a>
+                    </li>
+                  
+                  
+                
+              </ul>
+            </div>
+
+          
+
+        </li>
+
+    
+
+        <li class="products-collection">
+
+          
+
+            
+              <a href="/store">Store.</a>
+            
+
+            
+
+
+          
+
+        </li>
+
+    
+  </ul>
+  <div class="page-divider"></div>
+  </nav>
+</div>
+
+
+    </header>
+
+    <div class="page-divider top-divider"></div>
+
+    <!-- // page image or divider -->
+    
+      
+    
+
+    <section id="page" role="main" data-content-field="main-content">
+
+      <!-- // CATEGORY NAV -->
+      
+
+      <div class="article-list hfeed">
+
+
+
+  <article class="hentry promoted promoted-block-image category-2021 tag-twas-the-nacho-before-christmas author-nachonomics post-type-text article-index-1" id="article-61c71b1476a7d31c5f452a3e" data-item-id="61c71b1476a7d31c5f452a3e">
+
+    <!--POST HEADER-->
+
+    <header>
+      <h1 class="entry-title" itemprop="headline">
+        
+          <a href="/nachonomics/2021/12/25/twas-the-nacho-before-christmas-jy4ep">T'was the Nacho Before Christmas</a>
+        
+      </h1>
+      <div class="meta">
+        <span class="date"><time class="published dt-published" datetime="2021-12-25" itemprop="datePublished" pubdate><a href="/nachonomics/2021/12/25/twas-the-nacho-before-christmas-jy4ep">December 25, 2021</a></time></span>
+        <span class="author"><a href="/?author=502ce1d2c4aa67a228fad526" rel="author">Nachonomics</a></span>
+      </div>
+    </header>
+
+    <!--SPECIAL CONTENT-->
+
+    
+      <div class="special-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-61c71b1476a7d31c5f452a3e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-f4707ff5ca6c80e224f5"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1000px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:70.70000457763672%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1514143825329-VLI5E36JBCMJO03Z33LC/static1.squarespace.com.png" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1514143825329-VLI5E36JBCMJO03Z33LC/static1.squarespace.com.png" data-image="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1514143825329-VLI5E36JBCMJO03Z33LC/static1.squarespace.com.png" data-image-dimensions="1000x707" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="61c71b1476a7d31c5f452a3c" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div>
+    
+
+    <!--POST BODY-->
+
+    
+      <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1640438591129" id="item-61c71b1476a7d31c5f452a3e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-fc486615e270c29bfa8f"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">While you're all off enjoying the family events and probably having the day off, we here at Nachonomics would like to extend an extra special holiday gift to you in the form of what will undoubtedly be a new timeless Christmas classic you can tell your children, and them their children, and so on. So with the Merriest of Christmases, and Happiest of Crimbos, we present you our timeless nacho classic "<a href="http://nachonomics.com/nachonomics/2013/12/24/twas-the-nacho-before-christmas" target="_blank">T'was The Nacho Before Christmas</a>".</p></div></div></div></div></div></div>
+      
+    
+
+
+    <!--POST FOOTER-->
+
+    <footer>
+      <div class="meta">
+
+        
+
+        <div class="first meta-row category tags">
+          <span class="categories"><span class="categories-title">In</span> <a href="/?category=2021" rel="tag">2021</a></span>
+          <span class="tags"><span class="tags-title">Tags</span> <a href="/?tag=T%27was+The+Nacho+Before+Christmas" rel="tag">T'was The Nacho Before Christmas</a></span>
+        </div>
+
+        <div class="second meta-row">
+          
+            
+              
+                <span class="comments"><a href="/nachonomics/2021/12/25/twas-the-nacho-before-christmas-jy4ep#comments-61c71b1476a7d31c5f452a3e">Comment</a></span>
+              
+            
+          
+          <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/512feaace4b07fdedd2bffab/514cf8c7e4b05828023b11b9/61c71b1476a7d31c5f452a3e/1640438589088/" data-record-type="1" data-full-url="/nachonomics/2021/12/25/twas-the-nacho-before-christmas-jy4ep" data-title="T'was the Nacho Before Christmas"></span>
+          
+  <span class="sqs-simple-like" data-item-id="61c71b1476a7d31c5f452a3e" data-like-count="0">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+        </div>
+
+      </div>
+    </footer>
+
+
+  </article>
+
+
+
+  <article class="hentry promoted promoted-block-image author-nachonomics post-type-text article-index-2" id="article-6185b06d55630521d4c6177c" data-item-id="6185b06d55630521d4c6177c">
+
+    <!--POST HEADER-->
+
+    <header>
+      <h1 class="entry-title" itemprop="headline">
+        
+          <a href="/nachonomics/2021/11/6/happy-national-nacho-day">Happy National Nacho Day!</a>
+        
+      </h1>
+      <div class="meta">
+        <span class="date"><time class="published dt-published" datetime="2021-11-06" itemprop="datePublished" pubdate><a href="/nachonomics/2021/11/6/happy-national-nacho-day">November  6, 2021</a></time></span>
+        <span class="author"><a href="/?author=502ce1d2c4aa67a228fad526" rel="author">Nachonomics</a></span>
+      </div>
+    </header>
+
+    <!--SPECIAL CONTENT-->
+
+    
+      <div class="special-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-6185b06d55630521d4c6177c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1636150163579_21223"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:570px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:75.08772277832031%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/a7790ea1-f485-43ef-b1d3-5e69088ecd48/il_570xN.1129886951_h9i6.jpg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/a7790ea1-f485-43ef-b1d3-5e69088ecd48/il_570xN.1129886951_h9i6.jpg" data-image="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/a7790ea1-f485-43ef-b1d3-5e69088ecd48/il_570xN.1129886951_h9i6.jpg" data-image-dimensions="570x428" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="6185b0c4d688c137ce86a076" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div>
+    
+
+    <!--POST BODY-->
+
+    
+      <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1636154490541" id="item-6185b06d55630521d4c6177c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-db8afb343e5f8648899b"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Here we are, barely having recovered from The International Day of the Nacho when we are gifted with National Nacho Day! What have we done to deserve such hashtagged and non hashtagged blessings? How can this miserable world produce such goodness when all it has sowed in its blackened fields is pain and agony? That is the magic of nachos my friend.</p><p class="" style="white-space:pre-wrap;">If you consider the Nacho High Holidays (or “Nacho High Nacholidays” if you will) to be The International Day of the Nacho, National Nacho Day, Cinco de Mayo, and Ignacio Anaya’s Birthday (and we must) an even distribution would be a holiday every three months over the course of the year. Sadly, this is not the case. The 3ish months between Cinco de Mayo and Ignacio’s Birthday works in our favor, and the 2ish months between that and The International Day of the Nacho isn’t bad, but immediately getting National Nacho Day leaves us with a whopping six month wait until the next. Six months without a holiday related reason to eat nachos is a tough row to hoe.</p><p class="" style="white-space:pre-wrap;">If you’re “lucky” enough to work a 9-5 in the US and get your standard Federal holidays off you’ve run into this problem as well. Kicking off with Labor Day at the beginning of September you then have Columbus Day, Veterans Day, Thanksgiving, maybe the day after, maybe Christmas Eve, Christmas, New Years, and then maybe MLK Day in January. Four months have your lion’s share of days off, and then you’re stuck with Memorial Day and 4th of July to break up the other eight. Distribution is a problem all over the place (not just COVID related shipping delays, TOPICAL!) and whoever was planning these holidays in the first place should have sorted it out then, but what can you do now?</p><p class="" style="white-space:pre-wrap;">The only thing you CAN do is disassociate the need for a holiday to eat nachos, which should be easy. If you’re only eating nachos four time a year, I don’t even know what you’re doing here. But don’t let me nacho holiday shame/threaten you, eat them whenever you want. Just especially eat them today though. Or else.</p></div></div></div></div></div></div>
+      
+    
+
+
+    <!--POST FOOTER-->
+
+    <footer>
+      <div class="meta">
+
+        
+
+        <div class="first meta-row">
+          
+          
+        </div>
+
+        <div class="second meta-row">
+          
+            
+              
+                <span class="comments"><a href="/nachonomics/2021/11/6/happy-national-nacho-day#comments-6185b06d55630521d4c6177c">Comment</a></span>
+              
+            
+          
+          <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/512feaace4b07fdedd2bffab/514cf8c7e4b05828023b11b9/6185b06d55630521d4c6177c/1636207229546/" data-record-type="1" data-full-url="/nachonomics/2021/11/6/happy-national-nacho-day" data-title="Happy National Nacho Day!"></span>
+          
+  <span class="sqs-simple-like" data-item-id="6185b06d55630521d4c6177c" data-like-count="0">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+        </div>
+
+      </div>
+    </footer>
+
+
+  </article>
+
+
+
+  <article class="hentry promoted promoted-block-video author-nachonomics post-type-text article-index-3" id="article-61714cdfb9885631df22980e" data-item-id="61714cdfb9885631df22980e">
+
+    <!--POST HEADER-->
+
+    <header>
+      <h1 class="entry-title" itemprop="headline">
+        
+          <a href="/nachonomics/2021/10/21/happy-international-day-of-the-nacho">Happy International Day of the Nacho!</a>
+        
+      </h1>
+      <div class="meta">
+        <span class="date"><time class="published dt-published" datetime="2021-10-21" itemprop="datePublished" pubdate><a href="/nachonomics/2021/10/21/happy-international-day-of-the-nacho">October 21, 2021</a></time></span>
+        <span class="author"><a href="/?author=502ce1d2c4aa67a228fad526" rel="author">Nachonomics</a></span>
+      </div>
+    </header>
+
+    <!--SPECIAL CONTENT-->
+
+    
+      <div class="special-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-61714cdfb9885631df22980e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block video-block sqs-block-video" data-block-json="&#123;&quot;blockAnimation&quot;:&quot;none&quot;,&quot;layout&quot;:&quot;caption-hidden&quot;,&quot;overlay&quot;:false,&quot;description&quot;:&#123;&#125;,&quot;hSize&quot;:null,&quot;floatDir&quot;:null,&quot;html&quot;:&quot;&lt;iframe class=\&quot;embedly-embed\&quot; src=\&quot;//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FKl0T8Fm85c8%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKl0T8Fm85c8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FKl0T8Fm85c8%2Fhqdefault.jpg&amp;key=61d05c9d54e8455ea7a9677c366be814&amp;type=text%2Fhtml&amp;schema=youtube\&quot; width=\&quot;854\&quot; height=\&quot;480\&quot; scrolling=\&quot;no\&quot; title=\&quot;YouTube embed\&quot; frameborder=\&quot;0\&quot; allow=\&quot;autoplay; fullscreen\&quot; allowfullscreen=\&quot;true\&quot;&gt;&lt;/iframe&gt;&quot;,&quot;url&quot;:&quot;https://www.youtube.com/watch?v=Kl0T8Fm85c8&quot;,&quot;width&quot;:854,&quot;height&quot;:480,&quot;providerName&quot;:&quot;YouTube&quot;,&quot;thumbnailUrl&quot;:&quot;https://i.ytimg.com/vi/Kl0T8Fm85c8/hqdefault.jpg&quot;,&quot;resolvedBy&quot;:&quot;youtube&quot;&#125;" data-block-type="32" id="block-yui_3_17_2_1_1634815159721_21039"><div class="sqs-block-content"><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper" style="padding-bottom:56.20609%;"><div class="sqs-video-wrapper" data-html="<br/><br/><br/><br/><br/>&lt;iframe src=&quot;//www.youtube.com/embed/Kl0T8Fm85c8?wmode=opaque&quot; height=&quot;480&quot; width=&quot;854&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;<br/>" data-provider-name="YouTube"></div></div></div></div></div></div></div></div></div>
+    
+
+    <!--POST BODY-->
+
+    
+      <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1634817611230" id="item-61714cdfb9885631df22980e"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-05de00698b8580541bdb"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">October 21st, <a href="https://nationaltoday.com/international-day-nacho/" target="">The International Day of the Nacho</a>, is the second highest holy day of the nacho calendar, trailing only the US holiday National Nacho Day, but that’s mostly just due to the US celebrating nachos more than everyone else. Is this due to some sort of nacho based xenophobia that caused a rift and necessitated a need for both an international and a national nacho day? Or is it just that one of these garbage fake holiday websites needed to fill an empty day with some made up holiday and it happened to be nacho based? Or maybe, like nachos cheese leaking down into a pile of tortilla chips, the answer is a little in-between?</p><p class="" style="white-space:pre-wrap;">Piedras Negras, the birthplace of nachos, every year around now holds a 3 day festival to celebrate International Day of the Nacho, a holiday they created. When it comes to new made up holidays, the town where a thing was invented creating a holiday for that thing is pretty legit. America’s National Nacho Day, celebrated on November 6th, unfortunately has no such provenance. A casual stroll through google reveals no clear answer as to how the US got a separate day for nacho love, or why 11.6 was decided as the day. Not that this is going to stop the internet from making 10,000 stupid holiday websites all regurgitating the same garbage about National Nacho Day with no real information as to how that came to be, but hey, if you haven’t realized 99.99999999999999% of the internet is crap, you must be spending all your time on this fantastic website. Based on this, if you can only celebrate one nacho day this year, today is the more official one.</p><p class="" style="white-space:pre-wrap;">We’ve said it before and we’ll say it again, you don’t need a reason to eat nachos on any day of the week, but if this is the push you need to do so today, go for it. There is no bad day to eat a plate load of chips and cheese and toppings, so don’t hold yourself back whatever the calendar says. Well, maybe you don’t want to eat some right before running a marathon or undergoing bariatric surgery, but when it comes to ‘chos, you do you.</p></div></div></div></div></div></div>
+      
+    
+
+
+    <!--POST FOOTER-->
+
+    <footer>
+      <div class="meta">
+
+        
+
+        <div class="first meta-row">
+          
+          
+        </div>
+
+        <div class="second meta-row">
+          
+            
+              
+                <span class="comments"><a href="/nachonomics/2021/10/21/happy-international-day-of-the-nacho#comments-61714cdfb9885631df22980e">Comment</a></span>
+              
+            
+          
+          <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/512feaace4b07fdedd2bffab/514cf8c7e4b05828023b11b9/61714cdfb9885631df22980e/1634817611623/" data-record-type="1" data-full-url="/nachonomics/2021/10/21/happy-international-day-of-the-nacho" data-title="Happy International Day of the Nacho!"></span>
+          
+  <span class="sqs-simple-like" data-item-id="61714cdfb9885631df22980e" data-like-count="0">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+        </div>
+
+      </div>
+    </footer>
+
+
+  </article>
+
+
+
+  <article class="hentry promoted promoted-block-image category-2021 author-nachonomics post-type-text article-index-4" id="article-60e1ba99f8246637354bc122" data-item-id="60e1ba99f8246637354bc122">
+
+    <!--POST HEADER-->
+
+    <header>
+      <h1 class="entry-title" itemprop="headline">
+        
+          <a href="/nachonomics/2017/7/4/happy-4th-of-juleezy-gpwxn-74bey-9wwes-j35z5">Happy 4th of July!</a>
+        
+      </h1>
+      <div class="meta">
+        <span class="date"><time class="published dt-published" datetime="2021-07-04" itemprop="datePublished" pubdate><a href="/nachonomics/2017/7/4/happy-4th-of-juleezy-gpwxn-74bey-9wwes-j35z5">July  4, 2021</a></time></span>
+        <span class="author"><a href="/?author=502ce1d2c4aa67a228fad526" rel="author">Nachonomics</a></span>
+      </div>
+    </header>
+
+    <!--SPECIAL CONTENT-->
+
+    
+      <div class="special-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-60e1ba99f8246637354bc122"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-0e4dec2ee7794d3da69a"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:100%;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:71.5835189819336%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1499085899484-DOK8EPGOQQ1C3JNWTC4U/Happy+4th.jpg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1499085899484-DOK8EPGOQQ1C3JNWTC4U/Happy+4th.jpg" data-image="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1499085899484-DOK8EPGOQQ1C3JNWTC4U/Happy+4th.jpg" data-image-dimensions="461x330" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="60e1ba99f8246637354bc11d" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div>
+    
+
+    <!--POST BODY-->
+
+    
+      <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1625406162496" id="item-60e1ba99f8246637354bc122"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-c38db451695feeb3c9ea"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">4th of Juleezy, 4th of Juleezy, how oh how can I make you more cheesy? Why, by making up the word "Juleezy" in order to rhyme with "Cheesy" for one. Another way would be to make up some <a href="http://nachonomics.com/nachonomics/2013/7/4/recipe-the-4th-of-chew-ly-patriot-nachos" target="_blank">PATRIOTIC NACHOS: A.K.A. PATRIOTIC BBQ GRILLING NACHOS USA USA</a>, the recipe for which is available at the link previous, or featured along with 13 other delicious recipes in <a href="http://nachonomics.com/store/book-recipes-from-the-nachonomicon" target="_blank">Recipes from the Nachonomicon</a>. At this point if you're reading this and in desperate need for nacho goodness for your BBQ this afternoon you're going to have to go with the linked version because there's no way you can order the book and have it arrive to you on time, but if you found it so delicious in retrospect you felt like buying the book, you'd get no complaints from me! And remember, don't go blowing your hand off with some fireworks, because it's a lot harder to eat nachos with a hook.</p></div></div><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-fcdd11df204adc11ae67"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:612px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:100%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1499085619106-IBKMBEDG3MYCCR0Z6UE5/image-asset.jpeg" alt="" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1499085619106-IBKMBEDG3MYCCR0Z6UE5/image-asset.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1499085619106-IBKMBEDG3MYCCR0Z6UE5/image-asset.jpeg" data-image-dimensions="612x612" data-image-focal-point="0.5,0.5" alt="" data-load="false" data-image-id="60e1ba99f8246637354bc120" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div>
+      
+    
+
+
+    <!--POST FOOTER-->
+
+    <footer>
+      <div class="meta">
+
+        
+
+        <div class="first meta-row category">
+          <span class="categories"><span class="categories-title">In</span> <a href="/?category=2021" rel="tag">2021</a></span>
+          
+        </div>
+
+        <div class="second meta-row">
+          
+            
+              
+                <span class="comments"><a href="/nachonomics/2017/7/4/happy-4th-of-juleezy-gpwxn-74bey-9wwes-j35z5#comments-60e1ba99f8246637354bc122">Comment</a></span>
+              
+            
+          
+          <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/512feaace4b07fdedd2bffab/514cf8c7e4b05828023b11b9/60e1ba99f8246637354bc122/1625407239068/" data-record-type="1" data-full-url="/nachonomics/2017/7/4/happy-4th-of-juleezy-gpwxn-74bey-9wwes-j35z5" data-title="Happy 4th of July!"></span>
+          
+  <span class="sqs-simple-like" data-item-id="60e1ba99f8246637354bc122" data-like-count="1">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+        </div>
+
+      </div>
+    </footer>
+
+
+  </article>
+
+
+
+  <article class="hentry promoted promoted-block-image category-2021 tag-nachonomics author-nachonomics post-type-text article-index-5" id="article-6091d85282f2792185d34833" data-item-id="6091d85282f2792185d34833">
+
+    <!--POST HEADER-->
+
+    <header>
+      <h1 class="entry-title" itemprop="headline">
+        
+          <a href="/nachonomics/2021/5/5/nachonomics-year-nine">Nachonomics: Year Nine</a>
+        
+      </h1>
+      <div class="meta">
+        <span class="date"><time class="published dt-published" datetime="2021-05-05" itemprop="datePublished" pubdate><a href="/nachonomics/2021/5/5/nachonomics-year-nine">May  5, 2021</a></time></span>
+        <span class="author"><a href="/?author=502ce1d2c4aa67a228fad526" rel="author">Nachonomics</a></span>
+      </div>
+    </header>
+
+    <!--SPECIAL CONTENT-->
+
+    
+      <div class="special-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Promoted Block" data-type="promoted-block" id="promoted-block-6091d85282f2792185d34833"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block image-block sqs-block-image" data-block-type="5" id="block-yui_3_17_2_1_1620162198429_60905"><div class="sqs-block-content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-hidden
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:408px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:98.03921508789062%;
+                
+                
+  overflow: hidden;
+  
+    
+    
+    
+    
+  
+
+              "
+              >
+              <noscript><img src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1620173014564-9FLVOTOX7YJKNSJFPGMM/Nachonomics+Year+Nine.jpg" alt="Nachonomics Year Nine.jpg" /></noscript><img class="thumb-image" data-src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1620173014564-9FLVOTOX7YJKNSJFPGMM/Nachonomics+Year+Nine.jpg" data-image="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1620173014564-9FLVOTOX7YJKNSJFPGMM/Nachonomics+Year+Nine.jpg" data-image-dimensions="408x400" data-image-focal-point="0.5,0.5" alt="Nachonomics Year Nine.jpg" data-load="false" data-image-id="6091e0d6d76b117b11c39a00" data-type="image" />
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+</div></div></div></div></div></div>
+    
+
+    <!--POST BODY-->
+
+    
+      <div class="body entry-content"><div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Post Body" data-type="item" data-updated-on="1620178288202" id="item-6091d85282f2792185d34833"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-7a2703b09f47447926c0"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">Cinco de Mayo 2021, or more importantly, nine years of Nachonomics. Some might say that non-stop nachos for 3,285 days is not only too many nachos, but also too many days. Others would not. Can you guess what camp we fall into?</p><p class="" style="white-space:pre-wrap;">As hard as it tried, Covid didn’t kill us, yet. Cholesterol hasn’t killed us, so far. A witch once prophesied that we’d die from choking on an extra crunchy chip, but there’s still time for that I suppose. When a witch makes a nacho prophecy about your death, you better get your affairs in order.</p><p class="" style="white-space:pre-wrap;">So new year, new you, new nachos. I hope you’re ready. </p></div></div></div></div></div></div>
+      
+    
+
+
+    <!--POST FOOTER-->
+
+    <footer>
+      <div class="meta">
+
+        
+
+        <div class="first meta-row category tags">
+          <span class="categories"><span class="categories-title">In</span> <a href="/?category=2021" rel="tag">2021</a></span>
+          <span class="tags"><span class="tags-title">Tags</span> <a href="/?tag=Nachonomics" rel="tag">Nachonomics</a></span>
+        </div>
+
+        <div class="second meta-row">
+          
+            
+              
+                <span class="comments"><a href="/nachonomics/2021/5/5/nachonomics-year-nine#comments-6091d85282f2792185d34833">Comment</a></span>
+              
+            
+          
+          <span class="squarespace-social-buttons inline-style" data-system-data-id="" data-asset-url="https://static1.squarespace.com/static/512feaace4b07fdedd2bffab/514cf8c7e4b05828023b11b9/6091d85282f2792185d34833/1620223230842/" data-record-type="1" data-full-url="/nachonomics/2021/5/5/nachonomics-year-nine" data-title="Nachonomics: Year Nine"></span>
+          
+  <span class="sqs-simple-like" data-item-id="6091d85282f2792185d34833" data-like-count="1">
+    <span class="like-icon"></span>
+    <span class="like-count"></span>
+  </span>
+
+        </div>
+
+      </div>
+    </footer>
+
+
+  </article>
+
+
+
+
+<!--PAGINATION-->
+
+
+  <nav class="pagination clear">
+      
+      <a class="older-posts" href="/?offset=1620223200468">Older Posts &rarr;</a>
+  </nav>
+
+
+</div>
+
+<aside id="sidebar"><div class="sqs-layout sqs-grid-1 columns-1" data-layout-label="Blog Sidebar Content" data-type="block-field" data-updated-on="1520988946750" id="sidebarBlocks"><div class="row sqs-row"><div class="col sqs-col-1 span-1"><div class="sqs-block socialaccountlinks-block sqs-block-socialaccountlinks" data-block-type="48" id="block-52726d0694e416c17588"><div class="sqs-block-content">
+
+<div class="sqs-svg-icon--outer social-icon-alignment-center social-icons-color-black social-icons-size-large social-icons-shape-circle social-icons-style-knockout">
+  <nav class="sqs-svg-icon--list">
+    <a href="http://www.facebook.com/nachonomics" target="_blank" class="sqs-svg-icon--wrapper facebook">
+      <div>
+        <svg class="sqs-svg-icon--social" viewBox="0 0 64 64">
+          <use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+          <use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+        </svg>
+      </div>
+    </a>
+  </nav>
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1520988727977_13726"><div class="sqs-block-content"><p style="margin-left:0px; margin-right:0px; text-align:start"><strong>Nachonomics: ('na-cho-'na-miks)</strong></p><p style="text-align:start"><strong>noun</strong>. The branch of knowledge concerned with the production, consumption, and distribution of nachos.</p></div></div><div class="sqs-block product-block sqs-block-product" data-block-type="43" id="block-yui_3_17_2_1_1411177191301_8693"><div class="sqs-block-content">
+
+
+
+
+  
+
+  <div class="product-block  clear"
+       
+       data-product-type="1">
+
+    
+        
+        <div class="image-container">
+          <a href="/store/book-all-nacho-knowledge">
+            
+              
+            
+
+            <img class="sqs-product-block-main-image" data-src="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1543152182152-ZOT38DAEQDY9U9OHTQ8T/All+Nacho+Knowledge.jpg" data-image="https://images.squarespace-cdn.com/content/v1/512feaace4b07fdedd2bffab/1543152182152-ZOT38DAEQDY9U9OHTQ8T/All+Nacho+Knowledge.jpg" data-image-dimensions="2200x1760" data-image-focal-point="0.5,0.5" alt="Book: Complete Nacho Knowledge"  data-load="false" />
+
+            <div class="sqs-product-mark-wrapper">
+              
+            </div>
+          </a>
+
+          
+        </div>
+        
+    
+
+    <div class="productDetails left">
+
+      
+        <a href="/store/book-all-nacho-knowledge" class="product-title">Book: Complete Nacho Knowledge</a>
+      
+
+      
+        
+
+
+<div class="product-price">
+<span class="sqs-money-native">20.00</span>
+</div>
+      
+
+      
+
+      
+        
+
+        
+
+
+<div class="product-quantity-input" data-item-id="5850d414b8a79b8f0607b8d7" data-animation-role="content">
+  <div class="quantity-label">Quantity:</div>
+  <input aria-label="Quantity" size="4" max="9999" min="1" value="1" type="number" step="1"></input>
+</div>
+
+        
+
+        
+
+
+
+
+
+
+
+
+
+<div class="sqs-add-to-cart-button-wrapper" data-animation-role="button">
+  <div class="sqs-add-to-cart-button sqs-suppress-edit-mode sqs-editable-button sqs-button-element--primary " role="button" tabindex="0" data-collection-id="5409077fe4b007c79841f424" data-item-id="5850d414b8a79b8f0607b8d7" data-product-type="1" data-use-custom-label="false" data-original-label="Add To Cart" >
+    <div class="sqs-add-to-cart-button-inner">Add To Cart</div>
+  </div>
+</div>
+      
+
+    </div>
+
+  </div>
+
+
+
+<script>document.querySelector('.product-block .product-block').classList.add('is-first-product-block');</script>
+</div></div><div class="sqs-block search-block sqs-block-search" data-block-type="33" id="block-2deb082a9335bda0638d"><div class="sqs-block-content">
+
+<div class="sqs-search-ui-text-input sqs-search-ui-button-wrapper color-dark" data-source="block" data-preview="false" data-collection="">
+  <div class="spinner-wrapper"></div>
+  <input
+    type="search"
+    class="search-input"
+    value=""
+    placeholder="Search"
+    aria-label="Search"
+  />
+</div>
+</div></div><div class="sqs-block postsbytag-block sqs-block-postsbytag" data-block-type="28" id="block-bb8e447b2ec6f38d91f4"><div class="sqs-block-content">
+
+<ul>
+  
+    <li><a href="/nachonomics/?tag=A+Friend+in+Nachos"><span class="name">A Friend in Nachos</span> <span class="count"><span>(</span>1<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Audio"><span class="name">Audio</span> <span class="count"><span>(</span>1<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Chip+of+News"><span class="name">Chip of News</span> <span class="count"><span>(</span>1<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Read+With+Your+Mouth"><span class="name">Read With Your Mouth</span> <span class="count"><span>(</span>1<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=The+Nacho+News+Network"><span class="name">The Nacho News Network</span> <span class="count"><span>(</span>1<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Where%27s+The+Beef%3F+Vegan+Views"><span class="name">Where's The Beef? Vegan Views</span> <span class="count"><span>(</span>1<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Bienvenidos+a+Piedras+Negras"><span class="name">Bienvenidos a Piedras Negras</span> <span class="count"><span>(</span>2<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Heroes+of+Nachos"><span class="name">Heroes of Nachos</span> <span class="count"><span>(</span>2<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Ignacio+Anaya"><span class="name">Ignacio Anaya</span> <span class="count"><span>(</span>2<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Interview"><span class="name">Interview</span> <span class="count"><span>(</span>2<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Podcast"><span class="name">Podcast</span> <span class="count"><span>(</span>2<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Recipe"><span class="name">Recipe</span> <span class="count"><span>(</span>2<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Play+With+Your+Food"><span class="name">Play With Your Food</span> <span class="count"><span>(</span>3<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Rule+Chiptania"><span class="name">Rule Chiptania</span> <span class="count"><span>(</span>3<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Nacho+Gift+Guide"><span class="name">Nacho Gift Guide</span> <span class="count"><span>(</span>4<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Nacho+Literature"><span class="name">Nacho Literature</span> <span class="count"><span>(</span>5<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Nacho+Regrets"><span class="name">Nacho Regrets</span> <span class="count"><span>(</span>5<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Nacho+Science"><span class="name">Nacho Science</span> <span class="count"><span>(</span>5<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Nachos+%26+You"><span class="name">Nachos &amp; You</span> <span class="count"><span>(</span>6<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Octchober"><span class="name">Octchober</span> <span class="count"><span>(</span>7<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Recipes+from+the+Nachonomicon"><span class="name">Recipes from the Nachonomicon</span> <span class="count"><span>(</span>9<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Merchandise"><span class="name">Merchandise</span> <span class="count"><span>(</span>10<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=T%27was+The+Nacho+Before+Christmas"><span class="name">T'was The Nacho Before Christmas</span> <span class="count"><span>(</span>10<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=The+Field+Guide+to+Nachos"><span class="name">The Field Guide to Nachos</span> <span class="count"><span>(</span>12<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Nachos+Time"><span class="name">Nachos Time</span> <span class="count"><span>(</span>13<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=NachoProviCon"><span class="name">NachoProviCon</span> <span class="count"><span>(</span>14<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Nachonomics"><span class="name">Nachonomics</span> <span class="count"><span>(</span>23<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Video"><span class="name">Video</span> <span class="count"><span>(</span>25<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Essay"><span class="name">Essay</span> <span class="count"><span>(</span>54<span>)</span></span></a></li>
+  
+    <li><a href="/nachonomics/?tag=Review"><span class="name">Review</span> <span class="count"><span>(</span>126<span>)</span></span></a></li>
+  
+</ul>
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-1665db343b6199cd9322"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block twitter-block sqs-block-twitter twitter" data-block-json="&#123;&quot;pageSize&quot;:4,&quot;title&quot;:&quot;Twitter&quot;,&quot;showAvatar&quot;:true,&quot;showUsername&quot;:true,&quot;followButton&quot;:true,&quot;schemaName&quot;:&quot;twitter&quot;,&quot;collectionId&quot;:&quot;513c1c27e4b0fe58c658767e&quot;,&quot;pageCollectionId&quot;:null,&quot;containingItemId&quot;:null&#125;" data-block-type="6" id="block-923492025ddc055e98a2"><div class="sqs-block-content">
+
+
+
+
+  <ul class="tweet-list" >
+    
+      <li class="tweet clear  " id="61c71f4c1c77d2701868c7f7">
+        
+          <div class="tweet-avatar-wrapper">
+            <a target="new" href="http://www.twitter.com/Nachonomics/">
+              <img class="tweet-avatar" src="https://pbs.twimg.com/profile_images/2463848090/a2gp70pal2e3hmprzv16_normal.jpeg"/>
+            </a>
+          </div>
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/Nachonomics/">Nachonomics</a></div>
+          
+          <div class="tweet-text">T'was the Nacho Before Christmas  <a href="https://t.co/KahImPyWbp" rel="nofollow">https://t.co/KahImPyWbp</a></div>
+          <time class="tweet-timestamp" datetime="2021-12-25"><a target="new" href="https://twitter.com/Nachonomics/status/1474732447770284033">Dec 25, 2021, 8:23 AM</a></time>
+        </div>
+      </li>
+    
+      <li class="tweet clear  " id="618695c24e484f7bd708e18d">
+        
+          <div class="tweet-avatar-wrapper">
+            <a target="new" href="http://www.twitter.com/Nachonomics/">
+              <img class="tweet-avatar" src="https://pbs.twimg.com/profile_images/2463848090/a2gp70pal2e3hmprzv16_normal.jpeg"/>
+            </a>
+          </div>
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/Nachonomics/">Nachonomics</a></div>
+          
+          <div class="tweet-text">Happy National Nacho Day!  <a href="https://t.co/yjfFYVM0V7" rel="nofollow">https://t.co/yjfFYVM0V7</a></div>
+          <time class="tweet-timestamp" datetime="2021-11-06"><a target="new" href="https://twitter.com/Nachonomics/status/1456984838792114182">Nov 6, 2021, 10:00 AM</a></time>
+        </div>
+      </li>
+    
+      <li class="tweet clear  " id="61715c9bc8124f439a069417">
+        
+          <div class="tweet-avatar-wrapper">
+            <a target="new" href="http://www.twitter.com/Nachonomics/">
+              <img class="tweet-avatar" src="https://pbs.twimg.com/profile_images/2463848090/a2gp70pal2e3hmprzv16_normal.jpeg"/>
+            </a>
+          </div>
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/Nachonomics/">Nachonomics</a></div>
+          
+          <div class="tweet-text">Happy International Day of the Nacho!  <a href="https://t.co/8X5qRgTv7U" rel="nofollow">https://t.co/8X5qRgTv7U</a></div>
+          <time class="tweet-timestamp" datetime="2021-10-21"><a target="new" href="https://twitter.com/Nachonomics/status/1451156359253221380">Oct 21, 2021, 8:00 AM</a></time>
+        </div>
+      </li>
+    
+      <li class="tweet clear  " id="60e1ccfd4def385c13118a88">
+        
+          <div class="tweet-avatar-wrapper">
+            <a target="new" href="http://www.twitter.com/Nachonomics/">
+              <img class="tweet-avatar" src="https://pbs.twimg.com/profile_images/2463848090/a2gp70pal2e3hmprzv16_normal.jpeg"/>
+            </a>
+          </div>
+        
+        <div class="tweet-text-wrapper">
+          
+            <div class="tweet-from"><a target="new" href="http://www.twitter.com/Nachonomics/">Nachonomics</a></div>
+          
+          <div class="tweet-text">Happy 4th of July!  <a href="https://t.co/l1rKFxTeIg" rel="nofollow">https://t.co/l1rKFxTeIg</a></div>
+          <time class="tweet-timestamp" datetime="2021-07-04"><a target="new" href="https://twitter.com/Nachonomics/status/1411686392359534596">Jul 4, 2021, 10:00 AM</a></time>
+        </div>
+      </li>
+    
+  </ul>
+
+
+
+  <script>Y.use('squarespace-follow-buttons', function(Y) { Y.on('domready', function() { Y.Squarespace.FollowButtonUtils.renderAll(); }); });</script><div class="squarespace-follow-button" data-username="Nachonomics"></div>
+
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1520988727977_12294"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1520988727977_12623"><div class="sqs-block-content"><p><a target="_blank" href="http://www.nachonomics.com">NACHONOMICS</a> is a proud member of <a target="_blank" href="https://www.facebook.com/NachoNewsNetwork/">THE NACHO NEWS NETWORK</a></p></div></div></div></div></div></aside>
+
+    </section>
+
+    <div class="sqs-layout sqs-grid-12 columns-12 empty" data-layout-label="Footer Content: Nachonomics." data-type="block-field" id="collection-514cf8c7e4b05828023b11b9"><div class="row sqs-row"><div class="col sqs-col-12 span-12"></div></div></div>
+
+    <!-- <div class="page-divider bottom-divider"></div> -->
+
+    <div class="info-footer-wrapper clear">
+      <div class="info-footer">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Info Footer Content" data-type="block-field" data-updated-on="1364151157407" id="infoFooterBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block summary-block sqs-block-summary" data-block-type="20" id="block-81c3ab8b7e681e7c61ca"><div class="sqs-block-content">
+
+<div class="summary-item-list">
+  <div class="summary-collection-title">Nachonomics.</div>
+
+    
+    <div class="summary-item">
+      
+      <div class="summary-content">
+        
+          <div class="summary-title"><a href="/nachonomics/2021/12/25/twas-the-nacho-before-christmas-jy4ep">T'was the Nacho Before Christmas</a></div>
+        
+        
+          <time class="timestamp" datetime="2021-12-25"><span class="timesince" data-date="1640438591122">about a month ago</span></time>
+        
+        
+      </div>
+    </div>
+    
+</div>
+</div></div></div></div></div>
+      
+        
+        <div id="socialLinks" class="social-links" data-content-field="connected-accounts">
+          <a href="http://www.facebook.com/nachonomics" target="_blank" class="social-facebook"></a><a href="https://twitter.com/nachonomics" target="_blank" class="social-twitter-unauth"></a>
+        </div>
+        
+      
+      </div>
+    </div>
+
+    <footer id="footer">
+      <div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1633915984284" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-0144ad1fb2483575089c"><div class="sqs-block-content"><p style="text-align:center;white-space:pre-wrap;" class="">Copyright © 2012-2021 . <a href="http://www.nachonomics.com">Nachonomics</a> . All Rights Reserved</p></div></div></div></div></div>
+    </footer>
+
+  </div>
+
+  <div></div>
+
+  <script type="text/javascript" data-sqs-type="imageloader-bootstrapper">(function() {if(window.ImageLoader) { window.ImageLoader.bootstrap({}, document); }})();</script><script>Squarespace.afterBodyLoad(Y);</script><svg xmlns="http://www.w3.org/2000/svg" version="1.1" style="display:none" data-usage="social-icons-svg"><symbol id="facebook-icon" viewBox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"/></symbol><symbol id="facebook-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"/></symbol><symbol id="twitter-unauth-icon" viewBox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></symbol><symbol id="twitter-unauth-mask" viewBox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"/></symbol></svg>
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+GET https://jmoadmin.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:21:52 GMT
+< Set-Cookie: PHPSESSID=df0587b6p3sctalh4cplspcbnh; expires=Fri, 04-Mar-2022 00:21:51 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=afe97108-363b-46fe-9309-5f9ceac7f487; expires=Fri, 02-Feb-2024 00:21:52 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload

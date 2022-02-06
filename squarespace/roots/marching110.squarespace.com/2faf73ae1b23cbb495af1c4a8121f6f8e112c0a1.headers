@@ -1,0 +1,13 @@
+GET https://marching110.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Set-Cookie: crumb=BbzbP8Z3drIcYTUzN2IyZGNkZDljMzk4MjdlNzQxMmE3ZWE5ZTRm;Path=/
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:41 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: OgWAzgGh/GGjDvJAI

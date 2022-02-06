@@ -1,0 +1,11 @@
+GET http://www.dogfish-harpsichord-6f72.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: CwEDB3pK/SEOV2xv0
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:48 GMT
+< Location: http://dogfish-harpsichord-6f72.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVzl0mfAwTTqYmMyNjdmYjcxNzJlZjFmNzVjY2Y5NzVjODA4M2Mw;Path=/

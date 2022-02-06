@@ -1,0 +1,12 @@
+GET http://chas-clemens-8m42.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: 3EKkfs5l/Klnyileq
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BVtmbDJzdDAxZGMxMTI3NWIxNWEwNTZhMDg1N2I1ZWFkNzMwNTNl;Path=/
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:51:36 GMT

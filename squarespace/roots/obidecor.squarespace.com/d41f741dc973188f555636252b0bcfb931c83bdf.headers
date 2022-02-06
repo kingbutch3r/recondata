@@ -1,0 +1,15 @@
+GET http://obidecor.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Contextid: o244o5or/UTjXqBLr
+< Accept-Ranges: bytes
+< Date: Sat, 29 Jan 2022 02:10:05 GMT
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< Set-Cookie: crumb=BaMk1m3U6YvAODk2MzM2OGE4ZTE0YmY2OGM4MDM3ZTE5YTgyODlk;Path=/
+< Age: 341615
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"692afab8e431736a52b12a4539c0131f--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

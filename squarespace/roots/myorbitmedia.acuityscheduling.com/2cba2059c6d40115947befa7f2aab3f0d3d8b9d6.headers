@@ -1,0 +1,17 @@
+GET https://myorbitmedia.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=li5j3clc3v7b0cqrusmmosif90; expires=Thu, 03-Mar-2022 23:54:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ef36014a-4504-47e7-bc40-0a441bcea78f; expires=Thu, 01-Feb-2024 23:54:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Date: Tue, 01 Feb 2022 23:54:24 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,15 @@
+GET https://jessicaeturralde.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:02:05 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=pjkhlb5ifrju73umnjjlo6g5fm; expires=Fri, 04-Mar-2022 00:02:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a3438a19-b840-48e2-9fe0-cd635e86022e; expires=Fri, 02-Feb-2024 00:02:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

@@ -1,0 +1,15 @@
+GET https://aqua-dive.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:08:05 GMT
+< Content-Type: text/html; charset=UTF-8
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=3f94selg8pgp8f278ab2emblg8; expires=Fri, 04-Mar-2022 00:08:04 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3a55dce4-2175-40d0-9bcc-743276e356e5; expires=Fri, 02-Feb-2024 00:08:05 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"

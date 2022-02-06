@@ -1,0 +1,16 @@
+GET http://julia-bauer-j8e2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Thu, 27 Jan 2022 21:14:37 GMT
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Set-Cookie: crumb=BaLsIkymy8eoNDdkMjVkOTc2YjE3OWJlZWJjMTQ2Mzk5NTdkMzc2;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 446714
+< Etag: W/"5eccdca2d384ab5ed82c94d0d3b24265"
+< Last-Modified: Thu, 27 Jan 2022 21:14:37 GMT
+< Server: Squarespace
+< X-Contextid: zMZrn2jK/mL3NYaN3
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

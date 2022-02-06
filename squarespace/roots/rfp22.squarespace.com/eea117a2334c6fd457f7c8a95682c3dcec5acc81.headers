@@ -1,0 +1,10 @@
+GET https://rfp22.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:51:28 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bd6Levv0WS2FMGRmNWU3MWMyMDUyZWQ1MmM2NDg2OTkzODBjNmUz;Path=/
+< X-Contextid: 2rwU8FzS/8F728Ywb
+< Age: 0
+< Content-Type: text/html;charset=utf-8

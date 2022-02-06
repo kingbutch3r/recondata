@@ -1,0 +1,11 @@
+GET http://glockenspiel-apricot-9nc2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://glockenspiel-apricot-9nc2.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BT2jW1Hn9b89NTY0Mzc4NmM5MzdiOTEzNTk5MTMxNGFlZTYxNTc1;Path=/
+< X-Contextid: 6RrXF0Y4/JIa5nbLO
+< Age: 538106
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 19:23:45 GMT

@@ -1,0 +1,16 @@
+GET https://abby-winant-w6pm.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Contextid: RixanWnL/uiLYDeAa
+< Accept-Ranges: bytes
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BYYxQ9swL3AaMDNlMTZhZWU0YmZiNWY1NGNmZTE5N2UxNWY0OTkw;Path=/
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=0
+< Etag: W/"d5806b1a59ff5656a9a764677bebb562--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Date: Tue, 01 Feb 2022 23:51:08 GMT
+< X-Content-Type-Options: nosniff

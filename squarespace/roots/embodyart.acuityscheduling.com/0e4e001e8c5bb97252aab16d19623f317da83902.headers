@@ -1,0 +1,17 @@
+GET https://embodyart.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=dhmn019misspbikb5m2dgna3f8; expires=Fri, 04-Mar-2022 00:42:31 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8189f7cb-698c-437d-a1dd-1ca57f939262; expires=Fri, 02-Feb-2024 00:42:32 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:42:32 GMT
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

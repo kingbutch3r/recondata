@@ -1,0 +1,11 @@
+GET https://www.chicago2020.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://chicago2020.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BeVy5LOMo2qcMjc0MmQzYmEyNmM5NzI5MzkxZmU2MGUyODVhZWYy;Path=/
+< X-Contextid: P9rRB4hr/sS4IyjKR
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:49:44 GMT

@@ -1,0 +1,15 @@
+GET https://foldawayandoyama.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=nd4ks5969t23gh6o6p75ahl2qt; expires=Thu, 03-Mar-2022 23:55:03 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b74ee792-de7a-4a43-a551-015578151f4e; expires=Thu, 01-Feb-2024 23:55:04 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: Accept-Encoding,User-Agent
+< Date: Tue, 01 Feb 2022 23:55:04 GMT
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

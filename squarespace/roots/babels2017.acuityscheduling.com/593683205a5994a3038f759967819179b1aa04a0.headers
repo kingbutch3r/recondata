@@ -1,0 +1,15 @@
+GET https://babels2017.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: Accept-Encoding,User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=nroj544q4gfneaa65g49vq6m5i; expires=Thu, 03-Mar-2022 23:53:21 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=1f6066be-653a-43ee-8147-fcb408452444; expires=Thu, 01-Feb-2024 23:53:22 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Tue, 01 Feb 2022 23:53:22 GMT
+< X-Content-Type-Options: nosniff

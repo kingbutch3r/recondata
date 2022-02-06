@@ -1,0 +1,9 @@
+GET https://bellybuzz.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=F523323AFFEAD2FBF440554B72B24F20.v5-web008; Path=/; HttpOnly
+< X-Contextid: rR5Cg79M/5FV5cpqN
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 00:55:23 GMT

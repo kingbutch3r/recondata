@@ -1,0 +1,13 @@
+GET https://elizabeth-hartman-7o51.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BdlWg/9qtaluODcwYjFhMTQyZjc5YTc5ODY4MGVhNGJiZDZjMDVm;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 01:14:08 GMT
+< Server: Squarespace
+< X-Contextid: njtghmtK/J3kLoSIL

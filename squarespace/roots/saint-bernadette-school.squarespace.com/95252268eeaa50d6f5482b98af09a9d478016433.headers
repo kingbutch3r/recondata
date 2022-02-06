@@ -1,0 +1,17 @@
+GET https://saint-bernadette-school.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< X-Contextid: Y6hlGeY8/IImHtaj1
+< Date: Tue, 01 Feb 2022 23:51:39 GMT
+< Age: 0
+< Etag: W/"5cb0b49baae584ddc20238bf0239ccab--gzip"
+< Set-Cookie: crumb=BStFG0e5jlJuYmNjYjNkZDE5YzA4NTMyMjVjYjU4ZWZiOGIzNWVm;Path=/
+< Strict-Transport-Security: max-age=43200
+< Vary: Accept-Encoding
+< X-Frame-Options: SAMEORIGIN
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8

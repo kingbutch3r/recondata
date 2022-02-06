@@ -1,0 +1,11 @@
+GET http://coyote-primrose-34gg.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://coyote-primrose-34gg.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BfKiOPbwyLOWOTE1YTQ3MGQ1YjFjMTYwOTRlMGQ2NTM3ZmFkMjIw;Path=/
+< X-Contextid: PvsenkVo/qWBJeCTT
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:25:06 GMT

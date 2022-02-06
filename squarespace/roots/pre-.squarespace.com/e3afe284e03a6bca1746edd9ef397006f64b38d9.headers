@@ -1,0 +1,12 @@
+GET https://pre-.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Content-Length: 77576
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:08:19 UTC
+< Pragma: no-cache
+< Server: Squarespace
+< X-Contextid: T7hlFIw2/6msNarJd
+< Cache-Control: no-cache, must-revalidate
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC

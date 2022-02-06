@@ -1,0 +1,12 @@
+GET https://join.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 190
+< Via: 1.1 google
+< Set-Cookie: GCLB=CMGf-P-3qb352AE; path=/; HttpOnly
+< Alt-Svc: clear
+< Server: rhino-core-shield
+< Date: Tue, 01 Feb 2022 23:25:43 GMT
+< Content-Type: text/html
+< Location: https://www.payoneer.com

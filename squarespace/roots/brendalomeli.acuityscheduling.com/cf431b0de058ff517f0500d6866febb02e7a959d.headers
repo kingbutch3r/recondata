@@ -1,0 +1,17 @@
+GET https://brendalomeli.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Set-Cookie: PHPSESSID=ehj1jg1542busg8e9mlgpstij7; expires=Fri, 04-Mar-2022 00:15:18 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=22d2b4ba-558a-408f-83e1-94c10e111cd7; expires=Fri, 02-Feb-2024 00:15:19 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:15:19 GMT
+< Content-Length: 0
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache

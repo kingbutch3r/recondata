@@ -1,0 +1,17 @@
+GET https://katttozier.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< X-Content-Type-Options: nosniff
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=bp9eoa224o93b1foijd99vd16t; expires=Fri, 04-Mar-2022 00:28:52 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fcd67799-00ec-4435-aa89-6187ac77ad89; expires=Fri, 02-Feb-2024 00:28:53 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:28:53 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache

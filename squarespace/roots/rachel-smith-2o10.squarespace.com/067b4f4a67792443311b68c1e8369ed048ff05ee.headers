@@ -1,0 +1,14 @@
+GET http://rachel-smith-2o10.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Vary: Accept-Encoding
+< X-Contextid: kDKwCQu4/iAsBCxpL
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BdC77mxToqIDNGJiNWYzNWI3ZGE4MzA1ZWVhZWM3MTVjNWExZjg2;Path=/
+< Accept-Ranges: bytes
+< Date: Tue, 01 Feb 2022 23:49:50 GMT
+< Server: Squarespace
+< X-Content-Type-Options: nosniff

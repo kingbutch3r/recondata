@@ -1,0 +1,16 @@
+GET https://evestus.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Strict-Transport-Security: max-age=0
+< Age: 575551
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTZ0WyeMXQ7hM2JiZTE5NWRiODc5MzAxNGU2MjdiMmY2YmQwYTVh;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: 6VwHHWKO/J8ExVm5J
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 26 Jan 2022 09:32:27 GMT
+< Etag: W/"e38ab1a9609689c77d64b9fedeaec71f"
+< Accept-Ranges: bytes
+< Vary: Accept-Encoding

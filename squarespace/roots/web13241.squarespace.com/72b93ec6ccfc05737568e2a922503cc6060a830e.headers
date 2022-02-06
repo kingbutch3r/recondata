@@ -1,0 +1,10 @@
+GET https://web13241.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: TZ4sV5Nr/Cc2tp4ha
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 01:13:57 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BTxgBzQVWyPiNzAzNWYwZTQ3ZDAzM2Q2NzA3YTg2ZWM3NzljNzdk;Path=/

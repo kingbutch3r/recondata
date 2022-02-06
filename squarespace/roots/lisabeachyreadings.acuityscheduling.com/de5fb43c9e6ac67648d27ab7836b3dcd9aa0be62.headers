@@ -1,0 +1,17 @@
+GET https://lisabeachyreadings.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Length: 0
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:33:40 GMT
+< Set-Cookie: PHPSESSID=fr1d1211m934n9ov4chj2q2l0l; expires=Fri, 04-Mar-2022 00:33:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=80a2325f-174c-48d5-bf19-af1da1c53558; expires=Fri, 02-Feb-2024 00:33:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff

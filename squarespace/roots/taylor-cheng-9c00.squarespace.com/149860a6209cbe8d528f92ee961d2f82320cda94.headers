@@ -1,0 +1,14 @@
+GET http://taylor-cheng-9c00.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BbQ5ytnhrR2FMDc3ODRlZmI2ZmM0OTZjYmVlODkyZTgyMjg0MmMx;Path=/
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: 6r7TSjgg/mtbVEPky
+< Content-Length: 3208
+< Date: Wed, 02 Feb 2022 00:59:01 GMT
+< X-Content-Type-Options: nosniff

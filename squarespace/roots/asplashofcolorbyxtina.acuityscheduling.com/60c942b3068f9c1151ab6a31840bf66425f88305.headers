@@ -1,0 +1,17 @@
+GET https://asplashofcolorbyxtina.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=btjveubcsp2jpki3s5368u5o0n; expires=Thu, 03-Mar-2022 23:55:23 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9e18f953-d114-4140-b62e-4aec40b3bbd7; expires=Thu, 01-Feb-2024 23:55:24 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Tue, 01 Feb 2022 23:55:24 GMT
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff

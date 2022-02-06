@@ -1,0 +1,17 @@
+GET https://tiger-gar-sjwl.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< X-Contextid: 99TPRje5/Gq3DMawy
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Set-Cookie: crumb=BRBjy9k8hA2hMmM1YWRlMzFlMDg2ODI2ZDJmZGQ0MDlhZGJjZTNi;Path=/
+< Date: Wed, 02 Feb 2022 01:24:14 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Frame-Options: SAMEORIGIN
+< Vary: Accept-Encoding
+< Age: 0
+< Etag: W/"dfe07badbdbd64cb24aac1a368b46bad--gzip"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT

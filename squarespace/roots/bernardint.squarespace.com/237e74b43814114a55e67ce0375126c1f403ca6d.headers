@@ -1,0 +1,16 @@
+GET https://bernardint.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"84b4caf1527d32b122ef1dad6a07db9b--gzip"
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: B1q4CM5V/qZy3gBTy
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:07:36 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcT2mc+q+ZKIN2Y5OTk4ZDhjMDQwZDM1MjdiOTU4NGYyYzEwY2U0;Path=/
+< Server: Squarespace
+< Vary: Accept-Encoding

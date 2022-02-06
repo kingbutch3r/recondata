@@ -1,0 +1,15 @@
+GET https://mobileapi.payoneer.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html; charset=utf-8
+< Server: rhino-core-shield
+< Cache-Control: no-cache, private, no-transform, no-store
+< Via: 1.1 google
+< Set-Cookie: GCLB=CJiu0tWQyo7d1AE; path=/; HttpOnly
+< Date: Tue, 01 Feb 2022 23:25:41 GMT
+< Expires: Thu, 01 Jan 1970 00:01:48 GMT
+< Alt-Svc: clear
+< Vary: Accept-Encoding
+< Pragma: no-cache
+< P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"

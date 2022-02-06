@@ -1,0 +1,17 @@
+GET https://bullbuster.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Set-Cookie: PHPSESSID=pn0lrgcssu6hd6vmvqgjbdn9um; expires=Fri, 04-Mar-2022 00:30:07 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=61817f45-0c1f-4ff0-a905-5a1bb49c4b81; expires=Fri, 02-Feb-2024 00:30:08 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Vary: User-Agent
+< Content-Length: 0
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:30:08 GMT
+< Location: /schedule.php

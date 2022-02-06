@@ -1,0 +1,11 @@
+GET http://borough22.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Contextid: 07zw1dcV/tDNMTgYS
+< Age: 571386
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 10:33:38 GMT
+< Location: https://borough22.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BdeeKF5KY5nBNWEwNWU5ZTUwNjdmMzA1YjhmNTljNzNkYzIzMmQy;Path=/

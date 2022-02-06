@@ -1,0 +1,15 @@
+GET https://readyforlove.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Set-Cookie: PHPSESSID=c44c18gmfdf6i7buqpp6mk43dg; expires=Fri, 04-Mar-2022 00:08:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=567751cd-fc79-4fb2-99fd-cac4d81e850b; expires=Fri, 02-Feb-2024 00:08:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:08:27 GMT
+< Vary: Accept-Encoding,User-Agent

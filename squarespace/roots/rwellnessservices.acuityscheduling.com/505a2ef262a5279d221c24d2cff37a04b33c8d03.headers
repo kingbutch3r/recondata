@@ -1,0 +1,15 @@
+GET https://rwellnessservices.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=0lho5s165dk8pdes14m46hthfj; expires=Fri, 04-Mar-2022 00:32:17 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=de63f3f4-3466-4956-81c6-f8b91d8ee672; expires=Fri, 02-Feb-2024 00:32:18 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Date: Wed, 02 Feb 2022 00:32:18 GMT
+< Content-Type: text/html; charset=UTF-8
+< X-Content-Type-Options: nosniff

@@ -1,0 +1,17 @@
+GET https://satmato.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Date: Wed, 02 Feb 2022 00:26:13 GMT
+< Pragma: no-cache
+< Content-Length: 0
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Vary: User-Agent
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=imcnl35siefmh1b4m6rd5dbh0d; expires=Fri, 04-Mar-2022 00:26:12 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=9a21c6d4-45ae-4b2c-ac5e-206194292e0d; expires=Fri, 02-Feb-2024 00:26:13 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload

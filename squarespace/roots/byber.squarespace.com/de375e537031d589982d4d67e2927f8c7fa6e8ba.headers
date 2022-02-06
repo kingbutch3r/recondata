@@ -1,0 +1,11 @@
+GET http://byber.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BTJaV+yHfnT7ZDg5ZTMzZjhlMWRmZGZlYzdjZDEyNDMwYzkxZTJh;Path=/
+< X-Contextid: eehiaXVm/jVxhRkRl
+< Age: 134937
+< Content-Length: 0
+< Date: Mon, 31 Jan 2022 11:26:32 GMT
+< Location: https://byber.squarespace.com/
+< Server: Squarespace

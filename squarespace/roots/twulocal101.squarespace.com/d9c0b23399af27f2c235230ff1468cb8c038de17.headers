@@ -1,0 +1,16 @@
+GET http://twulocal101.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< X-Contextid: koFC5Koe/d8WNkKE6
+< Date: Tue, 01 Feb 2022 10:29:03 GMT
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Etag: W/"2020bf27b4897d6a70aeadfcd5076648"
+< Age: 53024
+< Set-Cookie: crumb=BQmWbKu8QhVLYWQ0YWE1NzVmMTUyYTU1MzlmZDU4ZGJkYWYzZDNl;Path=/
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Tue, 01 Feb 2022 03:10:39 GMT

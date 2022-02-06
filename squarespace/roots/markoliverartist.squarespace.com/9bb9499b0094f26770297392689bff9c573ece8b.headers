@@ -1,0 +1,20 @@
+GET https://markoliverartist.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: dMBQBSRF/CiG0fgEM
+< Date: Mon, 31 Jan 2022 14:24:35 GMT
+< Etag: W/"2c0485e41dfc964d0c8d331eaf384612"
+< Last-Modified: Mon, 31 Jan 2022 14:24:36 GMT
+< Set-Cookie: crumb=BddBOghQSXcMMmQzY2Y4Y2Q5YTBlMjE1YTM4YWRmMTVkYTFlZDZi;Path=/
+< Vary: Accept-Encoding
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Age: 124289
+< Cache-Control: max-age=172800, s-maxage=172800

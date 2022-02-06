@@ -1,0 +1,9 @@
+GET http://email-lc.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://email-lc.squarespace.com:443/
+< Server: awselb/2.0
+< Date: Wed, 02 Feb 2022 00:55:03 GMT
+< Content-Type: text/html
+< Content-Length: 134

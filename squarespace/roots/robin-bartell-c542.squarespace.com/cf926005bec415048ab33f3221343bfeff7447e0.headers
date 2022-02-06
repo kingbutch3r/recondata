@@ -1,0 +1,11 @@
+GET http://robin-bartell-c542.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 372235
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 17:53:15 GMT
+< Location: https://robin-bartell-c542.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BcDzcbjaFEhzMTVhZTQxMDY0YzczYjIyMGFhYThmNjI4OWZjZWYy;Path=/
+< X-Contextid: 3of1pNaN/hGKqnE2F

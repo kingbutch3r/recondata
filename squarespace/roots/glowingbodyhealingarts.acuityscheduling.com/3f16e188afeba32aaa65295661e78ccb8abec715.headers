@@ -1,0 +1,17 @@
+GET https://glowingbodyhealingarts.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:39:40 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=ebkk16jclbho45rvf966anc7qq; expires=Fri, 04-Mar-2022 00:39:39 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=7b3f682d-9bfe-4123-93da-42b8a748a84e; expires=Fri, 02-Feb-2024 00:39:40 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent

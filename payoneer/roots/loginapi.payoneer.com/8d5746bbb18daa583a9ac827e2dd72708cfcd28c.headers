@@ -1,0 +1,10 @@
+GET http://loginapi.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://loginapi.payoneer.com/
+< Content-Length: 227
+< Date: Tue, 01 Feb 2022 23:25:40 GMT
+< Cache-Control: private
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer

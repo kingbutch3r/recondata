@@ -1,0 +1,11 @@
+GET http://terrychia90.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BQrmzHTHSJlBNjQ5ZDc0OWNjMTJjMTEwNmJkNjc3N2QyMjlmYTc5;Path=/
+< X-Contextid: lhC4aPcA/aTrJ4yFp
+< Age: 288663
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 16:38:54 GMT
+< Location: https://terrychia90.squarespace.com/

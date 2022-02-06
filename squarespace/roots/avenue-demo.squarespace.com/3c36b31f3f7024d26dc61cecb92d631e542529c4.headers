@@ -1,0 +1,16 @@
+GET https://avenue-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Etag: W/"ee6e9f78dea8e348a823618ae3de8f21"
+< Server: Squarespace
+< Vary: Accept-Encoding
+< Accept-Ranges: bytes
+< Age: 381386
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BcmbHE+hHxeKMDU5NGMzNDUyZTRmNTU4OTljZjA1ODM0ZjAxOTc0;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Date: Fri, 28 Jan 2022 14:59:06 GMT
+< X-Contextid: Is3xm5D3/xOCbRXTG

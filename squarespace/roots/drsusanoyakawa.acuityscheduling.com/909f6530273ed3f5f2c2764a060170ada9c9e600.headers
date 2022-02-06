@@ -1,0 +1,17 @@
+GET https://drsusanoyakawa.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Vary: User-Agent
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:56:23 GMT
+< Set-Cookie: PHPSESSID=ffg8gq9ijdhphasumgbnh4fgd4; expires=Thu, 03-Mar-2022 23:56:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=bc522ccf-3fcc-4973-896d-0dcc023aba0f; expires=Thu, 01-Feb-2024 23:56:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php

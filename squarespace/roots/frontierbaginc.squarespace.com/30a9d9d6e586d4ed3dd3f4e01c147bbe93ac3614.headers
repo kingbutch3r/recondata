@@ -1,0 +1,11 @@
+GET http://frontierbaginc.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Date: Tue, 01 Feb 2022 23:51:42 GMT
+< Location: https://frontierbaginc.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BXGbs55utmCqMTA2ZmZiMmEyMTg1ZjE4ZWQ2OWQxMjgzZjBhNDVj;Path=/
+< X-Contextid: 30FqIkSM/ir9hy5JH
+< Content-Length: 0

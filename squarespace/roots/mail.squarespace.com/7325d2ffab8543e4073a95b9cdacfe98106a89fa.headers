@@ -1,0 +1,10 @@
+GET https://mail.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BXHLEgUBZbZkNjBmMzI3YjgwNjg2NjNhNzk1ODBlMWU4ZjczOTg3;Path=/
+< X-Contextid: e4QIUYKL/GTMimtCO
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:56:33 GMT

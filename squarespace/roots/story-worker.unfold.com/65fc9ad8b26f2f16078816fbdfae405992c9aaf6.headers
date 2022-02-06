@@ -1,0 +1,12 @@
+GET https://story-worker.unfold.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Length: 19
+< Vary: Origin
+< X-Request-Id: c7sta7q23akg00i94dpg
+< X-Cloud-Trace-Context: 1a52d27fdb87e5211ce7a11469bd2be1;o=1
+< Date: Wed, 02 Feb 2022 00:49:35 GMT
+< Content-Type: text/plain; charset=utf-8
+< X-Content-Type-Options: nosniff
+< Server: Google Frontend

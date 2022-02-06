@@ -1,0 +1,17 @@
+GET https://themarshallsu.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:43:47 GMT
+< Content-Length: 0
+< Vary: User-Agent
+< Location: /schedule.php
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=3b9cke1ei17k8cmer4m8cv87ua; expires=Fri, 04-Mar-2022 00:43:46 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8d761b70-912f-48c5-b155-529442348f01; expires=Fri, 02-Feb-2024 00:43:47 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< P3p: CP="CAO PSA OUR"

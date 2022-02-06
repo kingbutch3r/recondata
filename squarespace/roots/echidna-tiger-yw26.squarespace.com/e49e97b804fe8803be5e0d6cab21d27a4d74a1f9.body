@@ -1,0 +1,75 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+  <title>Private Site</title>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="robots" content="noindex">
+
+  <script src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/legacy.js" nomodule type="text/javascript" crossorigin="anonymous"></script>
+  <script src="//assets.squarespace.com/@sqs/polyfiller/1.2.2/modern.js" type="text/javascript" crossorigin="anonymous"></script>
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/style-loader-runtime-e1419a2de35834b4cc657-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-0bedf8e91ceca9e233815-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/moment-js-vendor-2c8245ba6fac7b95a166c-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-19f316c82441424835c5a-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-545adf5039693142a25fb-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-223bd45b38abd65f911e3-min.en-US.js" ></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-e4e3ca11dc5639f41441c-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/common-5967850b37cbc0ac0af42-min.en-US.css">
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/dialog-29316ce9f584fd92d5f0e-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/dialog-7b3fdec47b80fd63e5e6f-min.en-US.css">
+  <script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/system-page-7acf07ccb2e73d62c2f47-min.en-US.js" ></script><link rel="stylesheet" type="text/css" href="//assets.squarespace.com/universal/styles-compressed/system-page-15be458bcb09c714f22e9-min.en-US.css">
+
+  
+  
+
+  <style>
+  .description {
+    max-width: 600px !important;
+  }
+  .description a {
+    color: inherit;
+  }
+
+  @media only screen and (min-width: 700px) {
+    .description {
+      width: 600px;
+    }
+  }
+  </style>
+
+
+</head>
+<body class="squarespace-config squarespace-system-page">
+
+  <div class="minimal-logo">&nbsp;</div>
+
+  <script type="text/template" id="messageTemplate">
+
+  	<div class="bigtext">
+  	  <div class="title">Private Site</div>
+  	  <div class="description">This site is currently private. If you’re the owner or contributor, <a href="/config">log in</a>.</div>
+  	</div>
+
+  </script>
+
+  <script>
+
+    Static =  { };
+    Static.CONTEXT = {};
+
+    Y = YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+
+      var message = document.getElementById('messageTemplate').innerHTML;
+
+      LB = new Y.Squarespace.Lightbox({
+        disableNormalClose: true,
+        clickAnywhereToExit: false,
+        content: message,
+        margin: 100,
+        height: 90
+      });
+
+      LB.show();
+
+    });
+
+  </script>
+
+</body>
+</html>

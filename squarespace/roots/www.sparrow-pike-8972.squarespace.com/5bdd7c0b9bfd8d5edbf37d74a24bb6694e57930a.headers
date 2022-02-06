@@ -1,0 +1,11 @@
+GET https://www.sparrow-pike-8972.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:48 GMT
+< Location: https://sparrow-pike-8972.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTGYlcPEZjPGMTY1Zjg2N2IxZDk4ZTZhNGJjMWRjYWYyYjQ0MTcx;Path=/
+< X-Contextid: Nef0VNxk/rGn1HrHe

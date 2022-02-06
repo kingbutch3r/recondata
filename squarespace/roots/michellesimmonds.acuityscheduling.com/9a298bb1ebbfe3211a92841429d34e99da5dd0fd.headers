@@ -1,0 +1,17 @@
+GET https://michellesimmonds.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=8gk5jtf27gn9k5kptbv8joo0pd; expires=Fri, 04-Mar-2022 01:10:22 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e48312ce-1243-4b5b-be29-dc32e1725c5d; expires=Fri, 02-Feb-2024 01:10:23 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 01:10:23 GMT
+< Content-Length: 0

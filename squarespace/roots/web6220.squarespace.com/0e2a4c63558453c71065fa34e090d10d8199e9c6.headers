@@ -1,0 +1,10 @@
+GET https://web6220.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Contextid: fskVJnz6/wuEmyLKT
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:03 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BfsVPI84LG/gYTY2NTFlZDhkZmQwNzE5MDllZjJhNmRmNzE4ZjZj;Path=/

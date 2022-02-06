@@ -1,0 +1,15 @@
+GET http://alexander-poe-v0b0.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< X-Contextid: RWHViiya/liPA1IjK
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding
+< Age: 456158
+< Date: Thu, 27 Jan 2022 18:07:21 GMT
+< Etag: W/"e07df9e8d7d16fe32cc984915bb0de83--gzip"
+< Set-Cookie: crumb=BQUjYSmD4IyeN2I4MGI1NDBkMDI3NmYzYmZmMWYxMTc0ZmNiODZh;Path=/

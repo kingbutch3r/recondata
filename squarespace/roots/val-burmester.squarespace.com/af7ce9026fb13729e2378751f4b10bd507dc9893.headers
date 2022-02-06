@@ -1,0 +1,12 @@
+GET http://val-burmester.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html;charset=utf-8
+< X-Contextid: S3AxAuSM/ysiBBz4N
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:22:59 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BYqgzT3kUB9tMmJkZGIwZmNkYTA3ODBkMDk0ZmRlYzczZjRiZDU4;Path=/
+< X-Content-Type-Options: nosniff

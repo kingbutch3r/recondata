@@ -1,0 +1,11 @@
+GET http://bellavidajewelry.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 26 Jan 2022 14:48:49 GMT
+< Location: https://bellavidajewelry.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVPkHEvVGrIAYTI5ZmRiNjA5YjAyMzFhOWMwY2ViYzYyZTUyYTVh;Path=/
+< X-Contextid: Jfg1Cnhg/hls6m36U
+< Age: 550859
+< Content-Length: 0

@@ -1,0 +1,14 @@
+GET https://akshat-tiwari-qn60.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BW7P5i8oxcifODU2MGYyYWRjNzU5NjcwZjU4NjhmZjI0YzQ3MmE0;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: Oai8y4sa/eTEf56UK
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:49:54 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=43200

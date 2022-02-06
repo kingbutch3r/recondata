@@ -1,0 +1,17 @@
+GET https://clarityprovoked.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Length: 0
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Date: Tue, 01 Feb 2022 23:59:15 GMT
+< Set-Cookie: PHPSESSID=d1245aljvndk9l4vf8meuresou; expires=Thu, 03-Mar-2022 23:59:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=3d0f677e-5e51-41a7-bbc2-d2a1ca040bee; expires=Thu, 01-Feb-2024 23:59:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Location: /schedule.php
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< X-Content-Type-Options: nosniff

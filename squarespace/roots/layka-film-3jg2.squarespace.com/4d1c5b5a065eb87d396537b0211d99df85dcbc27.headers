@@ -1,0 +1,11 @@
+GET http://layka-film-3jg2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BYnCY4S136iEMjE2OWUxNGY2MWUxM2ZjM2FhNWU3ZTg3OTE3MmI4;Path=/
+< X-Contextid: kB6MNKJ0/zSA5gyqQ
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:20:29 GMT
+< Location: https://layka-film-3jg2.squarespace.com/
+< Server: Squarespace

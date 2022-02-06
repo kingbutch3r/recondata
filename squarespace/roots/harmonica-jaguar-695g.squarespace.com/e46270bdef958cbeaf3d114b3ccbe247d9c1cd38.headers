@@ -1,0 +1,11 @@
+GET http://harmonica-jaguar-695g.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BdLznKgQ8BinOTZkZTZjZGZlZjU4MTU2NDUyYWQ5NjQ1Nzk0ZTkz;Path=/
+< X-Contextid: Bk08bJbO/CCycOjim
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:49:38 GMT
+< Location: https://harmonica-jaguar-695g.squarespace.com/
+< Server: Squarespace

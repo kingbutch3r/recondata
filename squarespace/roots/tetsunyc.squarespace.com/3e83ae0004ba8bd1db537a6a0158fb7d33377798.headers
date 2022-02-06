@@ -1,0 +1,16 @@
+GET https://tetsunyc.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BaUF9JKTqWOfNDAzYmYwMWU5MjVlZDEyNTQ1NDNmODk2MDAwOGI4;Path=/
+< Strict-Transport-Security: max-age=0
+< Accept-Ranges: bytes
+< Date: Wed, 02 Feb 2022 00:55:38 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Etag: W/"c5152ed8c686c17b9214724a38cb594a"
+< X-Content-Type-Options: nosniff
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< X-Contextid: urghDFlY/NlpAxE3N

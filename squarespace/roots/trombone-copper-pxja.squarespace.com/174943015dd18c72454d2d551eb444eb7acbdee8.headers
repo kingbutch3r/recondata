@@ -1,0 +1,18 @@
+GET https://trombone-copper-pxja.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Content-Type: text/html;charset=utf-8
+< Date: Thu, 27 Jan 2022 19:49:30 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=43200
+< X-Contextid: CRYgojPA/pYtbNWTp
+< Set-Cookie: crumb=BVgcCMZTk0eVODY5YmNiYTJlYmE3YWU2NDI2YzhjZTMxODkwNDVm;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< X-Frame-Options: SAMEORIGIN
+< Age: 452074
+< Accept-Ranges: bytes
+< Server: Squarespace
+< Etag: W/"09b728d28ca8a049b1930e1e07982e66"

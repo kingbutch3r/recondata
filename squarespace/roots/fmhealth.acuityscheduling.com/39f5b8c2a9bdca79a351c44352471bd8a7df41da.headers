@@ -1,0 +1,15 @@
+GET https://fmhealth.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:14:38 GMT
+< Set-Cookie: PHPSESSID=6evbo250jb5qucu3rqjlpgpvdr; expires=Fri, 04-Mar-2022 00:14:37 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=964c01bc-55b3-41fa-a988-160f55ec91f5; expires=Fri, 02-Feb-2024 00:14:38 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Vary: Accept-Encoding,User-Agent
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

@@ -1,0 +1,16 @@
+GET https://rick-steele-o851.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< X-Contextid: uu31hLQa/yEhM8Yt4
+< Age: 364208
+< Etag: W/"ba0d2ab8697b679c4ba0e8b3ba0172d9--gzip"
+< Server: Squarespace
+< Set-Cookie: crumb=BVRfsW/BOVwWNTg3ZTE1MGRlYjk4N2E0YzRhZjgwNzM2MzkyNGNm;Path=/
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 20:03:53 GMT
+< Vary: Accept-Encoding

@@ -1,0 +1,17 @@
+GET https://wendyhirschfreeconsult.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=lrsltdesrhpdipoiu251o2ghf9; expires=Fri, 04-Mar-2022 00:41:14 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ff7f3935-2fde-4c78-84bb-1f7ef03d0788; expires=Fri, 02-Feb-2024 00:41:15 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:41:15 GMT

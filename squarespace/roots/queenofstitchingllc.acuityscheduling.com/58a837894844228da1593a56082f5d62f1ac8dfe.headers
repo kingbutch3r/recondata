@@ -1,0 +1,15 @@
+GET https://queenofstitchingllc.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=2viii0bqn5kdbkjbiu962or2ps; expires=Thu, 03-Mar-2022 23:57:53 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b04072f1-740d-44f6-9199-aa100f6daa34; expires=Thu, 01-Feb-2024 23:57:54 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Tue, 01 Feb 2022 23:57:54 GMT
+< Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,11 @@
+GET http://laura-storm-f9g3.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 02 Feb 2022 01:26:45 GMT
+< Location: https://laura-storm-f9g3.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BZuhM17lsw8EMDY4NGI0NWVkYTg1MTUzZDU1NWIwN2NmMWYxOGNh;Path=/
+< X-Contextid: bpzBgHPa/ueAVLcVi
+< Content-Length: 0
+< Age: 0

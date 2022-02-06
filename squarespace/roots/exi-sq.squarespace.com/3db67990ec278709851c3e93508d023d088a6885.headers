@@ -1,0 +1,10 @@
+GET http://exi-sq.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=Ba7oo3bgXfEHZWZhZjc5NDNmNWQxYzM5NzhjYTU3ZDdiY2U3Yjdm;Path=/
+< X-Contextid: 94gS0KJZ/ehISB2Eg
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:27 GMT

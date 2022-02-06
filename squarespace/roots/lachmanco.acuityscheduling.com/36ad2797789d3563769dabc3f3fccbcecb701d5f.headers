@@ -1,0 +1,17 @@
+GET https://lachmanco.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Type: text/html; charset=UTF-8
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff
+< Set-Cookie: PHPSESSID=fvov546m172iuangq5n7pu960f; expires=Fri, 04-Mar-2022 00:24:49 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e40a68c9-07e7-4ed7-8ce6-3731662297fc; expires=Fri, 02-Feb-2024 00:24:50 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:24:50 GMT
+< Content-Length: 0

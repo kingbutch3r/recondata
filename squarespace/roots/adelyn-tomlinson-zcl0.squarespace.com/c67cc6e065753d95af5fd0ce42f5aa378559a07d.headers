@@ -1,0 +1,11 @@
+GET http://adelyn-tomlinson-zcl0.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Wed, 26 Jan 2022 08:01:25 GMT
+< Location: https://adelyn-tomlinson-zcl0.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BTHC6K/38YRgZTg3NzkyOWFiYjA5ZjA5NTkwMmRiMTA3MGQzZDQ0;Path=/
+< X-Contextid: Xe8QE5QT/BUkiuMn2
+< Age: 580244
+< Content-Length: 0

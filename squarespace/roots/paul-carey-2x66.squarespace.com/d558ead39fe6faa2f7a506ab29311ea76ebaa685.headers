@@ -1,0 +1,11 @@
+GET http://paul-carey-2x66.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BUsCcsnjMR1sOTZkZTRiMjU2YWE2MzM1NTkyNTdiMzRjOGFlMTJi;Path=/
+< X-Contextid: mQj3SAaC/JDm428yH
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:07:12 GMT
+< Location: https://paul-carey-2x66.squarespace.com/

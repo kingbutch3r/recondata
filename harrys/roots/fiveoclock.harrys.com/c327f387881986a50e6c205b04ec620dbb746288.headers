@@ -1,0 +1,10 @@
+GET http://fiveoclock.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< X-Ac: 1.bom _dca
+< Server: nginx
+< Date: Sat, 29 Jan 2022 17:39:27 GMT
+< Content-Type: text/html
+< Content-Length: 162
+< Location: https://fiveoclock.harrys.com/

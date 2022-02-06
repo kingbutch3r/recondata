@@ -1,0 +1,17 @@
+GET https://lapadre.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=j1bf5lfvfascrleuvelornh5kr; expires=Fri, 04-Mar-2022 00:06:21 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b37c1a8e-004d-4c84-929a-febd4fab9986; expires=Fri, 02-Feb-2024 00:06:22 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:06:22 GMT
+< Vary: User-Agent

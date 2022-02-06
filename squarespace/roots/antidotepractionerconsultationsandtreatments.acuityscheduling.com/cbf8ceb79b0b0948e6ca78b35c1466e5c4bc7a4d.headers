@@ -1,0 +1,17 @@
+GET https://antidotepractionerconsultationsandtreatments.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:39:14 GMT
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=pmlgqm65ctklbbl84jqijcpdo3; expires=Fri, 04-Mar-2022 00:39:13 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=fe34ecb7-5b71-4249-bf3a-437d84aebf9a; expires=Fri, 02-Feb-2024 00:39:14 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< Pragma: no-cache
+< Vary: User-Agent

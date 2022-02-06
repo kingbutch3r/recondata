@@ -1,0 +1,16 @@
+GET https://keeton-coffman-bm01.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BVaZc4/29kl2NWJjOTA4MmI5NmZlYTE4ZWQ3MWIyNTNiMzgxNDhk;Path=/
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Etag: W/"4401017779c7e4b41d358e6982b2d5cf--gzip"
+< Vary: Accept-Encoding
+< X-Contextid: fu0VDxH9/ZyNzPzef
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Age: 431889
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 01:14:56 GMT

@@ -1,0 +1,8 @@
+GET http://sales.krisp.ai
+
+
+< HTTP/1.1 308 Permanent Redirect
+< Date: Tue, 01 Feb 2022 23:29:43 GMT
+< Content-Type: text/html
+< Content-Length: 164
+< Location: https://sales.krisp.ai/

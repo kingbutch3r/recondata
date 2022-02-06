@@ -1,0 +1,11 @@
+GET http://plums-iris-kpe2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BeCzC/TPoJbcNTNmODJkNDRjMzI0MDdiOGY0MjlmMDhkZmYxMzc0;Path=/
+< X-Contextid: IpnjzaYr/SAiy7m1F
+< Age: 186809
+< Content-Length: 0
+< Date: Sun, 30 Jan 2022 21:26:33 GMT
+< Location: https://plums-iris-kpe2.squarespace.com/
+< Server: Squarespace

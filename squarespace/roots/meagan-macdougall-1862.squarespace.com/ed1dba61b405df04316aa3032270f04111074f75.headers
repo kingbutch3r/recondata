@@ -1,0 +1,13 @@
+GET http://meagan-macdougall-1862.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 01:17:49 GMT
+< X-Content-Type-Options: nosniff
+< X-Contextid: yJMfR7E6/yqyCEoao
+< Age: 0
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BZglYZmPCZC5MDRmMzJkOWIzYjhjMWE5YWYwYzFkODRmMjI3Yzc3;Path=/

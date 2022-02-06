@@ -1,0 +1,10 @@
+GET https://img10.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Date: Wed, 02 Feb 2022 00:57:39 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BQgu75rLOTgzMWUxM2UxNWJlMzcyYTRhNmZjYTBiYzI4YjM2ZDAw;Path=/
+< X-Contextid: J9jrnuqc/m0W66sGu
+< Age: 0
+< Content-Type: text/html;charset=utf-8

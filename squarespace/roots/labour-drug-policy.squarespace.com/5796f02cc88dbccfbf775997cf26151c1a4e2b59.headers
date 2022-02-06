@@ -1,0 +1,11 @@
+GET http://labour-drug-policy.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Date: Tue, 01 Feb 2022 15:58:33 GMT
+< Location: https://labour-drug-policy.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbB005t+Rm8MZWNiYzRkNzlkZGZjY2ViY2QwMzRkNTQxMDNmMzAy;Path=/
+< X-Contextid: hEzQ3TrG/1biH0lMy
+< Age: 34009
+< Content-Length: 0

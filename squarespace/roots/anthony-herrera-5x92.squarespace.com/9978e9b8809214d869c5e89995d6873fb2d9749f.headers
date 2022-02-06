@@ -1,0 +1,16 @@
+GET https://anthony-herrera-5x92.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Accept-Ranges: bytes
+< Etag: W/"b2d4cf64711882a7aa390468250fad77--gzip"
+< X-Content-Type-Options: nosniff
+< Age: 444295
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Vary: Accept-Encoding
+< X-Contextid: uTDiLW1Z/xu9jWY9y
+< Date: Thu, 27 Jan 2022 21:27:02 GMT
+< Set-Cookie: crumb=BXagRWGnYTBeNjIxZmEwM2Q4NzQyY2FmNzVjMDE3ZmQzODJmMzQz;Path=/

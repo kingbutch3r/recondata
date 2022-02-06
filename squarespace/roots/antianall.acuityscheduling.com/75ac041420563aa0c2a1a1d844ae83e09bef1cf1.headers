@@ -1,0 +1,15 @@
+GET https://antianall.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:18:01 GMT
+< Vary: Accept-Encoding,User-Agent
+< Set-Cookie: PHPSESSID=8vdl0an0aapef0l6iv91qj8orn; expires=Fri, 04-Mar-2022 00:18:00 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=6d5ad387-1887-4e24-81f7-bcecff15d939; expires=Fri, 02-Feb-2024 00:18:01 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8

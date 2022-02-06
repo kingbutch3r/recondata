@@ -1,0 +1,12 @@
+GET http://keeton-coffman-bm01.squarespace.com
+
+
+< HTTP/1.1 429 Too Many Requests
+< Server: Squarespace
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< Pragma: no-cache
+< Content-Type: text/html; charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:13:00 UTC
+< X-Contextid: X92zYoXh/2G8nkXxF
+< Cache-Control: no-cache, must-revalidate
+< Content-Length: 77576

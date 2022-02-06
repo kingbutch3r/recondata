@@ -1,0 +1,12 @@
+GET https://cdn.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Cache-Control: no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 01 Jan 1970 00:00:00 UTC
+< X-Contextid: LX05FADQ/71DLAWZt
+< Content-Length: 77562
+< Date: Wed, 02 Feb 2022 00:55:08 UTC
+< Pragma: no-cache
+< Server: Squarespace

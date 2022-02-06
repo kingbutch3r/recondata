@@ -1,0 +1,16 @@
+GET https://travelers-treasurers.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Set-Cookie: crumb=BdtWYlRLOyA4OTNkYjU4NDZiMmM5Mjg3Y2RlYTY1ODhiZmYxMzlk;Path=/
+< Vary: Accept-Encoding
+< X-Content-Type-Options: nosniff
+< X-Contextid: mXff6bWH/vr684kVY
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Content-Type: text/html;charset=utf-8
+< Strict-Transport-Security: max-age=0
+< Age: 0
+< Date: Wed, 02 Feb 2022 00:57:17 GMT
+< Etag: W/"d3fd496735ab0013bccf5afb20032399--gzip"
+< Server: Squarespace
+< Accept-Ranges: bytes

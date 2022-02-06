@@ -1,0 +1,12 @@
+GET http://amanda-boggs-p0s0.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:12:23 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BVfCNG+HnrhqMjc5NGU1YjczNTRmYTI4MTA0ZmIyNTY2MWRjY2Yy;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: I556TSKu/p4os81H5

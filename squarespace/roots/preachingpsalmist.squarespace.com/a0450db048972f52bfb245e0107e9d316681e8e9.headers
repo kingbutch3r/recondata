@@ -1,0 +1,11 @@
+GET http://preachingpsalmist.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BRxapjXdNwi8NjgwNTJlOWMwMmJlMjE5ZGIxNGYyMmViZmNmNzdi;Path=/
+< X-Contextid: B9FyfKMe/AwfgGBMJ
+< Age: 522007
+< Content-Length: 0
+< Date: Wed, 26 Jan 2022 23:55:05 GMT
+< Location: https://preachingpsalmist.squarespace.com/

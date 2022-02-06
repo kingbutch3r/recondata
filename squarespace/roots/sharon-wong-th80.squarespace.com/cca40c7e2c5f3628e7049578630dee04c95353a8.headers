@@ -1,0 +1,14 @@
+GET https://sharon-wong-th80.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< X-Contextid: gL367Stk/0t8OB6oG
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BWKW/tUzEbAJMDg0NmEzNDg3ZDIwOWM2OTYwM2M3OTg2OGE2ZGM4;Path=/
+< Date: Wed, 02 Feb 2022 00:49:58 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

@@ -1,0 +1,17 @@
+GET https://charlotterolfing.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Strict-Transport-Security: max-age=63072000; preload
+< Set-Cookie: PHPSESSID=3og4s4qvp8ssrsn9oiftk4qgpr; expires=Fri, 04-Mar-2022 00:09:15 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=b5c5db87-c5ba-4b5e-8243-e9e715b54a32; expires=Fri, 02-Feb-2024 00:09:16 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:09:16 GMT
+< Cache-Control: no-store, no-cache, must-revalidate
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

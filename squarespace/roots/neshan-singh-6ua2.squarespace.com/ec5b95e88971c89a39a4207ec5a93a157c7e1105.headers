@@ -1,0 +1,13 @@
+GET http://neshan-singh-6ua2.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< X-Content-Type-Options: nosniff
+< X-Contextid: RHsVX0kY/PnhIPyFx
+< Age: 0
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Set-Cookie: crumb=BfURUq/m0tiEOWMwOTJiYTZjZDU3MDk0YzBmMGVkY2YxZjYzZmU2;Path=/
+< Date: Wed, 02 Feb 2022 01:19:11 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace

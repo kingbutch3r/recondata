@@ -1,0 +1,17 @@
+GET https://kerryhanna.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Set-Cookie: PHPSESSID=6nfgch6rb6r2h1brko87o8hbnr; expires=Thu, 03-Mar-2022 23:55:26 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=985430df-a962-4e18-8f5e-7d9190c2fca6; expires=Thu, 01-Feb-2024 23:55:27 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:55:27 GMT
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Type: text/html; charset=UTF-8

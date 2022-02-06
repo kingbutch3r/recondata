@@ -1,0 +1,11 @@
+GET http://plive.upld.krisp.ai
+
+
+< HTTP/1.1 301 Moved Permanently
+< Cache-Control: max-age=3600
+< Vary: Accept-Encoding
+< Cf-Ray: 6d6ef6a06ebe2e4d-BOM
+< Expires: Wed, 02 Feb 2022 00:29:42 GMT
+< Location: https://plive.upld.krisp.ai/
+< Server: cloudflare
+< Date: Tue, 01 Feb 2022 23:29:42 GMT

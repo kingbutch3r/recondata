@@ -1,0 +1,16 @@
+GET https://adirondack-demo.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 543612
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Etag: W/"3b38451e5ae6097da32356bb9d52c9d6"
+< Strict-Transport-Security: max-age=0
+< X-Contextid: yxCPR0DN/sLetMz0W
+< Accept-Ranges: bytes
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 26 Jan 2022 18:22:17 GMT
+< Set-Cookie: crumb=BbuTCZAc3oLzOGIwNjlkODdkMGUyYWEzZjkyYzJhMzFlNGQ2ZTg1;Path=/
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding

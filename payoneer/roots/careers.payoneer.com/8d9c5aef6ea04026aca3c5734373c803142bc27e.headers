@@ -1,0 +1,10 @@
+GET http://careers.payoneer.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Type: text/html; charset=UTF-8
+< Referrer-Policy: no-referrer
+< Location: https://careers.payoneer.com/
+< Content-Length: 226
+< Date: Tue, 01 Feb 2022 23:25:45 GMT
+< Cache-Control: private

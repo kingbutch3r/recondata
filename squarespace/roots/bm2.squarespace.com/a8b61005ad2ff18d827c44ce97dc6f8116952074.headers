@@ -1,0 +1,9 @@
+GET http://bm2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Server: Squarespace
+< Set-Cookie: JSESSIONID=84FF1010FC0F9B239D33D665A0871D23.v5-web017; Path=/; HttpOnly
+< X-Contextid: nlF2tgLt/PxAsf845
+< Content-Type: text/html;charset=UTF-8
+< Date: Wed, 02 Feb 2022 01:21:54 GMT

@@ -1,0 +1,16 @@
+GET https://helix-grouse-wckw.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Accept-Ranges: bytes
+< Server: Squarespace
+< X-Content-Type-Options: nosniff
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< Date: Wed, 02 Feb 2022 00:58:13 GMT
+< Etag: W/"41412427398ae2449f73d841842092eb--gzip"
+< Set-Cookie: crumb=BUVPEUbMYhI+NWMwMjY5ZjBmYjkxNmUwNjQxY2E3NTgxZTc4NDRm;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: THAW3hKo/BpS8MnpN

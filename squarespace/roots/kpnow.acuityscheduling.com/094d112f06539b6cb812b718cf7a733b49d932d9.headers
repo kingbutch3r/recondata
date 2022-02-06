@@ -1,0 +1,17 @@
+GET https://kpnow.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Location: /schedule.php
+< Vary: User-Agent
+< Cache-Control: no-store, no-cache, must-revalidate
+< Set-Cookie: PHPSESSID=ev1b5nl3pgoi55fvnr01vhb3t3; expires=Fri, 04-Mar-2022 00:44:24 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=e2d937b9-f82d-477a-ab7a-bbb54864ea30; expires=Fri, 02-Feb-2024 00:44:25 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Length: 0
+< P3p: CP="CAO PSA OUR"
+< Date: Wed, 02 Feb 2022 00:44:25 GMT

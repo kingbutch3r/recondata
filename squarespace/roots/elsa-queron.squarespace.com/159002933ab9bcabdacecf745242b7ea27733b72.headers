@@ -1,0 +1,16 @@
+GET https://elsa-queron.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Date: Sat, 29 Jan 2022 13:41:08 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=Bdu4jOjdu7EmYTY4NDBjNGJkMzM4YWZhMmI2MWNiODg5YThjZDM5;Path=/
+< X-Contextid: GEd2BjQz/dhdxvBSd
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Vary: Accept-Encoding
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< Age: 295810
+< Etag: W/"b0397cd007442d77e3d33c6857b17cff--gzip"
+< Strict-Transport-Security: max-age=0

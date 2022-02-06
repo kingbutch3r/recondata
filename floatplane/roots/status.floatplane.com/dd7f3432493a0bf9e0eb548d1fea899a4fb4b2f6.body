@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="env" content="production">
+    <meta name="token" content="dM5kRBXJpOpxwBppUlNRDkyHp82sJTVX45r83UEe">
+
+    <!-- Mobile friendliness -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="description" content="Stay up to date with the latest service updates from Floatplane Radar.">
+
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Floatplane Radar">
+    <meta property="og:image" content=" https://status.floatplane.com/img/favicon.png">
+    <meta property="og:description" content="Stay up to date with the latest service updates from Floatplane Radar.">
+
+    <!-- Mobile IE allows us to activate ClearType technology for smoothing fonts for easy reading -->
+    <meta http-equiv="cleartype" content="on">
+
+    <meta name="msapplication-TileColor" content="#7ed321" />
+    <meta name="msapplication-TileImage" content="https://status.floatplane.com/img/favicon.png" />
+
+    <link href="https://status.floatplane.com" rel="canonical">
+
+        <link rel="icon" href="https://status.floatplane.com/img/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="https://status.floatplane.com/img/favicon.png" type="image/png">
+    
+    <link rel="apple-touch-icon" href="https://status.floatplane.com/img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="https://status.floatplane.com/img/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://status.floatplane.com/img/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://status.floatplane.com/img/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://status.floatplane.com/img/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://status.floatplane.com/img/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://status.floatplane.com/img/apple-touch-icon-152x152.png">
+
+    <title>Floatplane Radar</title>
+
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&amp;subset=latin" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://status.floatplane.com/dist/css/app.css?id=bb04d4c61e5b5d02a938 ">
+
+    <style type="text/css">
+body.status-page {
+    background-color: #eaedf1;
+    color: #333333;
+        padding-top: 0;
+    }
+p, strong { color: #333333 !important; }
+.reds { color: #ff6f6f !important; }
+.blues { color: #3498db !important; }
+.greens { color: #7ed321 !important; }
+.yellows { color: #f7ca18 !important; }
+.oranges { color: #ff8800 !important; }
+.greys { color: #888888 !important; }
+.metrics { color: #0dccc0 !important; }
+.links { color: #7ed321 !important; }
+
+/**
+ * Banner background
+ */
+.app-banner {
+    background-color: #2d4057 !important;
+}
+
+.app-banner-padding {
+    padding: 40px 0 !important;
+}
+
+/**
+ * Alert overrides.
+ */
+.alert {
+    background-color: #f7ca18;
+    border-color: #deb515;
+    color: white;
+}
+.alert.alert-success {
+    background-color: #7ed321;
+    border-color: #71bd1d;
+    color: white;
+}
+.alert.alert-info {
+    background-color: #3498db;
+    border-color: #2e88c5;
+    color: white;
+}
+.alert.alert-danger {
+    background-color: #ff6f6f;
+    border-color: #e56363;
+    color: white;
+}
+
+/**
+ * Button Overrides
+ */
+.btn.links {
+    color: #ac8d10;
+}
+.btn.btn-success {
+    background-color: #7ed321;
+    border-color: #71bd1d;
+    color: white;
+}
+.btn.btn-success.links {
+    color: #589317;
+}
+.btn.btn-success.btn-outline {
+    background-color: transparent;
+    border-color: #7ed321;
+    color: #7ed321;
+}
+.btn.btn-success.btn-outline:hover {
+    background-color: #7ed321;
+    border-color: #71bd1d;
+    color: white;
+}
+.btn.btn-info {
+    background-color: #3498db;
+    border-color: #2e88c5;
+    color: white;
+}
+.btn.btn-info.links {
+    color: #246a99;
+}
+.btn.btn-danger {
+    background-color: #ff6f6f;
+    border-color: #e56363;
+    color: white;
+}
+.btn.btn-danger.links {
+    color: #b24d4d;
+}
+
+/**
+ * Background fills Overrides
+ */
+.component {
+    background-color: #ffffff;
+    border-color: #e5e5e5;
+}
+.sub-component {
+    background-color: #ffffff;
+    border-color: #e5e5e5;
+}
+.incident {
+    background-color: #ffffff;
+    border-color: #e5e5e5;
+}
+.status-icon {
+    background-color: #ffffff;
+    border-color: #e5e5e5;
+}
+.panel.panel-message:before {
+    border-left-color: #ffffff !important;
+    border-right-color: #ffffff !important;
+}
+.panel.panel-message:after {
+    border-left-color: #ffffff !important;
+    border-right-color: #ffffff !important;
+}
+.footer a {
+    color: #333333;
+}
+</style>
+
+    
+        <style type="text/css">
+    .img-responsive {
+    margin: 0 auto;
+    width: 240px;
+}
+
+.app-banner-padding {
+     padding: 25px 0 !important;
+}
+    </style>
+    
+    <script type="text/javascript">
+        var Global = {};
+        var refreshRate = parseInt("60");
+
+        function refresh() {
+            window.location.reload(true);
+        }
+
+        if (refreshRate > 0) {
+            setTimeout(refresh, refreshRate * 1000);
+        }
+
+        Global.locale = 'en';
+    </script>
+    <script src="https://status.floatplane.com/dist/js/manifest.js?id=40dcfff9d09d402daf38"></script>
+    <script src="https://status.floatplane.com/dist/js/vendor.js?id=313e4cd2cf600307cb5c"></script>
+</head>
+<body class="status-page ">
+    
+    <div class="app-banner">
+    <div class="container">
+        <div class="row app-banner-padding  ">
+            <div class="col-md-12 text-center">
+                                <a href="https://status.floatplane.com" class="links"><img src="data:image/png;base64, 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" class="banner-image img-responsive"></a>
+                            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="container" id="app">
+        <div class="section-messages">
+    </div>
+<div class="section-status">
+    <div class="alert alert-success">All systems are operational</div>
+</div>
+<div class="section-components">
+    <ul class="list-group components">
+        <li class="list-group-item group-name">
+        <i class="ion-ios-plus-outline group-toggle"></i>
+        <strong>Apps</strong>
+
+        <div class="pull-right">
+            <i class="ion ion-ios-circle-filled text-component-1 greens" data-toggle="tooltip" title="Operational"></i>
+        </div>
+    </li>
+
+    <div class="group-items hide">
+        <li class="list-group-item sub-component">
+        Android App
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Tuesday 7th April 2020 11:06:53">Operational</small>
+    </div>
+</li>
+<li class="list-group-item sub-component">
+        IOS App
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Tuesday 7th April 2020 11:10:47">Operational</small>
+    </div>
+</li>
+    </div>
+    </ul>
+<ul class="list-group components">
+        <li class="list-group-item group-name">
+        <i class="ion-ios-plus-outline group-toggle"></i>
+        <strong>Video Streaming</strong>
+
+        <div class="pull-right">
+            <i class="ion ion-ios-circle-filled text-component-1 greens" data-toggle="tooltip" title="Operational"></i>
+        </div>
+    </li>
+
+    <div class="group-items hide">
+        <li class="list-group-item sub-component">
+        CDN
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Wednesday 7th October 2020 09:01:20">Operational</small>
+    </div>
+</li>
+<li class="list-group-item sub-component">
+        Transcoding
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Monday 22nd March 2021 11:06:20">Operational</small>
+    </div>
+</li>
+<li class="list-group-item sub-component">
+        Edge Servers
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Tuesday 7th April 2020 10:39:27">Operational</small>
+    </div>
+</li>
+<li class="list-group-item sub-component">
+        Origin Servers
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Tuesday 7th April 2020 10:39:27">Operational</small>
+    </div>
+</li>
+<li class="list-group-item sub-component">
+        Video Storage
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Tuesday 7th April 2020 11:05:08">Operational</small>
+    </div>
+</li>
+    </div>
+    </ul>
+<ul class="list-group components">
+        <li class="list-group-item group-name">
+        <i class="ion-ios-plus-outline group-toggle"></i>
+        <strong>Payments</strong>
+
+        <div class="pull-right">
+            <i class="ion ion-ios-circle-filled text-component-1 greens" data-toggle="tooltip" title="Operational"></i>
+        </div>
+    </li>
+
+    <div class="group-items hide">
+        <li class="list-group-item sub-component">
+        Payments Backend
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Friday 14th January 2022 11:19:16">Operational</small>
+    </div>
+</li>
+<li class="list-group-item sub-component">
+        Payments Service
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Tuesday 7th April 2020 10:59:16">Operational</small>
+    </div>
+</li>
+    </div>
+    </ul>
+<ul class="list-group components">
+        <li class="list-group-item group-name">
+        <i class="ion-ios-minus-outline group-toggle"></i>
+        <strong>floatplane website</strong>
+
+        <div class="pull-right">
+            <i class="ion ion-ios-circle-filled text-component-1 greens" data-toggle="tooltip" title="Operational"></i>
+        </div>
+    </li>
+
+    <div class="group-items ">
+        <li class="list-group-item sub-component">
+        floatplane.com
+    
+    
+    <div class="pull-right">
+        <small class="text-component-1 greens" data-toggle="tooltip" title="Last updated Wednesday 26th January 2022 08:41:44">Operational</small>
+    </div>
+</li>
+    </div>
+    </ul>
+
+</div>
+<div class="section-metrics">
+    </div>
+<div class="section-stickied">
+    <h1>Stickied Incidents</h1>
+        <h4>Friday 14th January 2022</h4>
+<div class="timeline">
+    <div class="content-wrapper">
+                <div class="moment first">
+            <div class="row event clearfix">
+                <div class="col-sm-1">
+                    <div class="status-icon status-Fixed" data-toggle="tooltip" title="Fixed" data-placement="left">
+                        <i class="icon ion-checkmark greens"></i>
+                    </div>
+                </div>
+                <div class="col-xs-10 col-xs-offset-2 col-sm-11 col-sm-offset-0">
+                    <div class="panel panel-message incident">
+                        <div class="panel-heading">
+                                                                                    <span class="label label-default">Payments Backend</span>
+                                                        <strong>Website outage</strong>
+                            <br>
+                            <small class="date">
+                                <a href="https://status.floatplane.com/incidents/1900" class="links"><abbr class="timeago" data-toggle="tooltip" data-placement="right" title="Friday 14th January 2022 10:53:00" data-timeago="2022-01-14T10:53:00-08:00"></abbr></a>
+                            </small>
+                        </div>
+                        <div class="panel-body markdown-body">
+                            <p><strong>Update:</strong> Resolved after ~22 minutes of outage. We apologise for the inconvenience. Many thanks for your patience!</p>
+<hr />
+<p><strong>Previous error text:</strong>
+
+Intercommunication between internal Floatplane services is currently failing. This issue is actively being investigated.</p>
+
+                        </div>
+                                            </div>
+
+                </div>
+            </div>
+        </div>
+            </div>
+</div>
+    </div>
+<div class="section-timeline">
+    <h1>Past Incidents</h1>
+    </div>
+
+<nav>
+    <ul class="pager">
+                    </ul>
+</nav>
+    </div>
+
+    <footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                            </div>
+            <div class="col-sm-8">
+                <ul class="list-inline">
+                                                                            </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-121830769-2', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+<script src="https://status.floatplane.com/dist/js/all.js?id=eb6400680943aee8df85"></script>
+</html>

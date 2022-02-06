@@ -1,0 +1,15 @@
+GET https://david-bowers-ik60.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< Content-Length: 3208
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< Date: Wed, 02 Feb 2022 00:49:54 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=Bc9PltwZ13UzYWJmYWQyMWM1ZWNhNzRkZjE3ZWEyOWM3NGFlYWFj;Path=/
+< X-Content-Type-Options: nosniff
+< X-Contextid: WESwsTGx/9EAqGFV9

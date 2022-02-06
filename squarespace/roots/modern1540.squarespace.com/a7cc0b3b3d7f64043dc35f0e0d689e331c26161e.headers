@@ -1,0 +1,17 @@
+GET https://modern1540.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 97423
+< Etag: W/"506b06c5a9ebc3c573c21eb516b5060e"
+< Set-Cookie: crumb=BdVJqwyb5XDHMDY0ZWQ3NmNiMzA0MGVhMzZjMzEyYjEzMjQ2ZTkx;Path=/
+< Vary: Accept-Encoding
+< Date: Mon, 31 Jan 2022 21:56:03 GMT
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Mon, 31 Jan 2022 21:56:03 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< Content-Type: text/html;charset=utf-8
+< X-Content-Type-Options: nosniff
+< Accept-Ranges: bytes
+< X-Contextid: dJgmOenH/9NWzrwuE

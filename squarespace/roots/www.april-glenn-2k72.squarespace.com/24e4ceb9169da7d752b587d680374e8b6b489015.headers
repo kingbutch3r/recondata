@@ -1,0 +1,11 @@
+GET https://www.april-glenn-2k72.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:51:50 GMT
+< Location: https://april-glenn-2k72.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BVC0WNcOuWTcOTMzNjZjYTBhYjY4NjRiMjkzNTNhNjE3NTlhMzAx;Path=/
+< X-Contextid: Bf1RmJzi/aco3Sggo

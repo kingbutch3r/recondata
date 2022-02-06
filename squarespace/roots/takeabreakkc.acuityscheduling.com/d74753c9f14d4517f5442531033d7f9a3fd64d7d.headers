@@ -1,0 +1,17 @@
+GET https://takeabreakkc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Content-Length: 0
+< Vary: User-Agent
+< Date: Tue, 01 Feb 2022 23:57:43 GMT
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< X-Content-Type-Options: nosniff
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=5fbjoob6au7hhvs2oi0iq3mruq; expires=Thu, 03-Mar-2022 23:57:42 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=86126169-4368-4f76-92d4-5709e1a86e7f; expires=Thu, 01-Feb-2024 23:57:43 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Strict-Transport-Security: max-age=63072000; preload

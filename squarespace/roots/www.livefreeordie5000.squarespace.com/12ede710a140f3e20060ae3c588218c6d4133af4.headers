@@ -1,0 +1,11 @@
+GET https://www.livefreeordie5000.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://livefreeordie5000.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BX0/MkHX8+DmMzFhZTU0NzAzMzkxMmZkMjdhYzJjNTE0MDA2MGZk;Path=/
+< X-Contextid: luRAfadt/9Wfw5BPO
+< Age: 0
+< Content-Length: 0
+< Date: Wed, 02 Feb 2022 00:56:26 GMT

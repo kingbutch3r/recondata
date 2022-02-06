@@ -1,0 +1,15 @@
+GET https://dsunursing.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< Date: Wed, 02 Feb 2022 00:11:59 GMT
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< P3p: CP="CAO PSA OUR"
+< Set-Cookie: PHPSESSID=qic61i2j85omp46gnu83u97j69; expires=Fri, 04-Mar-2022 00:11:58 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=eba48106-d2b2-4dce-b1c1-045bbcc534d2; expires=Fri, 02-Feb-2024 00:11:59 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Content-Type: text/html; charset=UTF-8
+< Pragma: no-cache
+< Cache-Control: no-store, no-cache, must-revalidate

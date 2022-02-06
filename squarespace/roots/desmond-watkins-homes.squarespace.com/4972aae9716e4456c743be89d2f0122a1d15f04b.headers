@@ -1,0 +1,11 @@
+GET http://desmond-watkins-homes.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Location: https://desmond-watkins-homes.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BSPIPwtV9DRuMGQ3NmQwNzI3ZjJjZmQ5ZGM3ZjcyYmJjYjU5MjJh;Path=/
+< X-Contextid: aaS9grag/Uuqcw1D4
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:24:33 GMT

@@ -1,0 +1,17 @@
+GET https://carabaileystudios.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Pragma: no-cache
+< Date: Wed, 02 Feb 2022 00:36:37 GMT
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=03qo96lgd2uk0t2ololcjhfqv7; expires=Fri, 04-Mar-2022 00:36:36 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=df85f95f-dfdd-4e72-a4ff-76b9ac9b46a3; expires=Fri, 02-Feb-2024 00:36:37 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Vary: User-Agent
+< X-Content-Type-Options: nosniff

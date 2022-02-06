@@ -1,0 +1,11 @@
+GET http://copper-sealion-cbh2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Set-Cookie: crumb=BdzV7/iLy9hsMGEzY2QwNWZkOTJiNTg2MTllNGMwZTZiNGIzYmNk;Path=/
+< X-Contextid: xumdfaUX/1utoGXm5
+< Age: 451491
+< Content-Length: 0
+< Date: Thu, 27 Jan 2022 19:27:38 GMT
+< Location: https://copper-sealion-cbh2.squarespace.com/
+< Server: Squarespace

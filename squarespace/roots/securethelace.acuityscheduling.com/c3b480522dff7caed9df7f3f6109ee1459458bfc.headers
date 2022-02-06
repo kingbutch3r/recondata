@@ -1,0 +1,17 @@
+GET https://securethelace.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< P3p: CP="CAO PSA OUR"
+< Vary: User-Agent
+< Date: Wed, 02 Feb 2022 00:53:36 GMT
+< Content-Length: 0
+< Strict-Transport-Security: max-age=63072000; preload
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Location: /schedule.php
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Set-Cookie: PHPSESSID=q93750p89as6v58s9crh3rcpc2; expires=Fri, 04-Mar-2022 00:53:35 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=ececce2c-bcb9-463d-880e-9e85f9d9e17d; expires=Fri, 02-Feb-2024 00:53:36 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure

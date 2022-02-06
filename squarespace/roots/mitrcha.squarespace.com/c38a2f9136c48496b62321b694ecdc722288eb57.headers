@@ -1,0 +1,10 @@
+GET http://mitrcha.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Server: Squarespace
+< Set-Cookie: crumb=BRNcc3Rb7oRQZWFkYmQzYWIxODZiZWEwZGUxMjI0MzAwNjU2ZGVk;Path=/
+< X-Contextid: rnmb2eXy/VzInVgIL
+< Age: 0
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:39 GMT

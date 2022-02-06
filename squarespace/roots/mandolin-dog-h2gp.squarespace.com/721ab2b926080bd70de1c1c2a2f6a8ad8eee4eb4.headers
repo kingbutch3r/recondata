@@ -1,0 +1,16 @@
+GET https://mandolin-dog-h2gp.squarespace.com
+
+
+< HTTP/1.1 401 Unauthorized
+< Content-Type: text/html;charset=utf-8
+< Server: Squarespace
+< Date: Wed, 02 Feb 2022 00:57:58 GMT
+< Etag: W/"1e2138afa8e66f7b3e2d20aef03ea35a"
+< Strict-Transport-Security: max-age=43200
+< X-Content-Type-Options: nosniff
+< X-Frame-Options: SAMEORIGIN
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Set-Cookie: crumb=BVBsUkJSgbnVZTYxYjZjYzVlNDBjYzE4OGFjODExNTZkODBkODY2;Path=/
+< Age: 0
+< Cache-Control: max-age=300, s-maxage=300
+< X-Contextid: siPU4lkU/08RWxQbw

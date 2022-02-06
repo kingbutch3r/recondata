@@ -1,0 +1,11 @@
+GET http://parrotfish-mackerel-gkd2.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Server: Squarespace
+< Set-Cookie: crumb=BUmRUUWnZL9VZWY2MzQ0NDlhNWI2ZTZmZjJkMmE0YTY2Y2JkZDI0;Path=/
+< X-Contextid: rXChSTfV/ywvnUFCr
+< Content-Length: 0
+< Age: 0
+< Date: Wed, 02 Feb 2022 01:19:47 GMT
+< Location: https://parrotfish-mackerel-gkd2.squarespace.com/

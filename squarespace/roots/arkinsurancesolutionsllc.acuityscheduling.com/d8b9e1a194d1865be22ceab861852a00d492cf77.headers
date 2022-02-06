@@ -1,0 +1,17 @@
+GET https://arkinsurancesolutionsllc.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< P3p: CP="CAO PSA OUR"
+< Location: /schedule.php
+< Content-Type: text/html; charset=UTF-8
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=35ssi58gqafhulc4hl17jcjub6; expires=Thu, 03-Mar-2022 23:58:11 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=8b922917-8cae-4b74-bd39-b9c041945b8a; expires=Thu, 01-Feb-2024 23:58:12 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Date: Tue, 01 Feb 2022 23:58:12 GMT
+< Vary: User-Agent
+< Strict-Transport-Security: max-age=63072000; preload
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT

@@ -1,0 +1,15 @@
+GET https://footprintsschedule.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Content-Type: text/html; charset=UTF-8
+< P3p: CP="CAO PSA OUR"
+< Vary: Accept-Encoding,User-Agent
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=1h9v750519e1q3oo2a3qpb7b48; expires=Fri, 04-Mar-2022 00:04:54 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=d33c5340-2566-484d-bd86-b11d33e25c70; expires=Fri, 02-Feb-2024 00:04:55 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Cache-Control: no-store, no-cache, must-revalidate
+< X-Content-Type-Options: nosniff
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:04:55 GMT

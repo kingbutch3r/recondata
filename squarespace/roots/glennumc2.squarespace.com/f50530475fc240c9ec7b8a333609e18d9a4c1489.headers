@@ -1,0 +1,17 @@
+GET https://glennumc2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< X-Content-Type-Options: nosniff
+< X-Contextid: TqjO6r3G/NS0Ydapj
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Last-Modified: Tue, 01 Feb 2022 02:13:40 GMT
+< Server: Squarespace
+< Set-Cookie: crumb=BerrEpPtMrSOODM5OTRmMTVmMmMzNGU0ODM0MTI1OGFlMzYwOTQ2;Path=/
+< Vary: Accept-Encoding
+< Strict-Transport-Security: max-age=43200
+< Age: 81512
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 02:13:40 GMT
+< Etag: W/"ccac6c0587805b84b6cb3c486b737825"

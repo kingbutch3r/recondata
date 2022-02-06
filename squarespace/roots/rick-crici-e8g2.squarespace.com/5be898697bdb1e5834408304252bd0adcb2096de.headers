@@ -1,0 +1,17 @@
+GET https://rick-crici-e8g2.squarespace.com
+
+
+< HTTP/1.1 200 OK
+< Age: 361713
+< Last-Modified: Fri, 28 Jan 2022 20:51:57 GMT
+< Set-Cookie: crumb=BeXdiTz7ETZUZjZmOTRjZTZkOGFhYTY2YzkxZjZjMzUzZDQwYmVk;Path=/
+< Vary: Accept-Encoding
+< X-Contextid: tK69kQz1/pOufqmOQ
+< Accept-Ranges: bytes
+< Etag: W/"52bfcbf09a07283d0d927a633b24f203"
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Strict-Transport-Security: max-age=0
+< X-Content-Type-Options: nosniff
+< Server: Squarespace
+< Content-Type: text/html;charset=utf-8
+< Date: Fri, 28 Jan 2022 20:51:57 GMT

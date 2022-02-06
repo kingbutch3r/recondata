@@ -1,0 +1,14 @@
+GET https://mymusictaste.squarespace.com
+
+
+< HTTP/1.1 404 Not Found
+< Expires: Thu, 01 Jan 1970 00:00:00 GMT
+< Server: Squarespace
+< Strict-Transport-Security: max-age=0
+< X-Contextid: MfR7973G/hUsrUVfl
+< Content-Length: 3208
+< Content-Type: text/html;charset=utf-8
+< Date: Tue, 01 Feb 2022 23:50:07 GMT
+< Set-Cookie: crumb=BQj+nt5rZ8IRNGIyN2UyZTdhZjdmNjE3NmU0ZjFjNTlmMDBjOGU0;Path=/
+< X-Content-Type-Options: nosniff
+< Age: 0

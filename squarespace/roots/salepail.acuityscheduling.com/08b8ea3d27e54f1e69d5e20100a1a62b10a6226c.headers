@@ -1,0 +1,15 @@
+GET https://salepail.acuityscheduling.com
+
+
+< HTTP/1.1 404 Not Found
+< Content-Type: text/html; charset=UTF-8
+< Cache-Control: no-store, no-cache, must-revalidate
+< Pragma: no-cache
+< Set-Cookie: PHPSESSID=mp50sj296j4og3hvcn1klf0cil; expires=Fri, 04-Mar-2022 00:17:38 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=a8611452-bf7d-4eed-bb6f-0fe0e063ff9c; expires=Fri, 02-Feb-2024 00:17:39 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< X-Content-Type-Options: nosniff
+< Date: Wed, 02 Feb 2022 00:17:39 GMT
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Vary: Accept-Encoding,User-Agent
+< P3p: CP="CAO PSA OUR"
+< Strict-Transport-Security: max-age=63072000; preload

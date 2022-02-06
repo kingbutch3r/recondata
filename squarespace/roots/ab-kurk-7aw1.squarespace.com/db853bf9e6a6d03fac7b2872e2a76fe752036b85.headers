@@ -1,0 +1,11 @@
+GET http://ab-kurk-7aw1.squarespace.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Age: 419972
+< Content-Length: 0
+< Date: Fri, 28 Jan 2022 04:11:37 GMT
+< Location: https://ab-kurk-7aw1.squarespace.com/
+< Server: Squarespace
+< Set-Cookie: crumb=BbRL+dMYj+I6ZDVjZmIzN2E2N2UyZDZlZmY2NDhiNDcwNjE4NDIz;Path=/
+< X-Contextid: 70ftn957/CYSyOn5x

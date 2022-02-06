@@ -1,0 +1,17 @@
+GET https://marlandapexhypnosis.acuityscheduling.com
+
+
+< HTTP/1.1 302 Found
+< Strict-Transport-Security: max-age=63072000; preload
+< Date: Wed, 02 Feb 2022 00:34:17 GMT
+< Content-Length: 0
+< Set-Cookie: PHPSESSID=hopt74aqla6ko5n53qselk5kgt; expires=Fri, 04-Mar-2022 00:34:16 GMT; Max-Age=2591999; path=/; secure; HttpOnly
+< Set-Cookie: device_id=cbd0747e-20b8-4374-a803-f0ce1178d7e5; expires=Fri, 02-Feb-2024 00:34:17 GMT; Max-Age=63072000; domain=acuityscheduling.com; secure
+< Pragma: no-cache
+< X-Content-Type-Options: nosniff
+< Content-Type: text/html; charset=UTF-8
+< Expires: Thu, 19 Nov 1981 08:52:00 GMT
+< Location: /schedule.php
+< P3p: CP="CAO PSA OUR"
+< Cache-Control: no-store, no-cache, must-revalidate
+< Vary: User-Agent

@@ -1,0 +1,15 @@
+GET https://go.payoneer.com
+
+
+< HTTP/1.1 302 Found
+< Date: Tue, 01 Feb 2022 23:25:46 GMT
+< Content-Type: text/html; charset=UTF-8
+< Location: http://www.payoneer.com
+< Set-Cookie: BIGipServersjiweb-nginx-app_https=!gxHoUS1U/L1X7f2PurFYsUVmfdh2KO3oC21bVA/VI1OYSzwOC+cpKFa+aJUjGbIATKzFdNmbHj6XbLU=;Path=/;Version=1;Secure;Httponly
+< Set-Cookie: __cf_bm=n9iN4BLPx_0dabXCB4vJXIvg35BHGIxKVnsktQwkZvQ-1643757946-0-AXMJeX6bW8KmNJSu1NuClPPN7QsYf9FEoOrlXwRQG0uxC2eFaInihcA4ZM+sWm7byH0+wXcjx4a+uhCzfj7sII0=; path=/; expires=Tue, 01-Feb-22 23:55:46 GMT; domain=.go.payoneer.com; HttpOnly; Secure; SameSite=None
+< X-Content-Type-Options: nosniff
+< Vary: Accept-Encoding
+< Cf-Cache-Status: DYNAMIC
+< Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+< Server: cloudflare
+< Cf-Ray: 6d6ef0d3cab18599-BOM

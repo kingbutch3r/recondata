@@ -1,0 +1,13 @@
+GET https://jobs.harrys.com
+
+
+< HTTP/1.1 301 Moved Permanently
+< Content-Length: 0
+< Date: Sat, 29 Jan 2022 17:39:11 GMT
+< X-Amz-Cf-Id: -bcy8f1R1wyHVei-rwZ6FHo2qxwzMmTELe-uJbL2BLF8PwsU5maEnQ==
+< X-Cache: Hit from cloudfront
+< Via: 1.1 ed9908577fd6427c647d93076edebd26.cloudfront.net (CloudFront)
+< X-Amz-Cf-Pop: SIN5-C1
+< Age: 21
+< Location: https://boards.greenhouse.io/harrys/
+< Server: AmazonS3
